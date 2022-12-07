@@ -1423,6 +1423,7 @@
 
 ## Others 
 
+- [falcucci/awesome-stars](https://github.com/falcucci/awesome-stars) - A curated list of my GitHub stars!
 - [nnethercote/perf-book](https://github.com/nnethercote/perf-book) - The Rust Performance Book
 - [wfxr/awesome-stars](https://github.com/wfxr/awesome-stars) - A curated list of my GitHub stars!
 - [donbright/rust-lang-cheat-sheet](https://github.com/donbright/rust-lang-cheat-sheet) - cheat sheet for rust language
