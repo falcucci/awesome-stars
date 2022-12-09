@@ -1600,6 +1600,7 @@
 
 ## Python 
 
+- [NicolasLM/spinach](https://github.com/NicolasLM/spinach) - Modern Redis task queue for Python 3
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [python-excel/xlrd](https://github.com/python-excel/xlrd) - Please use openpyxl where you can...
 - [pandas-dev/pandas](https://github.com/pandas-dev/pandas) - Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more
@@ -1767,6 +1768,11 @@
 
 ## Rust 
 
+- [nagisa/msi-rgb](https://github.com/nagisa/msi-rgb) - Linux utility for controlling RGB header on select MSI motherboards
+- [NicolasLM/nucleon](https://github.com/NicolasLM/nucleon) - Dynamic load balancer written in Rust
+- [alexliesenfeld/httpmock](https://github.com/alexliesenfeld/httpmock) - HTTP mocking library for Rust.
+- [LukeMathWalker/wiremock-rs](https://github.com/LukeMathWalker/wiremock-rs) - HTTP mocking to test Rust applications.
+- [evilsocket/jscythe](https://github.com/evilsocket/jscythe) - Abuse the node.js inspector mechanism in order to force any node.js/electron/v8 based process to execute arbitrary javascript code.
 - [coastalwhite/lemurs](https://github.com/coastalwhite/lemurs) - A customizable TUI display/login manager written in Rust 🐒
 - [ia0/data-encoding](https://github.com/ia0/data-encoding) - Efficient and customizable data-encoding functions in Rust
 - [alex/csv-sql](https://github.com/alex/csv-sql) - Query your CSV files with SQL
