@@ -135,6 +135,7 @@
 
 ## C++ 
 
+- [mawww/kakoune](https://github.com/mawww/kakoune) - mawww's experiment for a better code editor
 - [sqlitebrowser/sqlitebrowser](https://github.com/sqlitebrowser/sqlitebrowser) - Official home of the DB Browser for SQLite (DB4S) project. Previously known as "SQLite Database Browser" and "Database Browser for SQLite". Website at:
 - [neetcode-gh/leetcode](https://github.com/neetcode-gh/leetcode) - Leetcode solutions
 - [sonic-pi-net/sonic-pi](https://github.com/sonic-pi-net/sonic-pi) - Code. Music. Live.
@@ -1769,6 +1770,9 @@
 
 ## Rust 
 
+- [apollographql/router](https://github.com/apollographql/router) - A configurable, high-performance routing runtime for Apollo Federation 🚀
+- [devongovett/dprint-node](https://github.com/devongovett/dprint-node) - A node API for the dprint TypeScript and JavaScript code formatter
+- [sonnylazuardi/chatgpt-desktop](https://github.com/sonnylazuardi/chatgpt-desktop) - OpenAI ChatGPT desktop app for Mac, Windows, & Linux menubar using Tauri & Rust
 - [dtolnay/ryu](https://github.com/dtolnay/ryu) - Fast floating point to string conversion
 - [martinber/noaa-apt](https://github.com/martinber/noaa-apt) - NOAA APT weather satellite image decoder, for Linux, Windows, RPi 2+, OSX and Android+Termux
 - [ratel-rust/ratel-core](https://github.com/ratel-rust/ratel-core) - High performance JavaScript to JavaScript compiler with a Rust core
