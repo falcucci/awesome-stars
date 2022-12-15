@@ -1426,6 +1426,7 @@
 
 ## Others 
 
+- [mozilla/geckodriver](https://github.com/mozilla/geckodriver) - WebDriver for Firefox
 - [falcucci/awesome-stars](https://github.com/falcucci/awesome-stars) - A curated list of my GitHub stars!
 - [nnethercote/perf-book](https://github.com/nnethercote/perf-book) - The Rust Performance Book
 - [wfxr/awesome-stars](https://github.com/wfxr/awesome-stars) - A curated list of my GitHub stars!
@@ -1602,6 +1603,7 @@
 
 ## Python 
 
+- [pberkes/big_O](https://github.com/pberkes/big_O) - Python module to estimate big-O time complexity from execution time
 - [NicolasLM/spinach](https://github.com/NicolasLM/spinach) - Modern Redis task queue for Python 3
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [python-excel/xlrd](https://github.com/python-excel/xlrd) - Please use openpyxl where you can...
@@ -1770,6 +1772,11 @@
 
 ## Rust 
 
+- [steadylearner/Rust-Full-Stack](https://github.com/steadylearner/Rust-Full-Stack) - Rust projects here are easy to use. There are blog posts for them also.
+- [rossmacarthur/complexity](https://github.com/rossmacarthur/complexity) - Calculate cognitive complexity of Rust code
+- [ekzhang/bore](https://github.com/ekzhang/bore) - 🕳 bore is a simple CLI tool for making tunnels to localhost
+- [o2sh/onefetch](https://github.com/o2sh/onefetch) - Command-line Git information tool
+- [hyperium/tonic](https://github.com/hyperium/tonic) - A native gRPC client & server implementation with async/await support.
 - [emilk/egui](https://github.com/emilk/egui) - egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native
 - [denisidoro/navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
 - [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust
