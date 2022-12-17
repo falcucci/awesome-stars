@@ -90,7 +90,7 @@
 - [TelegramMessenger/Telegram-iOS](https://github.com/TelegramMessenger/Telegram-iOS) - Telegram-iOS
 - [cardano-foundation/ledger-app-cardano](https://github.com/cardano-foundation/ledger-app-cardano) - Cardano Ledger App for Ledger Nano S
 - [edenhill/kcat](https://github.com/edenhill/kcat) - Generic command line non-JVM Apache Kafka producer and consumer
-- [edenhill/librdkafka](https://github.com/edenhill/librdkafka) - The Apache Kafka C/C++ library
+- [confluentinc/librdkafka](https://github.com/confluentinc/librdkafka) - The Apache Kafka C/C++ library
 - [vysheng/tg](https://github.com/vysheng/tg) - telegram-cli
 - [audacity/audacity](https://github.com/audacity/audacity) - Audio Editor
 - [jarun/nnn](https://github.com/jarun/nnn) - n³ The unorthodox terminal file manager
@@ -1331,7 +1331,7 @@
 - [Javascipt/node-youtube](https://github.com/Javascipt/node-youtube) - :movie_camera: Youtube to snapshots and GIFs.
 - [Javascipt/Jsome](https://github.com/Javascipt/Jsome) - :sparkles: Make your JSON look AWESOME
 - [vitaly-t/pg-promise](https://github.com/vitaly-t/pg-promise) - PostgreSQL interface for Node.js
-- [rollbar/rollbar.js](https://github.com/rollbar/rollbar.js) - Error tracking and logging from JS to Rollbar
+- [rollbar/rollbar.js](https://github.com/rollbar/rollbar.js) - Error tracking and logging from Javascript to Rollbar
 - [rollbar/node_rollbar](https://github.com/rollbar/node_rollbar) - DEPRECATED - please use rollbar.js
 - [joeferner/redis-commander](https://github.com/joeferner/redis-commander) - Redis management tool written in node.js
 - [luin/medis](https://github.com/luin/medis) - 💻 Medis is a beautiful, easy-to-use Mac database management application for Redis.
@@ -1661,7 +1661,7 @@
 - [craigemery/vim-autotag](https://github.com/craigemery/vim-autotag) - Automatically discover and "properly" update ctags files on save
 - [Shougo/denite.nvim](https://github.com/Shougo/denite.nvim) - :dragon: Dark powered asynchronous unite all interfaces for Neovim/Vim8
 - [alanhamlett/readtime](https://github.com/alanhamlett/readtime) - Calculates the time some text takes the average human to read, based on Medium's read time forumula.
-- [alexgorbatchev/node-crc](https://github.com/alexgorbatchev/node-crc) - Blazingly fast CRC implementations for node.js and browser
+- [alexgorbatchev/crc](https://github.com/alexgorbatchev/crc) - Blazingly fast CRC implementations for node.js and browser
 - [laixintao/pingtop](https://github.com/laixintao/pingtop) - 🏓Ping multiple servers and show results in a top-like terminal UI.
 - [merrychap/shellen](https://github.com/merrychap/shellen) - :cherry_blossom: Interactive shellcoding environment to easily craft shellcodes
 - [gautamkrishnar/socli](https://github.com/gautamkrishnar/socli) - Stack overflow command line client. Search and browse stack overflow without leaving the terminal :computer:
