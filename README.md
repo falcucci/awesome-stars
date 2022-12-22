@@ -1772,6 +1772,8 @@
 
 ## Rust 
 
+- [sdegetaus/hackerrank-challenges-rust](https://github.com/sdegetaus/hackerrank-challenges-rust) - Hackerrank challenges solved with the Rust Programming Language.
+- [zertyz/big-O](https://github.com/zertyz/big-O) - Enforces a maximum `space` and `time` Algorithm Complexity when testing Rust programs
 - [steadylearner/Rust-Full-Stack](https://github.com/steadylearner/Rust-Full-Stack) - Rust projects here are easy to use. There are blog posts for them also.
 - [rossmacarthur/complexity](https://github.com/rossmacarthur/complexity) - Calculate cognitive complexity of Rust code
 - [ekzhang/bore](https://github.com/ekzhang/bore) - 🕳 bore is a simple CLI tool for making tunnels to localhost
