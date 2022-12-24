@@ -249,6 +249,8 @@
 
 ## Go 
 
+- [kiteco/kiteco-public](https://github.com/kiteco/kiteco-public) - Primary Kite repo — private bits replaced with XXXXXXX
+- [m1guelpf/chatgpt-telegram](https://github.com/m1guelpf/chatgpt-telegram) - Run your own GPTChat Telegram bot, with a single command!
 - [vercel/go-bridge](https://github.com/vercel/go-bridge) - Bridge for `@vercel/go`
 - [cointop-sh/cointop](https://github.com/cointop-sh/cointop) - A fast and lightweight interactive terminal based UI application for tracking cryptocurrencies 🚀
 - [cswank/kcli](https://github.com/cswank/kcli) - A kafka command line browser
@@ -516,6 +518,7 @@
 
 ## HTML 
 
+- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT promt curation to use ChatGPT better.
 - [wzulfikar/vercel-runtimes](https://github.com/wzulfikar/vercel-runtimes) - Code examples for different Vercel runtimes.
 - [snotra-org/hasura-parser](https://github.com/snotra-org/hasura-parser) - :zap: Parse Hasura actions and events with ease in JS/TS projects.
 - [excalidraw/excalidraw-analytics](https://github.com/excalidraw/excalidraw-analytics) - 
@@ -855,7 +858,7 @@
 - [klaudiosinani/taskbook](https://github.com/klaudiosinani/taskbook) - Tasks, boards & notes for the command-line habitat
 - [mde/ejs](https://github.com/mde/ejs) - Embedded JavaScript templates -- http://ejs.co
 - [bomanimc/gitrocket](https://github.com/bomanimc/gitrocket) - A rocket ship that launches in your Hyper terminal when you push code with Git.
-- [spicetify/spicetify-cli](https://github.com/spicetify/spicetify-cli) - Commandline tool to customize Spotify client. Supports Windows, MacOS and Linux.
+- [spicetify/spicetify-cli](https://github.com/spicetify/spicetify-cli) - Command-line tool to customize Spotify client. Supports Windows, MacOS, and Linux.
 - [falcucci/changelog-it](https://github.com/falcucci/changelog-it) - Generates a changelog by matching git commits to Jira tickets (SwiftKanban in the future).
 - [kiwicom/refined-gitlab](https://github.com/kiwicom/refined-gitlab) - 🛠 WIP 🛠 Chrome extension that enhances GitLab
 - [stasgavrylov/lazy-reviewer](https://github.com/stasgavrylov/lazy-reviewer) - Google Chrome extension that adds the display of pull request diffs to global PR section on GitHub/GitLab.
@@ -1603,6 +1606,8 @@
 
 ## Python 
 
+- [terror/chatgpt.nvim](https://github.com/terror/chatgpt.nvim) - Query ChatGPT in Neovim
+- [Methexis-Inc/terminal-copilot](https://github.com/Methexis-Inc/terminal-copilot) - A smart terminal assistant that helps you find the right command.
 - [pberkes/big_O](https://github.com/pberkes/big_O) - Python module to estimate big-O time complexity from execution time
 - [NicolasLM/spinach](https://github.com/NicolasLM/spinach) - Modern Redis task queue for Python 3
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
@@ -1772,6 +1777,9 @@
 
 ## Rust 
 
+- [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🤖 ChatGPT Desktop Application (Mac, Windows and Linux)
+- [m1guelpf/auto-commit](https://github.com/m1guelpf/auto-commit) - A CLI tool that automatically writes commit messages for you.
+- [m1guelpf/plz-cli](https://github.com/m1guelpf/plz-cli) - Copilot for your terminal
 - [sdegetaus/hackerrank-challenges-rust](https://github.com/sdegetaus/hackerrank-challenges-rust) - Hackerrank challenges solved with the Rust Programming Language.
 - [zertyz/big-O](https://github.com/zertyz/big-O) - Enforces a maximum `space` and `time` Algorithm Complexity when testing Rust programs
 - [steadylearner/Rust-Full-Stack](https://github.com/steadylearner/Rust-Full-Stack) - Rust projects here are easy to use. There are blog posts for them also.
@@ -1803,7 +1811,7 @@
 - [coastalwhite/lemurs](https://github.com/coastalwhite/lemurs) - A customizable TUI display/login manager written in Rust 🐒
 - [ia0/data-encoding](https://github.com/ia0/data-encoding) - Efficient and customizable data-encoding functions in Rust
 - [alex/csv-sql](https://github.com/alex/csv-sql) - Query your CSV files with SQL
-- [falcucci/rust-in-practice](https://github.com/falcucci/rust-in-practice) - A bunch of exercises to lean Rust properly.
+- [falcucci/rust-in-practice](https://github.com/falcucci/rust-in-practice) - A bunch of exercises to learn Rust properly.
 - [rust-lang/rustfix](https://github.com/rust-lang/rustfix) - Automatically apply the suggestions made by rustc
 - [assert-rs/assert_cmd](https://github.com/assert-rs/assert_cmd) - Assert process::Command - Easy command initialization and assertions
 - [clap-rs/clap](https://github.com/clap-rs/clap) - A full featured, fast Command Line Argument Parser for Rust
@@ -2256,6 +2264,8 @@
 
 ## Vim Script 
 
+- [tpope/vim-speeddating](https://github.com/tpope/vim-speeddating) - speeddating.vim: use CTRL-A/CTRL-X to increment dates, times, and more
+- [github/copilot.vim](https://github.com/github/copilot.vim) - Neovim plugin for GitHub Copilot
 - [junegunn/fzf.vim](https://github.com/junegunn/fzf.vim) - fzf :heart: vim
 - [rhysd/rust-doc.vim](https://github.com/rhysd/rust-doc.vim) - Search Rust documents and open with browser from Vim.
 - [wfxr/minimap.vim](https://github.com/wfxr/minimap.vim) - 📡 Blazing fast minimap / scrollbar for vim, powered by code-minimap written in Rust.
