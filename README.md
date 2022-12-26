@@ -650,6 +650,7 @@
 
 ## JavaScript 
 
+- [vincelwt/chatgpt-mac](https://github.com/vincelwt/chatgpt-mac) - ChatGPT for Mac, living in your menubar.
 - [falcucci/plugin-run](https://github.com/falcucci/plugin-run) - Nodejs project to manage ETL scripts.
 - [fregante/GhostText](https://github.com/fregante/GhostText) - 👻 Use your text editor to write in your browser. Everything you type in the editor will be instantly updated in the browser (and vice versa).
 - [jlebon/textern](https://github.com/jlebon/textern) - A Firefox add-on for editing text in your favourite external editor!
