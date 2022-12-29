@@ -971,7 +971,6 @@
 - [koajs/qs](https://github.com/koajs/qs) - qs for koa, and use querystring more safely.
 - [adrianObel/koa2-api-boilerplate](https://github.com/adrianObel/koa2-api-boilerplate) - Boilerplate for building APIs with koa2.
 - [auth0/node-jwks-rsa](https://github.com/auth0/node-jwks-rsa) - A library to retrieve RSA public keys from a JWKS (JSON Web Key Set) endpoint.
-- [carloscuesta/gitmoji](https://github.com/carloscuesta/gitmoji) - An emoji guide for your commit messages. 😜
 - [checkly/headless-recorder](https://github.com/checkly/headless-recorder) - Chrome extension that records your browser interactions and generates a Playwright or Puppeteer script.
 - [vitorbritto/optimus](https://github.com/vitorbritto/optimus) - A lightning-fast way to run your tests with JavaScript.
 - [sallar/github-contributions-api](https://github.com/sallar/github-contributions-api) - :octocat: Github contributions API (bootleg)
@@ -2194,6 +2193,7 @@
 - [mfrachet/rn-placeholder](https://github.com/mfrachet/rn-placeholder) - 🏖️ Display some placeholder stuff before rendering your text or media content in React Native
 - [williamngan/pts](https://github.com/williamngan/pts) - A library for visualization and creative-coding
 - [felixrieseberg/windows95](https://github.com/felixrieseberg/windows95) - 💩🚀 Windows 95 in Electron. Runs on macOS, Linux, and Windows.
+- [carloscuesta/gitmoji](https://github.com/carloscuesta/gitmoji) - An emoji guide for your commit messages. 😜
 - [badgen/badgen.net](https://github.com/badgen/badgen.net) - Fast badge service
 - [cs01/gdbgui](https://github.com/cs01/gdbgui) - Browser-based frontend to gdb (gnu debugger). Add breakpoints, view the stack, visualize data structures, and more in C, C++, Go, Rust, and Fortran. Run gdbgui from the terminal and a new tab will ope
 - [jaredpalmer/formik](https://github.com/jaredpalmer/formik) - Build forms in React, without the tears 😭
