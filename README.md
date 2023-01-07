@@ -123,6 +123,7 @@
 
 ## C# # 
 
+- [volvo-cars/congestion-tax-calculator](https://github.com/volvo-cars/congestion-tax-calculator) - A developer test assignment used as basis for candidate interview and evaluation.
 - [evgeny-nadymov/telegram-wp](https://github.com/evgeny-nadymov/telegram-wp) - Telegram Messenger for Windows Phone
 - [XamlAnimatedGif/WpfAnimatedGif](https://github.com/XamlAnimatedGif/WpfAnimatedGif) - A simple library to display animated GIF images in WPF, usable in XAML or in code.
 - [files-community/Files](https://github.com/files-community/Files) - Building the best file manager experience for Windows
@@ -652,6 +653,7 @@
 
 ## JavaScript 
 
+- [sindresorhus/exit-hook](https://github.com/sindresorhus/exit-hook) - Run some code when the process exits
 - [vincelwt/chatgpt-mac](https://github.com/vincelwt/chatgpt-mac) - ChatGPT for Mac, living in your menubar.
 - [falcucci/plugin-run](https://github.com/falcucci/plugin-run) - Nodejs project to manage ETL scripts.
 - [fregante/GhostText](https://github.com/fregante/GhostText) - 👻 Use your text editor to write in your browser. Everything you type in the editor will be instantly updated in the browser (and vice versa).
@@ -1432,6 +1434,7 @@
 
 ## Others 
 
+- [CollabCodeTech/backend-challenges](https://github.com/CollabCodeTech/backend-challenges) - A public list of open-source challenges from jobs around the world
 - [mozilla/geckodriver](https://github.com/mozilla/geckodriver) - WebDriver for Firefox
 - [falcucci/awesome-stars](https://github.com/falcucci/awesome-stars) - A curated list of my GitHub stars!
 - [nnethercote/perf-book](https://github.com/nnethercote/perf-book) - The Rust Performance Book
