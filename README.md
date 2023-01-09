@@ -1612,6 +1612,7 @@
 
 ## Python 
 
+- [raghur/vim-ghost](https://github.com/raghur/vim-ghost) - Vim/Nvim client for GhostText - Edit browser text areas in Vim/Neovim
 - [mbroton/chatgpt-api](https://github.com/mbroton/chatgpt-api) - ChatGPT HTTP API Client and CLI
 - [terror/chatgpt.nvim](https://github.com/terror/chatgpt.nvim) - Query ChatGPT in Neovim
 - [Methexis-Inc/terminal-copilot](https://github.com/Methexis-Inc/terminal-copilot) - A smart terminal assistant that helps you find the right command.
@@ -1784,6 +1785,10 @@
 
 ## Rust 
 
+- [causal-agent/scraper](https://github.com/causal-agent/scraper) - HTML parsing and querying with CSS selectors
+- [rustsec/rustsec](https://github.com/rustsec/rustsec) - RustSec API & Tooling
+- [lettre/lettre](https://github.com/lettre/lettre) - a mailer library for Rust
+- [parasyte/pixels](https://github.com/parasyte/pixels) - A tiny hardware-accelerated pixel frame buffer. 🦀
 - [samtay/so](https://github.com/samtay/so) - A terminal interface for Stack Overflow
 - [mongodb/mongo-rust-driver](https://github.com/mongodb/mongo-rust-driver) - The official MongoDB Rust Driver
 - [cobalt-org/cobalt.rs](https://github.com/cobalt-org/cobalt.rs) - Static site generator written in Rust
