@@ -521,7 +521,7 @@
 
 ## HTML 
 
-- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT promt curation to use ChatGPT better.
+- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
 - [wzulfikar/vercel-runtimes](https://github.com/wzulfikar/vercel-runtimes) - Code examples for different Vercel runtimes.
 - [snotra-org/hasura-parser](https://github.com/snotra-org/hasura-parser) - :zap: Parse Hasura actions and events with ease in JS/TS projects.
 - [excalidraw/excalidraw-analytics](https://github.com/excalidraw/excalidraw-analytics) - 
@@ -653,6 +653,11 @@
 
 ## JavaScript 
 
+- [danielbayerlein/dashboard](https://github.com/danielbayerlein/dashboard) - 📺 Create your own team dashboard with custom widgets. Built with Next.js, React, styled-components and polished.
+- [dawsbot/mailto](https://github.com/dawsbot/mailto) - 💌 ⚡️ The mailto encoder
+- [rauchg/blog](https://github.com/rauchg/blog) - 
+- [auth0-blog/nextjs-got](https://github.com/auth0-blog/nextjs-got) - A simple nextjs application that showcases Game of Thrones Characters
+- [BetaHuhn/vercel-pdf-converter](https://github.com/BetaHuhn/vercel-pdf-converter) - 📄▲ Vercel function which generates PDFs from Webpages.
 - [sindresorhus/exit-hook](https://github.com/sindresorhus/exit-hook) - Run some code when the process exits
 - [vincelwt/chatgpt-mac](https://github.com/vincelwt/chatgpt-mac) - ChatGPT for Mac, living in your menubar.
 - [falcucci/plugin-run](https://github.com/falcucci/plugin-run) - Nodejs project to manage ETL scripts.
@@ -1434,6 +1439,8 @@
 
 ## Others 
 
+- [unicodeveloper/awesome-nextjs](https://github.com/unicodeveloper/awesome-nextjs) - :notebook_with_decorative_cover: :books: A curated list of awesome resources : books, videos, articles about using Next.js (A minimalistic framework for universal server-rendered React applications)
+- [falcucci/good-practices-workflow](https://github.com/falcucci/good-practices-workflow) - Agreements guideline for a basic daily development workflow.
 - [CollabCodeTech/backend-challenges](https://github.com/CollabCodeTech/backend-challenges) - A public list of open-source challenges from jobs around the world
 - [mozilla/geckodriver](https://github.com/mozilla/geckodriver) - WebDriver for Firefox
 - [falcucci/awesome-stars](https://github.com/falcucci/awesome-stars) - A curated list of my GitHub stars!
@@ -1789,6 +1796,7 @@
 
 ## Rust 
 
+- [fschutt/printpdf](https://github.com/fschutt/printpdf) - An easy-to-use library for writing PDF in Rust
 - [causal-agent/scraper](https://github.com/causal-agent/scraper) - HTML parsing and querying with CSS selectors
 - [rustsec/rustsec](https://github.com/rustsec/rustsec) - RustSec API & Tooling
 - [lettre/lettre](https://github.com/lettre/lettre) - a mailer library for Rust
@@ -1901,7 +1909,7 @@
 - [estk/log4rs](https://github.com/estk/log4rs) - A highly configurable logging framework for Rust
 - [sfackler/rust-postgres](https://github.com/sfackler/rust-postgres) - Native PostgreSQL driver for the Rust programming language
 - [sycamore-rs/sycamore](https://github.com/sycamore-rs/sycamore) - A library for creating reactive web apps in Rust and WebAssembly
-- [gbj/leptos](https://github.com/gbj/leptos) - Build fast web applications with Rust.
+- [leptos-rs/leptos](https://github.com/leptos-rs/leptos) - Build fast web applications with Rust.
 - [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool
 - [tokio-rs/tokio](https://github.com/tokio-rs/tokio) - A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...
 - [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search engine that fits effortlessly into your apps, websites, and workflow.
@@ -2086,6 +2094,8 @@
 
 ## TypeScript 
 
+- [ozkanonur/feednext](https://github.com/ozkanonur/feednext) - social media app demo
+- [codelitdev/courselit](https://github.com/codelitdev/courselit) - Create/Sell courses and info products, write blogs, host podcasts on your own branded website. An open source alternative to Teachable, Thinkific, Podia and the likes.
 - [react-keycloak/react-keycloak](https://github.com/react-keycloak/react-keycloak) - React/React Native/NextJS/Razzle components for Keycloak
 - [diciaup/assistant-cli](https://github.com/diciaup/assistant-cli) - A comfortable CLI tool to use ChatGPT service🔥
 - [transitive-bullshit/chatgpt-api](https://github.com/transitive-bullshit/chatgpt-api) - Node.js client for the unofficial ChatGPT API. 🔥
@@ -2136,7 +2146,7 @@
 - [lensapp/lens](https://github.com/lensapp/lens) - Lens - The way the world runs Kubernetes
 - [morethanwords/tweb](https://github.com/morethanwords/tweb) - Telegram Web K, GPL v3
 - [carvalhoviniciusluiz/cpf-cnpj-validator](https://github.com/carvalhoviniciusluiz/cpf-cnpj-validator) - Valida e formata strings de CPF ou CNPJ.
-- [Unleash/unleash](https://github.com/Unleash/unleash) - Unleash is the open source feature toggle service.
+- [Unleash/unleash](https://github.com/Unleash/unleash) - Simplify your code production through the world’s largest open-source feature management platform.
 - [vuejs/vue](https://github.com/vuejs/vue) - 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
 - [neoclide/coc-eslint](https://github.com/neoclide/coc-eslint) - Eslint extension for coc.nvim
 - [input-output-hk/daedalus](https://github.com/input-output-hk/daedalus) - The open source cryptocurrency wallet for ada, built to grow with the community
