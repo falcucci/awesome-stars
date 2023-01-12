@@ -97,7 +97,7 @@
 - [darlinghq/darling](https://github.com/darlinghq/darling) - Darwin/macOS emulation layer for Linux
 - [ggreer/the_silver_searcher](https://github.com/ggreer/the_silver_searcher) - A code-searching tool similar to ack, but faster.
 - [RediSearch/RediSearch](https://github.com/RediSearch/RediSearch) - A query and indexing engine for Redis, providing secondary indexing, full-text search, and aggregations.
-- [i3/i3](https://github.com/i3/i3) - A tiling window manager
+- [i3/i3](https://github.com/i3/i3) - A tiling window manager for X11
 - [marcobambini/gravity](https://github.com/marcobambini/gravity) - Gravity Programming Language
 - [debauchee/barrier](https://github.com/debauchee/barrier) - Open-source KVM software
 - [doches/progressbar](https://github.com/doches/progressbar) - An easy-to-use C library for displaying text progress bars.
@@ -653,6 +653,7 @@
 
 ## JavaScript 
 
+- [falcucci/changelog-it](https://github.com/falcucci/changelog-it) - Nodejs application to generate releases from pull requests and issues.
 - [danielbayerlein/dashboard](https://github.com/danielbayerlein/dashboard) - 📺 Create your own team dashboard with custom widgets. Built with Next.js, React, styled-components and polished.
 - [dawsbot/mailto](https://github.com/dawsbot/mailto) - 💌 ⚡️ The mailto encoder
 - [rauchg/blog](https://github.com/rauchg/blog) - 
@@ -870,7 +871,6 @@
 - [mde/ejs](https://github.com/mde/ejs) - Embedded JavaScript templates -- http://ejs.co
 - [bomanimc/gitrocket](https://github.com/bomanimc/gitrocket) - A rocket ship that launches in your Hyper terminal when you push code with Git.
 - [spicetify/spicetify-cli](https://github.com/spicetify/spicetify-cli) - Command-line tool to customize Spotify client. Supports Windows, MacOS, and Linux.
-- [falcucci/changelog-it](https://github.com/falcucci/changelog-it) - Generates a changelog by matching git commits to Jira tickets (SwiftKanban in the future).
 - [kiwicom/refined-gitlab](https://github.com/kiwicom/refined-gitlab) - 🛠 WIP 🛠 Chrome extension that enhances GitLab
 - [stasgavrylov/lazy-reviewer](https://github.com/stasgavrylov/lazy-reviewer) - Google Chrome extension that adds the display of pull request diffs to global PR section on GitHub/GitLab.
 - [leonardokl/gitlab-chrome-extension](https://github.com/leonardokl/gitlab-chrome-extension) - Gitlab Chrome Extension using React and Redux
