@@ -653,6 +653,8 @@
 
 ## JavaScript 
 
+- [ehmicky/nve](https://github.com/ehmicky/nve) - Run any command on specific Node.js versions
+- [gragland/chatgpt-chrome-extension](https://github.com/gragland/chatgpt-chrome-extension) - A ChatGPT Chrome extension. Integrates ChatGPT into every text box on the internet.
 - [falcucci/changelog-it](https://github.com/falcucci/changelog-it) - Nodejs application to generate releases from pull requests and issues.
 - [danielbayerlein/dashboard](https://github.com/danielbayerlein/dashboard) - 📺 Create your own team dashboard with custom widgets. Built with Next.js, React, styled-components and polished.
 - [dawsbot/mailto](https://github.com/dawsbot/mailto) - 💌 ⚡️ The mailto encoder
@@ -1439,6 +1441,7 @@
 
 ## Others 
 
+- [grafana/grafana-plugin-examples](https://github.com/grafana/grafana-plugin-examples) - 
 - [unicodeveloper/awesome-nextjs](https://github.com/unicodeveloper/awesome-nextjs) - :notebook_with_decorative_cover: :books: A curated list of awesome resources : books, videos, articles about using Next.js (A minimalistic framework for universal server-rendered React applications)
 - [falcucci/good-practices-workflow](https://github.com/falcucci/good-practices-workflow) - Agreements guideline for a basic daily development workflow.
 - [CollabCodeTech/backend-challenges](https://github.com/CollabCodeTech/backend-challenges) - A public list of open-source challenges from jobs around the world
