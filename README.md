@@ -250,6 +250,8 @@
 
 ## Go 
 
+- [paij0se/cligpt](https://github.com/paij0se/cligpt) - chat-gpt but in the terminal
+- [ChatGPT-Hackers/ChatGPT-API-server](https://github.com/ChatGPT-Hackers/ChatGPT-API-server) - API server for ChatGPT
 - [muety/wakapi](https://github.com/muety/wakapi) - 📊 A minimalist, self-hosted WakaTime-compatible backend for coding statistics
 - [falcucci/go-workers](https://github.com/falcucci/go-workers) - Golang project to manage ETL scripts.
 - [kiteco/kiteco-public](https://github.com/kiteco/kiteco-public) - Primary Kite repo — private bits replaced with XXXXXXX
@@ -1799,6 +1801,7 @@
 
 ## Rust 
 
+- [clap-rs/clap-verbosity-flag](https://github.com/clap-rs/clap-verbosity-flag) - Easily add a --verbose flag to CLIs using Structopt
 - [fschutt/printpdf](https://github.com/fschutt/printpdf) - An easy-to-use library for writing PDF in Rust
 - [causal-agent/scraper](https://github.com/causal-agent/scraper) - HTML parsing and querying with CSS selectors
 - [rustsec/rustsec](https://github.com/rustsec/rustsec) - RustSec API & Tooling
@@ -2381,7 +2384,7 @@
 - [sedm0784/vim-you-autocorrect](https://github.com/sedm0784/vim-you-autocorrect) - Why should smartphones get all the fun?
 - [skanehira/translate.vim](https://github.com/skanehira/translate.vim) - translate language plugin
 - [rhysd/conflict-marker.vim](https://github.com/rhysd/conflict-marker.vim) - Weapon to fight against conflicts in Vim.
-- [chrboesch/vim-tabline](https://github.com/chrboesch/vim-tabline) - Clear tab line for vim/neovim
+- [chrboesch/vim-tabline](https://github.com/chrboesch/vim-tabline) - Simple and clear tab line for vim/neovim
 - [nicwest/vim-camelsnek](https://github.com/nicwest/vim-camelsnek) - Convert between camel and snek case (and kebab case)
 - [kristijanhusak/vim-dadbod-ui](https://github.com/kristijanhusak/vim-dadbod-ui) - Simple UI for https://github.com/tpope/vim-dadbod
 - [mcchrish/info-window.nvim](https://github.com/mcchrish/info-window.nvim) - See file information in a floating window
