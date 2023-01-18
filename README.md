@@ -249,7 +249,7 @@
 
 ## Go 
 
-- [paij0se/cligpt](https://github.com/paij0se/cligpt) - chat-gpt but in the terminal
+- [paij0se/cligpt](https://github.com/paij0se/cligpt) - ChatGPT but in the terminal
 - [acheong08/ChatGPT-API-server](https://github.com/acheong08/ChatGPT-API-server) - API server for ChatGPT
 - [muety/wakapi](https://github.com/muety/wakapi) - 📊 A minimalist, self-hosted WakaTime-compatible backend for coding statistics
 - [falcucci/go-workers](https://github.com/falcucci/go-workers) - Golang project to manage ETL scripts.
@@ -655,6 +655,7 @@
 
 ## JavaScript 
 
+- [pollinations/pollinations](https://github.com/pollinations/pollinations) - Generate Art
 - [filipedeschamps/parse-google-docs-json](https://github.com/filipedeschamps/parse-google-docs-json) - Authenticates with Google API and parse Google Docs to JSON or Markdown
 - [ehmicky/nve](https://github.com/ehmicky/nve) - Run any command on specific Node.js versions
 - [gragland/chatgpt-chrome-extension](https://github.com/gragland/chatgpt-chrome-extension) - A ChatGPT Chrome extension. Integrates ChatGPT into every text box on the internet.
@@ -926,7 +927,7 @@
 - [Syncano/website](https://github.com/Syncano/website) - Syncano website
 - [klaudiosinani/hyperocean](https://github.com/klaudiosinani/hyperocean) - Deep oceanic blue Hyper theme
 - [mafintosh/peerflix](https://github.com/mafintosh/peerflix) - Streaming torrent client for node.js
-- [lucasem/magnet](https://github.com/lucasem/magnet) - Search for a torrent from the command-line and start streaming
+- [lorepozo/magnet](https://github.com/lorepozo/magnet) - Search for a torrent from the command-line and start streaming
 - [EliverLara/terminator-themes](https://github.com/EliverLara/terminator-themes) - :metal: The biggest collection of Terminator themes.
 - [appbaseio/dejavu](https://github.com/appbaseio/dejavu) - The Missing Web UI for Elasticsearch: Import, browse and edit data with rich filters and query views, create search UIs visually.
 - [koajs/kick-off-koa](https://github.com/koajs/kick-off-koa) - [MAINTAINERS WANTED] An intro to koa via a set of self-guided workshops
@@ -1774,6 +1775,7 @@
 ## Ruby 
 
 - [repl-electric/live-coding-space](https://github.com/repl-electric/live-coding-space) - Live programming music with space - Performance Source
+- [AndrewRadev/sideways.vim](https://github.com/AndrewRadev/sideways.vim) - A Vim plugin to move function arguments (and other delimited-by-something items) left and right.
 - [floraison/fugit](https://github.com/floraison/fugit) - time tools (cron, parsing, durations, ...) for Ruby, rufus-scheduler, and flor
 - [drewblessing/gitlab-cli](https://github.com/drewblessing/gitlab-cli) - GitLab Command Line Tool - Interact with your GitLab server via the command line to manage snippets, projects and more.
 - [codegram/vim-codereview](https://github.com/codegram/vim-codereview) - GItHub Pull Request-based Code Reviews
@@ -2016,6 +2018,7 @@
 
 ## Shell 
 
+- [rethab/gh-project](https://github.com/rethab/gh-project) - github cli extension to work with projects
 - [mbrubeck/android-completion](https://github.com/mbrubeck/android-completion) - Bash completion for "adb" from the Google Android SDK
 - [rust-lang/rfcs](https://github.com/rust-lang/rfcs) - RFCs for changes to Rust
 - [falcucci/dotfiles](https://github.com/falcucci/dotfiles) - 💻 macOS / Ubuntu dotfiles
@@ -2369,7 +2372,6 @@
 - [eduardoarandah/docker-vim](https://github.com/eduardoarandah/docker-vim) - Run vim in a docker container, preconfigured with FZF, RipGrep, Coc, Airline, Nerdtree, Fugitive, Surround, Polyglot
 - [preservim/vim-pencil](https://github.com/preservim/vim-pencil) - Rethinking Vim as a tool for writing
 - [preservim/vim-wheel](https://github.com/preservim/vim-wheel) - Screen-anchored cursor movement for Vim
-- [AndrewRadev/sideways.vim](https://github.com/AndrewRadev/sideways.vim) - A Vim plugin to move function arguments (and other delimited-by-something items) left and right.
 - [glepnir/spaceline.vim](https://github.com/glepnir/spaceline.vim) - vim statusline like spacemacs
 - [tpope/vim-fugitive](https://github.com/tpope/vim-fugitive) - fugitive.vim: A Git wrapper so awesome, it should be illegal
 - [pacha/vem-tabline](https://github.com/pacha/vem-tabline) - A lightweight Vim/Neovim plugin to display buffers and tabs in the tabline
