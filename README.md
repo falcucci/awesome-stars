@@ -189,6 +189,7 @@
 - [pjjanak/chromecast-hello-world](https://github.com/pjjanak/chromecast-hello-world) - A simple Hello World Sender/Receiver for Chromecast
 - [widget-/slack-black-theme](https://github.com/widget-/slack-black-theme) - A darker, more contrasty, Slack theme.
 - [Hexanet/MergeRequestsCI](https://github.com/Hexanet/MergeRequestsCI) - :eyes: UI to see all GitLab merge requests of your teams in one place
+- [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
 - [tmcw/docbox](https://github.com/tmcw/docbox) - REST API documentation generator
 - [iamcco/markdown-preview.vim](https://github.com/iamcco/markdown-preview.vim) - ⚠️ PLEASE USE https://github.com/iamcco/markdown-preview.nvim INSTEAD
 - [t413/SinglePaged](https://github.com/t413/SinglePaged) - SinglePaged - Simple Jekyll template
@@ -655,6 +656,7 @@
 
 ## JavaScript 
 
+- [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
 - [pollinations/pollinations](https://github.com/pollinations/pollinations) - Generate Art
 - [filipedeschamps/parse-google-docs-json](https://github.com/filipedeschamps/parse-google-docs-json) - Authenticates with Google API and parse Google Docs to JSON or Markdown
 - [ehmicky/nve](https://github.com/ehmicky/nve) - Run any command on specific Node.js versions
@@ -1198,7 +1200,7 @@
 - [hzoo/contributors-on-github](https://github.com/hzoo/contributors-on-github) - :cactus: Show stats about contributors on github
 - [eveningkid/reacto](https://github.com/eveningkid/reacto) - A sweet IDE for React.js
 - [testing-library/react-testing-library](https://github.com/testing-library/react-testing-library) - 🐐 Simple and complete React DOM testing utilities that encourage good testing practices.
-- [unjs/consola](https://github.com/unjs/consola) - Elegant Console Logger for Node.js and Browser 🐨
+- [unjs/consola](https://github.com/unjs/consola) - 🐨 Elegant Console Logger for Node.js and Browser
 - [kiok46/duckduckgo](https://github.com/kiok46/duckduckgo) - DuckDuckGo App built in React-Native (Unofficial)
 - [lambtron/homemirror](https://github.com/lambtron/homemirror) - Web based home mirror, inspired by Hannah Mitt's project.
 - [evancohen/smart-mirror](https://github.com/evancohen/smart-mirror) - The fairest of them all. A DIY voice controlled smart mirror with IoT integration.
@@ -1445,6 +1447,7 @@
 
 ## Others 
 
+- [alrra/browser-logos](https://github.com/alrra/browser-logos) - 🗂 High resolution web browser logos
 - [grafana/grafana-plugin-examples](https://github.com/grafana/grafana-plugin-examples) - 
 - [unicodeveloper/awesome-nextjs](https://github.com/unicodeveloper/awesome-nextjs) - :notebook_with_decorative_cover: :books: A curated list of awesome resources : books, videos, articles about using Next.js (A minimalistic framework for universal server-rendered React applications)
 - [falcucci/good-practices-workflow](https://github.com/falcucci/good-practices-workflow) - Agreements guideline for a basic daily development workflow.
@@ -1626,6 +1629,7 @@
 
 ## Python 
 
+- [wagtail/wagtail](https://github.com/wagtail/wagtail) - A Django content management system focused on flexibility and user experience
 - [paulotruta/jee-pee-tee](https://github.com/paulotruta/jee-pee-tee) - An Alexa Skill to interface with chat.openai.com
 - [encode/django-rest-framework](https://github.com/encode/django-rest-framework) - Web APIs for Django. 🎸
 - [scionoftech/FastAPI-Full-Stack-Samples](https://github.com/scionoftech/FastAPI-Full-Stack-Samples) - The API Application Development using Python FastAPI, including interactive API documentation
@@ -2018,6 +2022,7 @@
 
 ## Shell 
 
+- [lemnos/theme.sh](https://github.com/lemnos/theme.sh) - A script which lets you set your $terminal theme.
 - [rethab/gh-project](https://github.com/rethab/gh-project) - github cli extension to work with projects
 - [mbrubeck/android-completion](https://github.com/mbrubeck/android-completion) - Bash completion for "adb" from the Google Android SDK
 - [rust-lang/rfcs](https://github.com/rust-lang/rfcs) - RFCs for changes to Rust
@@ -2060,7 +2065,6 @@
 - [franiglesias/versiontag](https://github.com/franiglesias/versiontag) - Bash command to automate tag semantic versioning
 - [keyboardsurfer/idea-live-templates](https://github.com/keyboardsurfer/idea-live-templates) - An #androidDev collection of Live Templates for Android Studio
 - [asdf-vm/asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
-- [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
 - [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) - 🖥 📊 🕹 🛠 A curated list of command line apps
 - [alrra/dotfiles](https://github.com/alrra/dotfiles) - 💻 macOS / Ubuntu dotfiles
 - [k4m4/movies-for-hackers](https://github.com/k4m4/movies-for-hackers) - 🎬 A curated list of movies every hacker & cyberpunk must watch.
