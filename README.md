@@ -655,6 +655,7 @@
 - [Sunhat/react-native-extra-dimensions-android](https://github.com/Sunhat/react-native-extra-dimensions-android) - Access additional display metrics on Android devices: status bar height, soft menu bar height, real screen size.
 - [zo0r/react-native-push-notification](https://github.com/zo0r/react-native-push-notification) - React Native Local and Remote Notifications
 - [cesardeazevedo/react-native-collapsing-toolbar](https://github.com/cesardeazevedo/react-native-collapsing-toolbar) - react-native wrapper for android CollapsingToolbarLayout
+- [luggit/react-native-config](https://github.com/luggit/react-native-config) - Bring some 12 factor love to your mobile apps!
 - [nayuki/Project-Euler-solutions](https://github.com/nayuki/Project-Euler-solutions) - Runnable code for solving Project Euler problems in Java, Python, Mathematica, Haskell.
 
 ## JavaScript 
@@ -1805,7 +1806,6 @@
 - [lolcommits/lolcommits](https://github.com/lolcommits/lolcommits) - :camera: git-based selfies for software developers
 - [hstove/issue_stats](https://github.com/hstove/issue_stats) - Analyze and compare how long it takes for Github issues to be closed.
 - [mattbrictson/chandler](https://github.com/mattbrictson/chandler) - [unmaintained] chandler syncs your CHANGELOG entries to GitHub's release notes
-- [luggit/react-native-config](https://github.com/luggit/react-native-config) - Bring some 12 factor love to your mobile apps!
 - [defunkt/github-gem](https://github.com/defunkt/github-gem) - `github` command line helper for simplifying your GitHub experience.
 - [defunkt/gist](https://github.com/defunkt/gist) - Potentially the best command line gister.
 - [StephenOTT/GitHub-Time-Tracking](https://github.com/StephenOTT/GitHub-Time-Tracking) - Use GitHub to Track Time and Budgets for your Development Projects(and really anything else you use GitHub for) - Ruby app that analyzes GitHub Issue Comments, Milestones, and Code Commit Messages for
