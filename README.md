@@ -1375,6 +1375,7 @@
 
 ## Jupyter Notebook 
 
+- [davycro/sonocrop](https://github.com/davycro/sonocrop) - Prepare ultrasound videos for machine learning-- crop and remove static clutter from ultrasound video.
 - [ykuo2/dicom2jpg](https://github.com/ykuo2/dicom2jpg) - A simple Python function tool to convert DICOM files into jpg/png/bmp/tiff files and numpy.ndarray
 - [jupyter/notebook](https://github.com/jupyter/notebook) - Jupyter Interactive Notebook
 - [firebase/quickstart-python](https://github.com/firebase/quickstart-python) - 
@@ -1620,6 +1621,7 @@
 
 ## PLpgSQL 
 
+- [sander-io/hasura-jwt-auth](https://github.com/sander-io/hasura-jwt-auth) - Hasura JWT auth using PostgreSQL
 - [jjangga0214/hasura-starter](https://github.com/jjangga0214/hasura-starter) - A boilerplate, cheatsheet, guide for beginners of Hasura.
 
 ## Perl 
@@ -1638,6 +1640,8 @@
 
 ## Python 
 
+- [PyImageSearch/imutils](https://github.com/PyImageSearch/imutils) - A series of convenience functions to make basic image processing operations such as translation, rotation, resizing, skeletonization, and displaying Matplotlib images easier with OpenCV and Python.
+- [initialcommit-com/git-sim](https://github.com/initialcommit-com/git-sim) - Visually simulate Git operations in your own repos with a single terminal command.
 - [timothybrooks/instruct-pix2pix](https://github.com/timothybrooks/instruct-pix2pix) - 
 - [pydicom/pydicom](https://github.com/pydicom/pydicom) - Read, modify and write DICOM files with python code
 - [charliermarsh/ruff-pre-commit](https://github.com/charliermarsh/ruff-pre-commit) - A pre-commit hook for Ruff.
@@ -2161,6 +2165,9 @@
 
 ## TypeScript 
 
+- [primer/react](https://github.com/primer/react) - An implementation of GitHub's Primer Design System using React
+- [platyplus/platyplus](https://github.com/platyplus/platyplus) - Low-code, offline-first apps with Hasura
+- [nhost/hasura-auth](https://github.com/nhost/hasura-auth) - Authentication for Hasura.
 - [prisma/prisma](https://github.com/prisma/prisma) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB
 - [jellydn/next-swagger-doc](https://github.com/jellydn/next-swagger-doc) - This package reads your JSDoc-annotated source code on NextJS API route and generates an OpenAPI (Swagger) specification.
 - [ozkanonur/feednext](https://github.com/ozkanonur/feednext) - social media app demo
@@ -2181,7 +2188,7 @@
 - [hoangvvo/next-connect](https://github.com/hoangvvo/next-connect) - The TypeScript-ready, minimal router and middleware layer for Next.js, Micro, Vercel, or Node.js http/http2
 - [zenflow/hasura-node-monolith-example](https://github.com/zenflow/hasura-node-monolith-example) - Example of a monolithic web application using Hasura GraphQL Engine + Node.js + Next.js
 - [felippepuhle/coc-graphql](https://github.com/felippepuhle/coc-graphql) - GraphQL Language Service extension for coc.nvim
-- [prisma-labs/graphql-request](https://github.com/prisma-labs/graphql-request) - Minimal GraphQL client supporting Node and browsers for scripts or simple apps
+- [jasonkuhrt/graphql-request](https://github.com/jasonkuhrt/graphql-request) - Minimal GraphQL client supporting Node and browsers for scripts or simple apps
 - [pwa-builder/pwa-starter](https://github.com/pwa-builder/pwa-starter) - Welcome to the PWABuilder pwa-starter! Looking to build a new Progressive Web App and not sure where to get started? This is what you are looking for!
 - [hasura/graphql-engine](https://github.com/hasura/graphql-engine) - Blazing fast, instant realtime GraphQL APIs on your DB with fine grained access control, also trigger webhooks on database events.
 - [ghoshnirmalya/nextjs-hasura-boilerplate](https://github.com/ghoshnirmalya/nextjs-hasura-boilerplate) - :art: Boilerplate for building applications using Hasura and Next.js
