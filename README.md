@@ -517,7 +517,6 @@
 
 ## Groovy 
 
-- [Widen/jira-changelog](https://github.com/Widen/jira-changelog) - Parses commit messages between two tags and generates a changelog based on referenced JIRA cases
 - [gradle/gradle](https://github.com/gradle/gradle) - Adaptable, fast automation for all
 - [rundeck/rundeck](https://github.com/rundeck/rundeck) - Enable Self-Service Operations: Give specific users access to your existing tools, services, and scripts
 
@@ -1602,7 +1601,7 @@
 - [xgrommx/awesome-redux](https://github.com/xgrommx/awesome-redux) - Awesome list of Redux examples and middlewares
 - [sindresorhus/awesome-electron](https://github.com/sindresorhus/awesome-electron) - Useful resources for creating apps with Electron
 - [dastergon/awesome-sre](https://github.com/dastergon/awesome-sre) - A curated list of Site Reliability and Production Engineering resources.
-- [tellijo/vim-react-native-snippets](https://github.com/tellijo/vim-react-native-snippets) - React Native code snippets for vim
+- [jmatelli/vim-react-native-snippets](https://github.com/jmatelli/vim-react-native-snippets) - React Native code snippets for vim
 - [browniefed/examples](https://github.com/browniefed/examples) - Egghead Screencast Code Examples
 - [wsargent/docker-cheat-sheet](https://github.com/wsargent/docker-cheat-sheet) - Docker Cheat Sheet
 - [christian-bromann/awesome-selenium](https://github.com/christian-bromann/awesome-selenium) - A curated list of delightful Selenium resources.
@@ -2165,6 +2164,8 @@
 
 ## TypeScript 
 
+- [radix-ui/colors](https://github.com/radix-ui/colors) - A gorgeous, accessible color system.
+- [shadcn/ui](https://github.com/shadcn/ui) - Beautifully designed components built with Radix UI and Tailwind CSS.
 - [primer/react](https://github.com/primer/react) - An implementation of GitHub's Primer Design System using React
 - [platyplus/platyplus](https://github.com/platyplus/platyplus) - Low-code, offline-first apps with Hasura
 - [nhost/hasura-auth](https://github.com/nhost/hasura-auth) - Authentication for Hasura.
@@ -2444,7 +2445,7 @@
 - [christoomey/vim-titlecase](https://github.com/christoomey/vim-titlecase) - Teach Vim about titlecase, with support for motions and text objects
 - [kristijanhusak/vim-js-file-import](https://github.com/kristijanhusak/vim-js-file-import) - Import/require files in javascript and typescript with single button!
 - [Yilin-Yang/vim-markbar](https://github.com/Yilin-Yang/vim-markbar) - Display all accessible marks and their surrounding lines in a collapsible sidebar.
-- [voldikss/vim-floaterm](https://github.com/voldikss/vim-floaterm) - :star2: Terminal manager for (neo)vim
+- [voldikss/vim-floaterm](https://github.com/voldikss/vim-floaterm) - :computer: Terminal manager for (neo)vim
 - [ledger/vim-ledger](https://github.com/ledger/vim-ledger) - Vim plugin for Ledger
 - [kburdett/vim-nuuid](https://github.com/kburdett/vim-nuuid) - Vim plugin for generating and inserting UUIDs
 - [tpope/vim-obsession](https://github.com/tpope/vim-obsession) - obsession.vim: continuously updated session files
