@@ -492,7 +492,7 @@
 - [golang/go](https://github.com/golang/go) - The Go programming language
 - [hoisie/redis](https://github.com/hoisie/redis) - A simple, powerful Redis client for Go
 - [redis/go-redis](https://github.com/redis/go-redis) - Type-safe Redis client for Golang
-- [joho/godotenv](https://github.com/joho/godotenv) - A Go port of Ruby's dotenv library (Loads environment variables from `.env`.)
+- [joho/godotenv](https://github.com/joho/godotenv) - A Go port of Ruby's dotenv library (Loads environment variables from .env files)
 - [caarlos0/env](https://github.com/caarlos0/env) - A simple and zero-dependencies library to parse environment variables into structs.
 - [olebedev/config](https://github.com/olebedev/config) - JSON or YAML configuration wrapper with convenient access methods.
 - [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
