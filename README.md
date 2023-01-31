@@ -83,6 +83,7 @@
 
 ## C 
 
+- [hpjansson/chafa](https://github.com/hpjansson/chafa) - 📺🗿 Terminal graphics for the 21st century.
 - [libgit2/libgit2](https://github.com/libgit2/libgit2) - A cross-platform, linkable library implementation of Git that you can use in your application.
 - [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree
 - [systemd/systemd](https://github.com/systemd/systemd) - The systemd System and Service Manager
@@ -277,8 +278,8 @@
 - [segmentio/topicctl](https://github.com/segmentio/topicctl) - Tool for declarative management of Kafka topics
 - [logrusorgru/aurora](https://github.com/logrusorgru/aurora) - Golang ultimate ANSI-colors that supports Printf/Sprintf methods
 - [go-music-theory/music-theory](https://github.com/go-music-theory/music-theory) - Go models of Note, Scale, Chord and Key
-- [falcucci/hedera-coin-api](https://github.com/falcucci/hedera-coin-api) - hedera blockchain integration hackathon
-- [falcucci/hedera-coin-payments-api](https://github.com/falcucci/hedera-coin-payments-api) - hedera blockchain integration hackathon
+- [falcucci/hedera-coin](https://github.com/falcucci/hedera-coin) - A decentralized cryptocurrency platform that can be used to make payments, store value, and provide a secure way to transfer digital assets.
+- [falcucci/hedera-payments](https://github.com/falcucci/hedera-payments) - A secure, flexible, and reliable open source payment system built on top of the Hedera Hashgraph distributed ledger providing a way to securely manage payments.
 - [luizalabs/teresa](https://github.com/luizalabs/teresa) - Open source tool to deploy apps to Kubernetes clusters
 - [profclems/glab](https://github.com/profclems/glab) - The GitLab CLI tool. Archived: now officially adopted by GitLab as the official CLI tool and maintained at https://gitlab.com/gitlab-org/cli. See https://github.com/profclems/glab/issues/983
 - [argoproj-labs/argocd-notifications](https://github.com/argoproj-labs/argocd-notifications) - Notifications for Argo CD
@@ -565,6 +566,7 @@
 
 ## Haskell 
 
+- [soywod/unfog](https://github.com/soywod/unfog) - ⏱ Minimalist CLI task & time manager, written in Haskell.
 - [krispo/awesome-haskell](https://github.com/krispo/awesome-haskell) - A collection of awesome Haskell links, frameworks, libraries and software. Inspired by awesome projects line.
 - [input-output-hk/cardano-node](https://github.com/input-output-hk/cardano-node) - The core component that is used to participate in a Cardano decentralised blockchain.
 - [input-output-hk/cardano-base](https://github.com/input-output-hk/cardano-base) - Code used throughout the Cardano eco-system
@@ -682,7 +684,7 @@
 - [dracula/gh-pages](https://github.com/dracula/gh-pages) - 🧛🏻‍♂️ Dark theme for GitHub Pages
 - [Flagsmith/flagsmith-docs](https://github.com/Flagsmith/flagsmith-docs) - This is the documentation repository for the Docs of Flagsmith. Ship features with confidence using feature flags and remote config. Host yourself or use our hosted version at https://www.flagsmith.co
 - [bokub/github-stats-box](https://github.com/bokub/github-stats-box) - 📌 Update a gist to contain your GitHub stats
-- [falcucci/f1-world-championship-api](https://github.com/falcucci/f1-world-championship-api) - A project to analyze drivers winners.
+- [falcucci/f1-world-championship-api](https://github.com/falcucci/f1-world-championship-api) - A comprehensive API for Formula 1 World Championship data. It allows developers to quickly access data from the world's premier motor racing competition.
 - [excalidraw/excalidraw-libraries](https://github.com/excalidraw/excalidraw-libraries) - Collection of publicly available libraries
 - [gastonpereyra/vercel-serverless-api-tests](https://github.com/gastonpereyra/vercel-serverless-api-tests) - A Helper to make tests with vercel-serverless-api package
 - [grafana/simple-json-datasource](https://github.com/grafana/simple-json-datasource) - Datasource that sends generic http requests to give url
@@ -957,7 +959,7 @@
 - [jaredwray/keyv](https://github.com/jaredwray/keyv) - Simple key-value storage with support for multiple backends
 - [junosuarez/awesome-npx](https://github.com/junosuarez/awesome-npx) - 🌟 packages and resources that work really well with https://github.com/zkat/npx 🕶
 - [zkat/npx](https://github.com/zkat/npx) - execute npm package binaries (moved)
-- [falcucci/github-board-refined](https://github.com/falcucci/github-board-refined) - Chrome and Firefox extension that improves Github Project's user experience :purple_heart:
+- [falcucci/github-board-refined](https://github.com/falcucci/github-board-refined) - A browser extension project management tool that helps you keep track of your projects and collaborate with your team. It helps you organize and manage your tasks and resources efficiently.
 - [sheerun/knex-migrate](https://github.com/sheerun/knex-migrate) - Modern database migration toolkit for knex.js
 - [belfz/node-cpp-addons](https://github.com/belfz/node-cpp-addons) - 
 - [webextension-toolbox/generator-web-extension](https://github.com/webextension-toolbox/generator-web-extension) - Advanced WebExtension generator that creates everything you need to get started with cross-browser web-extension development.
@@ -1639,6 +1641,9 @@
 
 ## Python 
 
+- [falcucci/dicomcrop](https://github.com/falcucci/dicomcrop) - Prepare bedside medical images for machine learning and image interpretation, encrypting informations consumed from specified sources afterwards.
+- [camchambers/parallel-python](https://github.com/camchambers/parallel-python) - An example of parallel computing with python.
+- [numba/numba](https://github.com/numba/numba) - NumPy aware dynamic Python compiler using LLVM
 - [google/python-fire](https://github.com/google/python-fire) - Python Fire is a library for automatically generating command line interfaces (CLIs) from absolutely any Python object.
 - [PyImageSearch/imutils](https://github.com/PyImageSearch/imutils) - A series of convenience functions to make basic image processing operations such as translation, rotation, resizing, skeletonization, and displaying Matplotlib images easier with OpenCV and Python.
 - [initialcommit-com/git-sim](https://github.com/initialcommit-com/git-sim) - Visually simulate Git operations in your own repos with a single terminal command.
@@ -1826,6 +1831,35 @@
 
 ## Rust 
 
+- [Rust-GPU/Rust-CUDA](https://github.com/Rust-GPU/Rust-CUDA) - Ecosystem of libraries and tools for writing and executing fast GPU code fully in Rust.
+- [oxidecomputer/hubris](https://github.com/oxidecomputer/hubris) - A lightweight, memory-protected, message-passing kernel for deeply embedded systems.
+- [tcdi/pgx](https://github.com/tcdi/pgx) - Build Postgres Extensions with Rust!
+- [napi-rs/napi-rs](https://github.com/napi-rs/napi-rs) - A framework for building compiled Node.js add-ons in Rust via Node-API
+- [soywod/himalaya](https://github.com/soywod/himalaya) - Command-line interface for email management
+- [watchexec/cargo-watch](https://github.com/watchexec/cargo-watch) - Watches over your Cargo project's source.
+- [nix-rust/nix](https://github.com/nix-rust/nix) - Rust friendly bindings to *nix APIs
+- [martinvonz/jj](https://github.com/martinvonz/jj) - A Git-compatible DVCS that is both simple and powerful
+- [atanunq/viu](https://github.com/atanunq/viu) - Terminal image viewer with native support for iTerm and Kitty
+- [bincode-org/bincode](https://github.com/bincode-org/bincode) - A binary encoder / decoder implementation in Rust.
+- [notify-rs/notify](https://github.com/notify-rs/notify) - 🔭 Cross-platform filesystem notification library for Rust.
+- [warp-tech/warpgate](https://github.com/warp-tech/warpgate) - Smart SSH, HTTPS and MySQL bastion that needs no client-side software
+- [sozu-proxy/sozu](https://github.com/sozu-proxy/sozu) - Sōzu HTTP reverse proxy, configurable at runtime, fast and safe, built in Rust. It is awesome!
+- [rust-itertools/itertools](https://github.com/rust-itertools/itertools) - Extra iterator adaptors, iterator methods, free functions, and macros.
+- [petgraph/petgraph](https://github.com/petgraph/petgraph) - Graph data structure library for Rust.
+- [libpnet/libpnet](https://github.com/libpnet/libpnet) - Cross-platform, low level networking using the Rust programming language.
+- [liljencrantz/crush](https://github.com/liljencrantz/crush) - Crush is a command line shell that is also a powerful modern programming language.
+- [sagiegurari/cargo-make](https://github.com/sagiegurari/cargo-make) - Rust task runner and build tool.
+- [kube-rs/kube](https://github.com/kube-rs/kube) - Rust Kubernetes client and controller runtime
+- [dgiagio/warp](https://github.com/dgiagio/warp) - Create self-contained single binary applications
+- [xd009642/tarpaulin](https://github.com/xd009642/tarpaulin) - A code coverage tool for Rust projects
+- [alexhallam/tv](https://github.com/alexhallam/tv) - 📺(tv) Tidy Viewer is a cross-platform CLI csv pretty printer that uses column styling to maximize viewer enjoyment.
+- [losfair/blueboat](https://github.com/losfair/blueboat) - All-in-one, multi-tenant serverless JavaScript runtime.
+- [brson/stdx](https://github.com/brson/stdx) - The missing batteries of Rust
+- [rusqlite/rusqlite](https://github.com/rusqlite/rusqlite) - Ergonomic bindings to SQLite for Rust
+- [Qovery/engine](https://github.com/Qovery/engine) - The Orchestration Engine To Deliver Self-Service Infrastructure Faster ⚡️
+- [cloudwalk/axum-test-helper](https://github.com/cloudwalk/axum-test-helper) - Easy to use axum test client
+- [fathyb/carbonyl](https://github.com/fathyb/carbonyl) - Chromium running inside your terminal
+- [hpjansson/fornalder](https://github.com/hpjansson/fornalder) - Visualize long-term trends in collections of Git repositories.
 - [Nukesor/comfy-table](https://github.com/Nukesor/comfy-table) - :large_orange_diamond: Build beautiful terminal tables with automatic content wrapping
 - [ritiek/auto-image-cropper](https://github.com/ritiek/auto-image-cropper) - Removes extra white borders to correctly resize canvas
 - [agrinman/tunnelto](https://github.com/agrinman/tunnelto) - Expose your local web server to the internet with a public URL.
@@ -2074,7 +2108,7 @@
 - [wfxr/forgit](https://github.com/wfxr/forgit) - :zzz: A utility tool powered by fzf for using git interactively.
 - [p8952/bocker](https://github.com/p8952/bocker) - Docker implemented in around 100 lines of bash
 - [aristocratos/bashtop](https://github.com/aristocratos/bashtop) - Linux/OSX/FreeBSD resource monitor
-- [falcucci/release-me](https://github.com/falcucci/release-me) - Some short and useful scripts to generate things as you need :rocket:
+- [falcucci/release-me](https://github.com/falcucci/release-me) - A bunch of scripts that helps developers manage their software releases. It provides a ready-to-use process to track tasks, organize releases, and automate deployment processes.
 - [jvns/zine-translations](https://github.com/jvns/zine-translations) - SVGs of zines that are easier to translate than a PDF
 - [Toxblh/MTMR-presets](https://github.com/Toxblh/MTMR-presets) - 💈 [My TouchBar My rules] Share your preset!
 - [mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Over 250 terminal color schemes/themes for iTerm/iTerm2. Includes ports to Terminal, Konsole, PuTTY, Xresources, XRDB, Remmina, Termite, XFCE, Tilda, FreeBSD VT, Terminator, Kitty, MobaXterm, LXTermin
@@ -2165,6 +2199,10 @@
 
 ## TypeScript 
 
+- [axeldelafosse/recordpool-universal-ui-poc](https://github.com/axeldelafosse/recordpool-universal-ui-poc) - PoC using Radix UI primitives on iOS, Android and Web with Expo and Next.js 🎉
+- [pacocoursey/cmdk](https://github.com/pacocoursey/cmdk) - Fast, unstyled command menu React component.
+- [leerob/leerob.io](https://github.com/leerob/leerob.io) - ✨  My portfolio built with Next.js, Tailwind CSS, PlanetScale, and Vercel.
+- [yaegassy/coc-ruff](https://github.com/yaegassy/coc-ruff) - ruff-lsp extension for coc.nvim
 - [radix-ui/colors](https://github.com/radix-ui/colors) - A gorgeous, accessible color system.
 - [shadcn/ui](https://github.com/shadcn/ui) - Beautifully designed components built with Radix UI and Tailwind CSS.
 - [primer/react](https://github.com/primer/react) - An implementation of GitHub's Primer Design System using React
@@ -2232,7 +2270,7 @@
 - [khaosdoctor/gotql](https://github.com/khaosdoctor/gotql) - GraphQL query utility for serverside apps
 - [weirongxu/coc-kotlin](https://github.com/weirongxu/coc-kotlin) - Intelligent Kotlin support for coc.nvim
 - [redhat-developer/vscode-java](https://github.com/redhat-developer/vscode-java) - Java Language Support for Visual Studio Code
-- [searchkit/searchkit](https://github.com/searchkit/searchkit) - Search UI for Elasticsearch. Compatible with Algolia's Instantsearch and Autocomplete
+- [searchkit/searchkit](https://github.com/searchkit/searchkit) - Search UI for Elasticsearch. Compatible with Algolia's Instantsearch and Autocomplete components
 - [pahund/zoom-background-videos](https://github.com/pahund/zoom-background-videos) - Background videos for Zoom calls, made with Remotion
 - [pomber/record-talk-with-remotion](https://github.com/pomber/record-talk-with-remotion) - 
 - [remotion-dev/remotion](https://github.com/remotion-dev/remotion) - 🎥      Make videos programmatically with React
