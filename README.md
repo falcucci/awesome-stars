@@ -141,7 +141,6 @@
 - [opencv/opencv](https://github.com/opencv/opencv) - Open Source Computer Vision Library
 - [mawww/kakoune](https://github.com/mawww/kakoune) - mawww's experiment for a better code editor
 - [sqlitebrowser/sqlitebrowser](https://github.com/sqlitebrowser/sqlitebrowser) - Official home of the DB Browser for SQLite (DB4S) project. Previously known as "SQLite Database Browser" and "Database Browser for SQLite". Website at:
-- [neetcode-gh/leetcode](https://github.com/neetcode-gh/leetcode) - Leetcode solutions
 - [sonic-pi-net/sonic-pi](https://github.com/sonic-pi-net/sonic-pi) - Code. Music. Live.
 - [mixxxdj/mixxx](https://github.com/mixxxdj/mixxx) - Mixxx is Free DJ software that gives you everything you need to perform live mixes.
 - [tdlib/td](https://github.com/tdlib/td) - Cross-platform library for building Telegram clients
@@ -527,6 +526,7 @@
 
 ## HTML 
 
+- [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development.
 - [filipedeschamps/tabnews.com.br](https://github.com/filipedeschamps/tabnews.com.br) - Conteúdos para quem trabalha com Programação e Tecnologia.
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
 - [wzulfikar/vercel-runtimes](https://github.com/wzulfikar/vercel-runtimes) - Code examples for different Vercel runtimes.
@@ -662,6 +662,7 @@
 
 ## JavaScript 
 
+- [upstash/vercel-note-taker-slackbot](https://github.com/upstash/vercel-note-taker-slackbot) - Serverless Slackbot with Vercel
 - [segmentio/evergreen](https://github.com/segmentio/evergreen) - 🌲 Evergreen React UI Framework by Segment
 - [netlify-templates/nextjs-blog-theme](https://github.com/netlify-templates/nextjs-blog-theme) - A customizable Next.js and Tailwind blog starter. Designed by the Bejamas agency.
 - [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
@@ -681,6 +682,7 @@
 - [fregante/GhostText](https://github.com/fregante/GhostText) - 👻 Use your text editor to write in your browser. Everything you type in the editor will be instantly updated in the browser (and vice versa).
 - [jlebon/textern](https://github.com/jlebon/textern) - A Firefox add-on for editing text in your favourite external editor!
 - [skygragon/leetcode-cli](https://github.com/skygragon/leetcode-cli) - A cli tool to enjoy leetcode!
+- [neetcode-gh/leetcode](https://github.com/neetcode-gh/leetcode) - Leetcode solutions
 - [falcucci/pokedex](https://github.com/falcucci/pokedex) - 
 - [dracula/gh-pages](https://github.com/dracula/gh-pages) - 🧛🏻‍♂️ Dark theme for GitHub Pages
 - [Flagsmith/flagsmith-docs](https://github.com/Flagsmith/flagsmith-docs) - This is the documentation repository for the Docs of Flagsmith. Ship features with confidence using feature flags and remote config. Host yourself or use our hosted version at https://www.flagsmith.co
@@ -936,7 +938,7 @@
 - [klaudiosinani/hyperocean](https://github.com/klaudiosinani/hyperocean) - Deep oceanic blue Hyper theme
 - [mafintosh/peerflix](https://github.com/mafintosh/peerflix) - Streaming torrent client for node.js
 - [lorepozo/magnet](https://github.com/lorepozo/magnet) - Search for a torrent from the command-line and start streaming
-- [EliverLara/terminator-themes](https://github.com/EliverLara/terminator-themes) - :metal: The biggest collection of Terminator themes.
+- [EliverLara/terminator-themes](https://github.com/EliverLara/terminator-themes) - :metal: The biggest collection of themes for Terminator terminal.
 - [appbaseio/dejavu](https://github.com/appbaseio/dejavu) - The Missing Web UI for Elasticsearch: Import, browse and edit data with rich filters and query views, create search UIs visually.
 - [koajs/kick-off-koa](https://github.com/koajs/kick-off-koa) - [MAINTAINERS WANTED] An intro to koa via a set of self-guided workshops
 - [bulkan/async-you](https://github.com/bulkan/async-you) - Learn to use https://github.com/caolan/async in this self guided workshop
@@ -1641,6 +1643,9 @@
 
 ## Python 
 
+- [faustomorales/keras-ocr](https://github.com/faustomorales/keras-ocr) - A packaged and flexible version of the CRAFT text detector and Keras CRNN recognition model.
+- [samuelcolvin/watchfiles](https://github.com/samuelcolvin/watchfiles) - Simple, modern and fast file watching and code reload in python.
+- [pyca/cryptography](https://github.com/pyca/cryptography) - cryptography is a package designed to expose cryptographic primitives and recipes to Python developers.
 - [hora-search/horapy](https://github.com/hora-search/horapy) - 🐍  Python bidding for the Hora Approximate Nearest Neighbor Search Algorithm library
 - [falcucci/dicomcrop](https://github.com/falcucci/dicomcrop) - Prepare bedside medical images for machine learning and image interpretation, encrypting informations consumed from specified sources afterwards.
 - [camchambers/parallel-python](https://github.com/camchambers/parallel-python) - An example of parallel computing with python.
@@ -1832,6 +1837,16 @@
 
 ## Rust 
 
+- [InstantDomain/instant-distance](https://github.com/InstantDomain/instant-distance) - Fast approximate nearest neighbor searching in Rust, based on HNSW index
+- [0b01/xprite-editor](https://github.com/0b01/xprite-editor) - Pixel art editor
+- [stencila/stencila](https://github.com/stencila/stencila) - Author, collaborate on, and publish beautiful interactive documents
+- [denoland/deno_lint](https://github.com/denoland/deno_lint) - Blazing fast linter for JavaScript and TypeScript written in Rust
+- [gperinazzo/dict-derive](https://github.com/gperinazzo/dict-derive) - Derive PyO3's FromPyObject to automatically transform Python dicts into Rust structs
+- [Anexen/pyxirr](https://github.com/Anexen/pyxirr) - Rust-powered collection of financial functions for Python.
+- [cswinter/LocustDB](https://github.com/cswinter/LocustDB) - Massively parallel, high performance analytics database that will rapidly devour all of your data.
+- [PRQL/prql](https://github.com/PRQL/prql) - PRQL is a modern language for transforming data — a simple, powerful, pipelined SQL replacement
+- [fschutt/azul](https://github.com/fschutt/azul) - Desktop GUI Framework
+- [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
 - [awslabs/aws-lambda-rust-runtime](https://github.com/awslabs/aws-lambda-rust-runtime) - A Rust runtime for AWS Lambda
 - [jameslittle230/stork](https://github.com/jameslittle230/stork) - 🔎 Impossibly fast web search, made for static sites.
 - [TeXitoi/structopt](https://github.com/TeXitoi/structopt) - Parse command line arguments by defining a struct.
@@ -2218,6 +2233,8 @@
 
 ## TypeScript 
 
+- [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev) - ✨ Trigger.dev is an open-source platform that makes it easy for developers to create event-driven background tasks directly in their code.
+- [shadcn/taxonomy](https://github.com/shadcn/taxonomy) - An open source application built using the new router, server components and everything new in Next.js 13.
 - [napi-rs/package-template](https://github.com/napi-rs/package-template) - Template project for using napi-rs to build native package
 - [axeldelafosse/recordpool-universal-ui-poc](https://github.com/axeldelafosse/recordpool-universal-ui-poc) - PoC using Radix UI primitives on iOS, Android and Web with Expo and Next.js 🎉
 - [pacocoursey/cmdk](https://github.com/pacocoursey/cmdk) - Fast, unstyled command menu React component.
@@ -2604,6 +2621,7 @@
 
 ## Vue 
 
+- [mokuappio/serverless-invoices](https://github.com/mokuappio/serverless-invoices) - Create and manage invoices in your browser. Serverless Invoices is a free invoicing tool for freelancers and small businesses. Made with Vue.js.
 - [bestony/logoly](https://github.com/bestony/logoly) - A Pornhub Flavour Logo Generator
 - [yangxikun/monitor-man](https://github.com/yangxikun/monitor-man) - HTTP API monitor based on postman and newman.
 - [Splode/pomotroid](https://github.com/Splode/pomotroid) - :tomato: Simple and visually-pleasing Pomodoro timer
