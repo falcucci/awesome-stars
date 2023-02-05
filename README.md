@@ -2279,6 +2279,11 @@
 
 ## TypeScript 
 
+- [leerob/on-demand-isr](https://github.com/leerob/on-demand-isr) - 
+- [ijjk/notion-blog](https://github.com/ijjk/notion-blog) - A Next.js site using new SSG support with a Notion backed blog
+- [Nutlope/twitterbio](https://github.com/Nutlope/twitterbio) - Generate your Twitter bio with OpenAI and Vercel Edge Functions.
+- [vercel/examples](https://github.com/vercel/examples) - Enjoy our curated collection of examples and solutions. Use these patterns to build your own robust and scalable applications.
+- [chronark/envshare](https://github.com/chronark/envshare) - Share Environnment Variables Securely
 - [vercel/commerce](https://github.com/vercel/commerce) - Next.js Commerce
 - [thedevs-network/kutt](https://github.com/thedevs-network/kutt) - Free Modern URL Shortener.
 - [refinedev/refine](https://github.com/refinedev/refine) - Build your React-based CRUD applications, without constraints.
@@ -2351,7 +2356,7 @@
 - [morethanwords/tweb](https://github.com/morethanwords/tweb) - Telegram Web K, GPL v3
 - [carvalhoviniciusluiz/cpf-cnpj-validator](https://github.com/carvalhoviniciusluiz/cpf-cnpj-validator) - Valida e formata strings de CPF ou CNPJ.
 - [Unleash/unleash](https://github.com/Unleash/unleash) - Simplify your code production through the world’s largest open-source feature management platform.
-- [vuejs/vue](https://github.com/vuejs/vue) - 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
+- [vuejs/vue](https://github.com/vuejs/vue) - This is the repo for Vue 2. For Vue 3, go to https://github.com/vuejs/core
 - [neoclide/coc-eslint](https://github.com/neoclide/coc-eslint) - Eslint extension for coc.nvim
 - [davidarroyo1234/InstagramUnfollowers](https://github.com/davidarroyo1234/InstagramUnfollowers) - Check if people follows you back on Instagram.
 - [input-output-hk/daedalus](https://github.com/input-output-hk/daedalus) - The open source cryptocurrency wallet for ada, built to grow with the community
@@ -2461,7 +2466,7 @@
 - [AntonioVdlC/html-template-tag](https://github.com/AntonioVdlC/html-template-tag) - :page_facing_up: - ES6 Tagged Template for compiling HTML template strings
 - [alex-kinokon/jsx-dom](https://github.com/alex-kinokon/jsx-dom) - Use JSX to create DOM elements.
 - [styfle/copee](https://github.com/styfle/copee) - 📄 Copy text from browser to clipboard...natively! &lt; 1kB
-- [knicklabs/lorem-ipsum.js](https://github.com/knicklabs/lorem-ipsum.js) - A Node.js module for generating lorem ipsum placeholder text
+- [knicklabs/lorem-ipsum.js](https://github.com/knicklabs/lorem-ipsum.js) - Generate lorem ipsum placeholder text
 - [microsoft/fluentui](https://github.com/microsoft/fluentui) - Fluent UI web represents a collection of utilities, React components, and web components for building web applications.
 - [fregante/webext-domain-permission-toggle](https://github.com/fregante/webext-domain-permission-toggle) - Browser-action context menu to request permission for the current tab.
 - [fregante/select-dom](https://github.com/fregante/select-dom) - Lightweight querySelector/All wrapper that outputs an Array
