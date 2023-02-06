@@ -1840,6 +1840,25 @@
 
 ## Rust 
 
+- [a-b-street/abstreet](https://github.com/a-b-street/abstreet) - Transportation planning and traffic simulation software for creating cities friendlier to walking, biking, and public transit
+- [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Friendly React-like GUI library for desktop, web, mobile, and more.
+- [svenstaro/rust-web-boilerplate](https://github.com/svenstaro/rust-web-boilerplate) - Rust web template for modern web backend applications
+- [svenstaro/genact](https://github.com/svenstaro/genact) - 🌀 A nonsense activity generator
+- [o2sh/onefetch](https://github.com/o2sh/onefetch) - Command-line Git information tool
+- [EmbarkStudios/rust-gpu](https://github.com/EmbarkStudios/rust-gpu) - 🐉 Making Rust a first-class language and ecosystem for GPU shaders 🚧
+- [Futsch1/image-sieve](https://github.com/Futsch1/image-sieve) - GUI based tool to sort and categorize images written in Rust
+- [slint-ui/cargo-ui](https://github.com/slint-ui/cargo-ui) - GUI for Cargo
+- [mrDIMAS/StationIapetus](https://github.com/mrDIMAS/StationIapetus) - 3rd person shooter in the very early development phase
+- [FyroxEngine/Fyrox](https://github.com/FyroxEngine/Fyrox) - 3D and 2D game engine written in Rust
+- [crossbeam-rs/crossbeam](https://github.com/crossbeam-rs/crossbeam) - Tools for concurrent programming in Rust
+- [pemistahl/grex](https://github.com/pemistahl/grex) - A command-line tool and Rust library for generating regular expressions from user-provided test cases
+- [orhun/git-cliff](https://github.com/orhun/git-cliff) - A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️
+- [autumnai/leaf](https://github.com/autumnai/leaf) - Open Machine Intelligence Framework for Hackers. (GPU/CPU)
+- [ogham/dog](https://github.com/ogham/dog) - A command-line DNS client.
+- [Wilfred/difftastic](https://github.com/Wilfred/difftastic) - a structural diff that understands syntax 🟥🟩
+- [rapiz1/catp](https://github.com/rapiz1/catp) - Print the output of a running process
+- [rapiz1/rathole](https://github.com/rapiz1/rathole) - A lightweight and high-performance reverse proxy for NAT traversal, written in Rust. An alternative to frp and ngrok.
+- [libreddit/libreddit](https://github.com/libreddit/libreddit) - Private front-end for Reddit
 - [Y2Z/monolith](https://github.com/Y2Z/monolith) - ⬛️ CLI tool for saving complete web pages as a single HTML file
 - [elkowar/eww](https://github.com/elkowar/eww) - ElKowars wacky widgets
 - [cantino/mcfly](https://github.com/cantino/mcfly) - Fly through your shell history. Great Scott!
@@ -2022,7 +2041,6 @@
 - [steadylearner/Rust-Full-Stack](https://github.com/steadylearner/Rust-Full-Stack) - Rust projects here are easy to use. There are blog posts for them also.
 - [rossmacarthur/complexity](https://github.com/rossmacarthur/complexity) - Calculate cognitive complexity of Rust code
 - [ekzhang/bore](https://github.com/ekzhang/bore) - 🕳 bore is a simple CLI tool for making tunnels to localhost
-- [o2sh/onefetch](https://github.com/o2sh/onefetch) - Command-line Git information tool
 - [hyperium/tonic](https://github.com/hyperium/tonic) - A native gRPC client & server implementation with async/await support.
 - [emilk/egui](https://github.com/emilk/egui) - egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native
 - [denisidoro/navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
