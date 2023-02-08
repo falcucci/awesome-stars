@@ -184,6 +184,8 @@
 
 ## CSS 
 
+- [paljs/nextjs-admin-template](https://github.com/paljs/nextjs-admin-template) - Free admin dashboard template based on Next.Js with @paljs/ui component package
+- [creativetimofficial/nextjs-argon-dashboard](https://github.com/creativetimofficial/nextjs-argon-dashboard) - NextJS version of Argon Dashboard React
 - [rowanhogan/resumebuilder](https://github.com/rowanhogan/resumebuilder) - PDF Résumé generator using LinkedIn info.
 - [rekihattori/awesome-programmers](https://github.com/rekihattori/awesome-programmers) - A list of history's greatest software engineers and tech pioneers
 - [connorferster/handcalcs](https://github.com/connorferster/handcalcs) - Python library for converting Python calculations into rendered latex.
@@ -264,7 +266,7 @@
 - [vercel/go-bridge](https://github.com/vercel/go-bridge) - Bridge for `@vercel/go`
 - [cointop-sh/cointop](https://github.com/cointop-sh/cointop) - A fast and lightweight interactive terminal based UI application for tracking cryptocurrencies 🚀
 - [cswank/kcli](https://github.com/cswank/kcli) - A kafka command line browser
-- [thehowl/claws](https://github.com/thehowl/claws) - Awesome WebSocket CLient - an interactive command line client for testing websocket servers
+- [thehowl/claws](https://github.com/thehowl/claws) - Awesome WebSocket CLient - an interactive CLI command line client for testing websocket servers
 - [jroimartin/gocui](https://github.com/jroimartin/gocui) - Minimalist Go package aimed at creating Console User Interfaces.
 - [jesseduffield/lazynpm](https://github.com/jesseduffield/lazynpm) - terminal UI for npm
 - [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs.
@@ -662,6 +664,13 @@
 
 ## JavaScript 
 
+- [codedthemes/mantis-free-react-admin-template](https://github.com/codedthemes/mantis-free-react-admin-template) - Mantis is React Dashboard Template having combine tone of 2 popular react component library - MUI and Ant Design principles.
+- [gregrickaby/nextjs-github-pages](https://github.com/gregrickaby/nextjs-github-pages) - 🚀 Deploy a Next.js app to Github Pages via Github Actions.
+- [kulkarniankita/discover-coffee-stores](https://github.com/kulkarniankita/discover-coffee-stores) - This app allows you to discover coffee stores, check out the course http://bit.ly/nextjs-udemy-ankita on how to build this
+- [tientran0019/boilerplate-nextjs-antd-less](https://github.com/tientran0019/boilerplate-nextjs-antd-less) - A boilerplate for Reactjs app using nextjs, redux, antd, less
+- [chec/commercejs-nextjs-demo-store](https://github.com/chec/commercejs-nextjs-demo-store) - Commerce demo store built for the Jamstack. Built with Commerce.js, Next.js, and can be one-click deployed to Netlify. Includes product catalog, customer login, categories, variants, cart, checkout, p
+- [creativetimofficial/nextjs-material-kit](https://github.com/creativetimofficial/nextjs-material-kit) - NextJS version of Material Kit React by Creative Tim
+- [craigary/nobelium](https://github.com/craigary/nobelium) - A static blog build on top of Notion and NextJS, deployed on Vercel.
 - [reactjs/react-magic](https://github.com/reactjs/react-magic) - Automatically AJAXify plain HTML with the power of React. It's magic!
 - [tanmayrajani/notifications-preview-github](https://github.com/tanmayrajani/notifications-preview-github) - Browser Extension: preview GitHub notifications with same page pop-overs
 - [upstash/vercel-note-taker-slackbot](https://github.com/upstash/vercel-note-taker-slackbot) - Serverless Slackbot with Vercel
@@ -1840,6 +1849,10 @@
 
 ## Rust 
 
+- [AidenHadisi/chat_gpt_slack](https://github.com/AidenHadisi/chat_gpt_slack) - A ChatGPT bot for slack.
+- [twilio-labs/receptionist-bot-rs](https://github.com/twilio-labs/receptionist-bot-rs) - Slack bot for self-servicing automation of common or predictable tasks.
+- [infinyon/node-bindgen](https://github.com/infinyon/node-bindgen) - Easy way to write Node.js module using Rust
+- [abdolence/slack-morphism-rust](https://github.com/abdolence/slack-morphism-rust) - A modern async client library for Rust, supports Slack Web / Events API/Socket Mode and Block Kit.
 - [a-b-street/abstreet](https://github.com/a-b-street/abstreet) - Transportation planning and traffic simulation software for creating cities friendlier to walking, biking, and public transit
 - [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Friendly React-like GUI library for desktop, web, mobile, and more.
 - [svenstaro/rust-web-boilerplate](https://github.com/svenstaro/rust-web-boilerplate) - Rust web template for modern web backend applications
@@ -1891,7 +1904,7 @@
 - [PistonDevelopers/conrod](https://github.com/PistonDevelopers/conrod) - An easy-to-use, 2D GUI library written entirely in Rust.
 - [serenity-rs/serenity](https://github.com/serenity-rs/serenity) - A Rust library for the Discord API.
 - [ivanceras/svgbob](https://github.com/ivanceras/svgbob) - Convert your ascii diagram scribbles into happy little SVG
-- [cloudflare/wrangler](https://github.com/cloudflare/wrangler) - 🤠   wrangle your Cloudflare Workers
+- [cloudflare/wrangler-legacy](https://github.com/cloudflare/wrangler-legacy) - 🤠   wrangle your Cloudflare Workers
 - [ralfbiedert/cheats.rs](https://github.com/ralfbiedert/cheats.rs) - Rust Language Cheat Sheet - https://cheats.rs
 - [console-rs/indicatif](https://github.com/console-rs/indicatif) - A command line progress reporting library for Rust
 - [krustlet/krustlet](https://github.com/krustlet/krustlet) - Kubernetes Rust Kubelet
@@ -2186,6 +2199,7 @@
 
 ## Shell 
 
+- [0xacx/chatGPT-shell-cli](https://github.com/0xacx/chatGPT-shell-cli) - Simple shell script to use OpenAI's chatGPT and DALL-E from the terminal
 - [lemnos/theme.sh](https://github.com/lemnos/theme.sh) - A script which lets you set your $terminal theme.
 - [rethab/gh-project](https://github.com/rethab/gh-project) - github cli extension to work with projects
 - [mbrubeck/android-completion](https://github.com/mbrubeck/android-completion) - Bash completion for "adb" from the Google Android SDK
@@ -2265,6 +2279,7 @@
 
 ## Svelte 
 
+- [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - ⭐️ ⭐️ ⭐️ ⭐️ ⭐️  The most popular, free and open-source Tailwind CSS component library
 - [hankxdev/one-click-extensions-manager](https://github.com/hankxdev/one-click-extensions-manager) - a simple chrome extension to manage chrome extension
 - [npmhub/npmhub](https://github.com/npmhub/npmhub) - 🔎 A browser extension to explore npm dependencies on GitHub repos
 
@@ -2297,6 +2312,21 @@
 
 ## TypeScript 
 
+- [rajatkulkarni95/buildlog](https://github.com/rajatkulkarni95/buildlog) - Vercel Deployments in Menu Bar
+- [edwintantawi/airbnb-web-clone](https://github.com/edwintantawi/airbnb-web-clone) - Airbnb clone with NextJS + Typescript + Tailwindcss
+- [TanStack/table](https://github.com/TanStack/table) - 🤖 Headless UI for building powerful tables & datagrids for TS/JS -  React-Table, Vue-Table, Solid-Table, Svelte-Table
+- [kitloong/nextjs-dashboard](https://github.com/kitloong/nextjs-dashboard) - A Next.JS boilerplate with the famous Open Source Boostrap Admin Template, CoreUI.
+- [paljs/prisma-tools](https://github.com/paljs/prisma-tools) - Prisma tools to help you generate CRUD system for GraphQL servers
+- [paljs/prisma-admin](https://github.com/paljs/prisma-admin) - Full-stack Prisma, GraphQL, Nexus, Apollo, and NextJS with Admin UI to control your Prisma DB
+- [BuilderIO/nextjs-shopify](https://github.com/BuilderIO/nextjs-shopify) - The ultimate starter for headless Shopify stores
+- [nextui-org/nextui](https://github.com/nextui-org/nextui) - 🚀   Beautiful, fast and modern React UI library.
+- [andrecampll/next-ifood](https://github.com/andrecampll/next-ifood) - Ifood clone made with NextJS ⚛️
+- [ChangoMan/nextjs-typescript-mdx-blog](https://github.com/ChangoMan/nextjs-typescript-mdx-blog) - Next.js blog starter built with Typescript, MDX, and Tailwind CSS.
+- [paljs/ui](https://github.com/paljs/ui) - React Styled Components with bootstrap grid system
+- [react-shop/react-ecommerce](https://github.com/react-shop/react-ecommerce) - E-commerce monorepo application using NextJs, React, React-native, Design-System and Graphql with Typescript
+- [napthedev/toptop-clone](https://github.com/napthedev/toptop-clone) - A fullstack TikTok clone with Nextjs, Prisma, trpc
+- [poulainv/tottem](https://github.com/poulainv/tottem) - Bookmark manager on steroid built with React / NextJs / Apollo Tools / Prisma 2 — styled with TailwindCSS 🌱🎺
+- [i18next/next-i18next](https://github.com/i18next/next-i18next) - The easiest way to translate your NextJs apps.
 - [leerob/on-demand-isr](https://github.com/leerob/on-demand-isr) - 
 - [ijjk/notion-blog](https://github.com/ijjk/notion-blog) - A Next.js site using new SSG support with a Notion backed blog
 - [Nutlope/twitterbio](https://github.com/Nutlope/twitterbio) - Generate your Twitter bio with OpenAI and Vercel Edge Functions.
