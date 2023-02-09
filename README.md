@@ -528,6 +528,7 @@
 
 ## HTML 
 
+- [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - GPT-powered chat for documentation search & assistance.
 - [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development.
 - [filipedeschamps/tabnews.com.br](https://github.com/filipedeschamps/tabnews.com.br) - Conteúdos para quem trabalha com Programação e Tecnologia.
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
@@ -1655,6 +1656,8 @@
 
 ## Python 
 
+- [vwxyzjn/cleanrl](https://github.com/vwxyzjn/cleanrl) - High-quality single file implementation of Deep Reinforcement Learning algorithms with research-friendly features (PPO, DQN, C51, DDPG, TD3, SAC, PPG)
+- [PyO3/setuptools-rust](https://github.com/PyO3/setuptools-rust) - Setuptools plugin for Rust support
 - [faustomorales/keras-ocr](https://github.com/faustomorales/keras-ocr) - A packaged and flexible version of the CRAFT text detector and Keras CRNN recognition model.
 - [samuelcolvin/watchfiles](https://github.com/samuelcolvin/watchfiles) - Simple, modern and fast file watching and code reload in python.
 - [pyca/cryptography](https://github.com/pyca/cryptography) - cryptography is a package designed to expose cryptographic primitives and recipes to Python developers.
@@ -1849,6 +1852,11 @@
 
 ## Rust 
 
+- [vamolessa/pepper](https://github.com/vamolessa/pepper) - A simple and opinionated modal code editor for your terminal
+- [aschey/vercel-tokei](https://github.com/aschey/vercel-tokei) - Tokei badge service running as a Vercel serverless function
+- [silkenweb/silkenweb](https://github.com/silkenweb/silkenweb) - A library for writing reactive single page web apps
+- [ZOXEXIVO/football-simulator](https://github.com/ZOXEXIVO/football-simulator) - Football simulation engine (like Football Manager) written in pure Rust
+- [tokio-rs/axum](https://github.com/tokio-rs/axum) - Ergonomic and modular web framework built with Tokio, Tower, and Hyper
 - [AidenHadisi/chat_gpt_slack](https://github.com/AidenHadisi/chat_gpt_slack) - A ChatGPT bot for slack.
 - [twilio-labs/receptionist-bot-rs](https://github.com/twilio-labs/receptionist-bot-rs) - Slack bot for self-servicing automation of common or predictable tasks.
 - [infinyon/node-bindgen](https://github.com/infinyon/node-bindgen) - Easy way to write Node.js module using Rust
@@ -2312,6 +2320,14 @@
 
 ## TypeScript 
 
+- [timc1/kbar](https://github.com/timc1/kbar) - fast, portable, and extensible cmd+k interface for your site
+- [pacocoursey/next-themes](https://github.com/pacocoursey/next-themes) - Perfect Next.js dark mode in 2 lines of code. Support System preference and any other theme with no flashing
+- [fregante/webext-sandbox](https://github.com/fregante/webext-sandbox) - WIP
+- [Nutlope/news-summarizer](https://github.com/Nutlope/news-summarizer) - News summarizer with GPT-3 – specifically for TechCrunch articles
+- [theodorusclarence/og](https://github.com/theodorusclarence/og) - 🍇 Open Graph Generator made using @vercel/og for personal use
+- [theodorusclarence/ts-nextjs-tailwind-starter](https://github.com/theodorusclarence/ts-nextjs-tailwind-starter) - 🔋 Next.js + Tailwind CSS + TypeScript starter and boilerplate packed with useful development features
+- [iamvishnusankar/next-sitemap](https://github.com/iamvishnusankar/next-sitemap) - Sitemap generator for next.js. Generate sitemap(s) and robots.txt for all static/pre-rendered/dynamic/server-side pages.
+- [leptos-rs/start](https://github.com/leptos-rs/start) - Starter template for use with the Leptos web framework.
 - [rajatkulkarni95/buildlog](https://github.com/rajatkulkarni95/buildlog) - Vercel Deployments in Menu Bar
 - [edwintantawi/airbnb-web-clone](https://github.com/edwintantawi/airbnb-web-clone) - Airbnb clone with NextJS + Typescript + Tailwindcss
 - [TanStack/table](https://github.com/TanStack/table) - 🤖 Headless UI for building powerful tables & datagrids for TS/JS -  React-Table, Vue-Table, Solid-Table, Svelte-Table
