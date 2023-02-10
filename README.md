@@ -175,7 +175,6 @@
 - [microsoft/react-native-windows](https://github.com/microsoft/react-native-windows) - A framework for building native Windows apps with React.
 - [react-native-linear-gradient/react-native-linear-gradient](https://github.com/react-native-linear-gradient/react-native-linear-gradient) - A &lt;LinearGradient /&gt; component for react-native
 - [nem0/LumixEngine](https://github.com/nem0/LumixEngine) - 3D C++ Game Engine - yet another open source game engine
-- [lottie-react-native/lottie-react-native](https://github.com/lottie-react-native/lottie-react-native) - Lottie wrapper for React Native.
 - [anbox/anbox](https://github.com/anbox/anbox) - Anbox is a container-based approach to boot a full Android system on a regular GNU/Linux system
 - [nodejs/node-addon-examples](https://github.com/nodejs/node-addon-examples) - Node.js C++ addon examples from http://nodejs.org/docs/latest/api/addons.html
 - [mkrufky/node-native-json](https://github.com/mkrufky/node-native-json) - Access the v8::JSON object methods Parse & Stringify from native c++ addons across all versions of node.js
@@ -184,6 +183,7 @@
 
 ## CSS 
 
+- [hangbale/photography-blog](https://github.com/hangbale/photography-blog) - photography blog generator - 摄影类静态博客生成器
 - [paljs/nextjs-admin-template](https://github.com/paljs/nextjs-admin-template) - Free admin dashboard template based on Next.Js with @paljs/ui component package
 - [creativetimofficial/nextjs-argon-dashboard](https://github.com/creativetimofficial/nextjs-argon-dashboard) - NextJS version of Argon Dashboard React
 - [rowanhogan/resumebuilder](https://github.com/rowanhogan/resumebuilder) - PDF Résumé generator using LinkedIn info.
@@ -665,6 +665,9 @@
 
 ## JavaScript 
 
+- [apexcharts/react-apexcharts](https://github.com/apexcharts/react-apexcharts) - 📊 React Component for ApexCharts
+- [shobrook/stackoverflow.gg](https://github.com/shobrook/stackoverflow.gg) - AI-generated answers to every coding question
+- [AnishDe12020/slapcommands](https://github.com/AnishDe12020/slapcommands) - 
 - [codedthemes/mantis-free-react-admin-template](https://github.com/codedthemes/mantis-free-react-admin-template) - Mantis is React Dashboard Template having combine tone of 2 popular react component library - MUI and Ant Design principles.
 - [gregrickaby/nextjs-github-pages](https://github.com/gregrickaby/nextjs-github-pages) - 🚀 Deploy a Next.js app to Github Pages via Github Actions.
 - [kulkarniankita/discover-coffee-stores](https://github.com/kulkarniankita/discover-coffee-stores) - This app allows you to discover coffee stores, check out the course http://bit.ly/nextjs-udemy-ankita on how to build this
@@ -1418,6 +1421,7 @@
 - [JetBrains/ideavim](https://github.com/JetBrains/ideavim) - IdeaVim – A Vim engine for JetBrains IDEs
 - [MarcinMoskala/ActivityStarter](https://github.com/MarcinMoskala/ActivityStarter) - Simple Android Library, that provides easy way to start the Activities with arguments.
 - [sourcerer-io/sourcerer-app](https://github.com/sourcerer-io/sourcerer-app) - 🦄 Sourcerer app makes a visual profile from your GitHub and git repositories.
+- [lottie-react-native/lottie-react-native](https://github.com/lottie-react-native/lottie-react-native) - Lottie wrapper for React Native.
 
 ## Lua 
 
@@ -1656,6 +1660,7 @@
 
 ## Python 
 
+- [shobrook/rebound](https://github.com/shobrook/rebound) - Command-line tool that instantly fetches Stack Overflow results when an exception is thrown
 - [vwxyzjn/cleanrl](https://github.com/vwxyzjn/cleanrl) - High-quality single file implementation of Deep Reinforcement Learning algorithms with research-friendly features (PPO, DQN, C51, DDPG, TD3, SAC, PPG)
 - [PyO3/setuptools-rust](https://github.com/PyO3/setuptools-rust) - Setuptools plugin for Rust support
 - [faustomorales/keras-ocr](https://github.com/faustomorales/keras-ocr) - A packaged and flexible version of the CRAFT text detector and Keras CRNN recognition model.
@@ -1852,6 +1857,7 @@
 
 ## Rust 
 
+- [AnishDe12020/secli](https://github.com/AnishDe12020/secli) - A CLI to store secrets locally
 - [vamolessa/pepper](https://github.com/vamolessa/pepper) - A simple and opinionated modal code editor for your terminal
 - [aschey/vercel-tokei](https://github.com/aschey/vercel-tokei) - Tokei badge service running as a Vercel serverless function
 - [silkenweb/silkenweb](https://github.com/silkenweb/silkenweb) - A library for writing reactive single page web apps
@@ -2320,6 +2326,16 @@
 
 ## TypeScript 
 
+- [sereneinserenade/placenoter](https://github.com/sereneinserenade/placenoter) - Chrome extension to turn browser's default new tab into note-taking machine.
+- [AnishDe12020/portfolio](https://github.com/AnishDe12020/portfolio) - My portfolio site built using nextjs, contentlayer, and tailwind css
+- [AnishDe12020/gtfol-domains](https://github.com/AnishDe12020/gtfol-domains) - 
+- [KarthikeyanRanasthala/depulso](https://github.com/KarthikeyanRanasthala/depulso) - Deploy your static site in seconds
+- [toeverything/blocksuite](https://github.com/toeverything/blocksuite) - 💠 BlockSuite is the open-source collaborative editor project behind AFFiNE.
+- [Siumauricio/portfolio](https://github.com/Siumauricio/portfolio) - Simple and minimalist portfolio using Nextjs and NextUI.
+- [Siumauricio/nextjs-template-portfolio](https://github.com/Siumauricio/nextjs-template-portfolio) - Simple and minimalist portfolio using NextJs and TailwindCSS with DaisyUI with support with dark mode and more than 25 themes!!
+- [Siumauricio/nextui-dashboard-template](https://github.com/Siumauricio/nextui-dashboard-template) - Dashboard starter using NextUI and Nextjs.
+- [Siumauricio/landing-template-nextui](https://github.com/Siumauricio/landing-template-nextui) - Landing page for any SaaS company, using Nextjs and NextUI
+- [WalletConnect/web3modal](https://github.com/WalletConnect/web3modal) - A single Web3 provider solution for all Wallets
 - [timc1/kbar](https://github.com/timc1/kbar) - fast, portable, and extensible cmd+k interface for your site
 - [pacocoursey/next-themes](https://github.com/pacocoursey/next-themes) - Perfect Next.js dark mode in 2 lines of code. Support System preference and any other theme with no flashing
 - [fregante/webext-sandbox](https://github.com/fregante/webext-sandbox) - WIP
