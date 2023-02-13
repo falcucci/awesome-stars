@@ -1860,6 +1860,7 @@
 
 ## Rust 
 
+- [max-niederman/ttyper](https://github.com/max-niederman/ttyper) - Terminal-based typing test.
 - [AnishDe12020/secli](https://github.com/AnishDe12020/secli) - A CLI to store secrets locally
 - [vamolessa/pepper](https://github.com/vamolessa/pepper) - A simple and opinionated modal code editor for your terminal
 - [aschey/vercel-tokei](https://github.com/aschey/vercel-tokei) - Tokei badge service running as a Vercel serverless function
@@ -2329,6 +2330,7 @@
 
 ## TypeScript 
 
+- [maxam2017/productive-box](https://github.com/maxam2017/productive-box) - Are you an early 🐤 or a night 🦉? Let's check out in gist
 - [sereneinserenade/placenoter](https://github.com/sereneinserenade/placenoter) - Chrome extension to turn browser's default new tab into note-taking machine.
 - [AnishDe12020/portfolio](https://github.com/AnishDe12020/portfolio) - My portfolio site built using nextjs, contentlayer, and tailwind css
 - [AnishDe12020/gtfol-domains](https://github.com/AnishDe12020/gtfol-domains) - 
