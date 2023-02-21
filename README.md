@@ -667,6 +667,8 @@
 
 ## JavaScript 
 
+- [postmanlabs/postman-collection](https://github.com/postmanlabs/postman-collection) - Javascript module that allows a developer to work with Postman Collections
+- [isaacs/node-glob](https://github.com/isaacs/node-glob) - glob functionality for node.js
 - [mozilla/webextension-polyfill](https://github.com/mozilla/webextension-polyfill) - A lightweight polyfill library for Promise-based WebExtension APIs in Chrome
 - [falcucci/italy-today](https://github.com/falcucci/italy-today) - Summarize the latest or specific news from Italy extracting the most important informations using AI and presenting them in a concise and easy-to-understand format.
 - [DevExpress/devextreme-react](https://github.com/DevExpress/devextreme-react) - React UI and data visualization components
@@ -1293,7 +1295,7 @@
 - [piuccio/cowsay](https://github.com/piuccio/cowsay) - cowsay is a configurable talking cow
 - [IonicaBizau/ship-release](https://github.com/IonicaBizau/ship-release) - :ship: Publish new versions on GitHub and npm with ease.
 - [mattdesl/ghrepo](https://github.com/mattdesl/ghrepo) - :octocat: create a new GitHub repo from your current folder
-- [cerebroapp/cerebro](https://github.com/cerebroapp/cerebro) - Open-source productivity booster with a brain
+- [cerebroapp/cerebro](https://github.com/cerebroapp/cerebro) - 🔵 Cerebro is an open-source launcher to improve your productivity and efficiency
 - [lmenezes/cerebro](https://github.com/lmenezes/cerebro) - 
 - [ningt/os-usage](https://github.com/ningt/os-usage) - A nodejs module for Mac OSX to watch system usage
 - [sindresorhus/fast-cli](https://github.com/sindresorhus/fast-cli) - Test your download and upload speed using fast.com
@@ -1866,6 +1868,7 @@
 
 ## Rust 
 
+- [wooorm/mdxjs-rs](https://github.com/wooorm/mdxjs-rs) - Compile MDX to JavaScript in Rust
 - [ekzhang/rustpad](https://github.com/ekzhang/rustpad) - Efficient and minimal collaborative code editor, self-hosted, no database required
 - [ilai-deutel/kibi](https://github.com/ilai-deutel/kibi) - A text editor in ≤1024 lines of code, written in Rust
 - [ibraheemdev/matchit](https://github.com/ibraheemdev/matchit) - A high performance URL router.
