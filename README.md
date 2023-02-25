@@ -1873,6 +1873,8 @@
 
 ## Rust 
 
+- [libp2p/rust-libp2p](https://github.com/libp2p/rust-libp2p) - The Rust Implementation of the libp2p networking stack.
+- [dudykr/stc](https://github.com/dudykr/stc) - Speedy TypeScript type checker
 - [tdp2110/crafting-interpreters-rs](https://github.com/tdp2110/crafting-interpreters-rs) - Crafting Interpreters in Rust
 - [wooorm/mdxjs-rs](https://github.com/wooorm/mdxjs-rs) - Compile MDX to JavaScript in Rust
 - [ekzhang/rustpad](https://github.com/ekzhang/rustpad) - Efficient and minimal collaborative code editor, self-hosted, no database required
@@ -2236,7 +2238,7 @@
 
 ## Shell 
 
-- [0xacx/chatGPT-shell-cli](https://github.com/0xacx/chatGPT-shell-cli) - Simple shell script to use OpenAI's chatGPT and DALL-E from the terminal
+- [0xacx/chatGPT-shell-cli](https://github.com/0xacx/chatGPT-shell-cli) - Simple shell script to use OpenAI's ChatGPT and DALL-E from the terminal. No Python or JS required.
 - [lemnos/theme.sh](https://github.com/lemnos/theme.sh) - A script which lets you set your $terminal theme.
 - [rethab/gh-project](https://github.com/rethab/gh-project) - github cli extension to work with projects
 - [mbrubeck/android-completion](https://github.com/mbrubeck/android-completion) - Bash completion for "adb" from the Google Android SDK
@@ -2322,6 +2324,7 @@
 
 ## Swift 
 
+- [mickael-menu/ShadowVim](https://github.com/mickael-menu/ShadowVim) - Neovim 𝘪𝘯𝘴𝘪𝘥𝘦 Xcode, for real.
 - [sindresorhus/KeyboardShortcuts](https://github.com/sindresorhus/KeyboardShortcuts) - ⌨️ Add user-customizable global keyboard shortcuts to your macOS app in minutes
 - [neilsardesai/Mouse-Finder](https://github.com/neilsardesai/Mouse-Finder) - 🖱👀 An NSDockTile experiment
 - [T-Pham/CoinPriceBar](https://github.com/T-Pham/CoinPriceBar) - 💰 Cryptocurrency prices on MacBook Touch Bar
@@ -2349,6 +2352,9 @@
 
 ## TypeScript 
 
+- [geist-org/geist-ui](https://github.com/geist-org/geist-ui) - A design system for building modern websites and applications.
+- [emilkowalski/sonner](https://github.com/emilkowalski/sonner) - An opinionated toast component for React.
+- [jotaijs/jotai-recoil](https://github.com/jotaijs/jotai-recoil) - 
 - [falcucci/.eu](https://github.com/falcucci/.eu) - Personal website built with React designed for quick and easy navigation. It features some pages with a showcase about past and current projects, along with some thoughts on web development and techno
 - [AlfieJones/theme-toggles](https://github.com/AlfieJones/theme-toggles) - Theme toggles is a collection of awesome, easy to use, animated toggles; designed for switching between light and dark modes. It's a modular library which aims to provide an ample customization where 
 - [warrenday/graphql-network-inspector](https://github.com/warrenday/graphql-network-inspector) - Chrome Plugin for GraphQL network monitoring
