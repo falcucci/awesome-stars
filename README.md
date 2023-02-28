@@ -667,10 +667,10 @@
 
 ## JavaScript 
 
+- [falcucci/github-auto-issue](https://github.com/falcucci/github-auto-issue) - AI-driven browser extension to generate Github issue summary as a quick start to improve your workflow experience and save your time.
 - [meteor/meteor](https://github.com/meteor/meteor) - Meteor, the JavaScript App Platform
 - [ai/nanoid](https://github.com/ai/nanoid) - A tiny (130 bytes), secure, URL-friendly, unique string ID generator for JavaScript
 - [postmanlabs/postman-collection](https://github.com/postmanlabs/postman-collection) - Javascript module that allows a developer to work with Postman Collections
-- [isaacs/node-glob](https://github.com/isaacs/node-glob) - glob functionality for node.js
 - [mozilla/webextension-polyfill](https://github.com/mozilla/webextension-polyfill) - A lightweight polyfill library for Promise-based WebExtension APIs in Chrome
 - [falcucci/italy-today](https://github.com/falcucci/italy-today) - Summarize the latest or specific news from Italy extracting the most important informations using AI and presenting them in a concise and easy-to-understand format.
 - [DevExpress/devextreme-react](https://github.com/DevExpress/devextreme-react) - React UI and data visualization components
@@ -1875,6 +1875,7 @@
 
 ## Rust 
 
+- [gbaranski/houseflow](https://github.com/gbaranski/houseflow) - Home automation platform made in Rust 🦀.
 - [neovide/neovide](https://github.com/neovide/neovide) - No Nonsense Neovim Client in Rust
 - [qdrant/qdrant](https://github.com/qdrant/qdrant) - Qdrant - Vector Search Engine and Database for the next generation of AI applications. Also available in the cloud https://qdrant.to/cloud
 - [libp2p/rust-libp2p](https://github.com/libp2p/rust-libp2p) - The Rust Implementation of the libp2p networking stack.
@@ -2356,6 +2357,8 @@
 
 ## TypeScript 
 
+- [pmndrs/jotai](https://github.com/pmndrs/jotai) - 👻 Primitive and flexible state management for React
+- [jotaijs/jotai-optics](https://github.com/jotaijs/jotai-optics) - Jotai integration library for optics-ts
 - [refined-github/github-url-detection](https://github.com/refined-github/github-url-detection) - Which GitHub page are you on? Is it an issue? Is it a list? Perfect for your WebExtension or userscript.
 - [wong2/chatgpt-google-extension](https://github.com/wong2/chatgpt-google-extension) - A browser extension that enhance search engines with ChatGPT
 - [vercel-labs/slacker](https://github.com/vercel-labs/slacker) - A bot that notifies you on Slack whenever your company/product is mentioned on Hacker News. Powered by Vercel Functions & Upstash.
@@ -2365,6 +2368,7 @@
 - [falcucci/.eu](https://github.com/falcucci/.eu) - Personal website built with React designed for quick and easy navigation. It features some pages with a showcase about past and current projects, along with some thoughts on web development and techno
 - [AlfieJones/theme-toggles](https://github.com/AlfieJones/theme-toggles) - Theme toggles is a collection of awesome, easy to use, animated toggles; designed for switching between light and dark modes. It's a modular library which aims to provide an ample customization where 
 - [warrenday/graphql-network-inspector](https://github.com/warrenday/graphql-network-inspector) - Chrome Plugin for GraphQL network monitoring
+- [isaacs/node-glob](https://github.com/isaacs/node-glob) - glob functionality for node.js
 - [felixfbecker/svg-screenshots](https://github.com/felixfbecker/svg-screenshots) - 📸🧩 Browser extension to take scalable, semantic, accessible screenshots of websites in SVG format.
 - [antfu/vitesse-webext](https://github.com/antfu/vitesse-webext) - ⚡️ WebExtension Vite Starter Template
 - [hensm/fx_cast](https://github.com/hensm/fx_cast) - Chromecast Web Sender SDK implementation for Firefox
