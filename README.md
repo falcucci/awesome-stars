@@ -676,7 +676,7 @@
 - [DevExpress/devextreme-react](https://github.com/DevExpress/devextreme-react) - React UI and data visualization components
 - [tameemsafi/typewriterjs](https://github.com/tameemsafi/typewriterjs) - A simple yet powerful native javascript plugin for a cool typewriter effect.
 - [apexcharts/react-apexcharts](https://github.com/apexcharts/react-apexcharts) - 📊 React Component for ApexCharts
-- [shobrook/stackoverflow.gg](https://github.com/shobrook/stackoverflow.gg) - AI-generated answers to every coding question
+- [shobrook/ChatOverflow](https://github.com/shobrook/ChatOverflow) - AI-generated answers to every coding question
 - [AnishDe12020/slapcommands](https://github.com/AnishDe12020/slapcommands) - 
 - [codedthemes/mantis-free-react-admin-template](https://github.com/codedthemes/mantis-free-react-admin-template) - Mantis is React Dashboard Template having combine tone of 2 popular react component library - MUI and Ant Design principles.
 - [gregrickaby/nextjs-github-pages](https://github.com/gregrickaby/nextjs-github-pages) - 🚀 Deploy a Next.js app to Github Pages via Github Actions.
@@ -1263,12 +1263,10 @@
 - [oblador/react-native-vector-icons](https://github.com/oblador/react-native-vector-icons) - Customizable Icons for React Native with support for image source and full styling.
 - [facebook/react-native](https://github.com/facebook/react-native) - A framework for building native applications using React
 - [mgonto/restangular](https://github.com/mgonto/restangular) - AngularJS service to handle Rest API Restful Resources properly and easily
-- [vadimdemedes/ink-text-input](https://github.com/vadimdemedes/ink-text-input) - Text input component for Ink
 - [sindresorhus/ink-box](https://github.com/sindresorhus/ink-box) - Styled box component for Ink
 - [karaggeorge/ink-scrollbar](https://github.com/karaggeorge/ink-scrollbar) - Scrollbar Component for Ink
 - [petkaantonov/bluebird](https://github.com/petkaantonov/bluebird) - :bird: :zap: Bluebird is a full featured promise library with unmatched performance.
 - [d3/d3](https://github.com/d3/d3) - Bring data to life with SVG, Canvas and HTML. :bar_chart::chart_with_upwards_trend::tada:
-- [vadimdemedes/ink-select-input](https://github.com/vadimdemedes/ink-select-input) - Select input component for Ink
 - [hapipal/underdog](https://github.com/hapipal/underdog) - HTTP/2 server-push for hapi
 - [zont/gulp-usemin](https://github.com/zont/gulp-usemin) - 
 - [ivantsov/redux-webext](https://github.com/ivantsov/redux-webext) - Redux for WebExtensions
@@ -1434,6 +1432,7 @@
 
 ## Lua 
 
+- [loctvl842/monokai-pro.nvim](https://github.com/loctvl842/monokai-pro.nvim) - Monokai Pro theme for Neovim written in Lua, with multiple filters: Pro, Classic, Machine, Octagon, Ristretto, Spectrum
 - [jesseleite/nvim-noirbuddy](https://github.com/jesseleite/nvim-noirbuddy) - 🖤 A highly customizable minimalist monochromatic colorscheme for Neovim
 - [tamton-aquib/flirt.nvim](https://github.com/tamton-aquib/flirt.nvim) - A neovim plugin to work with floating windows.
 - [AstroNvim/AstroNvim](https://github.com/AstroNvim/AstroNvim) - AstroNvim is an aesthetic and feature-rich neovim config that is extensible and easy to use with a great set of plugins
@@ -1673,6 +1672,7 @@
 
 ## Python 
 
+- [microsoft/unilm](https://github.com/microsoft/unilm) - Large-scale Self-supervised Pre-training Across Tasks, Languages, and Modalities
 - [vimsence/vimsence](https://github.com/vimsence/vimsence) - Discord Rich Presence plugin for Vim
 - [scheb/beer-analytics](https://github.com/scheb/beer-analytics) - Analyzing the composition of beer recipes and visualize results in a human-friendly way 🕵️🍺
 - [soxoj/maigret](https://github.com/soxoj/maigret) - 🕵️‍♂️ Collect a dossier on a person by username from thousands of sites
@@ -1875,6 +1875,8 @@
 
 ## Rust 
 
+- [marc2332/freya-editor](https://github.com/marc2332/freya-editor) - Simple code editor made with Freya 🦀
+- [y21/tl](https://github.com/y21/tl) - Fast, zero-copy HTML Parser written in Rust
 - [vercel/turbo](https://github.com/vercel/turbo) - Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turbopack and Turborepo.
 - [metrics-rs/quanta](https://github.com/metrics-rs/quanta) - high-speed timing library in Rust
 - [gbaranski/houseflow](https://github.com/gbaranski/houseflow) - Home automation platform made in Rust 🦀.
@@ -2359,6 +2361,12 @@
 
 ## TypeScript 
 
+- [apollographql/apollo-server](https://github.com/apollographql/apollo-server) - 🌍  Spec-compliant and production ready JavaScript GraphQL server that lets you develop in a schema-first way. Built for Express, Connect, Hapi, Koa, and more.
+- [apollographql/apollo-client](https://github.com/apollographql/apollo-client) - :rocket:  A fully-featured, production ready caching GraphQL client for every UI framework and GraphQL server.
+- [jotaijs/jotai-apollo](https://github.com/jotaijs/jotai-apollo) - Apollo graphql client integration for jotai :rocket: :ghost:
+- [jotaijs/jotai-redux](https://github.com/jotaijs/jotai-redux) - Jotai integration library for Redux
+- [jotaijs/jotai-urql](https://github.com/jotaijs/jotai-urql) - Jotai integration library for URQL
+- [jotaijs/jotai-form](https://github.com/jotaijs/jotai-form) - 
 - [jotaijs/jotai-location](https://github.com/jotaijs/jotai-location) - 
 - [prisma/prisma-examples](https://github.com/prisma/prisma-examples) - 🚀 Ready-to-run Prisma example projects
 - [Dreamacro/clash-dashboard](https://github.com/Dreamacro/clash-dashboard) - web port of clash
@@ -2644,7 +2652,9 @@
 - [Richard87/releaser](https://github.com/Richard87/releaser) - Simple notification when repositories is updated
 - [rt2zz/redux-persist](https://github.com/rt2zz/redux-persist) - persist and rehydrate a redux store
 - [reduxjs/redux](https://github.com/reduxjs/redux) - Predictable state container for JavaScript apps
+- [vadimdemedes/ink-text-input](https://github.com/vadimdemedes/ink-text-input) - Text input component for Ink
 - [vadimdemedes/dom-chef](https://github.com/vadimdemedes/dom-chef) - 🍔 Build DOM elements using JSX automatically
+- [vadimdemedes/ink-select-input](https://github.com/vadimdemedes/ink-select-input) - Select input component for Ink
 - [ueokande/vim-vixen](https://github.com/ueokande/vim-vixen) - Accelerates your web browsing with Vim power!!
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
 - [motemen/chrome-GitHub-Issue-Badges](https://github.com/motemen/chrome-GitHub-Issue-Badges) - Chrome extension to embed GitHub Issue Badge's into GitHub issues
