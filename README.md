@@ -369,7 +369,7 @@
 - [bxcodec/faker](https://github.com/bxcodec/faker) - Go (Golang)  Fake Data  Generator for Struct. [Notes]This repository is archived, moved to the new repository https://github.com/go-faker/faker
 - [src-d/go-git](https://github.com/src-d/go-git) - Project has been moved to: https://github.com/go-git/go-git
 - [rach/pome](https://github.com/rach/pome) - A Postgres Metrics Dashboard
-- [zricethezav/gitleaks](https://github.com/zricethezav/gitleaks) - Protect and discover secrets using Gitleaks 🔑
+- [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Protect and discover secrets using Gitleaks 🔑
 - [cjbassi/gotop](https://github.com/cjbassi/gotop) - A terminal based graphical activity monitor inspired by gtop and vtop
 - [minio/highwayhash](https://github.com/minio/highwayhash) - Native Go version of HighwayHash with optimized assembly implementations on Intel and ARM. Able to process over 10 GB/sec on a single core on Intel CPUs - https://en.wikipedia.org/wiki/HighwayHash
 - [chromedp/chromedp](https://github.com/chromedp/chromedp) - A faster, simpler way to drive browsers supporting the Chrome DevTools Protocol.
@@ -1879,6 +1879,7 @@
 
 ## Rust 
 
+- [openshift/cincinnati](https://github.com/openshift/cincinnati) - 
 - [tjdevries/vim9jit](https://github.com/tjdevries/vim9jit) - a vim9script -&gt; lua transpiler (written in Rust)
 - [marc2332/freya-editor](https://github.com/marc2332/freya-editor) - Simple code editor made with Freya 🦀
 - [y21/tl](https://github.com/y21/tl) - Fast, zero-copy HTML Parser written in Rust
@@ -1886,7 +1887,7 @@
 - [metrics-rs/quanta](https://github.com/metrics-rs/quanta) - high-speed timing library in Rust
 - [gbaranski/houseflow](https://github.com/gbaranski/houseflow) - Home automation platform made in Rust 🦀.
 - [neovide/neovide](https://github.com/neovide/neovide) - No Nonsense Neovim Client in Rust
-- [qdrant/qdrant](https://github.com/qdrant/qdrant) - Qdrant - Vector Search Engine and Database for the next generation of AI applications. Also available in the cloud https://qdrant.to/cloud
+- [qdrant/qdrant](https://github.com/qdrant/qdrant) - Qdrant - Vector Search Engine and Database for the next generation of AI applications. Also available in the cloud https://cloud.qdrant.io/
 - [libp2p/rust-libp2p](https://github.com/libp2p/rust-libp2p) - The Rust Implementation of the libp2p networking stack.
 - [dudykr/stc](https://github.com/dudykr/stc) - Speedy TypeScript type checker
 - [tdp2110/crafting-interpreters-rs](https://github.com/tdp2110/crafting-interpreters-rs) - Crafting Interpreters in Rust
@@ -2287,7 +2288,7 @@
 - [heroku/heroku-buildpack-nodejs](https://github.com/heroku/heroku-buildpack-nodejs) - The official Heroku buildpack for Node.js apps.
 - [heroku/heroku-buildpack-go](https://github.com/heroku/heroku-buildpack-go) - Heroku Go Buildpack
 - [jayphelps/git-blame-someone-else](https://github.com/jayphelps/git-blame-someone-else) - Blame someone else for your bad code.
-- [termux/termux-packages](https://github.com/termux/termux-packages) - A build system and primary set of packages for Termux.
+- [termux/termux-packages](https://github.com/termux/termux-packages) - A package build system for Termux.
 - [debiki/talkyard-prod-one](https://github.com/debiki/talkyard-prod-one) - Talkyard production installation on one single server.
 - [junegunn/myvim](https://github.com/junegunn/myvim) - :bento: Script to create a portable bundle of Vim environment
 - [paulirish/github-email](https://github.com/paulirish/github-email) - Get a GitHub user's email. :sunglasses: Use this responsibly.
@@ -2757,7 +2758,7 @@
 - [mcchrish/info-window.nvim](https://github.com/mcchrish/info-window.nvim) - See file information in a floating window
 - [tpope/vim-dadbod](https://github.com/tpope/vim-dadbod) - dadbod.vim: Modern database interface for Vim
 - [kristijanhusak/vim-dadbod-completion](https://github.com/kristijanhusak/vim-dadbod-completion) - Database autocompletion powered by https://github.com/tpope/vim-dadbod
-- [arcticicestudio/nord-vim](https://github.com/arcticicestudio/nord-vim) - An arctic, north-bluish clean and elegant Vim theme.
+- [nordtheme/vim](https://github.com/nordtheme/vim) - An arctic, north-bluish clean and elegant Vim theme.
 - [ojroques/vim-scrollstatus](https://github.com/ojroques/vim-scrollstatus) - A Vim plugin to display a scrollbar in the statusline
 - [haya14busa/vim-asterisk](https://github.com/haya14busa/vim-asterisk) - :snowflake: *-Improved
 - [easymotion/vim-easymotion](https://github.com/easymotion/vim-easymotion) - Vim motions on speed!
