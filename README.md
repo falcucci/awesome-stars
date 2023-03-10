@@ -540,6 +540,7 @@
 
 ## HTML 
 
+- [calcom/cal.fm](https://github.com/calcom/cal.fm) - The official Cal.com Work Playlist, only on Cal.fm
 - [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development.
 - [filipedeschamps/tabnews.com.br](https://github.com/filipedeschamps/tabnews.com.br) - Conteúdos para quem trabalha com Programação e Tecnologia.
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
@@ -674,6 +675,8 @@
 
 ## JavaScript 
 
+- [m1guelpf/obs-now-playing](https://github.com/m1guelpf/obs-now-playing) - Let your listeners know what music you're playing right now by showing it on screen at all times!
+- [pixel-point/favpie](https://github.com/pixel-point/favpie) - Generate favicons and webmanifest with a CLI
 - [falcucci/github-auto-issue](https://github.com/falcucci/github-auto-issue) - AI-driven browser extension to generate Github issue summary as a quick start to improve your workflow experience and save your time.
 - [meteor/meteor](https://github.com/meteor/meteor) - Meteor, the JavaScript App Platform
 - [ai/nanoid](https://github.com/ai/nanoid) - A tiny (130 bytes), secure, URL-friendly, unique string ID generator for JavaScript
@@ -1684,6 +1687,9 @@
 
 ## Python 
 
+- [keephq/keep](https://github.com/keephq/keep) - Alerting. By developers, for developers.
+- [lucidrains/musiclm-pytorch](https://github.com/lucidrains/musiclm-pytorch) - Implementation of MusicLM, Google's new SOTA model for music generation using attention networks, in Pytorch
+- [lllyasviel/ControlNet](https://github.com/lllyasviel/ControlNet) - Let us control diffusion models!
 - [microsoft/unilm](https://github.com/microsoft/unilm) - Large-scale Self-supervised Pre-training Across Tasks, Languages, and Modalities
 - [vimsence/vimsence](https://github.com/vimsence/vimsence) - Discord Rich Presence plugin for Vim
 - [scheb/beer-analytics](https://github.com/scheb/beer-analytics) - Analyzing the composition of beer recipes and visualize results in a human-friendly way 🕵️🍺
@@ -1887,6 +1893,8 @@
 
 ## Rust 
 
+- [jvns/dnspeep](https://github.com/jvns/dnspeep) - spy on the DNS queries your computer is making
+- [jdxcode/rtx](https://github.com/jdxcode/rtx) - Runtime Executor (asdf rust clone)
 - [openshift/cincinnati](https://github.com/openshift/cincinnati) - 
 - [tjdevries/vim9jit](https://github.com/tjdevries/vim9jit) - a vim9script -&gt; lua transpiler (written in Rust)
 - [marc2332/freya-editor](https://github.com/marc2332/freya-editor) - Simple code editor made with Freya 🦀
@@ -2375,6 +2383,8 @@
 
 ## TypeScript 
 
+- [felixfbecker/dom-to-svg](https://github.com/felixfbecker/dom-to-svg) - Library to convert a given HTML DOM node into an accessible SVG "screenshot".
+- [Gabb-c/spotify-embed](https://github.com/Gabb-c/spotify-embed) - A plug-n-play Spotify embed component
 - [vercel/swr](https://github.com/vercel/swr) - React Hooks for Data Fetching
 - [dai-shi/wakuwork](https://github.com/dai-shi/wakuwork) - 
 - [gptlabs/openai-streams](https://github.com/gptlabs/openai-streams) - Tools for working with OpenAI streams in Node.js and TypeScript.
@@ -2707,6 +2717,9 @@
 
 ## Vim Script 
 
+- [abeleinin/papyrus](https://github.com/abeleinin/papyrus) - 📜 Papyrus: Pandoc integration for automatic Markdown file conversion in Vim!
+- [Exafunction/codeium.vim](https://github.com/Exafunction/codeium.vim) - Free, ultrafast Copilot alternative for Vim and Neovim
+- [skywind3000/asyncrun.vim](https://github.com/skywind3000/asyncrun.vim) - :rocket: Run Async Shell Commands in Vim 8.0 / NeoVim and Output to the Quickfix Window !!
 - [monkoose/vim9-stargate](https://github.com/monkoose/vim9-stargate) - modern alternative to easymotion written in vim9
 - [skywind3000/vim-quickui](https://github.com/skywind3000/vim-quickui) - The missing UI extensions for Vim 8.2 (and NeoVim 0.4) !! :sunglasses:
 - [justinmk/vim-dirvish](https://github.com/justinmk/vim-dirvish) - Directory viewer for Vim :zap:
