@@ -1444,6 +1444,7 @@
 
 ## Lua 
 
+- [nvim-lua/kickstart.nvim](https://github.com/nvim-lua/kickstart.nvim) - A launch point for your personal nvim configuration
 - [nvim-tree/nvim-tree.lua](https://github.com/nvim-tree/nvim-tree.lua) - A file explorer tree for neovim written in lua
 - [brainfucksec/neovim-lua](https://github.com/brainfucksec/neovim-lua) - Neovim KISS configuration with Lua
 - [ThePrimeagen/init.lua](https://github.com/ThePrimeagen/init.lua) - 
@@ -1898,6 +1899,8 @@
 
 ## Rust 
 
+- [kud1ing/guiver](https://github.com/kud1ing/guiver) - GUI programming with Rust
+- [tobealive/wthrr-the-weathercrab](https://github.com/tobealive/wthrr-the-weathercrab) - 🌞 🦀 🌙 Weather companion for the terminal. Rust app.
 - [jvns/dnspeep](https://github.com/jvns/dnspeep) - spy on the DNS queries your computer is making
 - [jdxcode/rtx](https://github.com/jdxcode/rtx) - Runtime Executor (asdf rust clone)
 - [openshift/cincinnati](https://github.com/openshift/cincinnati) - 
@@ -2206,7 +2209,6 @@
 - [rust-lang/rustlings](https://github.com/rust-lang/rustlings) - :crab: Small exercises to get you used to reading and writing Rust code!
 - [wzulfikar/facegrep](https://github.com/wzulfikar/facegrep) - Find faces in photo using Rustface.
 - [mason-org/mason-registry-api](https://github.com/mason-org/mason-registry-api) - API service for mason.nivm
-- [vercel-community/rust](https://github.com/vercel-community/rust) - 🦀 Rust runtime for ▲ Vercel Serverless Functions.
 - [netlify/rust-functions-example](https://github.com/netlify/rust-functions-example) - Deploy Rust lambda functions on Netlify
 - [neondatabase/neon](https://github.com/neondatabase/neon) - Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, branching, and bottomless storage.
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
@@ -2391,7 +2393,7 @@
 - [felixfbecker/dom-to-svg](https://github.com/felixfbecker/dom-to-svg) - Library to convert a given HTML DOM node into an accessible SVG "screenshot".
 - [Gabb-c/spotify-embed](https://github.com/Gabb-c/spotify-embed) - A plug-n-play Spotify embed component
 - [vercel/swr](https://github.com/vercel/swr) - React Hooks for Data Fetching
-- [dai-shi/wakuwork](https://github.com/dai-shi/wakuwork) - 
+- [dai-shi/wakuwork](https://github.com/dai-shi/wakuwork) - Minimalistic React Framework
 - [gptlabs/openai-streams](https://github.com/gptlabs/openai-streams) - Tools for working with OpenAI streams in Node.js and TypeScript.
 - [rowyio/roadmap](https://github.com/rowyio/roadmap) - Roadmap voting app for sharing product plan and get customer feedback.
 - [enisdenjo/graphql-ws](https://github.com/enisdenjo/graphql-ws) - Coherent, zero-dependency, lazy, simple, GraphQL over WebSocket Protocol compliant server and client.
@@ -2500,6 +2502,7 @@
 - [fannheyward/coc-rust-analyzer](https://github.com/fannheyward/coc-rust-analyzer) - rust-analyzer extension for coc.nvim
 - [neoclide/coc-rls](https://github.com/neoclide/coc-rls) - Rust language server support for coc.nvim
 - [jsjoeio/telegram-bot-template](https://github.com/jsjoeio/telegram-bot-template) - A Telegram bot template that uses telegraf.js + Vercel serverless functions
+- [vercel-community/rust](https://github.com/vercel-community/rust) - 🦀 Rust runtime for ▲ Vercel Serverless Functions.
 - [falcucci/wordle-app](https://github.com/falcucci/wordle-app) - 
 - [grafana/grafana-json-datasource](https://github.com/grafana/grafana-json-datasource) - A data source plugin for loading JSON APIs into Grafana.
 - [hoangvvo/next-connect](https://github.com/hoangvvo/next-connect) - The TypeScript-ready, minimal router and middleware layer for Next.js, Micro, Vercel, or Node.js http/http2
