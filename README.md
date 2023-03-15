@@ -362,7 +362,6 @@
 - [kjk/notionapi](https://github.com/kjk/notionapi) - Unofficial Go API for Notion.so
 - [radovskyb/watcher](https://github.com/radovskyb/watcher) - watcher is a Go package for watching for files or directory changes without using filesystem events.
 - [shyiko/jabba](https://github.com/shyiko/jabba) - (cross-platform) Java Version Manager
-- [launchbadge/hedera-sdk-rust-go](https://github.com/launchbadge/hedera-sdk-rust-go) - Hedera SDK for Go
 - [firebase/firebase-admin-go](https://github.com/firebase/firebase-admin-go) - Firebase Admin Go SDK
 - [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker) - The lazier way to manage everything docker
 - [owenthereal/ccat](https://github.com/owenthereal/ccat) - Colorizing `cat`
@@ -1691,6 +1690,7 @@
 
 ## Python 
 
+- [matkapi/postpy2](https://github.com/matkapi/postpy2) - Postman collection runner library for python
 - [mmz-001/knowledge_gpt](https://github.com/mmz-001/knowledge_gpt) - Accurate answers and instant citations for your documents.
 - [microsoft/visual-chatgpt](https://github.com/microsoft/visual-chatgpt) - Official repo for the paper: Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models
 - [keephq/keep](https://github.com/keephq/keep) - Alerting. By developers, for developers.
@@ -1899,6 +1899,7 @@
 
 ## Rust 
 
+- [cargo-generate/cargo-generate](https://github.com/cargo-generate/cargo-generate) - cargo, make me a project
 - [kud1ing/guiver](https://github.com/kud1ing/guiver) - GUI programming with Rust
 - [tobealive/wthrr-the-weathercrab](https://github.com/tobealive/wthrr-the-weathercrab) - 🌞 🦀 🌙 Weather companion for the terminal. Rust app.
 - [jvns/dnspeep](https://github.com/jvns/dnspeep) - spy on the DNS queries your computer is making
