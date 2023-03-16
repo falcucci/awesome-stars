@@ -1899,6 +1899,7 @@
 
 ## Rust 
 
+- [retrage/gpt-macro](https://github.com/retrage/gpt-macro) - ChatGPT powered Rust proc macro that generates code at compile-time.
 - [cargo-generate/cargo-generate](https://github.com/cargo-generate/cargo-generate) - cargo, make me a project
 - [kud1ing/guiver](https://github.com/kud1ing/guiver) - GUI programming with Rust
 - [tobealive/wthrr-the-weathercrab](https://github.com/tobealive/wthrr-the-weathercrab) - 🌞 🦀 🌙 Weather companion for the terminal. Rust app.
@@ -2250,7 +2251,7 @@
 - [rbspy/rbspy](https://github.com/rbspy/rbspy) - Sampling CPU profiler for Ruby
 - [Rigellute/spotify-tui](https://github.com/Rigellute/spotify-tui) - Spotify for the terminal written in Rust 🚀
 - [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) - A curated list of Rust code and resources.
-- [Peltoche/lsd](https://github.com/Peltoche/lsd) - The next gen ls command
+- [lsd-rs/lsd](https://github.com/lsd-rs/lsd) - The next gen ls command
 - [racer-rust/racer](https://github.com/racer-rust/racer) - Rust Code Completion utility
 - [rust-lang/crates.io](https://github.com/rust-lang/crates.io) - The Rust package registry
 - [launchbadge/hedera-sdk-python](https://github.com/launchbadge/hedera-sdk-python) - Hedera SDK for Python
@@ -2482,7 +2483,7 @@
 - [axeldelafosse/recordpool-universal-ui-poc](https://github.com/axeldelafosse/recordpool-universal-ui-poc) - PoC using Radix UI primitives on iOS, Android and Web with Expo and Next.js 🎉
 - [pacocoursey/cmdk](https://github.com/pacocoursey/cmdk) - Fast, unstyled command menu React component.
 - [leerob/leerob.io](https://github.com/leerob/leerob.io) - ✨  My portfolio built with Next.js, Tailwind CSS, PlanetScale, and Vercel.
-- [yaegassy/coc-ruff](https://github.com/yaegassy/coc-ruff) - ruff-lsp (ruff) extension for coc.nvim
+- [yaegassy/coc-ruff](https://github.com/yaegassy/coc-ruff) - ruff-lsp extension for coc.nvim
 - [radix-ui/colors](https://github.com/radix-ui/colors) - A gorgeous, accessible color system.
 - [shadcn/ui](https://github.com/shadcn/ui) - Beautifully designed components built with Radix UI and Tailwind CSS.
 - [primer/react](https://github.com/primer/react) - An implementation of GitHub's Primer Design System using React
