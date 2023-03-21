@@ -84,6 +84,7 @@
 
 ## C 
 
+- [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) - Port of Facebook's LLaMA model in C/C++
 - [koekeishiya/yabai](https://github.com/koekeishiya/yabai) - A tiling window manager for macOS based on binary space partitioning
 - [hpjansson/chafa](https://github.com/hpjansson/chafa) - 📺🗿 Terminal graphics for the 21st century.
 - [libgit2/libgit2](https://github.com/libgit2/libgit2) - A cross-platform, linkable library implementation of Git that you can use in your application.
@@ -263,6 +264,9 @@
 
 ## Go 
 
+- [zinclabs/zincsearch](https://github.com/zinclabs/zincsearch) - ZincSearch . A lightweight alternative to elasticsearch that requires minimal resources, written in Go.
+- [sozercan/kubectl-ai](https://github.com/sozercan/kubectl-ai) - ✨ Kubectl plugin for OpenAI GPT
+- [pandodao/tokenizer-go](https://github.com/pandodao/tokenizer-go) - A Go wrapper for GPT-3 token calculation. https://platform.openai.com/tokenizer
 - [nhost/hasura-storage](https://github.com/nhost/hasura-storage) - Storage for Hasura built on top of S3
 - [bufbuild/connect-go](https://github.com/bufbuild/connect-go) - Simple, reliable, interoperable. A better gRPC.
 - [ItalyPaleAle/prvt](https://github.com/ItalyPaleAle/prvt) - 🔐 Personal, end-to-end encrypted storage that works through your browser
@@ -1493,6 +1497,7 @@
 
 ## Objective-C 
 
+- [gnachman/iTerm2](https://github.com/gnachman/iTerm2) - iTerm2 is a terminal emulator for Mac OS X that does amazing things.
 - [josh-/TodayFlights](https://github.com/josh-/TodayFlights) - TodayFlights is a Notification Center widget that allows you to track flights using the 'FlightUtilities' macOS system framework.
 - [darlinghq/darling](https://github.com/darlinghq/darling) - Darwin/macOS emulation layer for Linux
 - [keycastr/keycastr](https://github.com/keycastr/keycastr) - KeyCastr, an open-source keystroke visualizer
@@ -1699,6 +1704,8 @@
 
 ## Python 
 
+- [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - Cross-platform, fast, feature-rich, GPU based terminal
+- [dexpota/kitty-themes](https://github.com/dexpota/kitty-themes) - A collection of themes for kitty terminal 😻
 - [matkapi/postpy2](https://github.com/matkapi/postpy2) - Postman collection runner library for python
 - [mmz-001/knowledge_gpt](https://github.com/mmz-001/knowledge_gpt) - Accurate answers and instant citations for your documents.
 - [microsoft/visual-chatgpt](https://github.com/microsoft/visual-chatgpt) - Official repo for the paper: Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models
@@ -1908,6 +1915,10 @@
 
 ## Rust 
 
+- [willothy/moveline.nvim](https://github.com/willothy/moveline.nvim) - Neovim plugin for moving lines up and down, written in Rust
+- [zinclabs/zincobserve](https://github.com/zinclabs/zincobserve) - 🚀 10x easier, 🚀 10x cheaper, 🚀 high performance,  🚀 petabyte scale - Elasticsearch/Splunk/Datadog alternative for 🚀 (logs, metrics, traces).
+- [orlp/glidesort](https://github.com/orlp/glidesort) - A Rust implementation of Glidesort, my stable adaptive quicksort/mergesort hybrid sorting algorithm.
+- [Misterio77/flavours](https://github.com/Misterio77/flavours) - 🎨💧 An easy to use base16 scheme manager that integrates with any workflow.
 - [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
 - [Canop/broot](https://github.com/Canop/broot) - A new way to see and navigate directory trees : https://dystroy.org/broot
 - [retrage/gpt-macro](https://github.com/retrage/gpt-macro) - ChatGPT powered Rust proc macro that generates code at compile-time.
@@ -2722,7 +2733,7 @@
 - [mockoon/mockoon](https://github.com/mockoon/mockoon) - Mockoon is the easiest and quickest way to run mock APIs locally. No remote deployment, no account required, open source.
 - [react-native-elements/react-native-elements](https://github.com/react-native-elements/react-native-elements) - Cross-Platform React Native UI Toolkit
 - [firebase/firebase-tools](https://github.com/firebase/firebase-tools) - The Firebase Command Line Tools
-- [getsentry/sentry-javascript](https://github.com/getsentry/sentry-javascript) - Official Sentry SDKs for JavaScript. We're hiring https://boards.greenhouse.io/sentry
+- [getsentry/sentry-javascript](https://github.com/getsentry/sentry-javascript) - Official Sentry SDKs for JavaScript
 - [angular/webdriver-manager](https://github.com/angular/webdriver-manager) - A binary manager for E2E testing
 - [webdriverio/webdriverio](https://github.com/webdriverio/webdriverio) - Next-gen browser and mobile automation test framework for Node.js
 - [redis/node-redis](https://github.com/redis/node-redis) - A high-performance Node.js Redis client.
