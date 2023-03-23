@@ -140,6 +140,7 @@
 
 ## C++ 
 
+- [badaix/snapcast](https://github.com/badaix/snapcast) - Synchronous multiroom audio player
 - [awslabs/dynamodb-shell](https://github.com/awslabs/dynamodb-shell) - A command line client (shell) for AWS DynamoDB that offers DDL and DML support similar to CLIs for other databases.
 - [tenderlove/initial-v](https://github.com/tenderlove/initial-v) - It's a BMW shifter converted to a Bluetooth Keyboard that you use with Vim
 - [serde-rs/json-benchmark](https://github.com/serde-rs/json-benchmark) - nativejson-benchmark in Rust
@@ -267,6 +268,7 @@
 
 ## Go 
 
+- [machinebox/appify](https://github.com/machinebox/appify) - Create a macOS Application from an executable (like a Go binary)
 - [akiyosi/goneovim](https://github.com/akiyosi/goneovim) - A GUI frontend for neovim.
 - [zinclabs/zincsearch](https://github.com/zinclabs/zincsearch) - ZincSearch . A lightweight alternative to elasticsearch that requires minimal resources, written in Go.
 - [sozercan/kubectl-ai](https://github.com/sozercan/kubectl-ai) - ✨ Kubectl plugin for OpenAI GPT
@@ -335,7 +337,6 @@
 - [kubernetes/minikube](https://github.com/kubernetes/minikube) - Run Kubernetes locally
 - [grpc/grpc-go](https://github.com/grpc/grpc-go) - The Go language implementation of gRPC. HTTP/2 based RPC
 - [gorilla/websocket](https://github.com/gorilla/websocket) - A fast, well-tested and widely used WebSocket implementation for Go.
-- [mattermost/mattermost-server](https://github.com/mattermost/mattermost-server) - Mattermost is an open source platform for secure collaboration across the entire software development lifecycle.
 - [yeasy/blockchain_guide](https://github.com/yeasy/blockchain_guide) - Introduce blockchain related technologies, from theory to practice with bitcoin, ethereum and hyperledger.
 - [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum) - Official Go implementation of the Ethereum protocol
 - [netgusto/nodebook](https://github.com/netgusto/nodebook) - Nodebook - Multi-Lang Web REPL + CLI Code runner
@@ -1709,6 +1710,7 @@
 
 ## Python 
 
+- [jrnl-org/jrnl](https://github.com/jrnl-org/jrnl) - Collect your thoughts and notes without leaving the command line.
 - [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - Cross-platform, fast, feature-rich, GPU based terminal
 - [dexpota/kitty-themes](https://github.com/dexpota/kitty-themes) - A collection of themes for kitty terminal 😻
 - [matkapi/postpy2](https://github.com/matkapi/postpy2) - Postman collection runner library for python
@@ -2423,6 +2425,8 @@
 
 ## TypeScript 
 
+- [badaix/snapweb](https://github.com/badaix/snapweb) - Web interface for Snapcast
+- [urql-graphql/urql-devtools](https://github.com/urql-graphql/urql-devtools) - A tool for monitoring and debugging urql during development
 - [shuding/nextra](https://github.com/shuding/nextra) - Simple, powerful and flexible site generation framework with everything you love from Next.js.
 - [kamilkisiela/graphql-hive](https://github.com/kamilkisiela/graphql-hive) - GraphQL Hive is a schema registry and monitoring tool
 - [felixfbecker/dom-to-svg](https://github.com/felixfbecker/dom-to-svg) - Library to convert a given HTML DOM node into an accessible SVG "screenshot".
@@ -2594,6 +2598,7 @@
 - [kunalnagarco/imdb-scraper](https://github.com/kunalnagarco/imdb-scraper) - 🎬 An attempt at the most complete IMDb API
 - [pavlobu/deskreen](https://github.com/pavlobu/deskreen) - Deskreen turns any device with a web browser into a secondary screen for your computer
 - [vacuumlabs/cardano-hw-cli](https://github.com/vacuumlabs/cardano-hw-cli) - Cardano CLI tool for hardware wallets
+- [mattermost/mattermost-server](https://github.com/mattermost/mattermost-server) - Mattermost is an open source platform for secure collaboration across the entire software development lifecycle.
 - [hosseinmd/prettier-plugin-jsdoc](https://github.com/hosseinmd/prettier-plugin-jsdoc) - A Prettier plugin to format JSDoc comments.
 - [lostintangent/codeswing](https://github.com/lostintangent/codeswing) - VS Code extension for building web applications ("swings") using a interactive and editor-integrated coding environment
 - [deckgo/deckdeckgo](https://github.com/deckgo/deckdeckgo) - The web open source editor for presentations
@@ -2759,6 +2764,8 @@
 
 ## Vim Script 
 
+- [xolox/vim-session](https://github.com/xolox/vim-session) - Extended session management for Vim (:mksession on steroids)
+- [mhinz/vim-startify](https://github.com/mhinz/vim-startify) - :link: The fancy start screen for Vim.
 - [psliwka/vim-smoothie](https://github.com/psliwka/vim-smoothie) - Smooth scrolling for Vim done right🥤
 - [yuttie/comfortable-motion.vim](https://github.com/yuttie/comfortable-motion.vim) - Brings physics-based smooth scrolling to the Vim world!
 - [inside/vim-search-pulse](https://github.com/inside/vim-search-pulse) - Easily locate the cursor after a search
