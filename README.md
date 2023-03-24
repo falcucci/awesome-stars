@@ -813,7 +813,6 @@
 - [amark/gun](https://github.com/amark/gun) - An open source cybersecurity protocol for syncing decentralized graph data.
 - [alyssaxuu/screenity](https://github.com/alyssaxuu/screenity) - The most powerful screen recorder & annotation tool for Chrome 🎥
 - [eslint/doctrine](https://github.com/eslint/doctrine) - JSDoc parser
-- [baires/shouldideploy](https://github.com/baires/shouldideploy) - Source of shouldideploy.today
 - [sheerun/prettier-standard](https://github.com/sheerun/prettier-standard) - Formats with Prettier and lints with ESLint+Standard! (✿◠‿◠)
 - [clinicjs/node-clinic](https://github.com/clinicjs/node-clinic) - Clinic.js diagnoses your Node.js performance issues
 - [alfianlosari/node-grpc-server-note-crud](https://github.com/alfianlosari/node-grpc-server-note-crud) - gRPC Server and Client Example for CRUD Note Service using node.js
@@ -2097,7 +2096,7 @@
 - [charliermarsh/ruff](https://github.com/charliermarsh/ruff) - An extremely fast Python linter, written in Rust.
 - [roapi/roapi](https://github.com/roapi/roapi) - Create full-fledged APIs for slowly moving datasets without writing a single line of code.
 - [PyO3/maturin](https://github.com/PyO3/maturin) - Build and publish crates with pyo3, rust-cpython and cffi bindings as well as rust binaries as python packages
-- [rbatis/rbatis](https://github.com/rbatis/rbatis) - Rust  Compile Time ORM and SQL Toolkit. async, pure Rust compile-time Dynamic SQL
+- [rbatis/rbatis](https://github.com/rbatis/rbatis) - Rust  Compile Time ORM robustness,async, pure Rust Dynamic SQL
 - [pola-rs/polars](https://github.com/pola-rs/polars) - Fast multi-threaded, hybrid-out-of-core DataFrame library in Rust | Python | Node.js
 - [shuttle-hq/examples](https://github.com/shuttle-hq/examples) - Examples for using shuttle with different frameworks and resources
 - [shuttle-hq/shuttle](https://github.com/shuttle-hq/shuttle) - Deploy Rust apps with a single Cargo command
@@ -2310,6 +2309,7 @@
 
 ## Shell 
 
+- [raycast/script-commands](https://github.com/raycast/script-commands) - Script Commands let you tailor Raycast to your needs. Think of them as little productivity boosts throughout your day.
 - [0xacx/chatGPT-shell-cli](https://github.com/0xacx/chatGPT-shell-cli) - Simple shell script to use OpenAI's ChatGPT and DALL-E from the terminal. No Python or JS required.
 - [lemnos/theme.sh](https://github.com/lemnos/theme.sh) - A script which lets you set your $terminal theme.
 - [rethab/gh-project](https://github.com/rethab/gh-project) - github cli extension to work with projects
@@ -2425,6 +2425,7 @@
 
 ## TypeScript 
 
+- [raycast/extensions](https://github.com/raycast/extensions) - Everything you need to extend Raycast.
 - [badaix/snapweb](https://github.com/badaix/snapweb) - Web interface for Snapcast
 - [urql-graphql/urql-devtools](https://github.com/urql-graphql/urql-devtools) - A tool for monitoring and debugging urql during development
 - [shuding/nextra](https://github.com/shuding/nextra) - Simple, powerful and flexible site generation framework with everything you love from Next.js.
@@ -2475,7 +2476,7 @@
 - [AnishDe12020/portfolio](https://github.com/AnishDe12020/portfolio) - My portfolio site built using nextjs, contentlayer, and tailwind css
 - [AnishDe12020/gtfol-domains](https://github.com/AnishDe12020/gtfol-domains) - 
 - [KarthikeyanRanasthala/depulso](https://github.com/KarthikeyanRanasthala/depulso) - Deploy your static site in seconds
-- [toeverything/blocksuite](https://github.com/toeverything/blocksuite) - 💠 BlockSuite is the open-source collaborative editor project behind AFFiNE.
+- [toeverything/blocksuite](https://github.com/toeverything/blocksuite) - 🧱 BlockSuite is the open-source collaborative editor project behind AFFiNE.
 - [Siumauricio/portfolio](https://github.com/Siumauricio/portfolio) - Simple and minimalist portfolio using Nextjs and NextUI.
 - [Siumauricio/nextjs-template-portfolio](https://github.com/Siumauricio/nextjs-template-portfolio) - Simple and minimalist portfolio using NextJs and TailwindCSS with DaisyUI with support with dark mode and more than 25 themes!!
 - [Siumauricio/nextui-dashboard-template](https://github.com/Siumauricio/nextui-dashboard-template) - Dashboard starter using NextUI and Nextjs.
@@ -2604,6 +2605,7 @@
 - [deckgo/deckdeckgo](https://github.com/deckgo/deckdeckgo) - The web open source editor for presentations
 - [desktop/desktop](https://github.com/desktop/desktop) - Focus on what matters instead of fighting with Git.
 - [pmndrs/zustand](https://github.com/pmndrs/zustand) - 🐻 Bear necessities for state management in React
+- [baires/shouldideploy](https://github.com/baires/shouldideploy) - Source of shouldideploy.today
 - [homebridge/homebridge](https://github.com/homebridge/homebridge) - HomeKit support for the impatient.
 - [express-rate-limit/express-rate-limit](https://github.com/express-rate-limit/express-rate-limit) - Basic rate-limiting middleware for express
 - [benawad/destiny](https://github.com/benawad/destiny) - Prettier for File Structures
