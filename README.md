@@ -686,6 +686,7 @@
 
 ## JavaScript 
 
+- [iamcco/vim-language-server](https://github.com/iamcco/vim-language-server) - VImScript language server, LSP for vim script
 - [shuding/cobe](https://github.com/shuding/cobe) - 5kB WebGL globe lib.
 - [giosilvi/GPT-Prompter](https://github.com/giosilvi/GPT-Prompter) - Browser extension to get a fast prompt (of the selected text) for OpenAI`s GPT-3, GPT-4 & ChatGPT API . Available in the Chrome web store and Firefox browser add-ons
 - [xenova/transformers.js](https://github.com/xenova/transformers.js) - Run 🤗 Transformers in your browser!
@@ -1454,6 +1455,7 @@
 
 ## Lua 
 
+- [SmiteshP/nvim-navbuddy](https://github.com/SmiteshP/nvim-navbuddy) - A simple popup display that provides breadcrumbs feature using LSP server
 - [jonathandion/web-dev.nvim](https://github.com/jonathandion/web-dev.nvim) - Small Neovim configuration written in Lua that is specifically designed for web development.
 - [LunarVim/LunarVim](https://github.com/LunarVim/LunarVim) - 🌙 LunarVim is an IDE layer for Neovim. Completely free and community driven.
 - [CosmicNvim/CosmicNvim](https://github.com/CosmicNvim/CosmicNvim) - CosmicNvim is a lightweight and opinionated Neovim config for web development, specifically designed to provide a 💫 COSMIC programming experience!
@@ -1568,6 +1570,7 @@
 - [doingodswork/awesome-stremio](https://github.com/doingodswork/awesome-stremio) - A curated list of awesome tools and addons for Stremio
 - [davisonio/awesome-gif](https://github.com/davisonio/awesome-gif) - A curated list of awesome GIF resources.
 - [z11h/awesome-touchbar](https://github.com/z11h/awesome-touchbar) - :point_right: :star2: delightful macOS resources for your touchbar
+- [rust-unofficial/patterns](https://github.com/rust-unofficial/patterns) - A catalogue of Rust design patterns, anti-patterns and idioms
 - [ctjhoa/rust-learning](https://github.com/ctjhoa/rust-learning) - A bunch of links to blog posts, articles, videos, etc for learning Rust
 - [superfly/fly](https://github.com/superfly/fly) - Deploy app servers close to your users. Package your app as a Docker image, and launch it in 17 cities with one simple CLI.
 - [ebertti/awesome-telegram](https://github.com/ebertti/awesome-telegram) - Collection great groups, channels, bots and libraries for Telegram
@@ -2321,7 +2324,6 @@
 - [cknadler/vim-anywhere](https://github.com/cknadler/vim-anywhere) - Use Vim everywhere you've always wanted to
 - [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss.
 - [rauchg/wifi-password](https://github.com/rauchg/wifi-password) - Get the password of the wifi you're on (bash)
-- [rust-unofficial/patterns](https://github.com/rust-unofficial/patterns) - A catalogue of Rust design patterns, anti-patterns and idioms
 - [codota/TabNine](https://github.com/codota/TabNine) - AI Code Completions
 - [aureliojargas/carne-leao-docker](https://github.com/aureliojargas/carne-leao-docker) - Imagem Docker para o programa Carnê-Leão (Receita Federal, IRPF)
 - [sindresorhus/pure](https://github.com/sindresorhus/pure) - Pretty, minimal and fast ZSH prompt
@@ -2522,7 +2524,7 @@
 - [axeldelafosse/recordpool-universal-ui-poc](https://github.com/axeldelafosse/recordpool-universal-ui-poc) - PoC using Radix UI primitives on iOS, Android and Web with Expo and Next.js 🎉
 - [pacocoursey/cmdk](https://github.com/pacocoursey/cmdk) - Fast, unstyled command menu React component.
 - [leerob/leerob.io](https://github.com/leerob/leerob.io) - ✨  My portfolio built with Next.js, Tailwind CSS, PlanetScale, and Vercel.
-- [yaegassy/coc-ruff](https://github.com/yaegassy/coc-ruff) - ruff-lsp extension for coc.nvim
+- [yaegassy/coc-ruff](https://github.com/yaegassy/coc-ruff) - ruff-lsp (ruff) extension for coc.nvim
 - [radix-ui/colors](https://github.com/radix-ui/colors) - A gorgeous, accessible color system.
 - [shadcn/ui](https://github.com/shadcn/ui) - Beautifully designed components built with Radix UI and Tailwind CSS.
 - [primer/react](https://github.com/primer/react) - An implementation of GitHub's Primer Design System using React
@@ -2651,7 +2653,7 @@
 - [sindresorhus/type-fest](https://github.com/sindresorhus/type-fest) - A collection of essential TypeScript types
 - [ds300/patch-package](https://github.com/ds300/patch-package) - Fix broken node modules instantly  🏃🏽‍♀️💨
 - [webiny/webiny-js](https://github.com/webiny/webiny-js) - Open-source serverless enterprise CMS. Includes a headless CMS, page builder, form builder, and file manager. Easy to customize and expand. Deploys to AWS.
-- [jdalrymple/gitbeaker](https://github.com/jdalrymple/gitbeaker) - 🤖 GitLab API NodeJS library with full support of all the Gitlab API services.
+- [jdalrymple/gitbeaker](https://github.com/jdalrymple/gitbeaker) - 🦊🧪 A comprehensive and typed Gitlab SDK for Node.js, Browsers, Deno and CLI
 - [jonluca/RideShare-Trip-Stats](https://github.com/jonluca/RideShare-Trip-Stats) - Chrome Extension to visualize your uber trip statistics
 - [graphql/graphiql](https://github.com/graphql/graphiql) - GraphiQL & the GraphQL LSP Reference Ecosystem for building browser & IDE tools.
 - [graphql-community/koa-graphql](https://github.com/graphql-community/koa-graphql) - Create a GraphQL HTTP server with Koa.
