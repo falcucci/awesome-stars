@@ -1529,6 +1529,7 @@
 
 ## Others 
 
+- [integrations/slack](https://github.com/integrations/slack) - Bring your code to the conversations you care about with the GitHub and Slack integration
 - [JoshuaManuel/Karabiner-Elements-Key-List](https://github.com/JoshuaManuel/Karabiner-Elements-Key-List) - A reference list of keys recognized by Karabiner Elements
 - [rockerBOO/awesome-neovim](https://github.com/rockerBOO/awesome-neovim) - Collections of awesome neovim plugins.
 - [marc2o/Neovide-macOS-Icon](https://github.com/marc2o/Neovide-macOS-Icon) - Alternative app icon for the Neovide neovim front-end.
@@ -1718,6 +1719,7 @@
 
 ## Python 
 
+- [GerevAI/gerev](https://github.com/GerevAI/gerev) - 🧠 AI-powered search engine for your organization 🔎
 - [jrnl-org/jrnl](https://github.com/jrnl-org/jrnl) - Collect your thoughts and notes without leaving the command line.
 - [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - Cross-platform, fast, feature-rich, GPU based terminal
 - [dexpota/kitty-themes](https://github.com/dexpota/kitty-themes) - A collection of themes for kitty terminal 😻
@@ -1931,6 +1933,7 @@
 
 ## Rust 
 
+- [fizyk20/generic-array](https://github.com/fizyk20/generic-array) - Generic array types in Rust
 - [neovide/winit](https://github.com/neovide/winit) - Window handling library in pure Rust
 - [burtonageo/cargo-bundle](https://github.com/burtonageo/cargo-bundle) - Wrap rust executables in OS-specific app bundles
 - [willothy/moveline.nvim](https://github.com/willothy/moveline.nvim) - Neovim plugin for moving lines up and down, written in Rust
