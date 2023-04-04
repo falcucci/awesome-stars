@@ -85,6 +85,7 @@
 
 ## C 
 
+- [neomutt/neomutt](https://github.com/neomutt/neomutt) - ✉️ Teaching an Old Dog New Tricks -- IRC: #neomutt on irc.libera.chat
 - [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) - Port of Facebook's LLaMA model in C/C++
 - [koekeishiya/yabai](https://github.com/koekeishiya/yabai) - A tiling window manager for macOS based on binary space partitioning
 - [hpjansson/chafa](https://github.com/hpjansson/chafa) - 📺🗿 Terminal graphics for the 21st century.
@@ -97,6 +98,7 @@
 - [cardano-foundation/ledger-app-cardano](https://github.com/cardano-foundation/ledger-app-cardano) - Cardano Ledger App for Ledger Nano S
 - [edenhill/kcat](https://github.com/edenhill/kcat) - Generic command line non-JVM Apache Kafka producer and consumer
 - [confluentinc/librdkafka](https://github.com/confluentinc/librdkafka) - The Apache Kafka C/C++ library
+- [lionsoul2014/ip2region](https://github.com/lionsoul2014/ip2region) - Ip2region (2.0 - xdb) is a offline IP address manager framework and locator, support billions of data segments, ten microsecond searching performance. xdb engine implementation for many programming la
 - [vysheng/tg](https://github.com/vysheng/tg) - telegram-cli
 - [audacity/audacity](https://github.com/audacity/audacity) - Audio Editor
 - [jarun/nnn](https://github.com/jarun/nnn) - n³ The unorthodox terminal file manager
@@ -278,7 +280,7 @@
 - [akiyosi/goneovim](https://github.com/akiyosi/goneovim) - A GUI frontend for neovim.
 - [zincsearch/zincsearch](https://github.com/zincsearch/zincsearch) - ZincSearch . A lightweight alternative to elasticsearch that requires minimal resources, written in Go.
 - [sozercan/kubectl-ai](https://github.com/sozercan/kubectl-ai) - ✨ Kubectl plugin for OpenAI GPT
-- [pandodao/tokenizer-go](https://github.com/pandodao/tokenizer-go) - A Go wrapper for GPT-3 token calculation. https://platform.openai.com/tokenizer
+- [pandodao/tokenizer-go](https://github.com/pandodao/tokenizer-go) - A Go wrapper for GPT-3 token encode/decode. https://platform.openai.com/tokenizer
 - [nhost/hasura-storage](https://github.com/nhost/hasura-storage) - Storage for Hasura built on top of S3
 - [bufbuild/connect-go](https://github.com/bufbuild/connect-go) - Simple, reliable, interoperable. A better gRPC.
 - [ItalyPaleAle/prvt](https://github.com/ItalyPaleAle/prvt) - 🔐 Personal, end-to-end encrypted storage that works through your browser
@@ -620,7 +622,6 @@
 - [matheusmendes-dev/store-print-ml](https://github.com/matheusmendes-dev/store-print-ml) - Teste na busca de impressoras
 - [elastic/elasticsearch](https://github.com/elastic/elasticsearch) - Free and Open, Distributed, RESTful Search Engine
 - [confluentinc/ksql](https://github.com/confluentinc/ksql) - The database purpose-built for stream processing applications.
-- [lionsoul2014/ip2region](https://github.com/lionsoul2014/ip2region) - Ip2region (2.0 - xdb) is a offline IP address manager framework and locator, support billions of data segments, ten microsecond searching performance. xdb engine implementation for many programming la
 - [apache/kafka](https://github.com/apache/kafka) - Mirror of Apache Kafka
 - [google/volley](https://github.com/google/volley) - 
 - [ervandew/eclim](https://github.com/ervandew/eclim) - Expose eclipse features inside of vim.
@@ -1777,7 +1778,7 @@
 - [prabhupant/python-ds](https://github.com/prabhupant/python-ds) - No non-sense and no BS repo for how data structure code should be in Python - simple and elegant.
 - [vinta/awesome-python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources
 - [sharkdp/config-files](https://github.com/sharkdp/config-files) - A set of configuration files for vim, zsh, i3, ...
-- [alexfalcucci/playlist-easy](https://github.com/alexfalcucci/playlist-easy) - :notes: A plugin for you make mp3 and mp4 download of many playlist from youtube. Hey, just playlist sure? :)
+- [rustoceans/playlist-easy](https://github.com/rustoceans/playlist-easy) - :notes: A plugin for you make mp3 and mp4 download of many playlist from youtube. Hey, just playlist sure? :)
 - [prompt-toolkit/ptpython](https://github.com/prompt-toolkit/ptpython) - A better Python REPL
 - [jantic/DeOldify](https://github.com/jantic/DeOldify) - A Deep Learning based project for colorizing and restoring old images (and video!)
 - [falcucci/add-issue-id-hook](https://github.com/falcucci/add-issue-id-hook) - Git commit hook for adding related JIRA issue id to commit messages.
@@ -1933,6 +1934,7 @@
 
 ## Rust 
 
+- [soywod/himalaya](https://github.com/soywod/himalaya) - Command-line interface for email management
 - [jcdickinson/http.nvim](https://github.com/jcdickinson/http.nvim) - A http library for your neovim plugin
 - [fizyk20/generic-array](https://github.com/fizyk20/generic-array) - Generic array types in Rust
 - [neovide/winit](https://github.com/neovide/winit) - Window handling library in pure Rust
@@ -2071,7 +2073,6 @@
 - [oxidecomputer/hubris](https://github.com/oxidecomputer/hubris) - A lightweight, memory-protected, message-passing kernel for deeply embedded systems.
 - [tcdi/pgx](https://github.com/tcdi/pgx) - Build Postgres Extensions with Rust!
 - [napi-rs/napi-rs](https://github.com/napi-rs/napi-rs) - A framework for building compiled Node.js add-ons in Rust via Node-API
-- [soywod/himalaya](https://github.com/soywod/himalaya) - Command-line interface for email management
 - [watchexec/cargo-watch](https://github.com/watchexec/cargo-watch) - Watches over your Cargo project's source.
 - [nix-rust/nix](https://github.com/nix-rust/nix) - Rust friendly bindings to *nix APIs
 - [martinvonz/jj](https://github.com/martinvonz/jj) - A Git-compatible DVCS that is both simple and powerful
@@ -2439,6 +2440,8 @@
 
 ## TypeScript 
 
+- [soywod/react-pin-field](https://github.com/soywod/react-pin-field) - 📟 React component for entering PIN codes.
+- [Jose-cd/React-google-drive-picker](https://github.com/Jose-cd/React-google-drive-picker) - 
 - [raycast/extensions](https://github.com/raycast/extensions) - Everything you need to extend Raycast.
 - [badaix/snapweb](https://github.com/badaix/snapweb) - Web interface for Snapcast
 - [urql-graphql/urql-devtools](https://github.com/urql-graphql/urql-devtools) - A tool for monitoring and debugging urql during development
