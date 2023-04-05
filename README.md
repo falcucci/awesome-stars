@@ -85,6 +85,7 @@
 
 ## C 
 
+- [netdata/netdata](https://github.com/netdata/netdata) - Real-time performance monitoring, done right! https://www.netdata.cloud
 - [neomutt/neomutt](https://github.com/neomutt/neomutt) - ✉️ Teaching an Old Dog New Tricks -- IRC: #neomutt on irc.libera.chat
 - [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) - Port of Facebook's LLaMA model in C/C++
 - [koekeishiya/yabai](https://github.com/koekeishiya/yabai) - A tiling window manager for macOS based on binary space partitioning
@@ -143,6 +144,7 @@
 
 ## C++ 
 
+- [mrousavy/react-native-mmkv](https://github.com/mrousavy/react-native-mmkv) - ⚡️ The fastest key/value storage for React Native. ~30x faster than AsyncStorage!
 - [badaix/snapcast](https://github.com/badaix/snapcast) - Synchronous multiroom audio player
 - [awslabs/dynamodb-shell](https://github.com/awslabs/dynamodb-shell) - A command line client (shell) for AWS DynamoDB that offers DDL and DML support similar to CLIs for other databases.
 - [tenderlove/initial-v](https://github.com/tenderlove/initial-v) - It's a BMW shifter converted to a Bluetooth Keyboard that you use with Vim
@@ -1459,6 +1461,7 @@
 
 ## Lua 
 
+- [chrisgrieser/nvim-spider](https://github.com/chrisgrieser/nvim-spider) - Use the w, e, b motions like a spider. Move by subwords and skip insignificant punctuation.
 - [letieu/hacker.nvim](https://github.com/letieu/hacker.nvim) - Hollywood hacker experience in your neovim
 - [SmiteshP/nvim-navbuddy](https://github.com/SmiteshP/nvim-navbuddy) - A simple popup display that provides breadcrumbs feature using LSP server
 - [jonathandion/web-dev.nvim](https://github.com/jonathandion/web-dev.nvim) - Small Neovim configuration written in Lua that is specifically designed for web development.
@@ -2440,6 +2443,8 @@
 
 ## TypeScript 
 
+- [nat/openplayground](https://github.com/nat/openplayground) - An LLM playground you can run on your laptop
+- [pmndrs/valtio](https://github.com/pmndrs/valtio) - 💊 Valtio makes proxy-state simple  for React and Vanilla
 - [soywod/react-pin-field](https://github.com/soywod/react-pin-field) - 📟 React component for entering PIN codes.
 - [Jose-cd/React-google-drive-picker](https://github.com/Jose-cd/React-google-drive-picker) - 
 - [raycast/extensions](https://github.com/raycast/extensions) - Everything you need to extend Raycast.
@@ -2785,6 +2790,7 @@
 
 ## Vim Script 
 
+- [AndrewRadev/typewriter.vim](https://github.com/AndrewRadev/typewriter.vim) - Make cool typewriter sounds in insert mode
 - [ziglang/zig.vim](https://github.com/ziglang/zig.vim) - Vim configuration for Zig
 - [xolox/vim-session](https://github.com/xolox/vim-session) - Extended session management for Vim (:mksession on steroids)
 - [mhinz/vim-startify](https://github.com/mhinz/vim-startify) - :link: The fancy start screen for Vim.
