@@ -1937,6 +1937,8 @@
 
 ## Rust 
 
+- [glicol/glicol-cli](https://github.com/glicol/glicol-cli) - glicol cli: cross-platform music live coding in terminal
+- [tui-rs-revival/ratatui](https://github.com/tui-rs-revival/ratatui) - tui-rs revival project
 - [soywod/himalaya](https://github.com/soywod/himalaya) - Command-line interface for email management
 - [jcdickinson/http.nvim](https://github.com/jcdickinson/http.nvim) - A http library for your neovim plugin
 - [fizyk20/generic-array](https://github.com/fizyk20/generic-array) - Generic array types in Rust
@@ -2792,6 +2794,7 @@
 
 ## Vim Script 
 
+- [skywind3000/vim-keysound](https://github.com/skywind3000/vim-keysound) - :wine_glass: Play typewriter sound in Vim when you are typing a letter
 - [AndrewRadev/typewriter.vim](https://github.com/AndrewRadev/typewriter.vim) - Make cool typewriter sounds in insert mode
 - [ziglang/zig.vim](https://github.com/ziglang/zig.vim) - Vim configuration for Zig
 - [xolox/vim-session](https://github.com/xolox/vim-session) - Extended session management for Vim (:mksession on steroids)
