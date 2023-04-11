@@ -343,7 +343,7 @@
 - [grpc-up-and-running/samples](https://github.com/grpc-up-and-running/samples) - Samples of the book gRPC Up and Running. Each sample is based on a real-world use case and details of the use case can be found in the respective chapter of the book.
 - [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻
 - [maddevsio/fcm](https://github.com/maddevsio/fcm) - Firebase Cloud Messaging for application servers implemented using the Go programming language.
-- [kataras/iris](https://github.com/kataras/iris) - The fastest HTTP/2 Go Web Framework. New, modern and easy to learn. Fast development with Code you control. Unbeatable cost-performance ratio :leaves: :rocket: | 谢谢 | #Go
+- [kataras/iris](https://github.com/kataras/iris) - The fastest HTTP/2 Go Web Framework. New, modern and easy to learn. Fast development with Code you control. Unbeatable cost-performance ratio :rocket:
 - [kubernetes/minikube](https://github.com/kubernetes/minikube) - Run Kubernetes locally
 - [grpc/grpc-go](https://github.com/grpc/grpc-go) - The Go language implementation of gRPC. HTTP/2 based RPC
 - [gorilla/websocket](https://github.com/gorilla/websocket) - A fast, well-tested and widely used WebSocket implementation for Go.
@@ -1533,6 +1533,7 @@
 
 ## Others 
 
+- [flosse/text-editors-written-in-rust](https://github.com/flosse/text-editors-written-in-rust) - 
 - [nrdmn/awesome-zig](https://github.com/nrdmn/awesome-zig) - 
 - [integrations/slack](https://github.com/integrations/slack) - Bring your code to the conversations you care about with the GitHub and Slack integration
 - [JoshuaManuel/Karabiner-Elements-Key-List](https://github.com/JoshuaManuel/Karabiner-Elements-Key-List) - A reference list of keys recognized by Karabiner Elements
@@ -1937,6 +1938,10 @@
 
 ## Rust 
 
+- [wez/wezterm](https://github.com/wez/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
+- [withoutboats/notty](https://github.com/withoutboats/notty) - A new kind of terminal
+- [KunalBagaria/rustyvibes](https://github.com/KunalBagaria/rustyvibes) - A Rust CLI that makes mechanical keyboard sound effects on every key press
+- [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor.
 - [glicol/glicol-cli](https://github.com/glicol/glicol-cli) - glicol cli: cross-platform music live coding in terminal
 - [tui-rs-revival/ratatui](https://github.com/tui-rs-revival/ratatui) - tui-rs revival project
 - [soywod/himalaya](https://github.com/soywod/himalaya) - Command-line interface for email management
@@ -2417,6 +2422,7 @@
 
 ## Swift 
 
+- [x0054/MKS](https://github.com/x0054/MKS) - 
 - [mickael-menu/ShadowVim](https://github.com/mickael-menu/ShadowVim) - Neovim 𝘪𝘯𝘴𝘪𝘥𝘦 Xcode, for real.
 - [sindresorhus/KeyboardShortcuts](https://github.com/sindresorhus/KeyboardShortcuts) - ⌨️ Add user-customizable global keyboard shortcuts to your macOS app in minutes
 - [neilsardesai/Mouse-Finder](https://github.com/neilsardesai/Mouse-Finder) - 🖱👀 An NSDockTile experiment
@@ -2977,7 +2983,7 @@
 
 - [mkeeter/futureproof](https://github.com/mkeeter/futureproof) - A live editor for fragment shaders, powered by Neovim, WebGPU, and Zig!
 - [ziglang/zig](https://github.com/ziglang/zig) - General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.
-- [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, transpiler and package manager – all in one.
+- [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, transpiler, and package manager – all in one
 
 
 ## License
