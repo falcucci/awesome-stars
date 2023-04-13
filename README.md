@@ -565,6 +565,7 @@
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
 - [wzulfikar/vercel-runtimes](https://github.com/wzulfikar/vercel-runtimes) - Code examples for different Vercel runtimes.
 - [snotra-org/hasura-parser](https://github.com/snotra-org/hasura-parser) - :zap: Parse Hasura actions and events with ease in JS/TS projects.
+- [excalidraw/excalidraw-analytics](https://github.com/excalidraw/excalidraw-analytics) - 
 - [edsonlb/tobuscando](https://github.com/edsonlb/tobuscando) - (Django/Python) Protótipo para sites de leitão inverso de qualquer tipo de mercadoria.
 - [yunpengn/blog](https://github.com/yunpengn/blog) - My personal blog website powered by Hexo.js
 - [IonicaBizau/git-stats](https://github.com/IonicaBizau/git-stats) - 🍀 Local git statistics including GitHub-like contributions calendars.
@@ -1779,7 +1780,6 @@
 - [detailyang/awesome-cheatsheet](https://github.com/detailyang/awesome-cheatsheet) - :beers: awesome cheatsheet
 - [ycm-core/YouCompleteMe](https://github.com/ycm-core/YouCompleteMe) - A code-completion engine for Vim
 - [google/grr](https://github.com/google/grr) - GRR Rapid Response: remote live forensics for incident response
-- [excalidraw/excalidraw-analytics](https://github.com/excalidraw/excalidraw-analytics) - 
 - [redis/redis-py](https://github.com/redis/redis-py) - Redis Python Client
 - [prabhupant/python-ds](https://github.com/prabhupant/python-ds) - No non-sense and no BS repo for how data structure code should be in Python - simple and elegant.
 - [vinta/awesome-python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources
@@ -2417,6 +2417,7 @@
 
 ## Svelte 
 
+- [codicocodes/dotfyle](https://github.com/codicocodes/dotfyle) - Discover and share Neovim configs and plugins
 - [raguay/ModalFileManager](https://github.com/raguay/ModalFileManager) - A file manager built using Svelte and Wails. It has hotkeys that are modal just like Vim and NeoVim.
 - [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - ⭐️ ⭐️ ⭐️ ⭐️ ⭐️  The most popular, free and open-source Tailwind CSS component library
 - [hankxdev/one-click-extensions-manager](https://github.com/hankxdev/one-click-extensions-manager) - a simple chrome extension to manage chrome extension
