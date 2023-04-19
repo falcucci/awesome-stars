@@ -698,6 +698,7 @@
 
 ## JavaScript 
 
+- [marmelab/ra-example-oauth](https://github.com/marmelab/ra-example-oauth) - An example of OpenID Connect implementation on React Admin
 - [glicol/glicol-tidal](https://github.com/glicol/glicol-tidal) - combining glicol language/audio engine with tidal pattern and strudel js
 - [hainguyents13/mechvibes](https://github.com/hainguyents13/mechvibes) - Mechvibes
 - [dai-shi/remote-faces](https://github.com/dai-shi/remote-faces) - A tool for Working From Home: Share your webcam images with your colleagues
@@ -1469,6 +1470,8 @@
 
 ## Lua 
 
+- [lewis6991/hover.nvim](https://github.com/lewis6991/hover.nvim) - Hover plugin framework for Neovim
+- [Fildo7525/pretty_hover](https://github.com/Fildo7525/pretty_hover) - 
 - [craftzdog/dotfiles-public](https://github.com/craftzdog/dotfiles-public) - My personal dotfiles
 - [Sewdohe/NeoCode](https://github.com/Sewdohe/NeoCode) - My lean, minimal, and sensible Neovim config. VS-who now?
 - [notomo/gesture.nvim](https://github.com/notomo/gesture.nvim) - Mouse gesture plugin for neovim
@@ -1552,7 +1555,7 @@
 - [JoshuaManuel/Karabiner-Elements-Key-List](https://github.com/JoshuaManuel/Karabiner-Elements-Key-List) - A reference list of keys recognized by Karabiner Elements
 - [rockerBOO/awesome-neovim](https://github.com/rockerBOO/awesome-neovim) - Collections of awesome neovim plugins.
 - [marc2o/Neovide-macOS-Icon](https://github.com/marc2o/Neovide-macOS-Icon) - Alternative app icon for the Neovide neovim front-end.
-- [apvarun/awesome-bun](https://github.com/apvarun/awesome-bun) - ⚡️ A curated list of awesome things related to Bun
+- [oven-sh/awesome-bun](https://github.com/oven-sh/awesome-bun) - ⚡️ A curated list of awesome things related to Bun
 - [alrra/browser-logos](https://github.com/alrra/browser-logos) - 🗂 High resolution web browser logos
 - [grafana/grafana-plugin-examples](https://github.com/grafana/grafana-plugin-examples) - 
 - [unicodeveloper/awesome-nextjs](https://github.com/unicodeveloper/awesome-nextjs) - :notebook_with_decorative_cover: :books: A curated list of awesome resources : books, videos, articles about using Next.js (A minimalistic framework for universal server-rendered React applications)
@@ -1951,6 +1954,8 @@
 
 ## Rust 
 
+- [Brendonovich/prisma-client-rust](https://github.com/Brendonovich/prisma-client-rust) - Type-safe database access for Rust
+- [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 - [lsk569937453/silverwind](https://github.com/lsk569937453/silverwind) - The High Performance Proxy/Load Balancer
 - [bytesnake/vim-graphical-preview](https://github.com/bytesnake/vim-graphical-preview) - Small plugin for Vim to display graphics with SIXEL characters
 - [wez/wezterm](https://github.com/wez/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
@@ -2468,6 +2473,7 @@
 
 ## TypeScript 
 
+- [BloopAI/bloop](https://github.com/BloopAI/bloop) - bloop is a fast code search engine written in Rust.
 - [craftzdog/chat-bubbles-for-yt](https://github.com/craftzdog/chat-bubbles-for-yt) - Real-time recording for chat bubbles
 - [dai-shi/katachidraw](https://github.com/dai-shi/katachidraw) - SVG based drawing tool and react-native component
 - [nat/openplayground](https://github.com/nat/openplayground) - An LLM playground you can run on your laptop
@@ -2525,7 +2531,7 @@
 - [AnishDe12020/portfolio](https://github.com/AnishDe12020/portfolio) - My portfolio site built using nextjs, contentlayer, and tailwind css
 - [AnishDe12020/gtfol-domains](https://github.com/AnishDe12020/gtfol-domains) - 
 - [KarthikeyanRanasthala/depulso](https://github.com/KarthikeyanRanasthala/depulso) - Deploy your static site in seconds
-- [toeverything/blocksuite](https://github.com/toeverything/blocksuite) - BlockSuite is the open-source collaborative editor project behind AFFiNE.
+- [toeverything/blocksuite](https://github.com/toeverything/blocksuite) - 🍬 BlockSuite is the open-source collaborative editor project behind AFFiNE.
 - [Siumauricio/portfolio](https://github.com/Siumauricio/portfolio) - Simple and minimalist portfolio using Nextjs and NextUI.
 - [Siumauricio/nextjs-template-portfolio](https://github.com/Siumauricio/nextjs-template-portfolio) - Simple and minimalist portfolio using NextJs and TailwindCSS with DaisyUI with support with dark mode and more than 25 themes!!
 - [Siumauricio/nextui-dashboard-template](https://github.com/Siumauricio/nextui-dashboard-template) - Dashboard starter using NextUI and Nextjs.
