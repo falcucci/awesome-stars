@@ -191,7 +191,7 @@
 - [nodejs/node-addon-examples](https://github.com/nodejs/node-addon-examples) - Node.js C++ addon examples from http://nodejs.org/docs/latest/api/addons.html
 - [mkrufky/node-native-json](https://github.com/mkrufky/node-native-json) - Access the v8::JSON object methods Parse & Stringify from native c++ addons across all versions of node.js
 - [rethinkdb/rethinkdb](https://github.com/rethinkdb/rethinkdb) - The open-source database for the realtime web.
-- [RedisInsight/RedisDesktopManager](https://github.com/RedisInsight/RedisDesktopManager) - :wrench: Cross-platform Developer GUI for Redis
+- [RedisInsight/RedisDesktopManager](https://github.com/RedisInsight/RedisDesktopManager) - 
 
 ## CSS 
 
@@ -528,7 +528,7 @@
 - [gogs/gogs](https://github.com/gogs/gogs) - Gogs is a painless self-hosted Git service
 - [golang/go](https://github.com/golang/go) - The Go programming language
 - [hoisie/redis](https://github.com/hoisie/redis) - A simple, powerful Redis client for Go
-- [redis/go-redis](https://github.com/redis/go-redis) - Type-safe Redis client for Golang
+- [redis/go-redis](https://github.com/redis/go-redis) - Redis Go client
 - [joho/godotenv](https://github.com/joho/godotenv) - A Go port of Ruby's dotenv library (Loads environment variables from .env files)
 - [caarlos0/env](https://github.com/caarlos0/env) - A simple and zero-dependencies library to parse environment variables into structs.
 - [olebedev/config](https://github.com/olebedev/config) - JSON or YAML configuration wrapper with convenient access methods.
@@ -635,7 +635,7 @@
 - [ervandew/eclim](https://github.com/ervandew/eclim) - Expose eclipse features inside of vim.
 - [keycloak/keycloak](https://github.com/keycloak/keycloak) - Open Source Identity and Access Management For Modern Applications and Services
 - [Netflix/Hystrix](https://github.com/Netflix/Hystrix) - Hystrix is a latency and fault tolerance library designed to isolate points of access to remote systems, services and 3rd party libraries, stop cascading failure and enable resilience in complex distr
-- [redis/jedis](https://github.com/redis/jedis) - Redis Java client designed for performance and ease of use.
+- [redis/jedis](https://github.com/redis/jedis) - Redis Java client
 - [hashgraph/hedera-sdk-java](https://github.com/hashgraph/hedera-sdk-java) - Hedera™ Hashgraph SDK for Java
 - [pyricau/fragnums](https://github.com/pyricau/fragnums) - An enum based library to replace fragments.
 - [pyricau/frenchtoast](https://github.com/pyricau/frenchtoast) - Stale Android Toasts made tasty.
@@ -1955,6 +1955,10 @@
 
 ## Rust 
 
+- [RazrFalcon/resvg](https://github.com/RazrFalcon/resvg) - An SVG rendering library.
+- [rust-windowing/glutin](https://github.com/rust-windowing/glutin) - A low-level library for OpenGL context creation, written in pure Rust.
+- [ellie/atuin](https://github.com/ellie/atuin) - 🐢 Magical shell history
+- [KillTheMule/nvim-rs](https://github.com/KillTheMule/nvim-rs) - A rust library for neovim clients
 - [willothy/nvim-utils](https://github.com/willothy/nvim-utils) - Utilities and bindings for writing Neovim plugins in Rust
 - [Schniz/fnm](https://github.com/Schniz/fnm) - 🚀 Fast and simple Node.js version manager, built in Rust
 - [rust-skia/rust-skia](https://github.com/rust-skia/rust-skia) - Safe Skia Bindings for Rust
@@ -2136,7 +2140,7 @@
 - [agrinman/tunnelto](https://github.com/agrinman/tunnelto) - Expose your local web server to the internet with a public URL.
 - [mosuka/bayard](https://github.com/mosuka/bayard) - A full-text search and indexing server written in Rust.
 - [mehcode/config-rs](https://github.com/mehcode/config-rs) - ⚙️ Layered configuration system for Rust applications (with strong support for 12-factor applications).
-- [readysettech/readyset](https://github.com/readysettech/readyset) - ReadySet is a lightweight SQL caching engine written in Rust that helps developers enhance the performance and scalability of existing applications.
+- [readysettech/readyset](https://github.com/readysettech/readyset) - ReadySet is a lightweight SQL cache that enhances the performance and scalability of database-backed applications.
 - [rust-lang/log](https://github.com/rust-lang/log) - Logging implementation for Rust
 - [buildfoundation/mainframer](https://github.com/buildfoundation/mainframer) - Tool for remote builds. Sync project to remote machine, execute command, sync back.
 - [seppo0010/rsedis](https://github.com/seppo0010/rsedis) - Redis re-implemented in Rust.
@@ -2447,6 +2451,11 @@
 
 ## Swift 
 
+- [aheze/Squirrel](https://github.com/aheze/Squirrel) - Enable scrolling in the Xcode Simulator!
+- [aheze/Setting](https://github.com/aheze/Setting) - Compose beautiful preference panels.
+- [aheze/Multiliner](https://github.com/aheze/Multiliner) - An Xcode source extension to expand lengthy lines.
+- [aheze/OpenFind](https://github.com/aheze/OpenFind) - An app to find text in real life.
+- [aheze/SwipeActions](https://github.com/aheze/SwipeActions) - Add customizable swipe actions to any view.
 - [linearmouse/linearmouse](https://github.com/linearmouse/linearmouse) - The mouse and trackpad utility for Mac.
 - [x0054/MKS](https://github.com/x0054/MKS) - 
 - [mickael-menu/ShadowVim](https://github.com/mickael-menu/ShadowVim) - Neovim 𝘪𝘯𝘴𝘪𝘥𝘦 Xcode, for real.
@@ -2813,7 +2822,7 @@
 - [getsentry/sentry-javascript](https://github.com/getsentry/sentry-javascript) - Official Sentry SDKs for JavaScript
 - [angular/webdriver-manager](https://github.com/angular/webdriver-manager) - A binary manager for E2E testing
 - [webdriverio/webdriverio](https://github.com/webdriverio/webdriverio) - Next-gen browser and mobile automation test framework for Node.js
-- [redis/node-redis](https://github.com/redis/node-redis) - A high-performance Node.js Redis client.
+- [redis/node-redis](https://github.com/redis/node-redis) - Redis Node.js client
 - [typestyle/typestyle](https://github.com/typestyle/typestyle) - Making CSS Typesafe 🌹
 
 ## V 
