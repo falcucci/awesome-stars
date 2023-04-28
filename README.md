@@ -703,6 +703,8 @@
 
 ## JavaScript 
 
+- [programmerhat/vim-online-editor](https://github.com/programmerhat/vim-online-editor) - Vim Editor. In the Browser
+- [Everduin94/better-commits](https://github.com/Everduin94/better-commits) - A CLI for creating better commits following the conventional commit guidelines. Written with Typescript | ZOD | Clack
 - [josa42/coc-sh](https://github.com/josa42/coc-sh) - SH language server extension using bash-language-server for coc.nvim.
 - [mathieudutour/medium-to-own-blog](https://github.com/mathieudutour/medium-to-own-blog) - Switch from Medium to your own blog in a few minutes
 - [marmelab/ra-example-oauth](https://github.com/marmelab/ra-example-oauth) - An example of OpenID Connect implementation on React Admin
@@ -1750,6 +1752,7 @@
 
 ## Python 
 
+- [bhaskatripathi/pdfGPT](https://github.com/bhaskatripathi/pdfGPT) - PDF GPT allows you to chat with the contents of your PDF file by using GPT capabilities. The only open source solution to turn your pdf files in a chatbot!
 - [jvns/git-workflow](https://github.com/jvns/git-workflow) - Tool to visualize your git workflow, in a pretty graph
 - [trevorhobenshield/twitter-api-client](https://github.com/trevorhobenshield/twitter-api-client) - Implementation of Twitter's v1, v2, and GraphQL APIs
 - [GerevAI/gerev](https://github.com/GerevAI/gerev) - 🧠 AI-powered search engine for workplaces 🔎
@@ -1965,6 +1968,9 @@
 
 ## Rust 
 
+- [linebender/druid](https://github.com/linebender/druid) - A data-first Rust-native UI design toolkit.
+- [jpochyla/psst](https://github.com/jpochyla/psst) - Fast and multi-platform Spotify client with native GUI
+- [mitsuhiko/rye](https://github.com/mitsuhiko/rye) - an experimental alternative to poetry/pip/pipenv/pyenv/venv/virtualenv/pdm/hatch/…
 - [flutter-rs/flutter-rs](https://github.com/flutter-rs/flutter-rs) - Build beautiful desktop apps with flutter and rust. 🌠 (wip)
 - [dtolnay/rust-quiz](https://github.com/dtolnay/rust-quiz) - Medium to hard Rust questions with explanations
 - [RazrFalcon/resvg](https://github.com/RazrFalcon/resvg) - An SVG rendering library.
@@ -2375,6 +2381,7 @@
 
 ## Shell 
 
+- [dense-analysis/neural](https://github.com/dense-analysis/neural) - Vim/Neovim AI code generation plugin (OpenAI, ChatGPT, and more)
 - [raycast/script-commands](https://github.com/raycast/script-commands) - Script Commands let you tailor Raycast to your needs. Think of them as little productivity boosts throughout your day.
 - [0xacx/chatGPT-shell-cli](https://github.com/0xacx/chatGPT-shell-cli) - Simple shell script to use OpenAI's ChatGPT and DALL-E from the terminal. No Python or JS required.
 - [lemnos/theme.sh](https://github.com/lemnos/theme.sh) - A script which lets you set your $terminal theme.
@@ -2665,7 +2672,7 @@
 - [Ajaxy/telegram-tt](https://github.com/Ajaxy/telegram-tt) - Telegram Web Z, GPL v3
 - [morethanwords/tweb](https://github.com/morethanwords/tweb) - Telegram Web K, GPL v3
 - [carvalhoviniciusluiz/cpf-cnpj-validator](https://github.com/carvalhoviniciusluiz/cpf-cnpj-validator) - Valida e formata strings de CPF ou CNPJ.
-- [Unleash/unleash](https://github.com/Unleash/unleash) - Simplify your code production through the world’s largest open-source feature management platform.
+- [Unleash/unleash](https://github.com/Unleash/unleash) - Open-source feature management solution built for developers.
 - [vuejs/vue](https://github.com/vuejs/vue) - This is the repo for Vue 2. For Vue 3, go to https://github.com/vuejs/core
 - [neoclide/coc-eslint](https://github.com/neoclide/coc-eslint) - Eslint extension for coc.nvim
 - [davidarroyo1234/InstagramUnfollowers](https://github.com/davidarroyo1234/InstagramUnfollowers) - Check if people follows you back on Instagram.
