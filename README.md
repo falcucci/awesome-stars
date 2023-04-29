@@ -238,7 +238,7 @@
 
 ## Dart 
 
-- [matthiasn/lotti](https://github.com/matthiasn/lotti) - Achieve your goals and keep your data private with Lotti. This habit tracking app is designed to help you stay motivated and on track, all while keeping your personal information safe and secure.
+- [matthiasn/lotti](https://github.com/matthiasn/lotti) - Achieve your goals and keep your data private with Lotti. This life tracking app is designed to help you stay motivated and on track, all while keeping your personal information safe and secure.
 
 ## Dockerfile 
 
