@@ -280,6 +280,7 @@
 
 ## Go 
 
+- [bensadeh/circumflex](https://github.com/bensadeh/circumflex) - 🌿 It's Hacker News in your terminal
 - [matryer/moq](https://github.com/matryer/moq) - Interface mocking tool for go generate
 - [matryer/xbar](https://github.com/matryer/xbar) - Put the output from any script or program into your macOS Menu Bar (the BitBar reboot)
 - [cosmtrek/air](https://github.com/cosmtrek/air) - ☁️ Live reload for Go apps
@@ -1968,6 +1969,7 @@
 
 ## Rust 
 
+- [EmbarkStudios/relnotes](https://github.com/EmbarkStudios/relnotes) - Automatic GitHub Release Notes
 - [Lioness100/guess-that-lang](https://github.com/Lioness100/guess-that-lang) - CLI game to see how fast you can guess the language of a code block!
 - [DvorakDwarf/Infinite-Storage-Glitch](https://github.com/DvorakDwarf/Infinite-Storage-Glitch) - ISG lets you use YouTube as cloud storage for ANY files, not just video
 - [linebender/druid](https://github.com/linebender/druid) - A data-first Rust-native UI design toolkit.
@@ -2170,7 +2172,7 @@
 - [PyO3/maturin](https://github.com/PyO3/maturin) - Build and publish crates with pyo3, rust-cpython and cffi bindings as well as rust binaries as python packages
 - [rbatis/rbatis](https://github.com/rbatis/rbatis) - Rust  Compile Time ORM robustness,async, pure Rust Dynamic SQL
 - [pola-rs/polars](https://github.com/pola-rs/polars) - Fast multi-threaded, hybrid-out-of-core DataFrame library in Rust | Python | Node.js
-- [shuttle-hq/examples](https://github.com/shuttle-hq/examples) - Examples for using shuttle with different frameworks and resources
+- [shuttle-hq/shuttle-examples](https://github.com/shuttle-hq/shuttle-examples) - Examples for using shuttle with different frameworks and resources
 - [shuttle-hq/shuttle](https://github.com/shuttle-hq/shuttle) - Deploy Rust apps with a single Cargo command
 - [tikv/grpc-rs](https://github.com/tikv/grpc-rs) - The gRPC library for Rust built on C Core library and futures
 - [vhakulinen/gnvim](https://github.com/vhakulinen/gnvim) - GUI for neovim, without any web bloat
@@ -2862,6 +2864,7 @@
 
 ## Vim Script 
 
+- [chengzeyi/multiterm.vim](https://github.com/chengzeyi/multiterm.vim) - Toggle and Switch Between Multiple Floating Terminals in NeoVim or Vim
 - [luk400/vim-jukit](https://github.com/luk400/vim-jukit) - Jupyter-Notebook inspired Neovim/Vim Plugin
 - [ubaldot/vim-replica](https://github.com/ubaldot/vim-replica) - Enjoy Jupyter through Vim!
 - [jvns/vimconfig](https://github.com/jvns/vimconfig) - 
