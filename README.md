@@ -1754,6 +1754,7 @@
 
 ## Python 
 
+- [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — A faster way to build and share data apps.
 - [ardnt/vercel-python-wsgi](https://github.com/ardnt/vercel-python-wsgi) - Builder for Python WSGI applications on Vercel
 - [bhaskatripathi/pdfGPT](https://github.com/bhaskatripathi/pdfGPT) - PDF GPT allows you to chat with the contents of your PDF file by using GPT capabilities. The only open source solution to turn your pdf files in a chatbot!
 - [jvns/git-workflow](https://github.com/jvns/git-workflow) - Tool to visualize your git workflow, in a pretty graph
