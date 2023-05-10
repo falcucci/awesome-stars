@@ -569,6 +569,7 @@
 ## HTML 
 
 - [calcom/cal.fm](https://github.com/calcom/cal.fm) - The official Cal.com Work Playlist, only on Cal.fm
+- [scheb/beer-analytics](https://github.com/scheb/beer-analytics) - Analyzing the composition of beer recipes and visualize results in a human-friendly way 🕵️🍺
 - [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development.
 - [filipedeschamps/tabnews.com.br](https://github.com/filipedeschamps/tabnews.com.br) - Conteúdos para quem trabalha com Programação e Tecnologia.
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
@@ -1754,6 +1755,7 @@
 
 ## Python 
 
+- [axnsan12/drf-yasg](https://github.com/axnsan12/drf-yasg) - Automated generation of real Swagger/OpenAPI 2.0 schemas from Django REST Framework code.
 - [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — A faster way to build and share data apps.
 - [ardnt/vercel-python-wsgi](https://github.com/ardnt/vercel-python-wsgi) - Builder for Python WSGI applications on Vercel
 - [bhaskatripathi/pdfGPT](https://github.com/bhaskatripathi/pdfGPT) - PDF GPT allows you to chat with the contents of your PDF file by using GPT capabilities. The only open source solution to turn your pdf files in a chatbot!
@@ -1771,7 +1773,6 @@
 - [lllyasviel/ControlNet](https://github.com/lllyasviel/ControlNet) - Let us control diffusion models!
 - [microsoft/unilm](https://github.com/microsoft/unilm) - Large-scale Self-supervised Pre-training Across Tasks, Languages, and Modalities
 - [vimsence/vimsence](https://github.com/vimsence/vimsence) - Discord Rich Presence plugin for Vim
-- [scheb/beer-analytics](https://github.com/scheb/beer-analytics) - Analyzing the composition of beer recipes and visualize results in a human-friendly way 🕵️🍺
 - [soxoj/maigret](https://github.com/soxoj/maigret) - 🕵️‍♂️ Collect a dossier on a person by username from thousands of sites
 - [shobrook/rebound](https://github.com/shobrook/rebound) - Command-line tool that instantly fetches Stack Overflow results when an exception is thrown
 - [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - GPT-powered chat for documentation search & assistance.
@@ -1859,6 +1860,7 @@
 - [encode/httpx](https://github.com/encode/httpx) - A next generation HTTP client for Python. 🦋
 - [craigemery/vim-autotag](https://github.com/craigemery/vim-autotag) - Automatically discover and "properly" update ctags files on save
 - [Shougo/denite.nvim](https://github.com/Shougo/denite.nvim) - :dragon: Dark powered asynchronous unite all interfaces for Neovim/Vim8
+- [budtmo/docker-android](https://github.com/budtmo/docker-android) - Android in docker solution with noVNC supported and video recording
 - [alanhamlett/readtime](https://github.com/alanhamlett/readtime) - Calculates the time some text takes the average human to read, based on Medium's read time forumula.
 - [alexgorbatchev/crc](https://github.com/alexgorbatchev/crc) - Blazingly fast CRC implementations for node.js and browser
 - [laixintao/pingtop](https://github.com/laixintao/pingtop) - 🏓Ping multiple servers and show results in a top-like terminal UI.
@@ -2419,7 +2421,6 @@
 - [fregante/web-ext-submit](https://github.com/fregante/web-ext-submit) - Wrapper around Mozilla’s web-ext to submit extensions to AMO.
 - [Appdynamics/api-commandline-tool](https://github.com/Appdynamics/api-commandline-tool) - AppDynamics Command Line Tool
 - [AliyunContainerService/redis-cluster](https://github.com/AliyunContainerService/redis-cluster) - HA Redis Cluster with Sentinel by Docker Compose
-- [budtmo/docker-android](https://github.com/budtmo/docker-android) - Android in docker solution with noVNC supported and video recording
 - [paperwork/paperwork](https://github.com/paperwork/paperwork) - Paperwork - OpenSource note-taking & archiving alternative to Evernote, Microsoft OneNote & Google Keep
 - [heroku/heroku-buildpack-nodejs](https://github.com/heroku/heroku-buildpack-nodejs) - The official Heroku buildpack for Node.js apps.
 - [heroku/heroku-buildpack-go](https://github.com/heroku/heroku-buildpack-go) - Heroku Go Buildpack
@@ -2512,6 +2513,8 @@
 
 ## TypeScript 
 
+- [marmelab/react-admin-helpdesk](https://github.com/marmelab/react-admin-helpdesk) - An example react-admin app simulating a help desk UI for support agents
+- [raphiniert-com/ra-data-postgrest](https://github.com/raphiniert-com/ra-data-postgrest) - react admin client for postgREST
 - [mattvr/ShellGPT](https://github.com/mattvr/ShellGPT) - Upgrade your terminal with GPT-4
 - [mathieudutour/slacking-pigeons](https://github.com/mathieudutour/slacking-pigeons) - :bird: Chat in real time with your users directly from Slack
 - [remotion-dev/github-unwrapped-2022](https://github.com/remotion-dev/github-unwrapped-2022) - Your coding year in review #GitHubUnwrapped
