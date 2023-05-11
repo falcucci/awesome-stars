@@ -705,6 +705,7 @@
 
 ## JavaScript 
 
+- [sindresorhus/slash](https://github.com/sindresorhus/slash) - Convert Windows backslash paths to slash paths
 - [programmerhat/vim-online-editor](https://github.com/programmerhat/vim-online-editor) - Vim Editor. In the Browser
 - [Everduin94/better-commits](https://github.com/Everduin94/better-commits) - A CLI for creating better commits following the conventional commit guidelines. Written with Typescript | ZOD | Clack
 - [josa42/coc-sh](https://github.com/josa42/coc-sh) - SH language server extension using bash-language-server for coc.nvim.
@@ -1974,6 +1975,9 @@
 
 ## Rust 
 
+- [wasmerio/wasmer](https://github.com/wasmerio/wasmer) - 🚀 The leading WebAssembly Runtime supporting WASI and Emscripten
+- [rustwasm/wasm-bindgen](https://github.com/rustwasm/wasm-bindgen) - Facilitating high-level interactions between Wasm modules and JavaScript
+- [tweedegolf/101-rs](https://github.com/tweedegolf/101-rs) - A Rust university course
 - [EmbarkStudios/relnotes](https://github.com/EmbarkStudios/relnotes) - Automatic GitHub Release Notes
 - [Lioness100/guess-that-lang](https://github.com/Lioness100/guess-that-lang) - CLI game to see how fast you can guess the language of a code block!
 - [DvorakDwarf/Infinite-Storage-Glitch](https://github.com/DvorakDwarf/Infinite-Storage-Glitch) - ISG lets you use YouTube as cloud storage for ANY files, not just video
@@ -2513,6 +2517,8 @@
 
 ## TypeScript 
 
+- [GoogleChromeLabs/squoosh](https://github.com/GoogleChromeLabs/squoosh) - Make images smaller using best-in-class codecs, right in the browser.
+- [vadimdemedes/ink-ui](https://github.com/vadimdemedes/ink-ui) - 💄 Ink-redible command-line interfaces made easy
 - [marmelab/react-admin-helpdesk](https://github.com/marmelab/react-admin-helpdesk) - An example react-admin app simulating a help desk UI for support agents
 - [raphiniert-com/ra-data-postgrest](https://github.com/raphiniert-com/ra-data-postgrest) - react admin client for postgREST
 - [mattvr/ShellGPT](https://github.com/mattvr/ShellGPT) - Upgrade your terminal with GPT-4
@@ -2870,6 +2876,7 @@
 
 ## Vim Script 
 
+- [lifepillar/vim-colortemplate](https://github.com/lifepillar/vim-colortemplate) - The Toolkit for Vim Color Scheme Designers!
 - [chengzeyi/multiterm.vim](https://github.com/chengzeyi/multiterm.vim) - Toggle and Switch Between Multiple Floating Terminals in NeoVim or Vim
 - [luk400/vim-jukit](https://github.com/luk400/vim-jukit) - Jupyter-Notebook inspired Neovim/Vim Plugin
 - [ubaldot/vim-replica](https://github.com/ubaldot/vim-replica) - Enjoy Jupyter through Vim!
