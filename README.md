@@ -2517,6 +2517,7 @@
 
 ## TypeScript 
 
+- [nicoburniske/muse-frontend](https://github.com/nicoburniske/muse-frontend) - A place for music lovers to create interactive and collaborative reviews for music on Spotify
 - [GoogleChromeLabs/squoosh](https://github.com/GoogleChromeLabs/squoosh) - Make images smaller using best-in-class codecs, right in the browser.
 - [vadimdemedes/ink-ui](https://github.com/vadimdemedes/ink-ui) - 💄 Ink-redible command-line interfaces made easy
 - [marmelab/react-admin-helpdesk](https://github.com/marmelab/react-admin-helpdesk) - An example react-admin app simulating a help desk UI for support agents
