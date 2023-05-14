@@ -609,6 +609,19 @@
 
 ## Haskell 
 
+- [lettier/gifcurry](https://github.com/lettier/gifcurry) - 😎 The open-source, Haskell-built video editor for GIF makers.
+- [jaspervdj/patat](https://github.com/jaspervdj/patat) - Terminal-based presentations using Pandoc
+- [jameysharp/corrode](https://github.com/jameysharp/corrode) - C to Rust translator
+- [haskell/haskell-language-server](https://github.com/haskell/haskell-language-server) - Official haskell ide support via language server (LSP). Successor of ghcide & haskell-ide-engine.
+- [sdiehl/wiwinwlh](https://github.com/sdiehl/wiwinwlh) - What I Wish I Knew When Learning Haskell
+- [SimulaVR/Simula](https://github.com/SimulaVR/Simula) - Linux VR Desktop
+- [caiorss/Functional-Programming](https://github.com/caiorss/Functional-Programming) - Functional Programming concepts, examples and patterns illustrated in Haskell, Ocaml and Python
+- [kmonad/kmonad](https://github.com/kmonad/kmonad) - An advanced keyboard manager
+- [wasp-lang/wasp](https://github.com/wasp-lang/wasp) - The fastest way to develop full-stack web apps with React & Node.js.
+- [simplex-chat/simplex-chat](https://github.com/simplex-chat/simplex-chat) - SimpleX - the first messaging platform operating without user identifiers of any kind - 100% private by design! iOS and Android apps are released 📱!
+- [hadolint/hadolint](https://github.com/hadolint/hadolint) - Dockerfile linter, validate inline bash, written in Haskell
+- [github/semantic](https://github.com/github/semantic) - Parsing, analyzing, and comparing source code across many languages
+- [koalaman/shellcheck](https://github.com/koalaman/shellcheck) - ShellCheck, a static analysis tool for shell scripts
 - [soywod/unfog](https://github.com/soywod/unfog) - ⏱ Minimalist CLI task & time manager, written in Haskell.
 - [krispo/awesome-haskell](https://github.com/krispo/awesome-haskell) - A collection of awesome Haskell links, frameworks, libraries and software. Inspired by awesome projects line.
 - [input-output-hk/cardano-node](https://github.com/input-output-hk/cardano-node) - The core component that is used to participate in a Cardano decentralised blockchain.
@@ -616,7 +629,6 @@
 - [input-output-hk/cardano-rt-view](https://github.com/input-output-hk/cardano-rt-view) - RTView: real-time watching for Cardano nodes (ARCHIVED)
 - [fizruk/telegram-bot-simple](https://github.com/fizruk/telegram-bot-simple) - Easy to use library for building Telegram bots in Haskell.
 - [agrafix/Spock](https://github.com/agrafix/Spock) - Another Haskell web framework for rapid development
-- [lettier/gifcurry](https://github.com/lettier/gifcurry) - 😎 The open-source, Haskell-built video editor for GIF makers.
 - [digitallyinduced/ihp](https://github.com/digitallyinduced/ihp) - 🔥 The fastest way to build type safe web apps. IHP is a new batteries-included web framework optimized for longterm productivity and programmer happiness
 - [input-output-hk/cardano-sl](https://github.com/input-output-hk/cardano-sl) - Cryptographic currency implementing Ouroboros PoS protocol
 - [purescript/purescript](https://github.com/purescript/purescript) - A strongly-typed language that compiles to JavaScript
@@ -627,7 +639,6 @@
 - [input-output-hk/cardano-ledger](https://github.com/input-output-hk/cardano-ledger) - The ledger implementation and specifications of the Cardano blockchain.
 - [input-output-hk/cardano-wallet](https://github.com/input-output-hk/cardano-wallet) - HTTP server & command-line for managing UTxOs and HD wallets in Cardano.
 - [phuhl/linux_notification_center](https://github.com/phuhl/linux_notification_center) - A notification daemon/center for linux
-- [jaspervdj/patat](https://github.com/jaspervdj/patat) - Terminal-based presentations using Pandoc
 - [joshuaclayton/unused](https://github.com/joshuaclayton/unused) - Deprecated; see https://github.com/unused-code/unused
 - [PostgREST/postgrest](https://github.com/PostgREST/postgrest) - REST API for any Postgres database
 
@@ -2876,6 +2887,7 @@
 
 ## Vim Script 
 
+- [sjl/gundo.vim](https://github.com/sjl/gundo.vim) - A git mirror of gundo.vim
 - [lifepillar/vim-colortemplate](https://github.com/lifepillar/vim-colortemplate) - The Toolkit for Vim Color Scheme Designers!
 - [chengzeyi/multiterm.vim](https://github.com/chengzeyi/multiterm.vim) - Toggle and Switch Between Multiple Floating Terminals in NeoVim or Vim
 - [luk400/vim-jukit](https://github.com/luk400/vim-jukit) - Jupyter-Notebook inspired Neovim/Vim Plugin
