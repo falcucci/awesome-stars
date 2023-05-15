@@ -609,6 +609,7 @@
 
 ## Haskell 
 
+- [mujx/hakatime](https://github.com/mujx/hakatime) - Wakatime server implementation & analytics dashboard
 - [lettier/gifcurry](https://github.com/lettier/gifcurry) - 😎 The open-source, Haskell-built video editor for GIF makers.
 - [jaspervdj/patat](https://github.com/jaspervdj/patat) - Terminal-based presentations using Pandoc
 - [jameysharp/corrode](https://github.com/jameysharp/corrode) - C to Rust translator
@@ -2403,6 +2404,7 @@
 
 ## Shell 
 
+- [erikw/vim-keybindings-everywhere-the-ultimate-list](https://github.com/erikw/vim-keybindings-everywhere-the-ultimate-list) - The ultimate list of which programs support Vim-like keybindings natively, or how they can be added with extensions. A collaborative project.
 - [dense-analysis/neural](https://github.com/dense-analysis/neural) - Vim/Neovim AI code generation plugin (OpenAI, ChatGPT, and more)
 - [raycast/script-commands](https://github.com/raycast/script-commands) - Script Commands let you tailor Raycast to your needs. Think of them as little productivity boosts throughout your day.
 - [0xacx/chatGPT-shell-cli](https://github.com/0xacx/chatGPT-shell-cli) - Simple shell script to use OpenAI's ChatGPT and DALL-E from the terminal. No Python or JS required.
@@ -2526,6 +2528,7 @@
 
 ## TypeScript 
 
+- [clerkinc/javascript](https://github.com/clerkinc/javascript) - Official Javascript repository for Clerk authentication
 - [nicoburniske/muse-frontend](https://github.com/nicoburniske/muse-frontend) - A place for music lovers to create interactive and collaborative reviews for music on Spotify
 - [GoogleChromeLabs/squoosh](https://github.com/GoogleChromeLabs/squoosh) - Make images smaller using best-in-class codecs, right in the browser.
 - [vadimdemedes/ink-ui](https://github.com/vadimdemedes/ink-ui) - 💄 Ink-redible command-line interfaces made easy
