@@ -280,6 +280,7 @@
 
 ## Go 
 
+- [grafana/google-sheets-datasource](https://github.com/grafana/google-sheets-datasource) - Load Google Sheets in grafana
 - [coreroller/coreroller](https://github.com/coreroller/coreroller) - CoreRoller is a set of tools to control and monitor the rollout of your updates.
 - [bensadeh/circumflex](https://github.com/bensadeh/circumflex) - 🌿 It's Hacker News in your terminal
 - [matryer/moq](https://github.com/matryer/moq) - Interface mocking tool for go generate
@@ -718,6 +719,7 @@
 
 ## JavaScript 
 
+- [sunner/ChatALL](https://github.com/sunner/ChatALL) - Concurrently chat with ChatGPT, Bing Chat, bard, Alpaca, Vincuna, Claude, ChatGLM, MOSS, iFlytek Spark, ERNIE and more, discover the best answers
 - [praveenweb/next-auth-hasura-example](https://github.com/praveenweb/next-auth-hasura-example) - 
 - [padloc/padloc](https://github.com/padloc/padloc) - A modern, open source password manager for individuals and teams.
 - [sindresorhus/slash](https://github.com/sindresorhus/slash) - Convert Windows backslash paths to slash paths
@@ -1820,7 +1822,7 @@
 - [raghur/vim-ghost](https://github.com/raghur/vim-ghost) - Vim/Nvim client for GhostText - Edit browser text areas in Vim/Neovim
 - [mbroton/chatgpt-api](https://github.com/mbroton/chatgpt-api) - ChatGPT HTTP API Client and CLI
 - [terror/chatgpt.nvim](https://github.com/terror/chatgpt.nvim) - Query ChatGPT in Neovim
-- [Methexis-Inc/terminal-copilot](https://github.com/Methexis-Inc/terminal-copilot) - A smart terminal assistant that helps you find the right command.
+- [opensouls/terminal-copilot](https://github.com/opensouls/terminal-copilot) - A smart terminal assistant that helps you find the right command.
 - [pberkes/big_O](https://github.com/pberkes/big_O) - Python module to estimate big-O time complexity from execution time
 - [NicolasLM/spinach](https://github.com/NicolasLM/spinach) - Modern Redis task queue for Python 3
 - [python-excel/xlrd](https://github.com/python-excel/xlrd) - Please use openpyxl where you can...
@@ -1991,6 +1993,7 @@
 
 ## Rust 
 
+- [stevepryde/thirtyfour](https://github.com/stevepryde/thirtyfour) - Selenium WebDriver client for Rust, for automated testing of websites
 - [cncf/gitvote](https://github.com/cncf/gitvote) - GitVote is a GitHub application that allows holding a vote on issues and pull requests
 - [redbadger/crux](https://github.com/redbadger/crux) - Cross-platform app development in Rust
 - [wasmerio/wasmer](https://github.com/wasmerio/wasmer) - 🚀 The leading WebAssembly Runtime supporting WASI and Emscripten
