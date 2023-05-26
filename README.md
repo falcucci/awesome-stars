@@ -198,6 +198,7 @@
 
 ## CSS 
 
+- [Siumauricio/rippleui](https://github.com/Siumauricio/rippleui) - Clean, modern and beautiful Tailwind CSS components.
 - [rowyio/feedbackfin](https://github.com/rowyio/feedbackfin) - Open-source widget to collect feedback anywhere on your website. Lightweight and tiny. That’s it.
 - [hangbale/photography-blog](https://github.com/hangbale/photography-blog) - photography blog generator - 摄影类静态博客生成器
 - [paljs/nextjs-admin-template](https://github.com/paljs/nextjs-admin-template) - Free admin dashboard template based on Next.Js with @paljs/ui component package
@@ -724,6 +725,7 @@
 
 ## JavaScript 
 
+- [w3b3d3v/web3-bootcamp-platform](https://github.com/w3b3d3v/web3-bootcamp-platform) - 
 - [dooovid/smoothcaret](https://github.com/dooovid/smoothcaret) - A smooth caret library for javascript
 - [ewen-lbh/smooth-cursorify](https://github.com/ewen-lbh/smooth-cursorify) - Applies a Microsoft Word-like smooth caret animation to multiple online editors
 - [jrgarciadev/react-iconly](https://github.com/jrgarciadev/react-iconly) - 🌈    React component for Iconly icons
@@ -1126,7 +1128,6 @@
 - [bamlab/redux-enhancer-react-native-appstate](https://github.com/bamlab/redux-enhancer-react-native-appstate) - Connect your App State changes directly to your Redux store
 - [danawoodman/sinon-express-mock](https://github.com/danawoodman/sinon-express-mock) - Simple request and response mock objects to pass into Express routes when testing using Sinon.
 - [hugomd/parrot.live](https://github.com/hugomd/parrot.live) - 🐦  Bringing animated parrots to terminals everywhere
-- [mixn/carbon-now-cli](https://github.com/mixn/carbon-now-cli) - 🎨 Beautiful images of your code — from right inside your terminal.
 - [openstyles/stylus](https://github.com/openstyles/stylus) - Stylus - Userstyles Manager
 - [realadvisor/rifm](https://github.com/realadvisor/rifm) - React Input Format & Mask, tiny (≈800b) component to transform any input component into formatted or masked input. Supports number, date, phone, currency, credit card, etc
 - [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
@@ -1652,7 +1653,7 @@
 - [superfly/fly](https://github.com/superfly/fly) - Deploy app servers close to your users. Package your app as a Docker image, and launch it in 17 cities with one simple CLI.
 - [ebertti/awesome-telegram](https://github.com/ebertti/awesome-telegram) - Collection great groups, channels, bots and libraries for Telegram
 - [madd86/awesome-system-design](https://github.com/madd86/awesome-system-design) - A curated list of awesome System Design (A.K.A. Distributed Systems) resources.
-- [ahmadawais/shades-of-purple-vscode](https://github.com/ahmadawais/shades-of-purple-vscode) - 🦄 Shades of Purple — A professional theme with hand-picked & bold shades of purple to go along with your VSCode. Reviewed by several designers and 75+ theme versions released to keep it updated. One o
+- [ahmadawais/shades-of-purple-vscode](https://github.com/ahmadawais/shades-of-purple-vscode) - 🦄 Shades of Purple offers a hand-picked selection of bold and vibrant shades of purple that will transform your code into a visually stunning masterpiece. With its carefully crafted color palette, thi
 - [juanmnl/vs-1984](https://github.com/juanmnl/vs-1984) - 📺 80's Syntax Theme for VSCode - Extremely glowy :P
 - [covertbert/iterm2-1984](https://github.com/covertbert/iterm2-1984) - 80s Neon-Styles for iTerm 2
 - [sesteva/awesome-excalidraw](https://github.com/sesteva/awesome-excalidraw) - A collection of articles and assets for Excalidraw
@@ -2566,6 +2567,11 @@
 
 ## TypeScript 
 
+- [hyesungoh/comet-land](https://github.com/hyesungoh/comet-land) - Blog and Resume template :comet:
+- [Siumauricio/landing-template-nextui](https://github.com/Siumauricio/landing-template-nextui) - Landing page for any SaaS company, using Nextjs and NextUI
+- [getezy/ezy](https://github.com/getezy/ezy) - 🔥 GUI client for gRPC/gRPC-Web
+- [imbhargav5/rooks](https://github.com/imbhargav5/rooks) - Essential React custom hooks ⚓ to super charge your components!
+- [elrumordelaluz/reactour](https://github.com/elrumordelaluz/reactour) - Tourist Guide into your React Components
 - [arshad-yaseen/markdx](https://github.com/arshad-yaseen/markdx) - Simple, fast and flexible AI-powered Markdown editor
 - [abdelhameedhamdy/nextjs-wg-livemap](https://github.com/abdelhameedhamdy/nextjs-wg-livemap) - 
 - [wundergraph/wundergraph](https://github.com/wundergraph/wundergraph) - WunderGraph is a Backend for Frontend Framework to optimize frontend, fullstack and backend developer workflows through API Composition.
@@ -2650,7 +2656,6 @@
 - [Siumauricio/portfolio](https://github.com/Siumauricio/portfolio) - Simple and minimalist portfolio using Nextjs and NextUI.
 - [Siumauricio/nextjs-template-portfolio](https://github.com/Siumauricio/nextjs-template-portfolio) - Simple and minimalist portfolio using NextJs and TailwindCSS with DaisyUI with support with dark mode and more than 25 themes!!
 - [Siumauricio/nextui-dashboard-template](https://github.com/Siumauricio/nextui-dashboard-template) - Dashboard starter using NextUI and Nextjs.
-- [Siumauricio/landing-template-nextui](https://github.com/Siumauricio/landing-template-nextui) - Landing page for any SaaS company, using Nextjs and NextUI
 - [WalletConnect/web3modal](https://github.com/WalletConnect/web3modal) - A single Web3 provider solution for all Wallets
 - [timc1/kbar](https://github.com/timc1/kbar) - fast, portable, and extensible cmd+k interface for your site
 - [pacocoursey/next-themes](https://github.com/pacocoursey/next-themes) - Perfect Next.js dark mode in 2 lines of code. Support System preference and any other theme with no flashing
@@ -2862,6 +2867,7 @@
 - [react-navigation/react-navigation](https://github.com/react-navigation/react-navigation) - Routing and navigation for your React Native apps
 - [expo/create-react-native-app](https://github.com/expo/create-react-native-app) - Create React Native apps that run on iOS, Android, and web
 - [reduxjs/reselect](https://github.com/reduxjs/reselect) - Selector library for Redux
+- [mixn/carbon-now-cli](https://github.com/mixn/carbon-now-cli) - 🎨 Beautiful images of your code — from right inside your terminal.
 - [rgommezz/react-native-offline](https://github.com/rgommezz/react-native-offline) - Handy toolbelt to deal nicely with offline/online connectivity in a React Native app. Smooth redux integration ✈️
 - [zzarcon/react-gh-corner](https://github.com/zzarcon/react-gh-corner) - React portals + Github corners + Styled component = 💘
 - [OneSignal/react-native-onesignal](https://github.com/OneSignal/react-native-onesignal) - React Native Library for OneSignal Push Notifications Service
