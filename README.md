@@ -2082,7 +2082,7 @@
 - [ekzhang/rustpad](https://github.com/ekzhang/rustpad) - Efficient and minimal collaborative code editor, self-hosted, no database required
 - [ilai-deutel/kibi](https://github.com/ilai-deutel/kibi) - A text editor in ≤1024 lines of code, written in Rust
 - [ibraheemdev/matchit](https://github.com/ibraheemdev/matchit) - A high performance URL router.
-- [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Application to comfortably monitor your Internet traffic 🕵️
+- [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Application to comfortably monitor your Internet traffic 🕵️‍♂️
 - [max-niederman/ttyper](https://github.com/max-niederman/ttyper) - Terminal-based typing test.
 - [AnishDe12020/secli](https://github.com/AnishDe12020/secli) - A CLI to store secrets locally
 - [vamolessa/pepper](https://github.com/vamolessa/pepper) - A simple and opinionated modal code editor for your terminal
