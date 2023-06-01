@@ -241,7 +241,7 @@
 
 ## Dart 
 
-- [matthiasn/lotti](https://github.com/matthiasn/lotti) - Achieve your goals and keep your data private with Lotti. This life tracking app is designed to help you stay motivated and on track, all while keeping your personal information safe and secure.
+- [matthiasn/lotti](https://github.com/matthiasn/lotti) - Achieve your goals and keep your data private with Lotti. This life tracking app is designed to help you stay motivated and on track, all while keeping your personal information safe and secure. Now w
 
 ## Dockerfile 
 
@@ -654,6 +654,7 @@
 
 ## Java 
 
+- [HamburgChimps/apple-notes-liberator](https://github.com/HamburgChimps/apple-notes-liberator) - Free your Apple Notes data from Notes.app
 - [matheusmendes-dev/store-print-ml](https://github.com/matheusmendes-dev/store-print-ml) - Teste na busca de impressoras
 - [elastic/elasticsearch](https://github.com/elastic/elasticsearch) - Free and Open, Distributed, RESTful Search Engine
 - [confluentinc/ksql](https://github.com/confluentinc/ksql) - The database purpose-built for stream processing applications.
@@ -726,6 +727,8 @@
 
 ## JavaScript 
 
+- [lowdefy/lowdefy](https://github.com/lowdefy/lowdefy) - The easiest config web stack on top of Next.js - build internal tools, web apps, admin panels, BI dashboards, web sites, and CRUD apps with YAML or JSON.
+- [okmttdhr/rich-text-to-markdown](https://github.com/okmttdhr/rich-text-to-markdown) - Rich Text to Markdown
 - [w3b3d3v/web3-bootcamp-platform](https://github.com/w3b3d3v/web3-bootcamp-platform) - 
 - [dooovid/smoothcaret](https://github.com/dooovid/smoothcaret) - A smooth caret library for javascript
 - [ewen-lbh/smooth-cursorify](https://github.com/ewen-lbh/smooth-cursorify) - Applies a Microsoft Word-like smooth caret animation to multiple online editors
@@ -1549,6 +1552,7 @@
 
 ## Makefile 
 
+- [badboy/makerust](https://github.com/badboy/makerust) - Rust, but in a Makefile.
 - [PostgresApp/PostgresApp](https://github.com/PostgresApp/PostgresApp) - The easiest way to get started with PostgreSQL on the Mac
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [golang-standards/project-layout](https://github.com/golang-standards/project-layout) - Standard Go Project Layout
@@ -1597,6 +1601,9 @@
 
 ## Others 
 
+- [nikomatsakis/how-to-rust](https://github.com/nikomatsakis/how-to-rust) - A collection of blog posts and links that talk about how to successfully use Rust.
+- [mozilla/gecko-dev](https://github.com/mozilla/gecko-dev) - Read-only Git mirror of the Mercurial gecko repositories at https://hg.mozilla.org. How to contribute: https://firefox-source-docs.mozilla.org/contributing/contribution_quickref.html
+- [dexterleng/homerow](https://github.com/dexterleng/homerow) - Like Raycast or Spotlight for macOS. Click, navigate, and perform tasks with the keyboard and no mouse.
 - [aniftyco/awesome-tailwindcss](https://github.com/aniftyco/awesome-tailwindcss) - 😎 Awesome things related to Tailwind CSS
 - [modularml/mojo](https://github.com/modularml/mojo) - The Mojo Programming Language
 - [nostr-protocol/nostr](https://github.com/nostr-protocol/nostr) - a truly censorship-resistant alternative to Twitter that has a chance of working
@@ -1793,6 +1800,8 @@
 
 ## Python 
 
+- [subnut/nvim-ghost.nvim](https://github.com/subnut/nvim-ghost.nvim) - :ghost: GhostText plugin for Neovim with zero dependencies :tada: Supports neovim running inside WSL too! :partying_face: Windows/Linux/macOS supported out-of-the-box! :smile: (Other OSes need python3
+- [ranger/ranger](https://github.com/ranger/ranger) - A VIM-inspired filemanager for the console
 - [imartinez/privateGPT](https://github.com/imartinez/privateGPT) - Interact privately with your documents using the power of GPT, 100% privately, no data leaks
 - [axnsan12/drf-yasg](https://github.com/axnsan12/drf-yasg) - Automated generation of real Swagger/OpenAPI 2.0 schemas from Django REST Framework code.
 - [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — A faster way to build and share data apps.
@@ -2055,7 +2064,7 @@
 - [neovide/winit](https://github.com/neovide/winit) - Window handling library in pure Rust
 - [burtonageo/cargo-bundle](https://github.com/burtonageo/cargo-bundle) - Wrap rust executables in OS-specific app bundles
 - [willothy/moveline.nvim](https://github.com/willothy/moveline.nvim) - Neovim plugin for moving lines up and down, written in Rust
-- [zinclabs/zincobserve](https://github.com/zinclabs/zincobserve) - 🚀 10x easier, 🚀 140x lower storage cost, 🚀 high performance,  🚀 petabyte scale - Elasticsearch/Splunk/Datadog alternative for 🚀 (logs, metrics, traces).
+- [zinclabs/openobserve](https://github.com/zinclabs/openobserve) - 🚀 10x easier, 🚀 140x lower storage cost, 🚀 high performance,  🚀 petabyte scale - Elasticsearch/Splunk/Datadog alternative for 🚀 (logs, metrics, traces).
 - [orlp/glidesort](https://github.com/orlp/glidesort) - A Rust implementation of Glidesort, my stable adaptive quicksort/mergesort hybrid sorting algorithm.
 - [Misterio77/flavours](https://github.com/Misterio77/flavours) - 🎨💧 An easy to use base16 scheme manager that integrates with any workflow.
 - [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
@@ -2228,7 +2237,7 @@
 - [rbatis/rbatis](https://github.com/rbatis/rbatis) - Rust  Compile Time ORM robustness,async, pure Rust Dynamic SQL
 - [pola-rs/polars](https://github.com/pola-rs/polars) - Fast multi-threaded, hybrid-out-of-core DataFrame library in Rust | Python | Node.js
 - [shuttle-hq/shuttle-examples](https://github.com/shuttle-hq/shuttle-examples) - Examples for using shuttle with different frameworks and resources
-- [shuttle-hq/shuttle](https://github.com/shuttle-hq/shuttle) - Deploy Rust apps with a single Cargo command
+- [shuttle-hq/shuttle](https://github.com/shuttle-hq/shuttle) - Build & ship backends without writing any infrastructure files.
 - [tikv/grpc-rs](https://github.com/tikv/grpc-rs) - The gRPC library for Rust built on C Core library and futures
 - [vhakulinen/gnvim](https://github.com/vhakulinen/gnvim) - GUI for neovim, without any web bloat
 - [dgrunwald/rust-cpython](https://github.com/dgrunwald/rust-cpython) - Rust &lt;-&gt; Python bindings
@@ -2531,6 +2540,8 @@
 
 ## Swift 
 
+- [aheze/VariableBlurView](https://github.com/aheze/VariableBlurView) - A one-file, App Store-safe version of Janum Trivedi's variable blur effect.
+- [dexterleng/vimac](https://github.com/dexterleng/vimac) - Productive macOS keyboard-driven navigation
 - [maxgoedjen/secretive](https://github.com/maxgoedjen/secretive) - Store SSH keys in the Secure Enclave
 - [coteditor/CotEditor](https://github.com/coteditor/CotEditor) - Lightweight Plain-Text Editor for macOS
 - [sindresorhus/Settings](https://github.com/sindresorhus/Settings) - ⚙ Add a settings window to your macOS app in minutes
@@ -2569,6 +2580,9 @@
 
 ## TypeScript 
 
+- [graphile/postgraphile](https://github.com/graphile/postgraphile) - Execute one command (or mount one Node.js middleware) and get an instant high-performance GraphQL API for your PostgreSQL database!
+- [amannn/next-intl](https://github.com/amannn/next-intl) - Internationalization (i18n) for Next.js that gets out of your way. 🌐
+- [netlify/next-runtime](https://github.com/netlify/next-runtime) - The Next.js Runtime allows Next.js to run on Netlify with zero configuration
 - [Farzin-Firoozi/react-modern-drawer](https://github.com/Farzin-Firoozi/react-modern-drawer) - 
 - [hyesungoh/comet-land](https://github.com/hyesungoh/comet-land) - Blog and Resume template :comet:
 - [Siumauricio/landing-template-nextui](https://github.com/Siumauricio/landing-template-nextui) - Landing page for any SaaS company, using Nextjs and NextUI
@@ -2776,7 +2790,7 @@
 - [JonnyBurger/anysticker-tutorials](https://github.com/JonnyBurger/anysticker-tutorials) - In-App tutorial videos for AnySticker
 - [remotion-dev/trailer](https://github.com/remotion-dev/trailer) - The promo video for Remotion
 - [kunalnagarco/imdb-scraper](https://github.com/kunalnagarco/imdb-scraper) - 🎬 An attempt at the most complete IMDb API
-- [pavlobu/deskreen](https://github.com/pavlobu/deskreen) - Deskreen turns any device with a web browser into a secondary screen for your computer
+- [pavlobu/deskreen](https://github.com/pavlobu/deskreen) - Deskreen turns any device with a web browser into a secondary screen for your computer. ⭐️ Star to support our work!
 - [vacuumlabs/cardano-hw-cli](https://github.com/vacuumlabs/cardano-hw-cli) - Cardano CLI tool for hardware wallets
 - [mattermost/mattermost-server](https://github.com/mattermost/mattermost-server) - Mattermost is an open source platform for secure collaboration across the entire software development lifecycle.
 - [hosseinmd/prettier-plugin-jsdoc](https://github.com/hosseinmd/prettier-plugin-jsdoc) - A Prettier plugin to format JSDoc comments.
@@ -2951,6 +2965,7 @@
 
 ## Vim Script 
 
+- [mcchrish/nnn.vim](https://github.com/mcchrish/nnn.vim) - File manager for vim/neovim powered by n³
 - [keith/swift.vim](https://github.com/keith/swift.vim) - Vim runtime files for Swift
 - [wellle/context.vim](https://github.com/wellle/context.vim) - Vim plugin that shows the context of the currently visible buffer contents
 - [sjl/gundo.vim](https://github.com/sjl/gundo.vim) - A git mirror of gundo.vim
