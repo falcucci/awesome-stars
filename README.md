@@ -2097,6 +2097,7 @@
 - [AnishDe12020/secli](https://github.com/AnishDe12020/secli) - A CLI to store secrets locally
 - [vamolessa/pepper](https://github.com/vamolessa/pepper) - A simple and opinionated modal code editor for your terminal
 - [aschey/vercel-tokei](https://github.com/aschey/vercel-tokei) - Tokei badge service running as a Vercel serverless function
+- [leptos-rs/start](https://github.com/leptos-rs/start) - Starter template for use with the Leptos web framework.
 - [silkenweb/silkenweb](https://github.com/silkenweb/silkenweb) - A library for writing reactive single page web apps
 - [ZOXEXIVO/football-simulator](https://github.com/ZOXEXIVO/football-simulator) - Football simulation engine (like Football Manager) written in pure Rust
 - [tokio-rs/axum](https://github.com/tokio-rs/axum) - Ergonomic and modular web framework built with Tokio, Tower, and Hyper
@@ -2683,7 +2684,6 @@
 - [theodorusclarence/og](https://github.com/theodorusclarence/og) - 🍇 Open Graph Generator made using @vercel/og for personal use
 - [theodorusclarence/ts-nextjs-tailwind-starter](https://github.com/theodorusclarence/ts-nextjs-tailwind-starter) - 🔋 Next.js + Tailwind CSS + TypeScript starter and boilerplate packed with useful development features
 - [iamvishnusankar/next-sitemap](https://github.com/iamvishnusankar/next-sitemap) - Sitemap generator for next.js. Generate sitemap(s) and robots.txt for all static/pre-rendered/dynamic/server-side pages.
-- [leptos-rs/start](https://github.com/leptos-rs/start) - Starter template for use with the Leptos web framework.
 - [rajatkulkarni95/buildlog](https://github.com/rajatkulkarni95/buildlog) - Vercel Deployments in Menu Bar
 - [edwintantawi/airbnb-web-clone](https://github.com/edwintantawi/airbnb-web-clone) - Airbnb clone with NextJS + Typescript + Tailwindcss
 - [TanStack/table](https://github.com/TanStack/table) - 🤖 Headless UI for building powerful tables & datagrids for TS/JS -  React-Table, Vue-Table, Solid-Table, Svelte-Table
