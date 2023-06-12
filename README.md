@@ -1262,7 +1262,6 @@
 - [sqreen/vue-authentication-example](https://github.com/sqreen/vue-authentication-example) - This repo aims to answer how to handle authentication in your vue app.
 - [ReDEnergy/SessionSync](https://github.com/ReDEnergy/SessionSync) - SessionSync
 - [ladjs/react-native-loading-spinner-overlay](https://github.com/ladjs/react-native-loading-spinner-overlay) - :barber: React Native loading spinner overlay
-- [sindresorhus/sindresorhus-cli](https://github.com/sindresorhus/sindresorhus-cli) - The Sindre Sorhus CLI
 - [necolas/react-native-web](https://github.com/necolas/react-native-web) - Cross-platform React UI packages
 - [sindresorhus/terminal-image-cli](https://github.com/sindresorhus/terminal-image-cli) - Display images in the terminal
 - [facebookarchive/prepack](https://github.com/facebookarchive/prepack) - A JavaScript bundle optimizer.
@@ -2621,6 +2620,7 @@
 
 ## TypeScript 
 
+- [denoland/deno_blog](https://github.com/denoland/deno_blog) - Minimal boilerplate blogging.
 - [vimcolorschemes/vimcolorschemes](https://github.com/vimcolorschemes/vimcolorschemes) - Find the best vim color schemes around
 - [agmmnn/tauri-ui](https://github.com/agmmnn/tauri-ui) - 🦀 Create modern desktop applications with Tauri and shadcn/ui.
 - [graphile/postgraphile](https://github.com/graphile/postgraphile) - Execute one command (or mount one Node.js middleware) and get an instant high-performance GraphQL API for your PostgreSQL database!
@@ -2949,6 +2949,7 @@
 - [howdyai/botkit](https://github.com/howdyai/botkit) - Botkit is an open source developer tool for building chat bots, apps and custom integrations for major messaging platforms.
 - [botpress/botpress](https://github.com/botpress/botpress) - 🤖 Dev tools to reliably understand text and automate conversations. Built-in NLU.  Connect & deploy on any messaging channel (Slack, MS Teams, website, Telegram, etc).
 - [pedronauck/react-adopt](https://github.com/pedronauck/react-adopt) - :sunglasses: Compose render props components like a pro
+- [sindresorhus/sindresorhus-cli](https://github.com/sindresorhus/sindresorhus-cli) - The Sindre Sorhus CLI
 - [kusti8/proton-native](https://github.com/kusti8/proton-native) - A React environment for cross platform desktop apps
 - [react-native-device-info/react-native-device-info](https://github.com/react-native-device-info/react-native-device-info) - Device Information for React Native iOS and Android
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
