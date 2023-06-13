@@ -277,6 +277,7 @@
 
 ## Fennel 
 
+- [nyoom-engineering/oxocarbon.nvim](https://github.com/nyoom-engineering/oxocarbon.nvim) - A dark and light Neovim theme written in fennel, inspired by IBM Carbon.
 - [ggandor/leap.nvim](https://github.com/ggandor/leap.nvim) - Neovim's answer to the mouse 🦘
 - [nyoom-engineering/nyoom.nvim](https://github.com/nyoom-engineering/nyoom.nvim) - A Neovim framework and doom emacs alternative for the stubborn martian hacker. Powered by fennel and the oxocarbon theme
 
@@ -729,6 +730,7 @@
 
 ## JavaScript 
 
+- [carbon-design-system/carbon](https://github.com/carbon-design-system/carbon) - A design system built by IBM
 - [Jermolene/TiddlyWiki5](https://github.com/Jermolene/TiddlyWiki5) - A self-contained JavaScript wiki for the browser, Node.js, AWS Lambda etc.
 - [be5invis/Iosevka](https://github.com/be5invis/Iosevka) - Versatile typeface for code, from code.
 - [zed-industries/zed-fonts](https://github.com/zed-industries/zed-fonts) - The Zed Mono and Sans typefaces, custom built from Iosevka
@@ -741,7 +743,7 @@
 - [ewen-lbh/smooth-cursorify](https://github.com/ewen-lbh/smooth-cursorify) - Applies a Microsoft Word-like smooth caret animation to multiple online editors
 - [jrgarciadev/react-iconly](https://github.com/jrgarciadev/react-iconly) - 🌈    React component for Iconly icons
 - [chenyukang/obweb](https://github.com/chenyukang/obweb) - ObWeb = Obsidian on Mobile + Flomo + Rss Reader
-- [sunner/ChatALL](https://github.com/sunner/ChatALL) - Concurrently chat with ChatGPT, Bing Chat, bard, Alpaca, Vicuna, Claude, ChatGLM, MOSS, iFlytek Spark, ERNIE and more, discover the best answers
+- [sunner/ChatALL](https://github.com/sunner/ChatALL) - Concurrently chat with ChatGPT, Bing Chat, Bard, Alpaca, Vicuna, Claude, ChatGLM, MOSS, 讯飞星火, 文心一言 and more, discover the best answers
 - [praveenweb/next-auth-hasura-example](https://github.com/praveenweb/next-auth-hasura-example) - 
 - [padloc/padloc](https://github.com/padloc/padloc) - A modern, open source password manager for individuals and teams.
 - [sindresorhus/slash](https://github.com/sindresorhus/slash) - Convert Windows backslash paths to slash paths
@@ -1811,6 +1813,7 @@
 
 ## Python 
 
+- [9999years/django-mdbook](https://github.com/9999years/django-mdbook) - Provides a simple MdBookView for Rust mdBooks, allowing them to exist within a Django site
 - [jceb/vim-orgmode](https://github.com/jceb/vim-orgmode) - Text outlining and task management for Vim based on Emacs' Org-Mode
 - [agmmnn/syn](https://github.com/agmmnn/syn) - 🌾 Get synonyms and antonyms of words from Thesaurus.com and other sources in your terminal, with rich output.
 - [subnut/nvim-ghost.nvim](https://github.com/subnut/nvim-ghost.nvim) - :ghost: GhostText plugin for Neovim with zero dependencies :tada: Supports neovim running inside WSL too! :partying_face: Windows/Linux/macOS supported out-of-the-box! :smile: (Other OSes need python3
@@ -2036,6 +2039,7 @@
 
 ## Rust 
 
+- [Michael-F-Bryan/mdbook-linkcheck](https://github.com/Michael-F-Bryan/mdbook-linkcheck) - A backend for `mdbook` which will check your links for you.
 - [DioxusLabs/example-projects](https://github.com/DioxusLabs/example-projects) - Featured Dioxus projects on how to build clean user interfaces in Rust
 - [DioxusLabs/rink](https://github.com/DioxusLabs/rink) - Build reactive terminal user interfaces using Rust and Dioxus.
 - [DioxusLabs/dioxus-html-macro](https://github.com/DioxusLabs/dioxus-html-macro) - An html macro for dioxus applications.
@@ -3007,6 +3011,8 @@
 
 ## Vim Script 
 
+- [flazz/vim-colorschemes](https://github.com/flazz/vim-colorschemes) - one colorscheme pack to rule them all!
+- [hachy/eva01.vim](https://github.com/hachy/eva01.vim) - Vim/Neovim colorscheme 😈
 - [kjssad/quantum.vim](https://github.com/kjssad/quantum.vim) - A  colorscheme based on the Firefox DevTools
 - [yorickpeterse/vim-paper](https://github.com/yorickpeterse/vim-paper) - A light theme for (Neo)Vim, based on the colour of paper as found in various notebooks.
 - [lifepillar/vim-gruvbox8](https://github.com/lifepillar/vim-gruvbox8) - A simplified and optimized Gruvbox colorscheme for Vim
