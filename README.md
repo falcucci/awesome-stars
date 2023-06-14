@@ -106,7 +106,7 @@
 - [audacity/audacity](https://github.com/audacity/audacity) - Audio Editor
 - [jarun/nnn](https://github.com/jarun/nnn) - n³ The unorthodox terminal file manager
 - [ggreer/the_silver_searcher](https://github.com/ggreer/the_silver_searcher) - A code-searching tool similar to ack, but faster.
-- [RediSearch/RediSearch](https://github.com/RediSearch/RediSearch) - A query and indexing engine for Redis, providing secondary indexing, full-text search, and aggregations.
+- [RediSearch/RediSearch](https://github.com/RediSearch/RediSearch) - A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggregations.
 - [i3/i3](https://github.com/i3/i3) - A tiling window manager for X11
 - [marcobambini/gravity](https://github.com/marcobambini/gravity) - Gravity Programming Language
 - [debauchee/barrier](https://github.com/debauchee/barrier) - Open-source KVM software
@@ -562,7 +562,7 @@
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management
 - [jpbruinsslot/slack-term](https://github.com/jpbruinsslot/slack-term) - Slack client for your terminal
 - [bcicen/ctop](https://github.com/bcicen/ctop) - Top-like interface for container metrics
-- [github/hub](https://github.com/github/hub) - A command-line tool that makes git easier to use with GitHub.
+- [GrantBirki/hub](https://github.com/GrantBirki/hub) - A command-line tool that makes git easier to use with GitHub.
 - [cloudfoundry/cli](https://github.com/cloudfoundry/cli) - The official command line client for Cloud Foundry
 - [howtowhale/dvm](https://github.com/howtowhale/dvm) - Docker Version Manager
 - [github-release/github-release](https://github.com/github-release/github-release) - Commandline app to create and edit releases on Github (and upload artifacts)
@@ -852,7 +852,6 @@
 - [vuejs-templates/pwa](https://github.com/vuejs-templates/pwa) - PWA template for vue-cli based on the webpack template
 - [webpack/webpack-dev-server](https://github.com/webpack/webpack-dev-server) - Serves a webpack app. Updates the browser on changes. Documentation https://webpack.js.org/configuration/dev-server/.
 - [luizalabs/juggernaut](https://github.com/luizalabs/juggernaut) - An unstoppable boilerplate
-- [Unleash/unleash-client-node](https://github.com/Unleash/unleash-client-node) - Unleash client SDK for Node.js
 - [jaruba/stremio-imdb-watchlist](https://github.com/jaruba/stremio-imdb-watchlist) - Add-on to create a catalog of your IMDB user watchlist.
 - [jaruba/stremio-imdb-list](https://github.com/jaruba/stremio-imdb-list) - Add-on to create a Stremio catalog from a IMDB list
 - [slanatech/swagger-stats](https://github.com/slanatech/swagger-stats) - API Observability. Trace API calls and Monitor API performance, health and usage statistics in Node.js Microservices.
@@ -1813,6 +1812,7 @@
 
 ## Python 
 
+- [sdabhi23/django-hasura-jwt-auth](https://github.com/sdabhi23/django-hasura-jwt-auth) - A simple containerized JWT based auth server for integration with Hasura GraphQL Engine written in Python using Django and Django Rest Framework
 - [9999years/django-mdbook](https://github.com/9999years/django-mdbook) - Provides a simple MdBookView for Rust mdBooks, allowing them to exist within a Django site
 - [jceb/vim-orgmode](https://github.com/jceb/vim-orgmode) - Text outlining and task management for Vim based on Emacs' Org-Mode
 - [agmmnn/syn](https://github.com/agmmnn/syn) - 🌾 Get synonyms and antonyms of words from Thesaurus.com and other sources in your terminal, with rich output.
@@ -2039,6 +2039,7 @@
 
 ## Rust 
 
+- [kdheepak/taskwarrior-tui](https://github.com/kdheepak/taskwarrior-tui) - `taskwarrior-tui`: A terminal user interface for taskwarrior
 - [Michael-F-Bryan/mdbook-linkcheck](https://github.com/Michael-F-Bryan/mdbook-linkcheck) - A backend for `mdbook` which will check your links for you.
 - [DioxusLabs/example-projects](https://github.com/DioxusLabs/example-projects) - Featured Dioxus projects on how to build clean user interfaces in Rust
 - [DioxusLabs/rink](https://github.com/DioxusLabs/rink) - Build reactive terminal user interfaces using Rust and Dioxus.
@@ -2820,6 +2821,7 @@
 - [Ajaxy/telegram-tt](https://github.com/Ajaxy/telegram-tt) - Telegram Web A, GPL v3
 - [morethanwords/tweb](https://github.com/morethanwords/tweb) - Telegram Web K, GPL v3
 - [carvalhoviniciusluiz/cpf-cnpj-validator](https://github.com/carvalhoviniciusluiz/cpf-cnpj-validator) - Valida e formata strings de CPF ou CNPJ.
+- [Unleash/unleash-client-node](https://github.com/Unleash/unleash-client-node) - Unleash client SDK for Node.js
 - [Unleash/unleash](https://github.com/Unleash/unleash) - Open-source feature management solution built for developers.
 - [vuejs/vue](https://github.com/vuejs/vue) - This is the repo for Vue 2. For Vue 3, go to https://github.com/vuejs/core
 - [neoclide/coc-eslint](https://github.com/neoclide/coc-eslint) - Eslint extension for coc.nvim
