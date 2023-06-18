@@ -2633,6 +2633,7 @@
 
 ## TypeScript 
 
+- [steven-tey/novel](https://github.com/steven-tey/novel) - Notion-style WYSIWYG editor with AI-powered autocompletions
 - [DAB0mB/react-autorun](https://github.com/DAB0mB/react-autorun) - A macro that compiles into a dependencies array for hooks.
 - [haackt/warp-themes](https://github.com/haackt/warp-themes) - ✨ A theme builder for Warp
 - [denoland/deno_blog](https://github.com/denoland/deno_blog) - Minimal boilerplate blogging.
