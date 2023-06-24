@@ -1830,6 +1830,7 @@
 
 ## Python 
 
+- [st4lk/django-rest-social-auth](https://github.com/st4lk/django-rest-social-auth) - OAuth signin with django rest framework
 - [Shougo/defx.nvim](https://github.com/Shougo/defx.nvim) - :file_folder: The dark powered file explorer implementation for neovim/Vim8
 - [Qiskit/rustworkx](https://github.com/Qiskit/rustworkx) - A high performance Python graph library implemented in Rust.
 - [gukoff/dtparse](https://github.com/gukoff/dtparse) - Fast datetime parser for Python written in Rust
@@ -2660,6 +2661,7 @@
 
 ## TypeScript 
 
+- [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear and Height Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible.
 - [dragidavid/shade](https://github.com/dragidavid/shade) - Yet another code sharing app...
 - [vercel-labs/ai-chatbot](https://github.com/vercel-labs/ai-chatbot) - A full-featured, hackable Next.js AI chatbot built by Vercel Labs
 - [vercel-labs/ai](https://github.com/vercel-labs/ai) - Build AI-powered applications with React, Svelte, and Vue
