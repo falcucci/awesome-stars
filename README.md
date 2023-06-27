@@ -1578,6 +1578,7 @@
 - [pavlovtech/NextBlog](https://github.com/pavlovtech/NextBlog) - Blog built with NextJs 13, Contentlayer, Giscus and NextAuth. It uses Github API for admin section that allows managing markdown files rendered with Codemirror.
 - [tauri-apps/tauri-docs](https://github.com/tauri-apps/tauri-docs) - The source for all Tauri project documentation.
 - [yewstack/yew](https://github.com/yewstack/yew) - Rust / Wasm framework for building client web apps
+- [wix/react-native-navigation](https://github.com/wix/react-native-navigation) - A complete native navigation solution for React Native
 
 ## Makefile 
 
@@ -1617,7 +1618,6 @@
 - [eczarny/spectacle](https://github.com/eczarny/spectacle) - Spectacle allows you to organize your windows without using a mouse.
 - [mattt/GroundControl](https://github.com/mattt/GroundControl) - Remote configuration for iOS
 - [falcucci/simple-react-native-boilerplate](https://github.com/falcucci/simple-react-native-boilerplate) - A simple react native boilerplate to start your own project easier. :rocket:
-- [wix/react-native-navigation](https://github.com/wix/react-native-navigation) - A complete native navigation solution for React Native
 - [a7ul/react-native-exception-handler-example](https://github.com/a7ul/react-native-exception-handler-example) - An example repo showing how to integrate react-native-exception-handler
 - [a7ul/react-native-exception-handler](https://github.com/a7ul/react-native-exception-handler) - A react native module that lets you to register a global error handler that can capture fatal/non fatal uncaught exceptions.
 - [torifat/react-native-bem-check-box](https://github.com/torifat/react-native-bem-check-box) - React Native bridge for awesome BEMCheckBox https://github.com/Boris-Em/BEMCheckBox
@@ -2067,6 +2067,14 @@
 
 ## Rust 
 
+- [google/mdbook-i18n-helpers](https://github.com/google/mdbook-i18n-helpers) - Translation support for mdbook. The plugins here give you a structured way to maintain a translated book.
+- [9999years/cherries-4-prs](https://github.com/9999years/cherries-4-prs) - You approve my PRs, I send you cherries
+- [dzfrias/projectable](https://github.com/dzfrias/projectable) - :dizzy: A TUI file manager built for projects
+- [flows-network/github-pr-summary](https://github.com/flows-network/github-pr-summary) - Use ChatGPT to summarize & review GitHub Pull Requests
+- [nate-xyz/chromatic](https://github.com/nate-xyz/chromatic) - Fine-tune your instruments.
+- [nate-xyz/paleta](https://github.com/nate-xyz/paleta) - Extract the dominant colors from any image.
+- [nate-xyz/resonance](https://github.com/nate-xyz/resonance) - Intuitive GTK4/LibAdwaita music player
+- [yutkat/dispkey](https://github.com/yutkat/dispkey) - Screencast to display your keys
 - [txpipe/oura](https://github.com/txpipe/oura) - The tail of Cardano
 - [coastalwhite/wavedrom-rs](https://github.com/coastalwhite/wavedrom-rs) - Beautiful Digital Timing Diagrams with Rust
 - [icedland/iced](https://github.com/icedland/iced) - Blazing fast and correct x86/x64 disassembler, assembler, decoder, encoder for Rust, .NET, Java, Python, Lua
@@ -3059,6 +3067,9 @@
 
 ## Vim Script 
 
+- [sonph/onehalf](https://github.com/sonph/onehalf) - Clean, vibrant and pleasing color schemes for Vim, Sublime Text, iTerm, gnome-terminal and more.
+- [rakr/vim-one](https://github.com/rakr/vim-one) - Adaptation of one-light and one-dark colorschemes for Vim
+- [simnalamburt/vim-mundo](https://github.com/simnalamburt/vim-mundo) - :christmas_tree: Vim undo tree visualizer
 - [jeetsukumaran/vim-buffergator](https://github.com/jeetsukumaran/vim-buffergator) - Vim plugin to list, select and switch between buffers.
 - [ernstwi/vim-secret](https://github.com/ernstwi/vim-secret) - Private writing mode for Vim
 - [vim-airline/vim-airline](https://github.com/vim-airline/vim-airline) - lean & mean status/tabline for vim that's light as air
