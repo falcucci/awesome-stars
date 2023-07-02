@@ -293,6 +293,8 @@
 
 ## Go 
 
+- [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀
+- [charmbracelet/kancli](https://github.com/charmbracelet/kancli) - Command line kanban board
 - [robherley/snips.sh](https://github.com/robherley/snips.sh) - ✂️ passwordless, anonymous SSH-powered pastebin with a human-friendly TUI and web UI
 - [moebiusmania/atmmi-info-api](https://github.com/moebiusmania/atmmi-info-api) - Node.js webservice that turns the ATM Milano news website in a REST API JSON data.
 - [grafana/google-sheets-datasource](https://github.com/grafana/google-sheets-datasource) - Load Google Sheets in grafana
@@ -1519,6 +1521,14 @@
 
 ## Lua 
 
+- [nvim-pack/nvim-spectre](https://github.com/nvim-pack/nvim-spectre) - Find the enemy and replace them with dark power.
+- [chipsenkbeil/distant.nvim](https://github.com/chipsenkbeil/distant.nvim) - 🚧 (Alpha stage software) Edit files, run programs, and work with LSP on a remote machine from the comfort of your local environment 🚧
+- [Pocco81/true-zen.nvim](https://github.com/Pocco81/true-zen.nvim) - 🦝 Clean and elegant distraction-free writing for NeoVim
+- [pwntester/octo.nvim](https://github.com/pwntester/octo.nvim) - Edit and review GitHub issues and pull requests from the comfort of your favorite editor
+- [ekickx/clipboard-image.nvim](https://github.com/ekickx/clipboard-image.nvim) - Neovim Lua plugin to paste image from clipboard.
+- [askfiy/nvim-picgo](https://github.com/askfiy/nvim-picgo) - 🥳🥳 A neovim plugin based on picgo-core, written in Lua. 🌲 Allows you to add pictures to various picture beds at any time, and they can be accessed from any corner of the Internet. 🎆
+- [wbthomason/packer.nvim](https://github.com/wbthomason/packer.nvim) - A use-package inspired plugin manager for Neovim. Uses native packages, supports Luarocks dependencies, written in Lua, allows for expressive config
+- [folke/lazy.nvim](https://github.com/folke/lazy.nvim) - 💤 A modern plugin manager for Neovim
 - [zbirenbaum/copilot.lua](https://github.com/zbirenbaum/copilot.lua) - Fully featured & enhanced replacement for copilot.vim complete with API for interacting with Github Copilot
 - [Sanix-Darker/snips.nvim](https://github.com/Sanix-Darker/snips.nvim) - Create snips from your vim/nvim editor
 - [akinsho/toggleterm.nvim](https://github.com/akinsho/toggleterm.nvim) - A neovim lua plugin to help easily manage multiple terminal windows
@@ -1803,6 +1813,7 @@
 
 ## PHP 
 
+- [Onelinerhub/onelinerhub](https://github.com/Onelinerhub/onelinerhub) - Thousands of code solutions with clear explanation @ onelinerhub.com
 - [nirix/traq](https://github.com/nirix/traq) - Project management and issue tracking system written in PHP.
 - [nextcloud/server](https://github.com/nextcloud/server) - ☁️ Nextcloud server, a safe home for all your data
 - [digininja/DVWA](https://github.com/digininja/DVWA) - Damn Vulnerable Web Application (DVWA)
@@ -2072,6 +2083,11 @@
 
 ## Rust 
 
+- [krivahtoo/silicon.nvim](https://github.com/krivahtoo/silicon.nvim) - Neovim plugin for silicon in Rust
+- [dinoocch/dino.nvim](https://github.com/dinoocch/dino.nvim) - Some haphazard attempt to migrate my vim config to rust. Probably doesn't work and is currently more lua than rust
+- [ikey4u/nvim-previewer](https://github.com/ikey4u/nvim-previewer) - 
+- [noib3/nvim-oxi](https://github.com/noib3/nvim-oxi) - :link: Rust bindings to all things Neovim
+- [solidiquis/erdtree](https://github.com/solidiquis/erdtree) - A modern, cross-platform, multi-threaded, and general purpose filesystem and disk-usage utility that is aware of .gitignore and hidden file rules.
 - [rust-lang/mdBook](https://github.com/rust-lang/mdBook) - Create book from markdown files. Like Gitbook but implemented in Rust
 - [google/mdbook-i18n-helpers](https://github.com/google/mdbook-i18n-helpers) - Translation support for mdbook. The plugins here give you a structured way to maintain a translated book.
 - [9999years/cherries-4-prs](https://github.com/9999years/cherries-4-prs) - You approve my PRs, I send you cherries
@@ -2327,7 +2343,7 @@
 - [roapi/roapi](https://github.com/roapi/roapi) - Create full-fledged APIs for slowly moving datasets without writing a single line of code.
 - [PyO3/maturin](https://github.com/PyO3/maturin) - Build and publish crates with pyo3, rust-cpython and cffi bindings as well as rust binaries as python packages
 - [rbatis/rbatis](https://github.com/rbatis/rbatis) - Rust  Compile Time ORM robustness,async, pure Rust Dynamic SQL
-- [pola-rs/polars](https://github.com/pola-rs/polars) - Fast multi-threaded, hybrid-out-of-core DataFrame library in Rust | Python | Node.js
+- [pola-rs/polars](https://github.com/pola-rs/polars) - Fast multi-threaded, hybrid-out-of-core query engine focussing on DataFrame front-ends
 - [shuttle-hq/shuttle-examples](https://github.com/shuttle-hq/shuttle-examples) - Examples for using shuttle with different frameworks and resources
 - [shuttle-hq/shuttle](https://github.com/shuttle-hq/shuttle) - Build & ship backends without writing any infrastructure files.
 - [tikv/grpc-rs](https://github.com/tikv/grpc-rs) - The gRPC library for Rust built on C Core library and futures
@@ -2363,7 +2379,7 @@
 - [mongodb/mongo-rust-driver](https://github.com/mongodb/mongo-rust-driver) - The official MongoDB Rust Driver
 - [cobalt-org/cobalt.rs](https://github.com/cobalt-org/cobalt.rs) - Static site generator written in Rust
 - [kdr-aus/ogma](https://github.com/kdr-aus/ogma) - Scripting language focused on processing tabular data.
-- [mackwic/colored](https://github.com/mackwic/colored) - (Rust) Coloring terminal so simple you already know how to do it !
+- [colored-rs/colored](https://github.com/colored-rs/colored) - (Rust) Coloring terminal so simple you already know how to do it !
 - [postgresml/pgcat](https://github.com/postgresml/pgcat) - PostgreSQL pooler with sharding, load balancing and failover support.
 - [PaddiM8/kalker](https://github.com/PaddiM8/kalker) - Kalker/kalk is a calculator with math syntax that supports user-defined variables and functions, complex numbers, and estimation of derivatives and integrals
 - [gnzlbg/cargo-asm](https://github.com/gnzlbg/cargo-asm) - cargo subcommand showing the assembly or llvm-ir generated for Rust code
@@ -2542,6 +2558,7 @@
 
 ## Shell 
 
+- [codespaces-examples/rust](https://github.com/codespaces-examples/rust) - 
 - [bigH/git-fuzzy](https://github.com/bigH/git-fuzzy) - interactive `git` with the help of `fzf`
 - [hrantzsch/vimclip](https://github.com/hrantzsch/vimclip) - Never type outside vim again
 - [erikw/vim-keybindings-everywhere-the-ultimate-list](https://github.com/erikw/vim-keybindings-everywhere-the-ultimate-list) - The ultimate list of which programs support Vim-like keybindings natively, or how they can be added with extensions. A collaborative project.
@@ -2633,6 +2650,7 @@
 
 ## Swift 
 
+- [mczachurski/wallpapper](https://github.com/mczachurski/wallpapper) - :computer: Console application for creating dynamic wallpapers for macOS Mojave and newer
 - [CodeEditApp/CodeEdit](https://github.com/CodeEditApp/CodeEdit) - CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.
 - [agentcooper/Telik](https://github.com/agentcooper/Telik) - macOS app to track YouTube channels and playlists
 - [aheze/VariableBlurView](https://github.com/aheze/VariableBlurView) - A one-file, App Store upload-safe version of Janum Trivedi's variable blur effect.
@@ -2675,6 +2693,9 @@
 
 ## TypeScript 
 
+- [codicocodes/speedtyper.dev](https://github.com/codicocodes/speedtyper.dev) - Type racing for programmers
+- [PicGo/PicGo-Core](https://github.com/PicGo/PicGo-Core) - :zap:A tool for pictures uploading. Both CLI & API supports.
+- [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Framework to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API.
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear and Height Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible.
 - [dragidavid/shade](https://github.com/dragidavid/shade) - Yet another code sharing app...
 - [vercel-labs/ai-chatbot](https://github.com/vercel-labs/ai-chatbot) - A full-featured, hackable Next.js AI chatbot built by Vercel Labs
@@ -2768,7 +2789,7 @@
 - [alii/use-last-fm](https://github.com/alii/use-last-fm) - 🎸 React Hook to use realtime last.fm data and display your currently played song in your application.
 - [esbuild-kit/esbuild-loader](https://github.com/esbuild-kit/esbuild-loader) - Webpack loader for esbuild: Speed up your build ⚡️
 - [datejer/vercel-badge](https://github.com/datejer/vercel-badge) - Simple serverless service for embedding a Vercel deployment badge.
-- [askclippyai/widget](https://github.com/askclippyai/widget) - An AI-powered assistant for your company's docs.
+- [m1guelpf/clippy-widget](https://github.com/m1guelpf/clippy-widget) - An AI-powered assistant for your company's docs.
 - [DevExpress/devextreme-reactive](https://github.com/DevExpress/devextreme-reactive) - Business React components for Bootstrap and Material-UI
 - [epam/UUI](https://github.com/epam/UUI) - React-based components and accelerators library built by EPAM Systems.
 - [graphile/worker](https://github.com/graphile/worker) - High performance Node.js/PostgreSQL job queue (also suitable for getting jobs generated by PostgreSQL triggers/functions out into a different work queue)
@@ -3072,6 +3093,11 @@
 
 ## Vim Script 
 
+- [knubie/vim-kitty-navigator](https://github.com/knubie/vim-kitty-navigator) - Seamless navigation between kitty panes and vim splits
+- [mattn/vim-chatgpt](https://github.com/mattn/vim-chatgpt) - 
+- [hardhackerlabs/theme-vim](https://github.com/hardhackerlabs/theme-vim) - 🧑🏾‍🚀 HardHacker Theme for Vim/Neovim 🌈
+- [TroyFletcher/vim-colors-synthwave](https://github.com/TroyFletcher/vim-colors-synthwave) - A high contrast vim colorscheme with bonus ａｅｓｔｈｅｔｉｃ
+- [artanikin/vim-synthwave84](https://github.com/artanikin/vim-synthwave84) - The port of SynthWave '84 - VS Code theme to Vim
 - [sonph/onehalf](https://github.com/sonph/onehalf) - Clean, vibrant and pleasing color schemes for Vim, Sublime Text, iTerm, gnome-terminal and more.
 - [rakr/vim-one](https://github.com/rakr/vim-one) - Adaptation of one-light and one-dark colorschemes for Vim
 - [simnalamburt/vim-mundo](https://github.com/simnalamburt/vim-mundo) - :christmas_tree: Vim undo tree visualizer
