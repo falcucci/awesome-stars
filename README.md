@@ -1522,6 +1522,12 @@
 
 ## Lua 
 
+- [ThePrimeagen/harpoon](https://github.com/ThePrimeagen/harpoon) - 
+- [williamboman/mason.nvim](https://github.com/williamboman/mason.nvim) - Portable package manager for Neovim that runs everywhere Neovim runs. Easily install and manage LSP servers, DAP servers, linters, and formatters.
+- [phaazon/hop.nvim](https://github.com/phaazon/hop.nvim) - Neovim motions on speed!
+- [neovim/nvim-lspconfig](https://github.com/neovim/nvim-lspconfig) - Quickstart configs for Nvim LSP
+- [Bekaboo/dropbar.nvim](https://github.com/Bekaboo/dropbar.nvim) - IDE-like breadcrumbs, out of the box
+- [tamton-aquib/staline.nvim](https://github.com/tamton-aquib/staline.nvim) - A modern lightweight statusline and bufferline plugin for neovim in lua. Mainly uses unicode symbols for showing info.
 - [NvChad/nvim-colorizer.lua](https://github.com/NvChad/nvim-colorizer.lua) - Maintained fork of the fastest Neovim colorizer
 - [norcalli/nvim-colorizer.lua](https://github.com/norcalli/nvim-colorizer.lua) - The fastest Neovim colorizer.
 - [f-person/auto-dark-mode.nvim](https://github.com/f-person/auto-dark-mode.nvim) - A Neovim plugin for macOS that automatically changes the editor appearance based on system settings.
@@ -2088,6 +2094,11 @@
 
 ## Rust 
 
+- [construkts/gasket-rs](https://github.com/construkts/gasket-rs) - An opinionated Rust library for building application using data pipeline semantics.
+- [headcrab-rs/headcrab](https://github.com/headcrab-rs/headcrab) - A modern Rust debugging library 🦀
+- [Gekkio/mooneye-gb](https://github.com/Gekkio/mooneye-gb) - A Game Boy research project and emulator written in Rust
+- [maplibre/maplibre-rs](https://github.com/maplibre/maplibre-rs) - Experimental Maps for Web, Mobile and Desktop
+- [yazgoo/vmux](https://github.com/yazgoo/vmux) - helper for multiplexing terminals with vim/neovim
 - [kkharji/xbase](https://github.com/kkharji/xbase) - Develop Apple software products within your favorite editor.
 - [I60R/page](https://github.com/I60R/page) - Use neovim as pager
 - [LemmyNet/lemmy](https://github.com/LemmyNet/lemmy) - 🐀 A link aggregator and forum for the fediverse
@@ -2703,6 +2714,7 @@
 
 ## TypeScript 
 
+- [twidgeapp/twidge](https://github.com/twidgeapp/twidge) - Twidge is a fresh approach to productivity. It integrates with your workflow and allows you to be your most productive self.
 - [neoclide/coc-highlight](https://github.com/neoclide/coc-highlight) - Document highlight and document colors LSP support for coc.nvim
 - [codicocodes/speedtyper.dev](https://github.com/codicocodes/speedtyper.dev) - Type racing for programmers
 - [PicGo/PicGo-Core](https://github.com/PicGo/PicGo-Core) - :zap:A tool for pictures uploading. Both CLI & API supports.
@@ -2714,7 +2726,6 @@
 - [glacambre/firenvim](https://github.com/glacambre/firenvim) - Embed Neovim in Chrome, Firefox & others.
 - [steven-tey/novel](https://github.com/steven-tey/novel) - Notion-style WYSIWYG editor with AI-powered autocompletion.
 - [DAB0mB/react-autorun](https://github.com/DAB0mB/react-autorun) - A macro that compiles into a dependencies array for hooks.
-- [haackt/warp-themes](https://github.com/haackt/warp-themes) - ✨ A theme builder for Warp
 - [denoland/deno_blog](https://github.com/denoland/deno_blog) - Minimal boilerplate blogging.
 - [vimcolorschemes/vimcolorschemes](https://github.com/vimcolorschemes/vimcolorschemes) - Find the best vim color schemes around
 - [agmmnn/tauri-ui](https://github.com/agmmnn/tauri-ui) - 🦀 Create modern desktop applications with Tauri and shadcn/ui.
@@ -3104,6 +3115,7 @@
 
 ## Vim Script 
 
+- [anmonteiro/dotfiles](https://github.com/anmonteiro/dotfiles) - 
 - [knubie/vim-kitty-navigator](https://github.com/knubie/vim-kitty-navigator) - Seamless navigation between kitty panes and vim splits
 - [mattn/vim-chatgpt](https://github.com/mattn/vim-chatgpt) - 
 - [hardhackerlabs/theme-vim](https://github.com/hardhackerlabs/theme-vim) - 🧑🏾‍🚀 HardHacker Theme for Vim/Neovim 🌈
