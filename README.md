@@ -1523,6 +1523,7 @@
 
 ## Lua 
 
+- [nvim-treesitter/nvim-treesitter-context](https://github.com/nvim-treesitter/nvim-treesitter-context) - Show code context
 - [3rd/image.nvim](https://github.com/3rd/image.nvim) - 🖼️ Bringing images to Neovim.
 - [nvim-lualine/lualine.nvim](https://github.com/nvim-lualine/lualine.nvim) - A blazing fast and easy to configure neovim statusline plugin written in pure lua.
 - [jghauser/kitty-runner.nvim](https://github.com/jghauser/kitty-runner.nvim) - A neovim plugin allowing you to easily send lines from the current buffer to another kitty terminal
@@ -2098,6 +2099,8 @@
 
 ## Rust 
 
+- [nerdypepper/statix](https://github.com/nerdypepper/statix) - lints and suggestions for the nix programming language
+- [nerdypepper/dijo](https://github.com/nerdypepper/dijo) - scriptable, curses-based, digital habit tracker
 - [m1guelpf/tinyvector](https://github.com/m1guelpf/tinyvector) - A tiny embedding database in pure Rust.
 - [chmln/nvim-ctrl](https://github.com/chmln/nvim-ctrl) - Control neovim instances using the command line.
 - [construkts/gasket-rs](https://github.com/construkts/gasket-rs) - An opinionated Rust library for building application using data pipeline semantics.
@@ -2676,7 +2679,6 @@
 
 ## Swift 
 
-- [mlemgroup/mormaer-mlem](https://github.com/mlemgroup/mormaer-mlem) - The Lemmy client
 - [mczachurski/wallpapper](https://github.com/mczachurski/wallpapper) - :computer: Console application for creating dynamic wallpapers for macOS Mojave and newer
 - [CodeEditApp/CodeEdit](https://github.com/CodeEditApp/CodeEdit) - CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.
 - [agentcooper/Telik](https://github.com/agentcooper/Telik) - macOS app to track YouTube channels and playlists
@@ -3121,6 +3123,7 @@
 
 ## Vim Script 
 
+- [terryma/vim-multiple-cursors](https://github.com/terryma/vim-multiple-cursors) - True Sublime Text style multiple selections for Vim
 - [anmonteiro/dotfiles](https://github.com/anmonteiro/dotfiles) - 
 - [knubie/vim-kitty-navigator](https://github.com/knubie/vim-kitty-navigator) - Seamless navigation between kitty panes and vim splits
 - [mattn/vim-chatgpt](https://github.com/mattn/vim-chatgpt) - 
