@@ -1525,6 +1525,9 @@
 
 ## Lua 
 
+- [NvChad/nvterm](https://github.com/NvChad/nvterm) - NvChad's Official Terminal Plugin
+- [nvim-treesitter/playground](https://github.com/nvim-treesitter/playground) - Treesitter playground integrated into Neovim
+- [nvim-lua/plenary.nvim](https://github.com/nvim-lua/plenary.nvim) - plenary: full; complete; entire; absolute; unqualified. All the lua functions I don't want to write twice.
 - [simrat39/rust-tools.nvim](https://github.com/simrat39/rust-tools.nvim) - Tools for better development in rust using neovim's builtin lsp
 - [Alloyed/lua-lsp](https://github.com/Alloyed/lua-lsp) - A Lua language server
 - [LuaLS/lua-language-server](https://github.com/LuaLS/lua-language-server) - A language server that offers Lua language support - programmed in Lua
@@ -1639,7 +1642,7 @@
 
 ## Makefile 
 
-- [chrisgrieser/finder-vim-mode](https://github.com/chrisgrieser/finder-vim-mode) - Vim Mode for macOS Finder as a Karabiner Plugin
+- [chrisgrieser/finder-vim-mode](https://github.com/chrisgrieser/finder-vim-mode) - Feature-rich mouseless control of macOS Finder, inspired by vim/ranger.
 - [badboy/makerust](https://github.com/badboy/makerust) - Rust, but in a Makefile.
 - [PostgresApp/PostgresApp](https://github.com/PostgresApp/PostgresApp) - The easiest way to get started with PostgreSQL on the Mac
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
@@ -1668,6 +1671,7 @@
 
 ## Objective-C 
 
+- [hholtmann/smcFanControl](https://github.com/hholtmann/smcFanControl) - Control the fans of every Intel Mac to make it run cooler
 - [Hammerspoon/hammerspoon](https://github.com/Hammerspoon/hammerspoon) - Staggeringly powerful macOS desktop automation with Lua
 - [gnachman/iTerm2](https://github.com/gnachman/iTerm2) - iTerm2 is a terminal emulator for Mac OS X that does amazing things.
 - [josh-/TodayFlights](https://github.com/josh-/TodayFlights) - TodayFlights is a Notification Center widget that allows you to track flights using the 'FlightUtilities' macOS system framework.
@@ -1688,6 +1692,7 @@
 
 ## Others 
 
+- [crystalidea/macs-fan-control](https://github.com/crystalidea/macs-fan-control) - Control fans on Apple computers
 - [imhq/rust-interview-handbook](https://github.com/imhq/rust-interview-handbook) - A curated list of Rust interview preparation materials for busy software engineers. Submit a PR if you know of any other Rust interview questions.
 - [ItsTerm1n4l/Wallpapers](https://github.com/ItsTerm1n4l/Wallpapers) - Awesome Wallpaper Collection
 - [cseelus/monego](https://github.com/cseelus/monego) - The beloved Monaco monospaced font, recreated with a bold and italic variant. Finally.
