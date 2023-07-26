@@ -88,6 +88,7 @@
 
 ## C 
 
+- [deweller/switchaudio-osx](https://github.com/deweller/switchaudio-osx) - Change the audio source for Mac OS X from the command line.
 - [vifm/vifm](https://github.com/vifm/vifm) - Vifm is a file manager with curses interface, which provides Vim-like environment for managing objects within file systems, extended with some useful ideas from mutt.
 - [jay/wget](https://github.com/jay/wget) - wget. This is not the canonical repo, see the website
 - [netdata/netdata](https://github.com/netdata/netdata) - Monitor your servers, containers, and applications, in high-resolution and in real-time!
@@ -558,7 +559,7 @@
 - [hoisie/redis](https://github.com/hoisie/redis) - A simple, powerful Redis client for Go
 - [redis/go-redis](https://github.com/redis/go-redis) - Redis Go client
 - [joho/godotenv](https://github.com/joho/godotenv) - A Go port of Ruby's dotenv library (Loads environment variables from .env files)
-- [caarlos0/env](https://github.com/caarlos0/env) - A simple and zero-dependencies library to parse environment variables into structs.
+- [caarlos0/env](https://github.com/caarlos0/env) - A simple and zero-dependencies library to parse environment variables into structs
 - [olebedev/config](https://github.com/olebedev/config) - JSON or YAML configuration wrapper with convenient access methods.
 - [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
 - [ktr0731/evans](https://github.com/ktr0731/evans) - Evans: more expressive universal gRPC client
@@ -592,7 +593,7 @@
 ## HTML 
 
 - [ayushnix/kangae](https://github.com/ayushnix/kangae) - a lightweight microblog theme for zola
-- [infinum/iOS-VIPER-Xcode-Templates](https://github.com/infinum/iOS-VIPER-Xcode-Templates) - Used for generating template files for the VIPER architecture, which solves the common Massive View Controller issues in iOS apps.
+- [infinum/ios-viper-xcode-templates](https://github.com/infinum/ios-viper-xcode-templates) - Used for generating template files for the VIPER architecture, which solves the common Massive View Controller issues in iOS apps.
 - [italia/designers.italia.it](https://github.com/italia/designers.italia.it) - Designers Italia mette a disposizione la conoscenza e gli strumenti per progettare e realizzare servizi pubblici centrati sulle necessità delle persone
 - [calcom/cal.fm](https://github.com/calcom/cal.fm) - The official Cal.com Work Playlist, only on Cal.fm
 - [scheb/beer-analytics](https://github.com/scheb/beer-analytics) - Analyzing the composition of beer recipes and visualize results in a human-friendly way 🕵️🍺
@@ -2201,7 +2202,7 @@
 - [coastalwhite/wavedrom-rs](https://github.com/coastalwhite/wavedrom-rs) - Beautiful Digital Timing Diagrams with Rust
 - [icedland/iced](https://github.com/icedland/iced) - Blazing fast and correct x86/x64 disassembler, assembler, decoder, encoder for Rust, .NET, Java, Python, Lua
 - [reinterpretcat/vrp](https://github.com/reinterpretcat/vrp) - A Vehicle Routing Problem solver
-- [Pometry/Raphtory](https://github.com/Pometry/Raphtory) - Blazingly fast, parallel, and scalable temporal graph engine for Rust, Python and JavaScript
+- [Pometry/Raphtory](https://github.com/Pometry/Raphtory) - Blazingly fast, vectorised, parallel, and scalable temporal graph engine for Rust, Python and JavaScript
 - [hubblo-org/scaphandre](https://github.com/hubblo-org/scaphandre) - ⚡ Energy consumption metrology agent. Let "scaph" dive and bring back the metrics that will help you make your systems and applications more sustainable !
 - [raphamorim/rio](https://github.com/raphamorim/rio) - A hardware-accelerated GPU terminal emulator powered by WebGPU, focusing to run in desktops and browsers.
 - [gabotechs/signway](https://github.com/gabotechs/signway) - Bring the power of pre-signed URLs to your apps. Signway is a gateway for redirecting ephimeral signed URLs to the requested API
