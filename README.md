@@ -51,6 +51,7 @@
 - [PureScript](#purescript)
 - [Python](#python)
 - [QML](#qml)
+- [R](#r)
 - [Reason](#reason)
 - [Ruby](#ruby)
 - [Rust](#rust)
@@ -1584,7 +1585,7 @@
 - [f-person/auto-dark-mode.nvim](https://github.com/f-person/auto-dark-mode.nvim) - A Neovim plugin for macOS that automatically changes the editor appearance based on system settings.
 - [nvim-pack/nvim-spectre](https://github.com/nvim-pack/nvim-spectre) - Find the enemy and replace them with dark power.
 - [chipsenkbeil/distant.nvim](https://github.com/chipsenkbeil/distant.nvim) - 🚧 (Alpha stage software) Edit files, run programs, and work with LSP on a remote machine from the comfort of your local environment 🚧
-- [Pocco81/true-zen.nvim](https://github.com/Pocco81/true-zen.nvim) - 🦝 Clean and elegant distraction-free writing for NeoVim
+- [pocco81/true-zen.nvim](https://github.com/pocco81/true-zen.nvim) - 🦝 Clean and elegant distraction-free writing for NeoVim
 - [pwntester/octo.nvim](https://github.com/pwntester/octo.nvim) - Edit and review GitHub issues and pull requests from the comfort of your favorite editor
 - [ekickx/clipboard-image.nvim](https://github.com/ekickx/clipboard-image.nvim) - Neovim Lua plugin to paste image from clipboard.
 - [askfiy/nvim-picgo](https://github.com/askfiy/nvim-picgo) - 🥳🥳 A neovim plugin based on picgo-core, written in Lua. 🌲 Allows you to add pictures to various picture beds at any time, and they can be accessed from any corner of the Internet. 🎆
@@ -2112,6 +2113,10 @@
 
 - [Swordfish90/cool-retro-term](https://github.com/Swordfish90/cool-retro-term) - A good looking terminal emulator which mimics the old cathode display...
 - [amlwwalker/got-qt](https://github.com/amlwwalker/got-qt) - A framework for building cross platform GUI interfaces in Go and QML
+
+## R 
+
+- [auroragaeta/sex-and-gender-hnc](https://github.com/auroragaeta/sex-and-gender-hnc) - 
 
 ## Reason 
 
@@ -2655,6 +2660,7 @@
 
 ## Scala 
 
+- [softwaremill/ox](https://github.com/softwaremill/ox) - Developer-friendly structured concurrency library for the JVM
 - [twitter/the-algorithm](https://github.com/twitter/the-algorithm) - Source code for Twitter's Recommendation Algorithm
 - [prisma/prisma1](https://github.com/prisma/prisma1) - 💾 Database Tools incl. ORM, Migrations and Admin UI (Postgres, MySQL & MongoDB) [deprecated]
 - [stanch/reftree](https://github.com/stanch/reftree) - Automatically generated diagrams and animations for Scala data structures
