@@ -606,6 +606,7 @@
 - [snotra-org/hasura-parser](https://github.com/snotra-org/hasura-parser) - :zap: Parse Hasura actions and events with ease in JS/TS projects.
 - [edsonlb/tobuscando](https://github.com/edsonlb/tobuscando) - (Django/Python) Protótipo para sites de leitão inverso de qualquer tipo de mercadoria.
 - [yunpengn/blog](https://github.com/yunpengn/blog) - My personal blog website powered by Hexo.js
+- [davidarroyo1234/InstagramUnfollowers](https://github.com/davidarroyo1234/InstagramUnfollowers) - Check if people follows you back on Instagram.
 - [IonicaBizau/git-stats](https://github.com/IonicaBizau/git-stats) - 🍀 Local git statistics including GitHub-like contributions calendars.
 - [bradjasper/ImportJSON](https://github.com/bradjasper/ImportJSON) - Import JSON into Google Sheets, this library adds various ImportJSON functions to your spreadsheet
 - [rampatra/wedding-website](https://github.com/rampatra/wedding-website) - Our Wedding Website 👫
@@ -748,6 +749,7 @@
 
 ## JavaScript 
 
+- [bigskysoftware/htmx](https://github.com/bigskysoftware/htmx) - &lt;/&gt; htmx - high power tools for HTML
 - [nikitavoloboev/knowledge](https://github.com/nikitavoloboev/knowledge) - Everything I know
 - [chrisgrieser/finder-vim-mode](https://github.com/chrisgrieser/finder-vim-mode) - Feature-rich mouseless control of macOS Finder, inspired by vim/ranger.
 - [carbon-design-system/carbon](https://github.com/carbon-design-system/carbon) - A design system built by IBM
@@ -879,7 +881,6 @@
 - [sleeyax/stremio-discord](https://github.com/sleeyax/stremio-discord) - Local addon that shows the movie or series you're watching in Discord
 - [Stremio/stremio-web](https://github.com/Stremio/stremio-web) - Stremio - Freedom to Stream
 - [Stremio/stremio-addon-sdk](https://github.com/Stremio/stremio-addon-sdk) - 🧙 A Node.js SDK for creating and publishing Stremio add-ons
-- [markedjs/marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed.
 - [JessicaSachs/carbon](https://github.com/JessicaSachs/carbon) - 🎨 Create and share beautiful images of your source code
 - [chjj/ttystudio](https://github.com/chjj/ttystudio) - A terminal-to-gif recorder minus the headaches.
 - [wix/Detox](https://github.com/wix/Detox) - Gray box end-to-end testing and automation framework for mobile apps
@@ -1916,6 +1917,7 @@
 
 ## Python 
 
+- [lauris/awesome-scala](https://github.com/lauris/awesome-scala) - A community driven list of useful Scala libraries, frameworks and software.
 - [gorilla-llm/gorilla-cli](https://github.com/gorilla-llm/gorilla-cli) - LLMs for your CLI
 - [ShishirPatil/gorilla](https://github.com/ShishirPatil/gorilla) - Gorilla: An API store for LLMs
 - [ms-jpq/coq_nvim](https://github.com/ms-jpq/coq_nvim) - Fast as FUCK nvim completion. SQLite, concurrent scheduler, hundreds of hours of optimization.
@@ -1941,7 +1943,7 @@
 - [axnsan12/drf-yasg](https://github.com/axnsan12/drf-yasg) - Automated generation of real Swagger/OpenAPI 2.0 schemas from Django REST Framework code.
 - [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — A faster way to build and share data apps.
 - [ardnt/vercel-python-wsgi](https://github.com/ardnt/vercel-python-wsgi) - Builder for Python WSGI applications on Vercel
-- [bhaskatripathi/pdfGPT](https://github.com/bhaskatripathi/pdfGPT) - PDF GPT allows you to chat with the contents of your PDF file by using GPT capabilities. The only open source solution to turn your pdf files in a chatbot!
+- [bhaskatripathi/pdfGPT](https://github.com/bhaskatripathi/pdfGPT) - PDF GPT allows you to chat with the contents of your PDF file by using GPT capabilities. The most effective open source solution to turn your pdf files in a chatbot!
 - [jvns/git-workflow](https://github.com/jvns/git-workflow) - Tool to visualize your git workflow, in a pretty graph
 - [trevorhobenshield/twitter-api-client](https://github.com/trevorhobenshield/twitter-api-client) - Implementation of Twitter's v1, v2, and GraphQL APIs
 - [GerevAI/gerev](https://github.com/GerevAI/gerev) - 🧠 AI-powered enterprise search engine 🔎
@@ -2163,6 +2165,7 @@
 
 ## Rust 
 
+- [SixArm/rust-summaries](https://github.com/SixArm/rust-summaries) - Rust summaries are short introductions to Rust programming topics, including the language, ecosystem, concepts, crates, and more.
 - [chipsenkbeil/distant](https://github.com/chipsenkbeil/distant) - 🚧 (Alpha stage software) Library and tooling that supports remote filesystem and process operations. 🚧
 - [kkharji/xbase](https://github.com/kkharji/xbase) - Develop Apple software products within your favorite editor.
 - [chyh1990/yaml-rust](https://github.com/chyh1990/yaml-rust) - A pure rust YAML implementation.
@@ -2263,7 +2266,7 @@
 - [dtolnay/rust-quiz](https://github.com/dtolnay/rust-quiz) - Medium to hard Rust questions with explanations
 - [RazrFalcon/resvg](https://github.com/RazrFalcon/resvg) - An SVG rendering library.
 - [rust-windowing/glutin](https://github.com/rust-windowing/glutin) - A low-level library for OpenGL context creation, written in pure Rust.
-- [ellie/atuin](https://github.com/ellie/atuin) - 🐢 Magical shell history
+- [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Magical shell history
 - [KillTheMule/nvim-rs](https://github.com/KillTheMule/nvim-rs) - A rust library for neovim clients
 - [willothy/nvim-utils](https://github.com/willothy/nvim-utils) - Utilities and bindings for writing Neovim plugins in Rust
 - [Schniz/fnm](https://github.com/Schniz/fnm) - 🚀 Fast and simple Node.js version manager, built in Rust
@@ -2666,6 +2669,7 @@
 
 ## Scala 
 
+- [playframework/playframework](https://github.com/playframework/playframework) - Play Framework
 - [softwaremill/ox](https://github.com/softwaremill/ox) - Developer-friendly structured concurrency library for the JVM
 - [twitter/the-algorithm](https://github.com/twitter/the-algorithm) - Source code for Twitter's Recommendation Algorithm
 - [prisma/prisma1](https://github.com/prisma/prisma1) - 💾 Database Tools incl. ORM, Migrations and Admin UI (Postgres, MySQL & MongoDB) [deprecated]
@@ -2815,6 +2819,7 @@
 
 ## TypeScript 
 
+- [scalameta/coc-metals](https://github.com/scalameta/coc-metals) - Deprecated in favor of scalameta/nvim-metals
 - [xiyaowong/coc-sumneko-lua](https://github.com/xiyaowong/coc-sumneko-lua) - Lua extension using sumneko lua-language-server for coc.nvim
 - [josa42/coc-lua](https://github.com/josa42/coc-lua) - Lua language server extension using lua-lsp for coc.nvim.
 - [codota/tabnine-vscode](https://github.com/codota/tabnine-vscode) - Visual Studio Code client for Tabnine. https://marketplace.visualstudio.com/items?itemName=TabNine.tabnine-vscode
@@ -3036,7 +3041,6 @@
 - [Unleash/unleash](https://github.com/Unleash/unleash) - Open-source feature management solution built for developers.
 - [vuejs/vue](https://github.com/vuejs/vue) - This is the repo for Vue 2. For Vue 3, go to https://github.com/vuejs/core
 - [neoclide/coc-eslint](https://github.com/neoclide/coc-eslint) - Eslint extension for coc.nvim
-- [davidarroyo1234/InstagramUnfollowers](https://github.com/davidarroyo1234/InstagramUnfollowers) - Check if people follows you back on Instagram.
 - [input-output-hk/daedalus](https://github.com/input-output-hk/daedalus) - The open source cryptocurrency wallet for ada, built to grow with the community
 - [khaosdoctor/gotql](https://github.com/khaosdoctor/gotql) - GraphQL query utility for serverside apps
 - [weirongxu/coc-kotlin](https://github.com/weirongxu/coc-kotlin) - Intelligent Kotlin support for coc.nvim
@@ -3048,6 +3052,7 @@
 - [JonnyBurger/anysticker-tutorials](https://github.com/JonnyBurger/anysticker-tutorials) - In-App tutorial videos for AnySticker
 - [remotion-dev/trailer](https://github.com/remotion-dev/trailer) - The promo video for Remotion
 - [kunalnagarco/imdb-scraper](https://github.com/kunalnagarco/imdb-scraper) - 🎬 An attempt at the most complete IMDb API
+- [markedjs/marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed.
 - [pavlobu/deskreen](https://github.com/pavlobu/deskreen) - Deskreen turns any device with a web browser into a secondary screen for your computer. ⭐️ Star to support our work!
 - [vacuumlabs/cardano-hw-cli](https://github.com/vacuumlabs/cardano-hw-cli) - Cardano CLI tool for hardware wallets
 - [mattermost/mattermost](https://github.com/mattermost/mattermost) - Mattermost is an open source platform for secure collaboration across the entire software development lifecycle..
@@ -3223,6 +3228,7 @@
 
 ## Vim Script 
 
+- [chaoren/vim-wordmotion](https://github.com/chaoren/vim-wordmotion) - More useful word motions for Vim
 - [itchyny/vim-cursorword](https://github.com/itchyny/vim-cursorword) - Underlines the word under the cursor
 - [mutewinter/dot_vim](https://github.com/mutewinter/dot_vim) - My 10 Year-Old (Neo)Vim Configuration
 - [lunacookies/vim-substrata](https://github.com/lunacookies/vim-substrata) - A cold, dark colourscheme for Vim
