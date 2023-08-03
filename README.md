@@ -2167,6 +2167,8 @@
 
 ## Rust 
 
+- [alacritty/vtebench](https://github.com/alacritty/vtebench) - Generate benchmarks for terminal emulators
+- [Rodrigodd/tiny-snake.rs](https://github.com/Rodrigodd/tiny-snake.rs) - A very tiny terminal snake game, purely implemented in Rust.
 - [hecatia-elegua/bilge](https://github.com/hecatia-elegua/bilge) - Use bitsized types as if they were a feature of rust.
 - [SixArm/rust-summaries](https://github.com/SixArm/rust-summaries) - Rust summaries are short introductions to Rust programming topics, including the language, ecosystem, concepts, crates, and more.
 - [chipsenkbeil/distant](https://github.com/chipsenkbeil/distant) - 🚧 (Alpha stage software) Library and tooling that supports remote filesystem and process operations. 🚧
@@ -2614,7 +2616,7 @@
 - [rust-lang/regex](https://github.com/rust-lang/regex) - An implementation of regular expressions for Rust. This implementation uses finite automata and guarantees linear time matching on all inputs.
 - [BurntSushi/xsv](https://github.com/BurntSushi/xsv) - A fast CSV command line toolkit written in Rust.
 - [sharkdp/pastel](https://github.com/sharkdp/pastel) - A command-line tool to generate, analyze, convert and manipulate colors
-- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - Virtual / remote desktop infrastructure for everyone! Open source TeamViewer / Citrix alternative.
+- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source alternative to TeamViewer.
 - [simeg/eureka](https://github.com/simeg/eureka) - 💡 CLI tool to input and store your ideas without leaving the terminal
 - [espanso/espanso](https://github.com/espanso/espanso) - Cross-platform Text Expander written in Rust
 - [nikolassv/bartib](https://github.com/nikolassv/bartib) - A simple timetracker for the command line. It saves a log of all tracked activities as a plaintext file and allows you to create flexible reports.
