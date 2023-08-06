@@ -2170,6 +2170,11 @@
 
 ## Rust 
 
+- [jeastham1993/rust-on-serverless](https://github.com/jeastham1993/rust-on-serverless) - Learning Rust in public
+- [graphql-rust/graphql-client](https://github.com/graphql-rust/graphql-client) - Typed, correct GraphQL requests and responses in Rust
+- [graphql-rust/juniper](https://github.com/graphql-rust/juniper) - GraphQL server library for Rust
+- [web-infra-dev/oxc](https://github.com/web-infra-dev/oxc) - The JavaScript Oxidation Compiler
+- [ad4mx/spinoff](https://github.com/ad4mx/spinoff) - 💫 Easy to use, robust Rust library for displaying spinners in the terminal
 - [chronotope/chrono](https://github.com/chronotope/chrono) - Date and time library for Rust
 - [smol-rs/smol](https://github.com/smol-rs/smol) - A small and fast async runtime for Rust
 - [smol-rs/async-task](https://github.com/smol-rs/async-task) - Task abstraction for building executors
