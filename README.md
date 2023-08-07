@@ -300,6 +300,7 @@
 
 ## Go 
 
+- [dagger/dagger](https://github.com/dagger/dagger) - A programmable CI/CD engine that runs your pipelines in containers
 - [gokcehan/lf](https://github.com/gokcehan/lf) - Terminal file manager
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀
 - [charmbracelet/kancli](https://github.com/charmbracelet/kancli) - Command line kanban board
@@ -1162,6 +1163,7 @@
 - [hugomd/parrot.live](https://github.com/hugomd/parrot.live) - 🐦  Bringing animated parrots to terminals everywhere
 - [openstyles/stylus](https://github.com/openstyles/stylus) - Stylus - Userstyles Manager
 - [realadvisor/rifm](https://github.com/realadvisor/rifm) - React Input Format & Mask, tiny (≈800b) component to transform any input component into formatted or masked input. Supports number, date, phone, currency, credit card, etc
+- [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
 - [hugodias/facebook-post-preview](https://github.com/hugodias/facebook-post-preview) - Preview how a link will be rendered on facebook
 - [vercel/email-prompt](https://github.com/vercel/email-prompt) - CLI email prompt with autocompletion and built-in validation
 - [acdlite/recompose](https://github.com/acdlite/recompose) - A React utility belt for function components and higher-order components.
@@ -1534,6 +1536,9 @@
 
 ## Lua 
 
+- [sayanarijit/command-mode.xplr](https://github.com/sayanarijit/command-mode.xplr) - The missing command mode for xplr
+- [sayanarijit/gh-xplr](https://github.com/sayanarijit/gh-xplr) - Explore GitHub repos using xplr via GitHub CLI
+- [is0n/fm-nvim](https://github.com/is0n/fm-nvim) - 🗂 Neovim plugin that lets you use your favorite terminal file managers (and fuzzy finders) from within Neovim.
 - [luukvbaal/nnn.nvim](https://github.com/luukvbaal/nnn.nvim) - File manager for Neovim powered by nnn.
 - [yamatsum/nvim-cursorline](https://github.com/yamatsum/nvim-cursorline) - A plugin for neovim that highlights cursor words and lines
 - [tzachar/local-highlight.nvim](https://github.com/tzachar/local-highlight.nvim) - 
@@ -1655,6 +1660,7 @@
 
 ## MDX 
 
+- [pavlovtech/NextBlog](https://github.com/pavlovtech/NextBlog) - Blog built with NextJs 13, Contentlayer, Giscus and NextAuth. It uses Github API for admin section that allows managing markdown files rendered with Codemirror.
 - [leerob/leerob.io](https://github.com/leerob/leerob.io) - ✨  My portfolio built with Next.js, Tailwind CSS, PlanetScale, and Vercel.
 - [tauri-apps/tauri-docs](https://github.com/tauri-apps/tauri-docs) - The source for all Tauri project documentation.
 - [yewstack/yew](https://github.com/yewstack/yew) - Rust / Wasm framework for building client web apps
@@ -2170,6 +2176,19 @@
 
 ## Rust 
 
+- [brurucy/senior](https://github.com/brurucy/senior) - Are all senior engineers busy? Ask senior instead!
+- [pvolok/mprocs](https://github.com/pvolok/mprocs) - Run multiple commands in parallel
+- [sxyazi/yazi](https://github.com/sxyazi/yazi) - ⚡️ Blazing fast terminal file manager written in Rust, based on async I/O.
+- [orhun/kmon](https://github.com/orhun/kmon) - Linux Kernel Manager and Activity Monitor 🐧💻
+- [tokio-rs/console](https://github.com/tokio-rs/console) - a debugger for async rust!
+- [hatoo/oha](https://github.com/hatoo/oha) - Ohayou(おはよう), HTTP load generator, inspired by rakyll/hey with tui animation.
+- [sayanarijit/xplr](https://github.com/sayanarijit/xplr) - A hackable, minimal, fast TUI file explorer
+- [Gadersd/stable-diffusion-burn](https://github.com/Gadersd/stable-diffusion-burn) - Stable Diffusion v1.4 ported to Rust's burn framework
+- [orf/git-workspace](https://github.com/orf/git-workspace) - Sync personal and work git repositories from multiple providers :rocket:
+- [apollographql/rover](https://github.com/apollographql/rover) - ✨🤖 🐶 The CLI for Apollo GraphOS
+- [getcord/spr](https://github.com/getcord/spr) - Submit pull requests for individual, amendable, rebaseable commits to GitHub
+- [facebook/relay](https://github.com/facebook/relay) - Relay is a JavaScript framework for building data-driven React applications.
+- [vectordotdev/vector](https://github.com/vectordotdev/vector) - A high-performance observability data pipeline.
 - [jeastham1993/rust-on-serverless](https://github.com/jeastham1993/rust-on-serverless) - Learning Rust in public
 - [graphql-rust/graphql-client](https://github.com/graphql-rust/graphql-client) - Typed, correct GraphQL requests and responses in Rust
 - [graphql-rust/juniper](https://github.com/graphql-rust/juniper) - GraphQL server library for Rust
@@ -2838,6 +2857,7 @@
 
 ## TypeScript 
 
+- [open-cli-tools/concurrently](https://github.com/open-cli-tools/concurrently) - Run commands concurrently. Like `npm run watch-js & npm run watch-less` but better.
 - [neoclide/coc-r-lsp](https://github.com/neoclide/coc-r-lsp) - R LSP Client for coc.nvim
 - [scalameta/coc-metals](https://github.com/scalameta/coc-metals) - Deprecated in favor of scalameta/nvim-metals
 - [xiyaowong/coc-sumneko-lua](https://github.com/xiyaowong/coc-sumneko-lua) - Lua extension using sumneko lua-language-server for coc.nvim
@@ -2877,7 +2897,6 @@
 - [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth) - Authentication for the Web.
 - [AmruthPillai/next-auth-hasura-adapter](https://github.com/AmruthPillai/next-auth-hasura-adapter) - This is the Hasura Adapter for next-auth. This package can only be used in conjunction with the primary next-auth package. It is not a standalone package.
 - [bash-lsp/bash-language-server](https://github.com/bash-lsp/bash-language-server) - A language server for Bash
-- [pavlovtech/NextBlog](https://github.com/pavlovtech/NextBlog) - Blog built with NextJs 13, Contentlayer, Giscus and NextAuth. It uses Github API for admin section that allows managing markdown files rendered with Codemirror.
 - [nextui-org/tailwind-variants](https://github.com/nextui-org/tailwind-variants) - 🦄 Tailwindcss first-class variant API
 - [denolehov/obsidian-git](https://github.com/denolehov/obsidian-git) - Backup your Obsidian.md vault with git
 - [pagopa/io-app](https://github.com/pagopa/io-app) - IO, l'app dei servizi pubblici
@@ -3170,7 +3189,6 @@
 - [reduxjs/reselect](https://github.com/reduxjs/reselect) - Selector library for Redux
 - [mixn/carbon-now-cli](https://github.com/mixn/carbon-now-cli) - 🎨 Beautiful images of your code — from right inside your terminal.
 - [rgommezz/react-native-offline](https://github.com/rgommezz/react-native-offline) - Handy toolbelt to deal nicely with offline/online connectivity in a React Native app. Smooth redux integration ✈️
-- [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
 - [zzarcon/react-gh-corner](https://github.com/zzarcon/react-gh-corner) - React portals + Github corners + Styled component = 💘
 - [OneSignal/react-native-onesignal](https://github.com/OneSignal/react-native-onesignal) - React Native Library for OneSignal Push Notifications Service
 - [AntonioVdlC/html-template-tag](https://github.com/AntonioVdlC/html-template-tag) - :page_facing_up: - ES6 Tagged Template for compiling HTML template strings
