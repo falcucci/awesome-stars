@@ -446,7 +446,7 @@
 - [requilence/integram](https://github.com/requilence/integram) - Integrate Telegram into your workflow – Trello, Gitlab, Bitbucket and other bots
 - [divan/txqr](https://github.com/divan/txqr) - Transfer data via animated QR codes
 - [sogko/golang-relay-starter-kit](https://github.com/sogko/golang-relay-starter-kit) - Barebones starting point for a Relay application with Golang GraphQL server
-- [dgraph-io/dgraph](https://github.com/dgraph-io/dgraph) - Native GraphQL Database with graph backend
+- [dgraph-io/dgraph](https://github.com/dgraph-io/dgraph) - The high-performance database for modern applications
 - [skanehira/gjo](https://github.com/skanehira/gjo) - Small utility to create JSON objects
 - [pydio/cells](https://github.com/pydio/cells) - Future-proof content collaboration platform
 - [antham/chyle](https://github.com/antham/chyle) - Changelog generator : use a git repository and various data sources and publish the result on external services
