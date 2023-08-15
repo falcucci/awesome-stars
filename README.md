@@ -1535,6 +1535,7 @@
 
 ## Lua 
 
+- [SUSTech-data/wildfire.nvim](https://github.com/SUSTech-data/wildfire.nvim) - wildfire burns treesitter
 - [stevearc/overseer.nvim](https://github.com/stevearc/overseer.nvim) - A task runner and job management plugin for Neovim
 - [stevearc/stickybuf.nvim](https://github.com/stevearc/stickybuf.nvim) - Neovim plugin for locking a buffer to a window
 - [stevearc/dressing.nvim](https://github.com/stevearc/dressing.nvim) - Neovim plugin to improve the default vim.ui interfaces
@@ -1597,7 +1598,7 @@
 - [tamton-aquib/staline.nvim](https://github.com/tamton-aquib/staline.nvim) - A modern lightweight statusline and bufferline plugin for neovim in lua. Mainly uses unicode symbols for showing info.
 - [NvChad/nvim-colorizer.lua](https://github.com/NvChad/nvim-colorizer.lua) - Maintained fork of the fastest Neovim colorizer
 - [norcalli/nvim-colorizer.lua](https://github.com/norcalli/nvim-colorizer.lua) - The fastest Neovim colorizer.
-- [f-person/auto-dark-mode.nvim](https://github.com/f-person/auto-dark-mode.nvim) - A Neovim plugin for macOS that automatically changes the editor appearance based on system settings.
+- [f-person/auto-dark-mode.nvim](https://github.com/f-person/auto-dark-mode.nvim) - A Neovim plugin for macOS, Linux & Windows that automatically changes the editor appearance based on system settings.
 - [nvim-pack/nvim-spectre](https://github.com/nvim-pack/nvim-spectre) - Find the enemy and replace them with dark power.
 - [chipsenkbeil/distant.nvim](https://github.com/chipsenkbeil/distant.nvim) - 🚧 (Alpha stage software) Edit files, run programs, and work with LSP on a remote machine from the comfort of your local environment 🚧
 - [pocco81/true-zen.nvim](https://github.com/pocco81/true-zen.nvim) - 🦝 Clean and elegant distraction-free writing for NeoVim
@@ -1754,7 +1755,7 @@
 - [aaronhayes/awesome-hasura](https://github.com/aaronhayes/awesome-hasura) - A curated list of awesome things relating to the hasura ecosystem.
 - [jetli/awesome-yew](https://github.com/jetli/awesome-yew) - 😎 A curated list of awesome things related to Yew / WebAssembly.
 - [tauri-apps/awesome-tauri](https://github.com/tauri-apps/awesome-tauri) - 🚀 Awesome Tauri Apps, Plugins and Resources
-- [nikitavoloboev/my-mac](https://github.com/nikitavoloboev/my-mac) - List of applications and tools that make my macOS experience even more amazing
+- [nikitavoloboev/my-mac](https://github.com/nikitavoloboev/my-mac) - Apps/tools I use on macOS
 - [sdras/awesome-actions](https://github.com/sdras/awesome-actions) - A curated list of awesome actions to use on GitHub
 - [inputsh/awesome-c](https://github.com/inputsh/awesome-c) - Continuing the development of awesome-c list on GitHub
 - [semantalytics/awesome-kafka](https://github.com/semantalytics/awesome-kafka) - A curated list of awesome things related to Apache Kafka
@@ -2175,6 +2176,9 @@
 
 ## Rust 
 
+- [TheAlgorithms/Rust](https://github.com/TheAlgorithms/Rust) - All Algorithms implemented in Rust
+- [lovasoa/SQLpage](https://github.com/lovasoa/SQLpage) - SQL-only webapp builder, empowering data analysts to build websites and applications quickly
+- [lovasoa/sqlx-oldapi](https://github.com/lovasoa/sqlx-oldapi) - Fork of sqlx. 🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, SQLite, and MSSQL.
 - [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web
 - [urbanogilson/lineselect](https://github.com/urbanogilson/lineselect) - Interactive Line Selector
 - [Stebalien/tempfile](https://github.com/Stebalien/tempfile) - Temporary file library for rust
@@ -2683,7 +2687,7 @@
 - [cgag/loc](https://github.com/cgag/loc) - Count lines of code quickly.
 - [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, and grep output
 - [reacherhq/check-if-email-exists](https://github.com/reacherhq/check-if-email-exists) - Check if an email address exists without sending any email, written in Rust. Comes with a ⚙️ HTTP backend.
-- [kkoomen/vim-doge](https://github.com/kkoomen/vim-doge) - (Do)cumentation (Ge)nerator for 15 languages 📚 Generate proper code documentation skeletons with a single keypress. ⚡️🔥
+- [kkoomen/vim-doge](https://github.com/kkoomen/vim-doge) - (Do)cumentation (Ge)nerator for 15+ languages 📚 Generate proper code documentation skeletons with a single keypress. ⚡️🔥
 - [rbspy/rbspy](https://github.com/rbspy/rbspy) - Sampling CPU profiler for Ruby
 - [Rigellute/spotify-tui](https://github.com/Rigellute/spotify-tui) - Spotify for the terminal written in Rust 🚀
 - [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) - A curated list of Rust code and resources.
@@ -2882,7 +2886,7 @@
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear and Height Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible.
 - [dragidavid/shade](https://github.com/dragidavid/shade) - Yet another code sharing app...
 - [vercel-labs/ai-chatbot](https://github.com/vercel-labs/ai-chatbot) - A full-featured, hackable Next.js AI chatbot built by Vercel Labs
-- [vercel-labs/ai](https://github.com/vercel-labs/ai) - Build AI-powered applications with React, Svelte, Vue, and Solid
+- [vercel/ai](https://github.com/vercel/ai) - Build AI-powered applications with React, Svelte, Vue, and Solid
 - [glacambre/firenvim](https://github.com/glacambre/firenvim) - Embed Neovim in Chrome, Firefox & others.
 - [steven-tey/novel](https://github.com/steven-tey/novel) - Notion-style WYSIWYG editor with AI-powered autocompletion.
 - [DAB0mB/react-autorun](https://github.com/DAB0mB/react-autorun) - A macro that compiles into a dependencies array for hooks.
@@ -3276,6 +3280,7 @@
 
 ## Vim Script 
 
+- [gcmt/wildfire.vim](https://github.com/gcmt/wildfire.vim) - Smart selection of the closest text object
 - [chaoren/vim-wordmotion](https://github.com/chaoren/vim-wordmotion) - More useful word motions for Vim
 - [itchyny/vim-cursorword](https://github.com/itchyny/vim-cursorword) - Underlines the word under the cursor
 - [mutewinter/dot_vim](https://github.com/mutewinter/dot_vim) - My 10 Year-Old (Neo)Vim Configuration
