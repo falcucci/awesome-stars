@@ -2292,7 +2292,7 @@
 - [Byron/gitoxide](https://github.com/Byron/gitoxide) - An idiomatic, lean, fast & safe pure Rust implementation of Git
 - [nxthat/nanocl](https://github.com/nxthat/nanocl) - Distributed System that simplifies the management of containers and virtual machines.
 - [badboy/mdbook-open-on-gh](https://github.com/badboy/mdbook-open-on-gh) - mdbook preprocessor to add a open-on-github link on every page
-- [google/comprehensive-rust](https://github.com/google/comprehensive-rust) - This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust to everyone.
+- [google/comprehensive-rust](https://github.com/google/comprehensive-rust) - This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust.
 - [cormacrelf/dark-notify](https://github.com/cormacrelf/dark-notify) - Watcher for macOS 10.14+ light/dark mode changes
 - [hopinc/cli](https://github.com/hopinc/cli) - 💻 Interact with Hop in your terminal
 - [stevepryde/thirtyfour](https://github.com/stevepryde/thirtyfour) - Selenium WebDriver client for Rust, for automated testing of websites
