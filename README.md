@@ -194,6 +194,7 @@
 - [libcpr/cpr](https://github.com/libcpr/cpr) - C++ Requests: Curl for People, a spiritual port of Python Requests.
 - [pmq20/node-packer](https://github.com/pmq20/node-packer) - Packing your Node.js application into a single executable.
 - [microsoft/react-native-windows](https://github.com/microsoft/react-native-windows) - A framework for building native Windows apps with React.
+- [facebook/react-native](https://github.com/facebook/react-native) - A framework for building native applications using React
 - [nem0/LumixEngine](https://github.com/nem0/LumixEngine) - 3D C++ Game Engine - yet another open source game engine
 - [anbox/anbox](https://github.com/anbox/anbox) - Anbox is a container-based approach to boot a full Android system on a regular GNU/Linux system
 - [nodejs/node-addon-examples](https://github.com/nodejs/node-addon-examples) - Node.js C++ addon examples from http://nodejs.org/docs/latest/api/addons.html
@@ -371,7 +372,7 @@
 - [IBM/sarama](https://github.com/IBM/sarama) - Sarama is a Go library for Apache Kafka.
 - [eminetto/clean-architecture-go-v2](https://github.com/eminetto/clean-architecture-go-v2) - Clean Architecture sample
 - [chriswalz/bit](https://github.com/chriswalz/bit) - Bit is a modern Git CLI
-- [progrium/macdriver](https://github.com/progrium/macdriver) - Native Mac APIs for Go
+- [progrium/macdriver](https://github.com/progrium/macdriver) - Native Mac APIs for Go. Soon to be renamed to DarwinKit!
 - [golang/pkgsite](https://github.com/golang/pkgsite) - [mirror] Home of the pkg.go.dev website
 - [cli/cli](https://github.com/cli/cli) - GitHub’s official command line tool
 - [davecheney/httpstat](https://github.com/davecheney/httpstat) - It's like curl -v, with colours.
@@ -747,7 +748,6 @@
 - [zo0r/react-native-push-notification](https://github.com/zo0r/react-native-push-notification) - React Native Local and Remote Notifications
 - [cesardeazevedo/react-native-collapsing-toolbar](https://github.com/cesardeazevedo/react-native-collapsing-toolbar) - react-native wrapper for android CollapsingToolbarLayout
 - [luggit/react-native-config](https://github.com/luggit/react-native-config) - Bring some 12 factor love to your mobile apps!
-- [facebook/react-native](https://github.com/facebook/react-native) - A framework for building native applications using React
 - [nayuki/Project-Euler-solutions](https://github.com/nayuki/Project-Euler-solutions) - Runnable code for solving Project Euler problems in Java, Python, Mathematica, Haskell.
 
 ## JavaScript 
@@ -2797,7 +2797,7 @@
 - [rockymadden/slack-cli](https://github.com/rockymadden/slack-cli) - :neckbeard: Powerful Slack CLI via pure bash. Rich messaging, uploads, posts, piping, oh my!
 - [vitorbritto/forcefiles](https://github.com/vitorbritto/forcefiles) - :neckbeard: My OSX dotfiles
 - [pedroarapua/coveralls-teste](https://github.com/pedroarapua/coveralls-teste) - 
-- [hyperupcall/autoenv](https://github.com/hyperupcall/autoenv) - Directory-based environments
+- [hyperupcall/autoenv](https://github.com/hyperupcall/autoenv) - Directory-based environments.
 - [soulseekah/bash-utils](https://github.com/soulseekah/bash-utils) - A collection of pocket-size bash script utilities
 - [labbots/google-drive-upload](https://github.com/labbots/google-drive-upload) - Bash scripts to upload files to google drive
 - [Jintin/aliasme](https://github.com/Jintin/aliasme) - A shell script to memorize your command in command line.
@@ -2876,7 +2876,7 @@
 - [josa42/coc-lua](https://github.com/josa42/coc-lua) - Lua language server extension using lua-lsp for coc.nvim.
 - [codota/tabnine-vscode](https://github.com/codota/tabnine-vscode) - Visual Studio Code client for Tabnine. https://marketplace.visualstudio.com/items?itemName=TabNine.tabnine-vscode
 - [withfig/autocomplete](https://github.com/withfig/autocomplete) - IDE-style autocomplete for your existing terminal & shell
-- [StanGirard/quivr](https://github.com/StanGirard/quivr) - 🧠 Dump all your files and chat with it using your Generative AI Second Brain using LLMs ( GPT 3.5/4, Private, Anthropic, VertexAI ) & Embeddings 🧠
+- [StanGirard/quivr](https://github.com/StanGirard/quivr) - Your Second Brain powered by Generative AI 🧠 Dump all your files and chat with it  ( GPT 3.5/4, Private, Anthropic, VertexAI, LLMs...) & Embeddings
 - [NdungutseCharles103/next13-progressbar](https://github.com/NdungutseCharles103/next13-progressbar) - A simple Next.js progressbar component using NProgress with support of next.js 13 app dir.
 - [twidgeapp/twidge](https://github.com/twidgeapp/twidge) - Twidge is a fresh approach to productivity. It integrates with your workflow and allows you to be your most productive self.
 - [neoclide/coc-highlight](https://github.com/neoclide/coc-highlight) - Document highlight and document colors LSP support for coc.nvim
