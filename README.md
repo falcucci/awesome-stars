@@ -300,6 +300,7 @@
 
 ## Go 
 
+- [owenthereal/candy](https://github.com/owenthereal/candy) - Candy is a zero-config reverse proxy server
 - [docker/compose](https://github.com/docker/compose) - Define and run multi-container applications with Docker
 - [dagger/dagger](https://github.com/dagger/dagger) - A programmable CI/CD engine that runs your pipelines in containers
 - [gokcehan/lf](https://github.com/gokcehan/lf) - Terminal file manager
