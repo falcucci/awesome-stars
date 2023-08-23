@@ -1676,7 +1676,6 @@
 
 - [badboy/makerust](https://github.com/badboy/makerust) - Rust, but in a Makefile.
 - [PostgresApp/PostgresApp](https://github.com/PostgresApp/PostgresApp) - The easiest way to get started with PostgreSQL on the Mac
-- [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [golang-standards/project-layout](https://github.com/golang-standards/project-layout) - Standard Go Project Layout
 - [genuinetools/sshb0t](https://github.com/genuinetools/sshb0t) - A bot for keeping your ssh authorized_keys up to date with user's GitHub keys, **only** use if you enable 2FA & keep your keys updates.
 
@@ -1758,6 +1757,7 @@
 - [tauri-apps/awesome-tauri](https://github.com/tauri-apps/awesome-tauri) - 🚀 Awesome Tauri Apps, Plugins and Resources
 - [nikitavoloboev/my-mac](https://github.com/nikitavoloboev/my-mac) - Apps/tools I use on macOS
 - [sdras/awesome-actions](https://github.com/sdras/awesome-actions) - A curated list of awesome actions to use on GitHub
+- [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [inputsh/awesome-c](https://github.com/inputsh/awesome-c) - Continuing the development of awesome-c list on GitHub
 - [semantalytics/awesome-kafka](https://github.com/semantalytics/awesome-kafka) - A curated list of awesome things related to Apache Kafka
 - [uhub/awesome-javascript](https://github.com/uhub/awesome-javascript) - A curated list of awesome JavaScript frameworks, libraries and software.
@@ -3005,7 +3005,7 @@
 - [BuilderIO/nextjs-shopify](https://github.com/BuilderIO/nextjs-shopify) - The ultimate starter for headless Shopify stores
 - [nextui-org/nextui](https://github.com/nextui-org/nextui) - 🚀   Beautiful, fast and modern React UI library.
 - [andrecampll/next-ifood](https://github.com/andrecampll/next-ifood) - Ifood clone made with NextJS ⚛️
-- [ChangoMan/nextjs-typescript-mdx-blog](https://github.com/ChangoMan/nextjs-typescript-mdx-blog) - Next.js blog starter built with Typescript, MDX, and Tailwind CSS.
+- [ChangoMan/nextjs-typescript-mdx-blog](https://github.com/ChangoMan/nextjs-typescript-mdx-blog) - UPDATED to Next.js App Router! Starter template built with Typescript, MDX, and Tailwind CSS.
 - [paljs/ui](https://github.com/paljs/ui) - React Styled Components with bootstrap grid system
 - [react-shop/react-ecommerce](https://github.com/react-shop/react-ecommerce) - E-commerce monorepo application using NextJs, React, React-native, Design-System and Graphql with Typescript
 - [napthedev/toptop-clone](https://github.com/napthedev/toptop-clone) - A fullstack TikTok clone with Nextjs, Prisma, trpc
