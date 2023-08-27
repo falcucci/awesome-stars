@@ -196,6 +196,7 @@
 - [microsoft/react-native-windows](https://github.com/microsoft/react-native-windows) - A framework for building native Windows apps with React.
 - [facebook/react-native](https://github.com/facebook/react-native) - A framework for building native applications using React
 - [nem0/LumixEngine](https://github.com/nem0/LumixEngine) - 3D C++ Game Engine - yet another open source game engine
+- [mkleehammer/pyodbc](https://github.com/mkleehammer/pyodbc) - Python ODBC bridge
 - [anbox/anbox](https://github.com/anbox/anbox) - Anbox is a container-based approach to boot a full Android system on a regular GNU/Linux system
 - [nodejs/node-addon-examples](https://github.com/nodejs/node-addon-examples) - Node.js C++ addon examples from http://nodejs.org/docs/latest/api/addons.html
 - [mkrufky/node-native-json](https://github.com/mkrufky/node-native-json) - Access the v8::JSON object methods Parse & Stringify from native c++ addons across all versions of node.js
@@ -2118,7 +2119,6 @@
 - [pixelb/ps_mem](https://github.com/pixelb/ps_mem) - A utility to accurately report the in core memory usage for a program
 - [pycontribs/jira](https://github.com/pycontribs/jira) - Python Jira library. Development chat available on https://matrix.to/#/#pycontribs:matrix.org
 - [poliquin/brazilnum](https://github.com/poliquin/brazilnum) - Python functions for CNPJ, CEI, CPF, PIS/PASEP, CEP, and município numbers from Brazil.
-- [mkleehammer/pyodbc](https://github.com/mkleehammer/pyodbc) - Python ODBC bridge
 - [dmeranda/demjson](https://github.com/dmeranda/demjson) - Python module for JSON data encoding, including jsonlint.  See the project Wiki here on Github.  Also read the README at the bottom of this page, or the project homepage at
 - [getsentry/sentry](https://github.com/getsentry/sentry) - Developer-first error tracking and performance monitoring
 - [getsentry/sentry-webhooks](https://github.com/getsentry/sentry-webhooks) - An extension for Sentry which allows creation various web hooks.
@@ -2726,6 +2726,8 @@
 
 ## Scheme 
 
+- [RRethy/nvim-treesitter-textsubjects](https://github.com/RRethy/nvim-treesitter-textsubjects) - Location and syntax aware text objects which *do what you mean*
+- [nvim-treesitter/nvim-treesitter-textobjects](https://github.com/nvim-treesitter/nvim-treesitter-textobjects) - 
 - [nvim-treesitter/nvim-treesitter](https://github.com/nvim-treesitter/nvim-treesitter) - Nvim Treesitter configurations and abstraction layer
 
 ## Shell 
