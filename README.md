@@ -1412,7 +1412,7 @@
 - [rwieruch/favesound-redux](https://github.com/rwieruch/favesound-redux) - 🎶  A SoundCloud Client in React + Redux running in production. Live Demo and Source Code to explore React + Redux as a beginner.
 - [andrewngu/sound-redux](https://github.com/andrewngu/sound-redux) - A Soundcloud client built with React / Redux
 - [xkawi/react-universal-saga](https://github.com/xkawi/react-universal-saga) - Universal React Starter Kit ft. Redux Saga
-- [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby) - The fastest frontend for the headless web. Build modern websites with React.
+- [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby) - The best React-based framework with performance, scalability and security built in.
 - [twclark0/redux-sagas-gh](https://github.com/twclark0/redux-sagas-gh) - 
 - [joemaddalone/egghead-flux-architecture](https://github.com/joemaddalone/egghead-flux-architecture) - The companion repository for https://egghead.io/courses/react-flux-architecture-es6
 - [AppSaloon/socket.io-tester](https://github.com/AppSaloon/socket.io-tester) - Deprecated: An electron app that lets you connect to a socket.io server and subscribe to a certain topic and/or lets you send socket messages to the server
@@ -1536,6 +1536,8 @@
 
 ## Lua 
 
+- [MunifTanjim/nui.nvim](https://github.com/MunifTanjim/nui.nvim) - UI Component Library for Neovim.
+- [piersolenski/wtf.nvim](https://github.com/piersolenski/wtf.nvim) - Delicious diagnostic debugging in Neovim 🤤
 - [SUSTech-data/wildfire.nvim](https://github.com/SUSTech-data/wildfire.nvim) - wildfire burns treesitter
 - [stevearc/overseer.nvim](https://github.com/stevearc/overseer.nvim) - A task runner and job management plugin for Neovim
 - [stevearc/stickybuf.nvim](https://github.com/stevearc/stickybuf.nvim) - Neovim plugin for locking a buffer to a window
@@ -2177,6 +2179,7 @@
 
 ## Rust 
 
+- [cognitive-engineering-lab/aquascope](https://github.com/cognitive-engineering-lab/aquascope) - Interactive visualizations of Rust at compile-time and run-time
 - [gabrieldemian/vincenzo](https://github.com/gabrieldemian/vincenzo) - A BitTorrent client with vim-like keybindings and a terminal based UI.
 - [TheAlgorithms/Rust](https://github.com/TheAlgorithms/Rust) - All Algorithms implemented in Rust
 - [lovasoa/SQLpage](https://github.com/lovasoa/SQLpage) - SQL-only webapp builder, empowering data analysts to build websites and applications quickly
@@ -2328,8 +2331,8 @@
 - [KunalBagaria/rustyvibes](https://github.com/KunalBagaria/rustyvibes) - A Rust CLI that makes mechanical keyboard sound effects on every key press
 - [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor.
 - [glicol/glicol-cli](https://github.com/glicol/glicol-cli) - glicol cli: cross-platform music live coding in terminal
-- [ratatui-org/ratatui](https://github.com/ratatui-org/ratatui) - Rust library to build rich terminal user interfaces (TUIs) and dashboards
-- [soywod/himalaya](https://github.com/soywod/himalaya) - CLI to manage your emails.
+- [ratatui-org/ratatui](https://github.com/ratatui-org/ratatui) - Rust library that's all about cooking up terminal user interfaces (TUIs)
+- [soywod/himalaya](https://github.com/soywod/himalaya) - CLI to manage emails.
 - [jcdickinson/http.nvim](https://github.com/jcdickinson/http.nvim) - A http library for your neovim plugin
 - [fizyk20/generic-array](https://github.com/fizyk20/generic-array) - Generic array types in Rust
 - [neovide/winit](https://github.com/neovide/winit) - Window handling library in pure Rust
