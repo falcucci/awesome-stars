@@ -2183,7 +2183,7 @@
 
 ## Rust 
 
-- [AmrDeveloper/GQL](https://github.com/AmrDeveloper/GQL) - A SQL like query language called GQL (Git Query Language) to perform queries on your local .git files with functions, conditions and statements
+- [AmrDeveloper/GQL](https://github.com/AmrDeveloper/GQL) - Git Query language is a SQL like query language to perform queries on multi repositories on the fly :yum:
 - [edrevo/suspicious-pods](https://github.com/edrevo/suspicious-pods) - Prints a list of k8s pods that might not be working correctly
 - [dpeckett/pangolin](https://github.com/dpeckett/pangolin) - An enhanced Horizontal Pod Autoscaler for Kubernetes.
 - [davidB/kubectl-view-allocations](https://github.com/davidB/kubectl-view-allocations) - kubectl plugin to list allocations (cpu, memory, gpu,... X utilization, requested, limit, allocatable,...)
