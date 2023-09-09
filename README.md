@@ -140,7 +140,7 @@
 - [volvo-cars/congestion-tax-calculator](https://github.com/volvo-cars/congestion-tax-calculator) - A developer test assignment used as basis for candidate interview and evaluation.
 - [evgeny-nadymov/telegram-wp](https://github.com/evgeny-nadymov/telegram-wp) - Telegram Messenger for Windows Phone
 - [XamlAnimatedGif/WpfAnimatedGif](https://github.com/XamlAnimatedGif/WpfAnimatedGif) - A simple library to display animated GIF images in WPF, usable in XAML or in code.
-- [files-community/Files](https://github.com/files-community/Files) - Building the best file manager experience for Windows
+- [files-community/Files](https://github.com/files-community/Files) - Building the best file manager for Windows
 - [aldovrando-oliveira/NetStash.Core](https://github.com/aldovrando-oliveira/NetStash.Core) - Cliente .NET para Logstash - Envio eventos de log por TCP
 - [dkrprasetya/simple-firebase-unity](https://github.com/dkrprasetya/simple-firebase-unity) - Firebase Realtime-Database's REST API Wrapper for Unity in C#
 - [Wox-launcher/Wox](https://github.com/Wox-launcher/Wox) - Launcher for Windows, an alternative to Alfred and Launchy.
@@ -194,7 +194,6 @@
 - [libcpr/cpr](https://github.com/libcpr/cpr) - C++ Requests: Curl for People, a spiritual port of Python Requests.
 - [pmq20/node-packer](https://github.com/pmq20/node-packer) - Packing your Node.js application into a single executable.
 - [microsoft/react-native-windows](https://github.com/microsoft/react-native-windows) - A framework for building native Windows apps with React.
-- [facebook/react-native](https://github.com/facebook/react-native) - A framework for building native applications using React
 - [nem0/LumixEngine](https://github.com/nem0/LumixEngine) - 3D C++ Game Engine - yet another open source game engine
 - [mkleehammer/pyodbc](https://github.com/mkleehammer/pyodbc) - Python ODBC bridge
 - [anbox/anbox](https://github.com/anbox/anbox) - Anbox is a container-based approach to boot a full Android system on a regular GNU/Linux system
@@ -751,6 +750,7 @@
 - [zo0r/react-native-push-notification](https://github.com/zo0r/react-native-push-notification) - React Native Local and Remote Notifications
 - [cesardeazevedo/react-native-collapsing-toolbar](https://github.com/cesardeazevedo/react-native-collapsing-toolbar) - react-native wrapper for android CollapsingToolbarLayout
 - [luggit/react-native-config](https://github.com/luggit/react-native-config) - Bring some 12 factor love to your mobile apps!
+- [facebook/react-native](https://github.com/facebook/react-native) - A framework for building native applications using React
 - [nayuki/Project-Euler-solutions](https://github.com/nayuki/Project-Euler-solutions) - Runnable code for solving Project Euler problems in Java, Python, Mathematica, Haskell.
 
 ## JavaScript 
@@ -1109,7 +1109,7 @@
 - [hernanif1/react-native-boilerplate](https://github.com/hernanif1/react-native-boilerplate) - This opinionated boilerplate was born because I always need to configure the same generic libs in order let my app production-ready.
 - [pmuellr/bluemix-service-switcher](https://github.com/pmuellr/bluemix-service-switcher) - 
 - [you-dont-need/You-Dont-Need-Momentjs](https://github.com/you-dont-need/You-Dont-Need-Momentjs) - List of functions which you can use to replace moment.js + ESLint Plugin
-- [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript, fully customizable and developer-first.
+- [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable and developer-first.
 - [aui/art-template](https://github.com/aui/art-template) - High performance JavaScript templating engine
 - [eggjs/egg](https://github.com/eggjs/egg) - 🥚 Born to build better enterprise frameworks and apps with Node.js & Koa
 - [markdown-it/markdown-it](https://github.com/markdown-it/markdown-it) - Markdown parser, done right. 100% CommonMark support, extensions, syntax plugins & high speed
