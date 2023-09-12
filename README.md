@@ -2183,6 +2183,7 @@
 
 ## Rust 
 
+- [txpipe/pallas](https://github.com/txpipe/pallas) - Rust-native building blocks for the Cardano blockchain ecosystem
 - [AmrDeveloper/GQL](https://github.com/AmrDeveloper/GQL) - Git Query language is a SQL like query language to perform queries on multi repositories on the fly :yum:
 - [edrevo/suspicious-pods](https://github.com/edrevo/suspicious-pods) - Prints a list of k8s pods that might not be working correctly
 - [dpeckett/pangolin](https://github.com/dpeckett/pangolin) - An enhanced Horizontal Pod Autoscaler for Kubernetes.
