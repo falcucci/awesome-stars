@@ -300,6 +300,8 @@
 
 ## Go 
 
+- [lithammer/shortuuid](https://github.com/lithammer/shortuuid) - :mushroom: A generator library for concise, unambiguous and URL-safe UUIDs
+- [google/uuid](https://github.com/google/uuid) - Go package for UUIDs based on RFC 4122 and DCE 1.1: Authentication and Security Services.
 - [vmware-tanzu/kubeapps](https://github.com/vmware-tanzu/kubeapps) - A web-based UI for deploying and managing applications in Kubernetes clusters
 - [owenthereal/candy](https://github.com/owenthereal/candy) - Candy is a zero-config reverse proxy server
 - [docker/compose](https://github.com/docker/compose) - Define and run multi-container applications with Docker
@@ -324,7 +326,7 @@
 - [sozercan/kubectl-ai](https://github.com/sozercan/kubectl-ai) - ✨ Kubectl plugin for OpenAI GPT
 - [pandodao/tokenizer-go](https://github.com/pandodao/tokenizer-go) - A Go wrapper for GPT-3 token encode/decode. https://platform.openai.com/tokenizer
 - [nhost/hasura-storage](https://github.com/nhost/hasura-storage) - Storage for Hasura built on top of S3
-- [connectrpc/connect-go](https://github.com/connectrpc/connect-go) - Simple, reliable, interoperable. A better gRPC.
+- [connectrpc/connect-go](https://github.com/connectrpc/connect-go) - Simple, reliable, interoperable. Protobuf RPC that works.
 - [ItalyPaleAle/prvt](https://github.com/ItalyPaleAle/prvt) - 🔐 Personal, end-to-end encrypted storage that works through your browser
 - [dlvhdr/roulette](https://github.com/dlvhdr/roulette) - :slot_machine: Making life decisions easier
 - [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A beautiful CLI dashboard for GitHub 🚀
@@ -524,7 +526,7 @@
 - [spf13/cobra](https://github.com/spf13/cobra) - A Commander for modern Go CLI interactions
 - [golang/dep](https://github.com/golang/dep) - Go dependency management tool experiment (deprecated)
 - [robfig/cron](https://github.com/robfig/cron) - a cron library for go
-- [tealeg/xlsx](https://github.com/tealeg/xlsx) - (No longer maintained!) Go (golang) library for reading and writing XLSX files.
+- [tealeg/xlsx](https://github.com/tealeg/xlsx) - Go library for reading and writing XLSX files.
 - [alioygur/is](https://github.com/alioygur/is) - Micro check library in Golang.
 - [alioygur/godash](https://github.com/alioygur/godash) - A utility library in Go inspired by lodash
 - [robpike/filter](https://github.com/robpike/filter) - Simple apply/filter/reduce package.
@@ -847,7 +849,7 @@
 - [mafintosh/torrent-stream](https://github.com/mafintosh/torrent-stream) - The low level streaming torrent engine that peerflix uses
 - [mafintosh/playback](https://github.com/mafintosh/playback) - Video player built using electron and node.js
 - [unifiedjs/unified](https://github.com/unifiedjs/unified) - ☔️ interface for parsing, inspecting, transforming, and serializing content through syntax trees
-- [remarkjs/remark](https://github.com/remarkjs/remark) - remark is a popular tool that transforms markdown with plugins. These plugins can inspect and change your markup. You can use remark on the server, the client, CLIs, deno, etc.
+- [remarkjs/remark](https://github.com/remarkjs/remark) - markdown processor powered by plugins part of the @unifiedjs collective
 - [WiNloSt/resume](https://github.com/WiNloSt/resume) - A source file to my resume
 - [Stremio/addon-helloworld](https://github.com/Stremio/addon-helloworld) - 👋 Hello World add-on for Stremio
 - [Stremio/stremio-beamup-cli](https://github.com/Stremio/stremio-beamup-cli) - CLI for deploying to Beam Up servers
@@ -2183,8 +2185,9 @@
 
 ## Rust 
 
+- [input-output-hk/mithril](https://github.com/input-output-hk/mithril) - Stake-based threshold multi-signatures protocol
 - [txpipe/pallas](https://github.com/txpipe/pallas) - Rust-native building blocks for the Cardano blockchain ecosystem
-- [AmrDeveloper/GQL](https://github.com/AmrDeveloper/GQL) - Git Query language is a SQL like query language to perform queries on multi repositories on the fly
+- [AmrDeveloper/GQL](https://github.com/AmrDeveloper/GQL) - Git Query language is a SQL like language to perform queries on .git files with supports of most of SQL features such as grouping, ordering and aggregations functions
 - [edrevo/suspicious-pods](https://github.com/edrevo/suspicious-pods) - Prints a list of k8s pods that might not be working correctly
 - [dpeckett/pangolin](https://github.com/dpeckett/pangolin) - An enhanced Horizontal Pod Autoscaler for Kubernetes.
 - [davidB/kubectl-view-allocations](https://github.com/davidB/kubectl-view-allocations) - kubectl plugin to list allocations (cpu, memory, gpu,... X utilization, requested, limit, allocatable,...)
@@ -2503,7 +2506,7 @@
 - [losfair/blueboat](https://github.com/losfair/blueboat) - All-in-one, multi-tenant serverless JavaScript runtime.
 - [brson/stdx](https://github.com/brson/stdx) - The missing batteries of Rust
 - [rusqlite/rusqlite](https://github.com/rusqlite/rusqlite) - Ergonomic bindings to SQLite for Rust
-- [Qovery/engine](https://github.com/Qovery/engine) - The Orchestration Engine To Deliver Self-Service Infrastructure Faster ⚡️
+- [Qovery/engine](https://github.com/Qovery/engine) - The Orchestration Engine To Deliver Self-Service Infrastructure ⚡️
 - [cloudwalk/axum-test-helper](https://github.com/cloudwalk/axum-test-helper) - Easy to use axum test client
 - [fathyb/carbonyl](https://github.com/fathyb/carbonyl) - Chromium running inside your terminal
 - [hpjansson/fornalder](https://github.com/hpjansson/fornalder) - Visualize long-term trends in collections of Git repositories.
@@ -2886,6 +2889,7 @@
 
 ## TypeScript 
 
+- [happykit/flags](https://github.com/happykit/flags) - ⛳️ Feature Flags for Next.js
 - [btpf/Alexandria](https://github.com/btpf/Alexandria) - A minimalistic cross-platform eBook reader built with Tauri, Epub.js, and Typescript
 - [backstage/backstage](https://github.com/backstage/backstage) - Backstage is an open platform for building developer portals
 - [open-cli-tools/concurrently](https://github.com/open-cli-tools/concurrently) - Run commands concurrently. Like `npm run watch-js & npm run watch-less` but better.
