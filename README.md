@@ -1496,7 +1496,6 @@
 - [getsentry/raven-node](https://github.com/getsentry/raven-node) - A standalone (Node.js) client for Sentry
 - [danielchatfield/trello-desktop](https://github.com/danielchatfield/trello-desktop) - An unofficial trello desktop app.
 - [jeremys/Simple-Rest-Client-Chrome-Extension](https://github.com/jeremys/Simple-Rest-Client-Chrome-Extension) - Extension for Google Chrome to help construct custom HTTP requests to directly test your web services.
-- [lodash/lodash](https://github.com/lodash/lodash) - A modern JavaScript utility library delivering modularity, performance, & extras.
 - [caolan/async](https://github.com/caolan/async) - Async utilities for node and the browser
 - [fbeline/design-patterns-JS](https://github.com/fbeline/design-patterns-JS) - All the 23 (GoF) design patterns implemented in Javascript
 
@@ -2917,7 +2916,7 @@
 - [vimcolorschemes/vimcolorschemes](https://github.com/vimcolorschemes/vimcolorschemes) - Find the best vim color schemes around
 - [agmmnn/tauri-ui](https://github.com/agmmnn/tauri-ui) - 🦀 Create modern Tauri desktop apps in just a few simple steps with shadcn/ui. React, Next.js, Sveltekit.
 - [pomber/stargazer](https://github.com/pomber/stargazer) - Your repo reached a stars milestone? Celebrate with a video of your stargazers!
-- [graphile/postgraphile](https://github.com/graphile/postgraphile) - Execute one command (or mount one Node.js middleware) and get an instant high-performance GraphQL API for your PostgreSQL database!
+- [graphile/crystal](https://github.com/graphile/crystal) - 🔮 Graphile's Crystal Monorepo; home to Grafast, PostGraphile, pg-introspection, pg-sql2 and much more!
 - [amannn/next-intl](https://github.com/amannn/next-intl) - Internationalization (i18n) for Next.js that gets out of your way. 🌐
 - [netlify/next-runtime](https://github.com/netlify/next-runtime) - The Next.js Runtime allows Next.js to run on Netlify with zero configuration
 - [Farzin-Firoozi/react-modern-drawer](https://github.com/Farzin-Firoozi/react-modern-drawer) - 
@@ -3029,7 +3028,7 @@
 - [BuilderIO/nextjs-shopify](https://github.com/BuilderIO/nextjs-shopify) - The ultimate starter for headless Shopify stores
 - [nextui-org/nextui](https://github.com/nextui-org/nextui) - 🚀   Beautiful, fast and modern React UI library.
 - [andrecampll/next-ifood](https://github.com/andrecampll/next-ifood) - Ifood clone made with NextJS ⚛️
-- [ChangoMan/nextjs-typescript-mdx-blog](https://github.com/ChangoMan/nextjs-typescript-mdx-blog) - UPDATED to Next.js App Router! Starter template built with Typescript, MDX, and Tailwind CSS.
+- [ChangoMan/nextjs-typescript-mdx-blog](https://github.com/ChangoMan/nextjs-typescript-mdx-blog) - UPDATED to Next.js App Router! Starter template built with Contentlayer, MDX, shadcn-ui, and Tailwind CSS.
 - [paljs/ui](https://github.com/paljs/ui) - React Styled Components with bootstrap grid system
 - [react-shop/react-ecommerce](https://github.com/react-shop/react-ecommerce) - E-commerce monorepo application using NextJs, React, React-native, Design-System and Graphql with Typescript
 - [napthedev/toptop-clone](https://github.com/napthedev/toptop-clone) - A fullstack TikTok clone with Nextjs, Prisma, trpc
@@ -3290,6 +3289,7 @@
 - [webdriverio/webdriverio](https://github.com/webdriverio/webdriverio) - Next-gen browser and mobile automation test framework for Node.js
 - [redis/node-redis](https://github.com/redis/node-redis) - Redis Node.js client
 - [typestyle/typestyle](https://github.com/typestyle/typestyle) - Making CSS Typesafe 🌹
+- [lodash/lodash](https://github.com/lodash/lodash) - A modern JavaScript utility library delivering modularity, performance, & extras.
 
 ## V 
 
@@ -3352,7 +3352,7 @@
 - [chengzeyi/multiterm.vim](https://github.com/chengzeyi/multiterm.vim) - Toggle and Switch Between Multiple Floating Terminals in NeoVim or Vim
 - [luk400/vim-jukit](https://github.com/luk400/vim-jukit) - Jupyter-Notebook inspired Neovim/Vim Plugin
 - [ubaldot/vim-replica](https://github.com/ubaldot/vim-replica) - Enjoy Jupyter through Vim!
-- [dense-analysis/neural](https://github.com/dense-analysis/neural) - Vim/Neovim AI code generation plugin (OpenAI, ChatGPT, and more)
+- [dense-analysis/neural](https://github.com/dense-analysis/neural) - AI Vim/Neovim code generation plugin (OpenAI, ChatGPT, and more)
 - [jvns/vimconfig](https://github.com/jvns/vimconfig) - 
 - [m-pilia/vim-ccls](https://github.com/m-pilia/vim-ccls) - Vim plugin for the ccls language server
 - [freitass/todo.txt-vim](https://github.com/freitass/todo.txt-vim) - Vim plugin for Todo.txt
