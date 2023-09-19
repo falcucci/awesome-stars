@@ -327,7 +327,7 @@
 - [sozercan/kubectl-ai](https://github.com/sozercan/kubectl-ai) - ✨ Kubectl plugin for OpenAI GPT
 - [pandodao/tokenizer-go](https://github.com/pandodao/tokenizer-go) - A Go wrapper for GPT-3 token encode/decode. https://platform.openai.com/tokenizer
 - [nhost/hasura-storage](https://github.com/nhost/hasura-storage) - Storage for Hasura built on top of S3
-- [connectrpc/connect-go](https://github.com/connectrpc/connect-go) - Simple, reliable, interoperable. Protobuf RPC that works.
+- [connectrpc/connect-go](https://github.com/connectrpc/connect-go) - The Go implementation of Connect: Protobuf RPC that works.
 - [ItalyPaleAle/prvt](https://github.com/ItalyPaleAle/prvt) - 🔐 Personal, end-to-end encrypted storage that works through your browser
 - [dlvhdr/roulette](https://github.com/dlvhdr/roulette) - :slot_machine: Making life decisions easier
 - [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A beautiful CLI dashboard for GitHub 🚀
@@ -1541,6 +1541,7 @@
 
 ## Lua 
 
+- [Wansmer/symbol-usage.nvim](https://github.com/Wansmer/symbol-usage.nvim) - Display references, definitions and implementations of document symbols
 - [stefanlogue/hydrate.nvim](https://github.com/stefanlogue/hydrate.nvim) - Reminders to keep hydrated while you code
 - [kevinhwang91/nvim-fundo](https://github.com/kevinhwang91/nvim-fundo) - Forever undo in Neovim
 - [MunifTanjim/nui.nvim](https://github.com/MunifTanjim/nui.nvim) - UI Component Library for Neovim.
@@ -1644,7 +1645,7 @@
 - [Sewdohe/NeoCode](https://github.com/Sewdohe/NeoCode) - My lean, minimal, and sensible Neovim config. VS-who now?
 - [notomo/gesture.nvim](https://github.com/notomo/gesture.nvim) - Mouse gesture plugin for neovim
 - [edluffy/hologram.nvim](https://github.com/edluffy/hologram.nvim) - 👻 A cross platform terminal image viewer for Neovim. Extensible and fast, written in Lua and C. Works on macOS and Linux.
-- [jcdickinson/codeium.nvim](https://github.com/jcdickinson/codeium.nvim) - A native neovim extension for Codeium
+- [Exafunction/codeium.nvim](https://github.com/Exafunction/codeium.nvim) - A native neovim extension for Codeium
 - [chrisgrieser/nvim-spider](https://github.com/chrisgrieser/nvim-spider) - Use the w, e, b motions like a spider. Move by subwords and skip insignificant punctuation.
 - [letieu/hacker.nvim](https://github.com/letieu/hacker.nvim) - Hollywood hacker experience in your neovim
 - [SmiteshP/nvim-navbuddy](https://github.com/SmiteshP/nvim-navbuddy) - A simple popup display that provides breadcrumbs feature using LSP server
@@ -2352,7 +2353,7 @@
 - [fizyk20/generic-array](https://github.com/fizyk20/generic-array) - Generic array types in Rust
 - [neovide/winit](https://github.com/neovide/winit) - Window handling library in pure Rust
 - [burtonageo/cargo-bundle](https://github.com/burtonageo/cargo-bundle) - Wrap rust executables in OS-specific app bundles
-- [willothy/moveline.nvim](https://github.com/willothy/moveline.nvim) - Neovim plugin for moving lines up and down, written in Rust
+- [willothy/moveline.nvim](https://github.com/willothy/moveline.nvim) - Neovim plugin for moving lines up and down
 - [openobserve/openobserve](https://github.com/openobserve/openobserve) - 🚀 10x easier, 🚀 140x lower storage cost, 🚀 high performance,  🚀 petabyte scale - Elasticsearch/Splunk/Datadog alternative for 🚀 (logs, metrics, traces).
 - [orlp/glidesort](https://github.com/orlp/glidesort) - A Rust implementation of Glidesort, my stable adaptive quicksort/mergesort hybrid sorting algorithm.
 - [Misterio77/flavours](https://github.com/Misterio77/flavours) - 🎨💧 An easy to use base16 scheme manager that integrates with any workflow.
@@ -2525,7 +2526,7 @@
 - [PyO3/maturin](https://github.com/PyO3/maturin) - Build and publish crates with pyo3, rust-cpython and cffi bindings as well as rust binaries as python packages
 - [rbatis/rbatis](https://github.com/rbatis/rbatis) - Rust  Compile Time ORM robustness,async, pure Rust Dynamic SQL
 - [pola-rs/polars](https://github.com/pola-rs/polars) - Fast multi-threaded, hybrid-out-of-core query engine focussing on DataFrame front-ends
-- [shuttle-hq/shuttle-examples](https://github.com/shuttle-hq/shuttle-examples) - Examples for using shuttle with different frameworks and resources
+- [shuttle-hq/shuttle-examples](https://github.com/shuttle-hq/shuttle-examples) - Examples for using Shuttle with different frameworks and resources
 - [shuttle-hq/shuttle](https://github.com/shuttle-hq/shuttle) - Build & ship backends without writing any infrastructure files.
 - [tikv/grpc-rs](https://github.com/tikv/grpc-rs) - The gRPC library for Rust built on C Core library and futures
 - [vhakulinen/gnvim](https://github.com/vhakulinen/gnvim) - GUI for neovim, without any web bloat
@@ -2750,7 +2751,7 @@
 
 ## Shell 
 
-- [numtide/nixos-anywhere](https://github.com/numtide/nixos-anywhere) - install nixos everywhere via ssh
+- [nix-community/nixos-anywhere](https://github.com/nix-community/nixos-anywhere) - install nixos everywhere via ssh
 - [dylanaraps/fff](https://github.com/dylanaraps/fff) - 📁 A simple file manager written in bash.
 - [codespaces-examples/rust](https://github.com/codespaces-examples/rust) - 
 - [bigH/git-fuzzy](https://github.com/bigH/git-fuzzy) - interactive `git` with the help of `fzf`
@@ -3029,7 +3030,7 @@
 - [BuilderIO/nextjs-shopify](https://github.com/BuilderIO/nextjs-shopify) - The ultimate starter for headless Shopify stores
 - [nextui-org/nextui](https://github.com/nextui-org/nextui) - 🚀   Beautiful, fast and modern React UI library.
 - [andrecampll/next-ifood](https://github.com/andrecampll/next-ifood) - Ifood clone made with NextJS ⚛️
-- [ChangoMan/nextjs-typescript-mdx-blog](https://github.com/ChangoMan/nextjs-typescript-mdx-blog) - UPDATED to Next.js App Router! Starter template built with Contentlayer, MDX, shadcn-ui, and Tailwind CSS.
+- [ChangoMan/nextjs-mdx-blog](https://github.com/ChangoMan/nextjs-mdx-blog) - UPDATED to Next.js App Router! Starter template built with Contentlayer, MDX, shadcn-ui, and Tailwind CSS.
 - [paljs/ui](https://github.com/paljs/ui) - React Styled Components with bootstrap grid system
 - [react-shop/react-ecommerce](https://github.com/react-shop/react-ecommerce) - E-commerce monorepo application using NextJs, React, React-native, Design-System and Graphql with Typescript
 - [napthedev/toptop-clone](https://github.com/napthedev/toptop-clone) - A fullstack TikTok clone with Nextjs, Prisma, trpc
