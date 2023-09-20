@@ -603,6 +603,7 @@
 
 ## HTML 
 
+- [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 - [ayushnix/kangae](https://github.com/ayushnix/kangae) - a lightweight microblog theme for zola
 - [infinum/ios-viper-xcode-templates](https://github.com/infinum/ios-viper-xcode-templates) - Used for generating template files for the VIPER architecture, which solves the common Massive View Controller issues in iOS apps.
 - [italia/designers.italia.it](https://github.com/italia/designers.italia.it) - Designers Italia mette a disposizione la conoscenza e gli strumenti per progettare e realizzare servizi pubblici centrati sulle necessità delle persone
@@ -2458,7 +2459,7 @@
 - [nickel-org/nickel.rs](https://github.com/nickel-org/nickel.rs) - An expressjs inspired web framework for Rust
 - [instant-labs/instant-distance](https://github.com/instant-labs/instant-distance) - Fast approximate nearest neighbor searching in Rust, based on HNSW index
 - [0b01/xprite-editor](https://github.com/0b01/xprite-editor) - Pixel art editor
-- [stencila/stencila](https://github.com/stencila/stencila) - Author, collaborate on, and publish beautiful interactive documents
+- [stencila/stencila](https://github.com/stencila/stencila) - Programmable, reproducible, interactive documents
 - [denoland/deno_lint](https://github.com/denoland/deno_lint) - Blazing fast linter for JavaScript and TypeScript written in Rust
 - [gperinazzo/dict-derive](https://github.com/gperinazzo/dict-derive) - Derive PyO3's FromPyObject to automatically transform Python dicts into Rust structs
 - [Anexen/pyxirr](https://github.com/Anexen/pyxirr) - Rust-powered collection of financial functions for Python.
