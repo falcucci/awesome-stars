@@ -24,6 +24,7 @@
 - [F#](#f#)
 - [Fennel](#fennel)
 - [FreeMarker](#freemarker)
+- [Gleam](#gleam)
 - [Go](#go)
 - [Groovy](#groovy)
 - [HCL](#hcl)
@@ -299,6 +300,10 @@
 
 - [benoitletondor/Android-Studio-MVP-template](https://github.com/benoitletondor/Android-Studio-MVP-template) - Android MVP template for Android Studio
 - [mozilla/testpilot](https://github.com/mozilla/testpilot) - Test Pilot is a platform for performing controlled tests of new product concepts in Firefox
+
+## Gleam 
+
+- [aiken-lang/stdlib](https://github.com/aiken-lang/stdlib) - The Aiken Standard Library
 
 ## Go 
 
@@ -2195,6 +2200,7 @@
 
 ## Rust 
 
+- [nvzqz/fruity](https://github.com/nvzqz/fruity) - Rusty bindings for Apple libraries
 - [aiken-lang/aiken](https://github.com/aiken-lang/aiken) - Cardano Smart Contracts
 - [input-output-hk/mithril](https://github.com/input-output-hk/mithril) - Stake-based threshold multi-signatures protocol
 - [txpipe/pallas](https://github.com/txpipe/pallas) - Rust-native building blocks for the Cardano blockchain ecosystem
@@ -3007,7 +3013,7 @@
 - [hensm/fx_cast](https://github.com/hensm/fx_cast) - Chromecast Web Sender SDK implementation for Firefox
 - [Phineas/phineas.io](https://github.com/Phineas/phineas.io) - 👨‍💻 React app for my personal website
 - [alii/use-last-fm](https://github.com/alii/use-last-fm) - 🎸 React Hook to use realtime last.fm data and display your currently played song in your application.
-- [esbuild-kit/esbuild-loader](https://github.com/esbuild-kit/esbuild-loader) - Webpack loader for esbuild: Speed up your build ⚡️
+- [privatenumber/esbuild-loader](https://github.com/privatenumber/esbuild-loader) - Webpack loader for esbuild: Speed up your build ⚡️
 - [datejer/vercel-badge](https://github.com/datejer/vercel-badge) - Simple serverless service for embedding a Vercel deployment badge.
 - [m1guelpf/clippy-widget](https://github.com/m1guelpf/clippy-widget) - An AI-powered assistant for your company's docs.
 - [DevExpress/devextreme-reactive](https://github.com/DevExpress/devextreme-reactive) - Business React components for Bootstrap and Material-UI
