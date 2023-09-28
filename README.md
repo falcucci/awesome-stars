@@ -1951,6 +1951,7 @@
 
 ## Python 
 
+- [python-lsp/python-lsp-ruff](https://github.com/python-lsp/python-lsp-ruff) - Linter plugin for pylsp based on ruff.
 - [OpenBMB/ChatDev](https://github.com/OpenBMB/ChatDev) - Create Customized Software using Natural Language Idea (through LLM-powered Multi-Agent Collaboration)
 - [dortania/OpenCore-Legacy-Patcher](https://github.com/dortania/OpenCore-Legacy-Patcher) - Experience macOS just like before
 - [eliasdorneles/upiano](https://github.com/eliasdorneles/upiano) - A Piano in your terminal
@@ -2204,6 +2205,7 @@
 
 ## Rust 
 
+- [tauri-apps/tauri-mobile](https://github.com/tauri-apps/tauri-mobile) - Rust on mobile made easy!
 - [josecelano/cargo-pretty-test](https://github.com/josecelano/cargo-pretty-test) - A Rust command that prettifies the ugly `cargo test` output into a beautiful one.
 - [orbstack/pidfd-rs](https://github.com/orbstack/pidfd-rs) - Fast, polling-free approach to kill and wait for all processes to exit. Rust + Tokio, pidfd + epoll + timer
 - [nvzqz/fruity](https://github.com/nvzqz/fruity) - Rusty bindings for Apple libraries
