@@ -1351,7 +1351,7 @@
 - [GeekyAnts/react-native-boilerplate-redux-flow](https://github.com/GeekyAnts/react-native-boilerplate-redux-flow) - 
 - [GeekyAnts/NativeBase-KitchenSink](https://github.com/GeekyAnts/NativeBase-KitchenSink) - An example app with all the UI components of NativeBase
 - [verybluebot/react-native-boilerplate](https://github.com/verybluebot/react-native-boilerplate) - React native light boiler plate, for easy start with the things you need
-- [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces
+- [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces.
 - [hzoo/contributors-on-github](https://github.com/hzoo/contributors-on-github) - :cactus: Show stats about contributors on github
 - [eveningkid/reacto](https://github.com/eveningkid/reacto) - A sweet IDE for React.js
 - [testing-library/react-testing-library](https://github.com/testing-library/react-testing-library) - 🐐 Simple and complete React DOM testing utilities that encourage good testing practices.
@@ -1951,6 +1951,7 @@
 
 ## Python 
 
+- [kserve/kserve](https://github.com/kserve/kserve) - Standardized Serverless ML Inference Platform on Kubernetes
 - [python-lsp/python-lsp-ruff](https://github.com/python-lsp/python-lsp-ruff) - Linter plugin for pylsp based on ruff.
 - [OpenBMB/ChatDev](https://github.com/OpenBMB/ChatDev) - Create Customized Software using Natural Language Idea (through LLM-powered Multi-Agent Collaboration)
 - [dortania/OpenCore-Legacy-Patcher](https://github.com/dortania/OpenCore-Legacy-Patcher) - Experience macOS just like before
@@ -2862,7 +2863,7 @@
 
 - [m-rgba/hasura-django-starter](https://github.com/m-rgba/hasura-django-starter) - The best of Hasura's instant, realtime GraphQL API meshed with Django's built-in auth model and the ability to extend logic across the two services.
 - [raguay/ModalFileManager](https://github.com/raguay/ModalFileManager) - A file manager built using Svelte and Wails. It has hotkeys that are modal just like Vim and NeoVim.
-- [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - ⭐️ ⭐️ ⭐️ ⭐️ ⭐️  The most popular, free and open-source Tailwind CSS component library
+- [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - 🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library
 - [hankxdev/one-click-extensions-manager](https://github.com/hankxdev/one-click-extensions-manager) - a simple chrome extension to manage chrome extension
 - [npmhub/npmhub](https://github.com/npmhub/npmhub) - 🔎 A browser extension to explore npm dependencies on GitHub repos
 
@@ -2914,7 +2915,7 @@
 
 ## TypeScript 
 
-- [Mobilecn-UI/nativecn-ui](https://github.com/Mobilecn-UI/nativecn-ui) - shadcn/ui-inspired components for React Native
+- [Mobilecn-UI/nativecn-ui](https://github.com/Mobilecn-UI/nativecn-ui) - Beautiful and customizable React Native components, inspired by shadcn-ui
 - [happykit/flags](https://github.com/happykit/flags) - ⛳️ Feature Flags for Next.js
 - [btpf/Alexandria](https://github.com/btpf/Alexandria) - A minimalistic cross-platform eBook reader built with Tauri, Epub.js, and Typescript
 - [backstage/backstage](https://github.com/backstage/backstage) - Backstage is an open platform for building developer portals
