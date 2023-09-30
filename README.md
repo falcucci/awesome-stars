@@ -1009,7 +1009,6 @@
 - [vadimdemedes/create-pastel-app](https://github.com/vadimdemedes/create-pastel-app) - Generate a starter Pastel app
 - [atom/atom](https://github.com/atom/atom) - :atom: The hackable text editor
 - [santinic/how2](https://github.com/santinic/how2) - AI for the Command Line
-- [kelektiv/node-cron](https://github.com/kelektiv/node-cron) - Cron for NodeJS.
 - [sindresorhus/supervillains-cli](https://github.com/sindresorhus/supervillains-cli) - Get supervillain names on the command-line
 - [AaronO/etcd-dump](https://github.com/AaronO/etcd-dump) - Command line utility for dumping/restoring etcd
 - [pedroarapua/nodejs-etcd](https://github.com/pedroarapua/nodejs-etcd) - 
@@ -2988,7 +2987,7 @@
 - [badaix/snapweb](https://github.com/badaix/snapweb) - Web interface for Snapcast
 - [urql-graphql/urql-devtools](https://github.com/urql-graphql/urql-devtools) - A tool for monitoring and debugging urql during development
 - [shuding/nextra](https://github.com/shuding/nextra) - Simple, powerful and flexible site generation framework with everything you love from Next.js.
-- [kamilkisiela/graphql-hive](https://github.com/kamilkisiela/graphql-hive) - GraphQL Hive is a schema registry and monitoring tool
+- [kamilkisiela/graphql-hive](https://github.com/kamilkisiela/graphql-hive) - GraphQL Hive is a schema registry and observability
 - [felixfbecker/dom-to-svg](https://github.com/felixfbecker/dom-to-svg) - Library to convert a given HTML DOM node into an accessible SVG "screenshot".
 - [Gabb-c/spotify-embed](https://github.com/Gabb-c/spotify-embed) - A plug-n-play Spotify embed component
 - [vercel/swr](https://github.com/vercel/swr) - React Hooks for Data Fetching
@@ -3201,6 +3200,7 @@
 - [urql-graphql/urql](https://github.com/urql-graphql/urql) - The highly customizable and versatile GraphQL client with which you add on features like normalized caching as you grow.
 - [redis/ioredis](https://github.com/redis/ioredis) - 🚀 A robust, performance-focused, and full-featured Redis client for Node.js.
 - [vadimdemedes/pastel](https://github.com/vadimdemedes/pastel) - 🎨 Next.js-like framework for CLIs made with Ink
+- [kelektiv/node-cron](https://github.com/kelektiv/node-cron) - Cron for NodeJS.
 - [debiki/talkyard](https://github.com/debiki/talkyard) - A community discussion platform: Brings together the main features from StackOverflow, Slack, Discourse, Reddit, and Disqus blog comments.
 - [microsoft/etcd3](https://github.com/microsoft/etcd3) - :bookmark: Node.js client for etcd3
 - [chimurai/http-proxy-middleware](https://github.com/chimurai/http-proxy-middleware) - :zap: The one-liner node.js http-proxy middleware for connect, express, next.js and more
