@@ -307,6 +307,7 @@
 
 ## Go 
 
+- [helm/helm](https://github.com/helm/helm) - The Kubernetes Package Manager
 - [blinklabs-io/nview](https://github.com/blinklabs-io/nview) - A TUI for monitoring Cardano nodes
 - [lithammer/shortuuid](https://github.com/lithammer/shortuuid) - :mushroom: A generator library for concise, unambiguous and URL-safe UUIDs
 - [google/uuid](https://github.com/google/uuid) - Go package for UUIDs based on RFC 4122 and DCE 1.1: Authentication and Security Services.
@@ -2206,7 +2207,7 @@
 ## Rust 
 
 - [curlpipe/ox](https://github.com/curlpipe/ox) - An independent Rust text editor that runs in your terminal!
-- [tauri-apps/tauri-mobile](https://github.com/tauri-apps/tauri-mobile) - Rust on mobile made easy!
+- [tauri-apps/cargo-mobile2](https://github.com/tauri-apps/cargo-mobile2) - Rust on mobile made easy!
 - [josecelano/cargo-pretty-test](https://github.com/josecelano/cargo-pretty-test) - A Rust command that prettifies the ugly `cargo test` output into a beautiful one.
 - [orbstack/pidfd-rs](https://github.com/orbstack/pidfd-rs) - Fast, polling-free approach to kill and wait for all processes to exit. Rust + Tokio, pidfd + epoll + timer
 - [nvzqz/fruity](https://github.com/nvzqz/fruity) - Rusty bindings for Apple libraries
