@@ -32,6 +32,7 @@
 - [Handlebars](#handlebars)
 - [Haskell](#haskell)
 - [Isabelle](#isabelle)
+- [Janet](#janet)
 - [Java](#java)
 - [JavaScript](#javascript)
 - [Jsonnet](#jsonnet)
@@ -696,6 +697,10 @@
 ## Isabelle 
 
 - [input-output-hk/marlowe](https://github.com/input-output-hk/marlowe) - Prototype implementation of domain-specific language for the design of smart-contracts over cryptocurrencies
+
+## Janet 
+
+- [nvim-treesitter/nvim-treesitter-context](https://github.com/nvim-treesitter/nvim-treesitter-context) - Show code context
 
 ## Java 
 
@@ -1494,7 +1499,7 @@
 - [mindmup/mapjs](https://github.com/mindmup/mapjs) - JavaScript Mind Map visualisation and management
 - [mikeal/bent](https://github.com/mikeal/bent) - Functional JS HTTP client (Node.js & Fetch) w/ async await
 - [adobe-research/theseus](https://github.com/adobe-research/theseus) - A pretty darn cool JavaScript debugger for Brackets
-- [Jam3/devtool](https://github.com/Jam3/devtool) - [OBSOLETE] runs Node.js programs through Chromium DevTools
+- [Experience-Monks/devtool](https://github.com/Experience-Monks/devtool) - [OBSOLETE] runs Node.js programs through Chromium DevTools
 - [s-a/iron-node](https://github.com/s-a/iron-node) - Debug Node.js code with Chrome Developer Tools.
 - [ramda/ramda](https://github.com/ramda/ramda) - :ram: Practical functional Javascript
 - [dtao/lazy.js](https://github.com/dtao/lazy.js) - Like Underscore, but lazier
@@ -1555,6 +1560,7 @@
 
 ## Lua 
 
+- [kawre/leetcode.nvim](https://github.com/kawre/leetcode.nvim) - A Neovim plugin enabling you to solve LeetCode problems within Neovim.
 - [NStefan002/speedtyper.nvim](https://github.com/NStefan002/speedtyper.nvim) - ⏩ Practise typing in Neovim ⏩
 - [beauwilliams/statusline.lua](https://github.com/beauwilliams/statusline.lua) - A zero-config minimal statusline for neovim written in lua featuring awesome integrations and blazing speed!
 - [Wansmer/symbol-usage.nvim](https://github.com/Wansmer/symbol-usage.nvim) - Display references, definitions and implementations of document symbols
@@ -1613,7 +1619,6 @@
 - [yorik1984/newpaper.nvim](https://github.com/yorik1984/newpaper.nvim) - 🎨 Newpaper colorscheme for NeoVim written in Lua with built-in support for native LSP, TreeSitter and many more plugins
 - [projekt0n/github-nvim-theme](https://github.com/projekt0n/github-nvim-theme) - Github's Neovim themes
 - [oxfist/night-owl.nvim](https://github.com/oxfist/night-owl.nvim) - 🦉 🌌 night-owl.nvim is a Night Owl colorscheme implementation for Neovim with support for Treesitter and semantic tokens
-- [nvim-treesitter/nvim-treesitter-context](https://github.com/nvim-treesitter/nvim-treesitter-context) - Show code context
 - [3rd/image.nvim](https://github.com/3rd/image.nvim) - 🖼️ Bringing images to Neovim.
 - [nvim-lualine/lualine.nvim](https://github.com/nvim-lualine/lualine.nvim) - A blazing fast and easy to configure neovim statusline plugin written in pure lua.
 - [jghauser/kitty-runner.nvim](https://github.com/jghauser/kitty-runner.nvim) - A neovim plugin allowing you to easily send lines from the current buffer to another kitty terminal
@@ -1953,6 +1958,7 @@
 
 ## Python 
 
+- [belluzj/fantasque-sans](https://github.com/belluzj/fantasque-sans) - A font family with a great monospaced variant for programmers.
 - [kserve/kserve](https://github.com/kserve/kserve) - Standardized Serverless ML Inference Platform on Kubernetes
 - [python-lsp/python-lsp-ruff](https://github.com/python-lsp/python-lsp-ruff) - Linter plugin for pylsp based on ruff.
 - [OpenBMB/ChatDev](https://github.com/OpenBMB/ChatDev) - Create Customized Software using Natural Language Idea (through LLM-powered Multi-Agent Collaboration)
@@ -3090,7 +3096,7 @@
 - [prisma/prisma](https://github.com/prisma/prisma) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB
 - [jellydn/next-swagger-doc](https://github.com/jellydn/next-swagger-doc) - This package reads your JSDoc-annotated source code on NextJS API route and generates an OpenAPI (Swagger) specification.
 - [onur-ozkan/feednext](https://github.com/onur-ozkan/feednext) - social media app demo
-- [codelitdev/courselit](https://github.com/codelitdev/courselit) - Create/Sell courses and info products, write blogs, host podcasts on your own branded website. An open source alternative to Teachable, Thinkific, Podia and the likes.
+- [codelitdev/courselit](https://github.com/codelitdev/courselit) - Create/Sell courses and digital downloads and publish blogs on your own branded website. An open source alternative to Teachable, Thinkific, Podia and the likes.
 - [react-keycloak/react-keycloak](https://github.com/react-keycloak/react-keycloak) - React/React Native/NextJS/Razzle components for Keycloak
 - [diciaup/assistant-cli](https://github.com/diciaup/assistant-cli) - A comfortable CLI tool to use ChatGPT service🔥
 - [transitive-bullshit/chatgpt-api](https://github.com/transitive-bullshit/chatgpt-api) - Node.js client for the official ChatGPT API. 🔥
