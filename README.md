@@ -2784,6 +2784,7 @@
 
 ## Shell 
 
+- [blinklabs-io/docker-cardano-node](https://github.com/blinklabs-io/docker-cardano-node) - Builds cardano-node from source using cabal on debian
 - [nix-community/nixos-anywhere](https://github.com/nix-community/nixos-anywhere) - install nixos everywhere via ssh
 - [dylanaraps/fff](https://github.com/dylanaraps/fff) - 📁 A simple file manager written in bash.
 - [codespaces-examples/rust](https://github.com/codespaces-examples/rust) - 
@@ -3045,7 +3046,7 @@
 - [AnishDe12020/portfolio](https://github.com/AnishDe12020/portfolio) - My portfolio site built using nextjs, contentlayer, and tailwind css
 - [AnishDe12020/gtfol-domains](https://github.com/AnishDe12020/gtfol-domains) - 
 - [KarthikeyanRanasthala/depulso](https://github.com/KarthikeyanRanasthala/depulso) - Deploy your static site in seconds
-- [toeverything/blocksuite](https://github.com/toeverything/blocksuite) - 🎨 The toolkit for block-based structral editing.
+- [toeverything/blocksuite](https://github.com/toeverything/blocksuite) - 🎨 Towards block-based structural editing toolkit.
 - [Siumauricio/portfolio](https://github.com/Siumauricio/portfolio) - Simple and minimalist portfolio using Nextjs and NextUI.
 - [Siumauricio/nextjs-template-portfolio](https://github.com/Siumauricio/nextjs-template-portfolio) - Simple and minimalist portfolio using NextJs and TailwindCSS with DaisyUI with support with dark mode and more than 25 themes!!
 - [Siumauricio/nextui-dashboard-template](https://github.com/Siumauricio/nextui-dashboard-template) - Dashboard starter using NextUI V2 and Nextjs.
