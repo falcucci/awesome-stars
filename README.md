@@ -2372,7 +2372,6 @@
 - [Schniz/fnm](https://github.com/Schniz/fnm) - 🚀 Fast and simple Node.js version manager, built in Rust
 - [rust-skia/rust-skia](https://github.com/rust-skia/rust-skia) - Safe Skia Bindings for Rust
 - [Brendonovich/prisma-client-rust](https://github.com/Brendonovich/prisma-client-rust) - Type-safe database access for Rust
-- [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 - [lsk569937453/silverwind](https://github.com/lsk569937453/silverwind) - The High Performance Proxy/Load Balancer
 - [bytesnake/vim-graphical-preview](https://github.com/bytesnake/vim-graphical-preview) - Small plugin for Vim to display graphics with SIXEL characters
 - [wez/wezterm](https://github.com/wez/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
@@ -2988,6 +2987,7 @@
 - [mathieudutour/slacking-pigeons](https://github.com/mathieudutour/slacking-pigeons) - :bird: Chat in real time with your users directly from Slack
 - [remotion-dev/github-unwrapped-2022](https://github.com/remotion-dev/github-unwrapped-2022) - Your coding year in review #GitHubUnwrapped
 - [BloopAI/bloop](https://github.com/BloopAI/bloop) - bloop is a fast code search engine written in Rust.
+- [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 - [marmelab/ra-example-oauth](https://github.com/marmelab/ra-example-oauth) - An example of OpenID Connect implementation on React Admin
 - [codicocodes/dotfyle](https://github.com/codicocodes/dotfyle) - Find the best Neovim plugins
 - [dai-shi/katachidraw](https://github.com/dai-shi/katachidraw) - SVG based drawing tool and react-native component
