@@ -181,7 +181,7 @@
 - [google/googletest](https://github.com/google/googletest) - GoogleTest - Google Testing and Mocking Framework
 - [facebook/folly](https://github.com/facebook/folly) - An open-source C++ library developed and used at Facebook.
 - [pqrs-org/Karabiner-Elements](https://github.com/pqrs-org/Karabiner-Elements) - Karabiner-Elements is a powerful utility for keyboard customization on macOS Sierra (10.12) or later.
-- [walkccc/LeetCode](https://github.com/walkccc/LeetCode) - 💡 LeetCode in C++17/Java/Python (respect coding conventions)
+- [walkccc/LeetCode](https://github.com/walkccc/LeetCode) - 💡 LeetCode in C++20/Java/Python (respect coding conventions)
 - [sindresorhus/fullname-native](https://github.com/sindresorhus/fullname-native) - Get the fullname of the current user
 - [android/ndk-samples](https://github.com/android/ndk-samples) - Android NDK samples with Android Studio
 - [apiaryio/protagonist](https://github.com/apiaryio/protagonist) - Protagonist is Node.js wrapper for the API Blueprint parser
@@ -374,7 +374,7 @@
 - [argoproj-labs/argocd-notifications](https://github.com/argoproj-labs/argocd-notifications) - Notifications for Argo CD
 - [argoproj/argo-workflows](https://github.com/argoproj/argo-workflows) - Workflow Engine for Kubernetes
 - [maaslalani/slides](https://github.com/maaslalani/slides) - Terminal based presentation tool
-- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) - Declarative continuous deployment for Kubernetes.
+- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) - Declarative Continuous Deployment for Kubernetes
 - [berty/berty](https://github.com/berty/berty) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
 - [prest/prest](https://github.com/prest/prest) - PostgreSQL ➕ REST, low-code, simplify and accelerate development, ⚡ instant, realtime, high-performance on any Postgres application, existing or new
 - [grpc-ecosystem/grpc-gateway](https://github.com/grpc-ecosystem/grpc-gateway) - gRPC to JSON proxy generator following the gRPC HTTP spec
