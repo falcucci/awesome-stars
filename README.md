@@ -181,7 +181,7 @@
 - [google/googletest](https://github.com/google/googletest) - GoogleTest - Google Testing and Mocking Framework
 - [facebook/folly](https://github.com/facebook/folly) - An open-source C++ library developed and used at Facebook.
 - [pqrs-org/Karabiner-Elements](https://github.com/pqrs-org/Karabiner-Elements) - Karabiner-Elements is a powerful utility for keyboard customization on macOS Sierra (10.12) or later.
-- [walkccc/LeetCode](https://github.com/walkccc/LeetCode) - 💡 LeetCode in C++20/Java/Python (respect coding conventions)
+- [walkccc/LeetCode](https://github.com/walkccc/LeetCode) - 💡 LeetCode in C++20/Java/Python/MySQL (respect coding conventions)
 - [sindresorhus/fullname-native](https://github.com/sindresorhus/fullname-native) - Get the fullname of the current user
 - [android/ndk-samples](https://github.com/android/ndk-samples) - Android NDK samples with Android Studio
 - [apiaryio/protagonist](https://github.com/apiaryio/protagonist) - Protagonist is Node.js wrapper for the API Blueprint parser
@@ -2148,7 +2148,7 @@
 - [mozilla/amo-validator](https://github.com/mozilla/amo-validator) - Validator for addons.mozilla.org
 - [mozilla/remote-settings](https://github.com/mozilla/remote-settings) - Delivering data to Firefox
 - [mozilla/standup](https://github.com/mozilla/standup) - web app that logs daily standup updates
-- [adelarsq/vim-hackernews](https://github.com/adelarsq/vim-hackernews) - Hacker News plugin for Vim 📰🖤💙💛
+- [adelarsq/vim-hackernews](https://github.com/adelarsq/vim-hackernews) - Hacker News plugin for Vim 📰💙💛🤍💚
 - [zulip/zulip](https://github.com/zulip/zulip) - Zulip server and web application. Open-source team chat that helps teams stay productive and focused.
 - [python/cpython](https://github.com/python/cpython) - The Python programming language
 - [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first.
