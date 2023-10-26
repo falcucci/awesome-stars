@@ -660,6 +660,7 @@
 
 ## Haskell 
 
+- [input-output-hk/cardano-db-sync](https://github.com/input-output-hk/cardano-db-sync) - A component that follows the Cardano chain and stores blocks and transactions in PostgreSQL
 - [input-output-hk/cardano-cli](https://github.com/input-output-hk/cardano-cli) - This repository contains sources for the command-line interface (CLI) tool for interacting with the Cardano blockchain.
 - [input-output-hk/plutus](https://github.com/input-output-hk/plutus) - The Plutus language implementation and tools
 - [mujx/hakatime](https://github.com/mujx/hakatime) - Wakatime server implementation & analytics dashboard
@@ -1700,7 +1701,7 @@
 - [leerob/leerob.io](https://github.com/leerob/leerob.io) - ✨  My portfolio built with Next.js, Tailwind CSS, PlanetScale, and Vercel.
 - [rauchg/blog](https://github.com/rauchg/blog) - 
 - [tauri-apps/tauri-docs](https://github.com/tauri-apps/tauri-docs) - The source for all Tauri project documentation.
-- [yewstack/yew](https://github.com/yewstack/yew) - Rust / Wasm framework for building client web apps
+- [yewstack/yew](https://github.com/yewstack/yew) - Rust / Wasm framework for creating reliable and efficient web applications
 - [wix/react-native-navigation](https://github.com/wix/react-native-navigation) - A complete native navigation solution for React Native
 - [react-native-elements/react-native-elements](https://github.com/react-native-elements/react-native-elements) - Cross-Platform React Native UI Toolkit
 
@@ -2214,6 +2215,7 @@
 
 ## Rust 
 
+- [AndrewWestberg/cncli](https://github.com/AndrewWestberg/cncli) - A community-based cardano-node CLI tool
 - [dprint/dprint](https://github.com/dprint/dprint) - Pluggable and configurable code formatting platform written in Rust.
 - [txpipe/scrolls](https://github.com/txpipe/scrolls) - Read-optimized cache of Cardano on-chain entities
 - [solana-labs/solana](https://github.com/solana-labs/solana) - Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces.
@@ -2944,7 +2946,7 @@
 - [codota/tabnine-vscode](https://github.com/codota/tabnine-vscode) - Visual Studio Code client for Tabnine. https://marketplace.visualstudio.com/items?itemName=TabNine.tabnine-vscode
 - [withfig/autocomplete](https://github.com/withfig/autocomplete) - IDE-style autocomplete for your existing terminal & shell
 - [StanGirard/quivr](https://github.com/StanGirard/quivr) - 🧠 Your Second Brain supercharged by Generative AI 🧠 Dump all your files and chat with your personal assistant on your files & more using GPT 3.5/4, Private, Anthropic, VertexAI, LLMs...
-- [NdungutseCharles103/next13-progressbar](https://github.com/NdungutseCharles103/next13-progressbar) - A simple Next.js progressbar component using NProgress with support of next.js 13 app dir.
+- [ndicari/next13-progressbar](https://github.com/ndicari/next13-progressbar) - A simple Next.js progressbar component using NProgress with support of next.js 13 app dir.
 - [twidgeapp/twidge](https://github.com/twidgeapp/twidge) - Twidge is a fresh approach to productivity. It integrates with your workflow and allows you to be your most productive self.
 - [neoclide/coc-highlight](https://github.com/neoclide/coc-highlight) - Document highlight and document colors LSP support for coc.nvim
 - [codicocodes/speedtyper.dev](https://github.com/codicocodes/speedtyper.dev) - Type racing for programmers
