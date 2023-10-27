@@ -1562,6 +1562,7 @@
 
 ## Lua 
 
+- [stevearc/conform.nvim](https://github.com/stevearc/conform.nvim) - Lightweight yet powerful formatter plugin for Neovim
 - [kawre/leetcode.nvim](https://github.com/kawre/leetcode.nvim) - A Neovim plugin enabling you to solve LeetCode problems within Neovim.
 - [NStefan002/speedtyper.nvim](https://github.com/NStefan002/speedtyper.nvim) - ⏩ Practise typing in Neovim ⏩
 - [beauwilliams/statusline.lua](https://github.com/beauwilliams/statusline.lua) - A zero-config minimal statusline for neovim written in lua featuring awesome integrations and blazing speed!
@@ -2566,7 +2567,7 @@
 - [roapi/roapi](https://github.com/roapi/roapi) - Create full-fledged APIs for slowly moving datasets without writing a single line of code.
 - [PyO3/maturin](https://github.com/PyO3/maturin) - Build and publish crates with pyo3, rust-cpython and cffi bindings as well as rust binaries as python packages
 - [rbatis/rbatis](https://github.com/rbatis/rbatis) - Rust  Compile Time ORM robustness,async, pure Rust Dynamic SQL
-- [pola-rs/polars](https://github.com/pola-rs/polars) - Fast multi-threaded, hybrid-out-of-core query engine focussing on DataFrame front-ends
+- [pola-rs/polars](https://github.com/pola-rs/polars) - Dataframes powered by a multithreaded, vectorized query engine, written in Rust
 - [shuttle-hq/shuttle-examples](https://github.com/shuttle-hq/shuttle-examples) - Examples for using Shuttle with different frameworks and resources
 - [shuttle-hq/shuttle](https://github.com/shuttle-hq/shuttle) - Build & ship backends without writing any infrastructure files.
 - [tikv/grpc-rs](https://github.com/tikv/grpc-rs) - The gRPC library for Rust built on C Core library and futures
@@ -2946,7 +2947,7 @@
 - [codota/tabnine-vscode](https://github.com/codota/tabnine-vscode) - Visual Studio Code client for Tabnine. https://marketplace.visualstudio.com/items?itemName=TabNine.tabnine-vscode
 - [withfig/autocomplete](https://github.com/withfig/autocomplete) - IDE-style autocomplete for your existing terminal & shell
 - [StanGirard/quivr](https://github.com/StanGirard/quivr) - 🧠 Your Second Brain supercharged by Generative AI 🧠 Dump all your files and chat with your personal assistant on your files & more using GPT 3.5/4, Private, Anthropic, VertexAI, LLMs...
-- [ndicari/next13-progressbar](https://github.com/ndicari/next13-progressbar) - A simple Next.js progressbar component using NProgress with support of next.js 13 app dir.
+- [ndungtse/next13-progressbar](https://github.com/ndungtse/next13-progressbar) - A simple Next.js progressbar component using NProgress with support of next.js 13 app dir.
 - [twidgeapp/twidge](https://github.com/twidgeapp/twidge) - Twidge is a fresh approach to productivity. It integrates with your workflow and allows you to be your most productive self.
 - [neoclide/coc-highlight](https://github.com/neoclide/coc-highlight) - Document highlight and document colors LSP support for coc.nvim
 - [codicocodes/speedtyper.dev](https://github.com/codicocodes/speedtyper.dev) - Type racing for programmers
