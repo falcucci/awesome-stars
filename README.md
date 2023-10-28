@@ -317,7 +317,7 @@
 - [vmware-tanzu/kubeapps](https://github.com/vmware-tanzu/kubeapps) - A web-based UI for deploying and managing applications in Kubernetes clusters
 - [owenthereal/candy](https://github.com/owenthereal/candy) - Candy is a zero-config reverse proxy server
 - [docker/compose](https://github.com/docker/compose) - Define and run multi-container applications with Docker
-- [dagger/dagger](https://github.com/dagger/dagger) - A programmable CI/CD engine that runs your pipelines in containers
+- [dagger/dagger](https://github.com/dagger/dagger) - Dagger is an integrated platform to orchestrate the delivery of applications
 - [gokcehan/lf](https://github.com/gokcehan/lf) - Terminal file manager
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀
 - [charmbracelet/kancli](https://github.com/charmbracelet/kancli) - A tutorial for building a command line kanban board in Go
