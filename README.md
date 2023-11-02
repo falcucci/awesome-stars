@@ -1625,7 +1625,7 @@
 - [nvim-neo-tree/neo-tree.nvim](https://github.com/nvim-neo-tree/neo-tree.nvim) - Neovim plugin to manage the file system and other tree like structures.
 - [yorik1984/newpaper.nvim](https://github.com/yorik1984/newpaper.nvim) - 🎨 Newpaper colorscheme for NeoVim written in Lua with built-in support for native LSP, TreeSitter and many more plugins
 - [projekt0n/github-nvim-theme](https://github.com/projekt0n/github-nvim-theme) - Github's Neovim themes
-- [oxfist/night-owl.nvim](https://github.com/oxfist/night-owl.nvim) - 🦉 🌌 night-owl.nvim is a Night Owl colorscheme implementation for Neovim with support for Treesitter and semantic tokens
+- [oxfist/night-owl.nvim](https://github.com/oxfist/night-owl.nvim) - 🦉 🌌 night-owl.nvim is a Night Owl colorscheme implementation for Neovim with support for Tree-sitter and semantic tokens
 - [3rd/image.nvim](https://github.com/3rd/image.nvim) - 🖼️ Bringing images to Neovim.
 - [nvim-lualine/lualine.nvim](https://github.com/nvim-lualine/lualine.nvim) - A blazing fast and easy to configure neovim statusline plugin written in pure lua.
 - [jghauser/kitty-runner.nvim](https://github.com/jghauser/kitty-runner.nvim) - A neovim plugin allowing you to easily send lines from the current buffer to another kitty terminal
@@ -2750,7 +2750,7 @@
 - [stepancheg/grpc-rust](https://github.com/stepancheg/grpc-rust) - Rust implementation of gRPC
 - [nushell/nushell](https://github.com/nushell/nushell) - A new type of shell
 - [wadackel/vim-dogrun](https://github.com/wadackel/vim-dogrun) - :dog: A dark Neovim / Vim colorscheme for the GUI and 256 / true-color terminals.
-- [liuchengxu/vim-clap](https://github.com/liuchengxu/vim-clap) - :clap: Modern performant fuzzy picker for Vim and NeoVim
+- [liuchengxu/vim-clap](https://github.com/liuchengxu/vim-clap) - :clap: Modern performant fuzzy picker and more, for both Vim and NeoVim
 - [cgag/loc](https://github.com/cgag/loc) - Count lines of code quickly.
 - [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, and grep output
 - [reacherhq/check-if-email-exists](https://github.com/reacherhq/check-if-email-exists) - Check if an email address exists without sending any email, written in Rust. Comes with a ⚙️ HTTP backend.
