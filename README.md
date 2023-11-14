@@ -43,6 +43,7 @@
 - [Makefile](#makefile)
 - [Markdown](#markdown)
 - [Nim](#nim)
+- [Nix](#nix)
 - [OCaml](#ocaml)
 - [Objective-C](#objective-c)
 - [Others](#others)
@@ -182,7 +183,7 @@
 - [google/googletest](https://github.com/google/googletest) - GoogleTest - Google Testing and Mocking Framework
 - [facebook/folly](https://github.com/facebook/folly) - An open-source C++ library developed and used at Facebook.
 - [pqrs-org/Karabiner-Elements](https://github.com/pqrs-org/Karabiner-Elements) - Karabiner-Elements is a powerful utility for keyboard customization on macOS Sierra (10.12) or later.
-- [walkccc/LeetCode](https://github.com/walkccc/LeetCode) - 💡 LeetCode in C++20/Java/Python/MySQL (respect coding conventions)
+- [walkccc/LeetCode](https://github.com/walkccc/LeetCode) - 💡 LeetCode in C++20/Java/Python/MySQL/TypeScript (respect coding conventions)
 - [sindresorhus/fullname-native](https://github.com/sindresorhus/fullname-native) - Get the fullname of the current user
 - [android/ndk-samples](https://github.com/android/ndk-samples) - Android NDK samples with Android Studio
 - [apiaryio/protagonist](https://github.com/apiaryio/protagonist) - Protagonist is Node.js wrapper for the API Blueprint parser
@@ -663,6 +664,7 @@
 
 ## Haskell 
 
+- [input-output-hk/marlowe-cardano](https://github.com/input-output-hk/marlowe-cardano) - Marlowe smart contract language Cardano implementation
 - [input-output-hk/ouroboros-network](https://github.com/input-output-hk/ouroboros-network) - An implementation of the Ouroboros family of consensus algorithms, with its networking support
 - [input-output-hk/cardano-db-sync](https://github.com/input-output-hk/cardano-db-sync) - A component that follows the Cardano chain and stores blocks and transactions in PostgreSQL
 - [input-output-hk/cardano-cli](https://github.com/input-output-hk/cardano-cli) - This repository contains sources for the command-line interface (CLI) tool for interacting with the Cardano blockchain.
@@ -820,7 +822,7 @@
 - [pixel-point/favpie](https://github.com/pixel-point/favpie) - Generate favicons and webmanifest with a CLI
 - [falcucci/github-auto-issue](https://github.com/falcucci/github-auto-issue) - AI-driven browser extension to generate Github issue summary as a quick start to improve your workflow experience and save your time.
 - [meteor/meteor](https://github.com/meteor/meteor) - Meteor, the JavaScript App Platform
-- [ai/nanoid](https://github.com/ai/nanoid) - A tiny (130 bytes), secure, URL-friendly, unique string ID generator for JavaScript
+- [ai/nanoid](https://github.com/ai/nanoid) - A tiny (109 bytes), secure, URL-friendly, unique string ID generator for JavaScript
 - [postmanlabs/postman-collection](https://github.com/postmanlabs/postman-collection) - Javascript module that allows a developer to work with Postman Collections
 - [mozilla/webextension-polyfill](https://github.com/mozilla/webextension-polyfill) - A lightweight polyfill library for Promise-based WebExtension APIs in Chrome
 - [falcucci/italy-today](https://github.com/falcucci/italy-today) - Summarize the latest or specific news from Italy extracting the most important informations using AI and presenting them in a concise and easy-to-understand format.
@@ -993,7 +995,7 @@
 - [istanbuljs/nyc](https://github.com/istanbuljs/nyc) - the Istanbul command line interface
 - [nodeca/js-yaml](https://github.com/nodeca/js-yaml) - JavaScript YAML parser and dumper. Very fast.
 - [muan/paint-github](https://github.com/muan/paint-github) - [WebExtension] Draw your GitHub comment.
-- [greensock/GSAP](https://github.com/greensock/GSAP) - GreenSock's GSAP JavaScript animation library (including Draggable).
+- [greensock/GSAP](https://github.com/greensock/GSAP) - GSAP (GreenSock Animation Platform), a JavaScript animation library for the modern web
 - [ladjs/superagent](https://github.com/ladjs/superagent) - Ajax for Node.js and browsers (JS HTTP client). Maintained for @forwardemail, @ladjs, @spamscanner, @breejs, @cabinjs, and @lassjs.
 - [grafana/postman-to-k6](https://github.com/grafana/postman-to-k6) - Converts Postman collections to k6 script code
 - [li-clutter-org/postman-to-loadimpact](https://github.com/li-clutter-org/postman-to-loadimpact) - DEPRECATED - Transform Postman collections to Load Impact Lua user scenarios
@@ -1728,6 +1730,10 @@
 ## Nim 
 
 - [oakes/vim_cubed](https://github.com/oakes/vim_cubed) - Vim rendered on a cube for no reason
+
+## Nix 
+
+- [input-output-hk/iogx](https://github.com/input-output-hk/iogx) - Flake Template for Haskell Projects
 
 ## OCaml 
 
