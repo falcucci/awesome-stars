@@ -78,6 +78,7 @@
 
 ## Assembly 
 
+- [BLAKE3-team/BLAKE3](https://github.com/BLAKE3-team/BLAKE3) - the official Rust and C implementations of the BLAKE3 cryptographic hash function
 - [cirosantilli/x86-assembly-cheat](https://github.com/cirosantilli/x86-assembly-cheat) - MOVED TO: https://cirosantilli.com/linux-kernel-module-cheat/userland-assembly with code at https://github.com/cirosantilli/linux-kernel-module-cheat/tree/master/userland/arch/x86_64 SEE README. x86 I
 - [microsoft/MS-DOS](https://github.com/microsoft/MS-DOS) - The original sources of MS-DOS 1.25 and 2.0, for reference purposes
 - [gseidler/The-MSX-Red-Book](https://github.com/gseidler/The-MSX-Red-Book) - The MSX Red Book in Markdown format.
@@ -92,6 +93,7 @@
 
 ## C 
 
+- [goldsborough/ipc-bench](https://github.com/goldsborough/ipc-bench) - :racehorse: Benchmarks for Inter-Process-Communication Techniques
 - [zevv/bucklespring](https://github.com/zevv/bucklespring) - Nostalgia bucklespring keyboard sound
 - [cunarist/rinf](https://github.com/cunarist/rinf) - Rust for native business logic, Flutter for flexible and beautiful GUI
 - [koekeishiya/skhd](https://github.com/koekeishiya/skhd) - Simple hotkey daemon for macOS
@@ -253,7 +255,6 @@
 
 - [pazdera/gitwalk](https://github.com/pazdera/gitwalk) - Bulk processing of git repositories
 - [stianeikeland/node-etcd](https://github.com/stianeikeland/node-etcd) - :satellite: Etcd client for nodejs
-- [codecombat/codecombat](https://github.com/codecombat/codecombat) - Game for learning how to code.
 - [danielgtaylor/aglio](https://github.com/danielgtaylor/aglio) - An API Blueprint renderer with theme support that outputs static HTML
 
 ## Dart 
@@ -1034,6 +1035,7 @@
 - [devaublanc/chromecast-receiver-react](https://github.com/devaublanc/chromecast-receiver-react) - Chromecast receiver using React and dash.js
 - [mafintosh/chromecasts](https://github.com/mafintosh/chromecasts) - Query your local network for Chromecasts and have them play media
 - [xat/castnow](https://github.com/xat/castnow) - commandline chromecast player
+- [codecombat/codecombat](https://github.com/codecombat/codecombat) - Game for learning how to code.
 - [transloadit/uppy](https://github.com/transloadit/uppy) - The next open source file uploader for web browsers :dog:
 - [mjhea0/node-mocha-chai-tutorial](https://github.com/mjhea0/node-mocha-chai-tutorial) - 
 - [chaijs/chai-http](https://github.com/chaijs/chai-http) - HTTP Response assertions for the Chai Assertion Library.
@@ -1141,7 +1143,6 @@
 - [hernanif1/react-native-boilerplate](https://github.com/hernanif1/react-native-boilerplate) - This opinionated boilerplate was born because I always need to configure the same generic libs in order let my app production-ready.
 - [pmuellr/bluemix-service-switcher](https://github.com/pmuellr/bluemix-service-switcher) - 
 - [you-dont-need/You-Dont-Need-Momentjs](https://github.com/you-dont-need/You-Dont-Need-Momentjs) - List of functions which you can use to replace moment.js + ESLint Plugin
-- [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable and developer-first.
 - [aui/art-template](https://github.com/aui/art-template) - High performance JavaScript templating engine
 - [eggjs/egg](https://github.com/eggjs/egg) - 🥚 Born to build better enterprise frameworks and apps with Node.js & Koa
 - [markdown-it/markdown-it](https://github.com/markdown-it/markdown-it) - Markdown parser, done right. 100% CommonMark support, extensions, syntax plugins & high speed
@@ -1978,6 +1979,7 @@
 
 ## Python 
 
+- [input-output-hk/cardano-node-tests](https://github.com/input-output-hk/cardano-node-tests) - System and end-to-end (E2E) tests for cardano-node.
 - [KillianLucas/open-interpreter](https://github.com/KillianLucas/open-interpreter) - OpenAI's Code Interpreter in your terminal, running locally
 - [belluzj/fantasque-sans](https://github.com/belluzj/fantasque-sans) - A font family with a great monospaced variant for programmers.
 - [kserve/kserve](https://github.com/kserve/kserve) - Standardized Serverless ML Inference Platform on Kubernetes
@@ -2233,6 +2235,9 @@
 
 ## Rust 
 
+- [tokio-rs/mio](https://github.com/tokio-rs/mio) - Metal I/O library for Rust.
+- [rust-rocksdb/rust-rocksdb](https://github.com/rust-rocksdb/rust-rocksdb) - rust wrapper for rocksdb
+- [microsoft/windows-rs](https://github.com/microsoft/windows-rs) - Rust for Windows
 - [servo/core-foundation-rs](https://github.com/servo/core-foundation-rs) - Rust bindings to Core Foundation and other low level libraries on Mac OS X and iOS
 - [ryanmcgrath/cacao](https://github.com/ryanmcgrath/cacao) - Rust bindings for AppKit (macOS) and UIKit (iOS/tvOS). Experimental, but working!
 - [Dzejkop/super-space-smugglers-jam](https://github.com/Dzejkop/super-space-smugglers-jam) - 
@@ -2418,7 +2423,7 @@
 - [neovide/winit](https://github.com/neovide/winit) - Window handling library in pure Rust
 - [burtonageo/cargo-bundle](https://github.com/burtonageo/cargo-bundle) - Wrap rust executables in OS-specific app bundles
 - [willothy/moveline.nvim](https://github.com/willothy/moveline.nvim) - Neovim plugin for moving lines up and down
-- [openobserve/openobserve](https://github.com/openobserve/openobserve) - 🚀 10x easier, 🚀 140x lower storage cost, 🚀 high performance,  🚀 petabyte scale - Elasticsearch/Splunk/Datadog alternative for 🚀 (logs, metrics, traces).
+- [openobserve/openobserve](https://github.com/openobserve/openobserve) - 🚀 10x easier, 🚀 140x lower storage cost, 🚀 high performance,  🚀 petabyte scale - Elasticsearch/Splunk/Datadog alternative for 🚀 (logs, metrics, traces, RUM, Error tracking, Session replay).
 - [orlp/glidesort](https://github.com/orlp/glidesort) - A Rust implementation of Glidesort, my stable adaptive quicksort/mergesort hybrid sorting algorithm.
 - [Misterio77/flavours](https://github.com/Misterio77/flavours) - 🎨💧 An easy to use base16 scheme manager that integrates with any workflow.
 - [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
@@ -2957,6 +2962,7 @@
 
 ## TypeScript 
 
+- [actions/dependency-review-action](https://github.com/actions/dependency-review-action) - A GitHub Action for detecting vulnerable dependencies and invalid licenses in your PRs
 - [githubnext/monaspace](https://github.com/githubnext/monaspace) - An innovative superfamily of fonts for code
 - [Mobilecn-UI/nativecn-ui](https://github.com/Mobilecn-UI/nativecn-ui) - Beautiful and customizable React Native components
 - [happykit/flags](https://github.com/happykit/flags) - ⛳️ Feature Flags for Next.js
@@ -3284,6 +3290,7 @@
 - [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
 - [sindresorhus/got](https://github.com/sindresorhus/got) - 🌐 Human-friendly and powerful HTTP request library for Node.js
 - [sindresorhus/ky](https://github.com/sindresorhus/ky) - 🌳 Tiny & elegant JavaScript HTTP client based on the browser Fetch API
+- [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable and developer-first.
 - [szmarczak/http-timer](https://github.com/szmarczak/http-timer) - 🕐 Performance timings for HTTP requests
 - [mfrachet/rn-placeholder](https://github.com/mfrachet/rn-placeholder) - 🏖️ Display some placeholder stuff before rendering your text or media content in React Native
 - [williamngan/pts](https://github.com/williamngan/pts) - A library for visualization and creative-coding
