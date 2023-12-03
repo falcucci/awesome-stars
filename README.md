@@ -421,7 +421,7 @@
 - [hoanhan101/ultimate-go](https://github.com/hoanhan101/ultimate-go) - The Ultimate Go Study Guide
 - [shuveb/containers-the-hard-way](https://github.com/shuveb/containers-the-hard-way) - Learning about containers and how they work by creating them the hard way
 - [flosch/pongo2](https://github.com/flosch/pongo2) - Django-syntax like template-engine for Go
-- [lingrino/go-fault](https://github.com/lingrino/go-fault) - Fault injection library in Go using standard http middleware
+- [lingrino/go-fault](https://github.com/lingrino/go-fault) - fault injection library in go using standard http middleware
 - [gogf/gf](https://github.com/gogf/gf) - GoFrame is a modular, powerful, high-performance and enterprise-class application development framework of Golang.
 - [bradfitz/shotizam](https://github.com/bradfitz/shotizam) - Shotizam analyzes the size of Go binaries
 - [hoisie/mustache](https://github.com/hoisie/mustache) - The mustache template language in Go
