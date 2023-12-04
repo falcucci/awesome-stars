@@ -2249,6 +2249,7 @@
 
 ## Rust 
 
+- [godot-rust/gdext](https://github.com/godot-rust/gdext) - Rust bindings for Godot 4
 - [imsnif/weather-pal](https://github.com/imsnif/weather-pal) - A Zellij plugin to get weather information inside the terminal
 - [anweiss/cddl](https://github.com/anweiss/cddl) - Concise data definition language (RFC 8610) implementation and JSON and CBOR validator in Rust
 - [wadackel/vim-dogrun](https://github.com/wadackel/vim-dogrun) - :dog: A dark Neovim / Vim colorscheme for the GUI and 256 / true-color terminals.
