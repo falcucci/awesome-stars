@@ -835,7 +835,6 @@
 - [hainguyents13/mechvibes](https://github.com/hainguyents13/mechvibes) - Mechvibes
 - [dai-shi/remote-faces](https://github.com/dai-shi/remote-faces) - A tool for Working From Home: Share your webcam images with your colleagues
 - [iamcco/vim-language-server](https://github.com/iamcco/vim-language-server) - VImScript language server, LSP for vim script
-- [shuding/cobe](https://github.com/shuding/cobe) - 5kB WebGL globe lib.
 - [giosilvi/GPT-Prompter](https://github.com/giosilvi/GPT-Prompter) - Browser extension to get a fast prompt (of the selected text) for OpenAI`s GPT-3, GPT-4 & ChatGPT API . Available in the Chrome web store and Firefox browser add-ons
 - [xenova/transformers.js](https://github.com/xenova/transformers.js) - State-of-the-art Machine Learning for the web. Run 🤗 Transformers directly in your browser, with no need for a server!
 - [m1guelpf/obs-now-playing](https://github.com/m1guelpf/obs-now-playing) - Let your listeners know what music you're playing right now by showing it on screen at all times!
@@ -1731,6 +1730,7 @@
 ## MDX 
 
 - [phuocng/1loc](https://github.com/phuocng/1loc) - What's your favorite JavaScript single LOC (line of code)?
+- [shuding/cobe](https://github.com/shuding/cobe) - 5kB WebGL globe lib.
 - [leerob/leerob.io](https://github.com/leerob/leerob.io) - ✨  My portfolio built with Next.js, Tailwind, and Vercel.
 - [rauchg/blog](https://github.com/rauchg/blog) - 
 - [tauri-apps/tauri-docs](https://github.com/tauri-apps/tauri-docs) - The source for all Tauri project documentation.
