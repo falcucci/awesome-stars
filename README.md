@@ -319,6 +319,7 @@
 
 ## Go 
 
+- [gavinbunney/terraform-provider-kubectl](https://github.com/gavinbunney/terraform-provider-kubectl) - Terraform provider to handle raw kubernetes manifest yaml files
 - [kubevela/velaux](https://github.com/kubevela/velaux) - The KubeVela User Experience (UX) Platform
 - [cue-lang/cue](https://github.com/cue-lang/cue) - The home of the CUE language! Validate and define text-based and dynamic configuration
 - [norwoodj/helm-docs](https://github.com/norwoodj/helm-docs) - A tool for automatically generating markdown documentation for helm charts
@@ -373,7 +374,7 @@
 - [vercel/go-bridge](https://github.com/vercel/go-bridge) - Bridge for `@vercel/go`
 - [cointop-sh/cointop](https://github.com/cointop-sh/cointop) - A fast and lightweight interactive terminal based UI application for tracking cryptocurrencies 🚀
 - [cswank/kcli](https://github.com/cswank/kcli) - A kafka command line browser
-- [thehowl/claws](https://github.com/thehowl/claws) - Awesome WebSocket CLient - an interactive CLI command line client for testing websocket servers
+- [thehowl/claws](https://github.com/thehowl/claws) - Awesome WebSocket CLient - an interactive command line client for testing websocket servers
 - [jroimartin/gocui](https://github.com/jroimartin/gocui) - Minimalist Go package aimed at creating Console User Interfaces.
 - [jesseduffield/lazynpm](https://github.com/jesseduffield/lazynpm) - terminal UI for npm
 - [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs.
@@ -681,14 +682,14 @@
 
 ## Haskell 
 
-- [input-output-hk/cardano-api](https://github.com/input-output-hk/cardano-api) - Cardano API
+- [IntersectMBO/cardano-api](https://github.com/IntersectMBO/cardano-api) - Cardano API
 - [input-output-hk/hydra](https://github.com/input-output-hk/hydra) - Implementation of the Hydra Head protocol
-- [input-output-hk/ouroboros-consensus](https://github.com/input-output-hk/ouroboros-consensus) - Implementation of a Consensus Layer for the Ouroboros family of protocols
+- [IntersectMBO/ouroboros-consensus](https://github.com/IntersectMBO/ouroboros-consensus) - Implementation of a Consensus Layer for the Ouroboros family of protocols
 - [input-output-hk/marlowe-cardano](https://github.com/input-output-hk/marlowe-cardano) - Marlowe smart contract language Cardano implementation
-- [input-output-hk/ouroboros-network](https://github.com/input-output-hk/ouroboros-network) - Specifications of network protocols and implementations of components running these protocols which support a family of Ouroboros Consesus protocols; the diffusion layer of the Cardano Node.
-- [input-output-hk/cardano-db-sync](https://github.com/input-output-hk/cardano-db-sync) - A component that follows the Cardano chain and stores blocks and transactions in PostgreSQL
-- [input-output-hk/cardano-cli](https://github.com/input-output-hk/cardano-cli) - This repository contains sources for the command-line interface (CLI) tool for interacting with the Cardano blockchain.
-- [input-output-hk/plutus](https://github.com/input-output-hk/plutus) - The Plutus language implementation and tools
+- [IntersectMBO/ouroboros-network](https://github.com/IntersectMBO/ouroboros-network) - Specifications of network protocols and implementations of components running these protocols which support a family of Ouroboros Consesus protocols; the diffusion layer of the Cardano Node.
+- [IntersectMBO/cardano-db-sync](https://github.com/IntersectMBO/cardano-db-sync) - A component that follows the Cardano chain and stores blocks and transactions in PostgreSQL
+- [IntersectMBO/cardano-cli](https://github.com/IntersectMBO/cardano-cli) - This repository contains sources for the command-line interface (CLI) tool for interacting with the Cardano blockchain.
+- [IntersectMBO/plutus](https://github.com/IntersectMBO/plutus) - The Plutus language implementation and tools
 - [mujx/hakatime](https://github.com/mujx/hakatime) - Wakatime server implementation & analytics dashboard
 - [lettier/gifcurry](https://github.com/lettier/gifcurry) - 😎 The open-source, Haskell-built video editor for GIF makers.
 - [jaspervdj/patat](https://github.com/jaspervdj/patat) - Terminal-based presentations using Pandoc
@@ -704,8 +705,8 @@
 - [koalaman/shellcheck](https://github.com/koalaman/shellcheck) - ShellCheck, a static analysis tool for shell scripts
 - [soywod/unfog](https://github.com/soywod/unfog) - ⏱ Minimalist CLI task & time manager, written in Haskell.
 - [krispo/awesome-haskell](https://github.com/krispo/awesome-haskell) - A collection of awesome Haskell links, frameworks, libraries and software. Inspired by awesome projects line.
-- [input-output-hk/cardano-node](https://github.com/input-output-hk/cardano-node) - The core component that is used to participate in a Cardano decentralised blockchain.
-- [input-output-hk/cardano-base](https://github.com/input-output-hk/cardano-base) - Code used throughout the Cardano eco-system
+- [IntersectMBO/cardano-node](https://github.com/IntersectMBO/cardano-node) - The core component that is used to participate in a Cardano decentralised blockchain.
+- [IntersectMBO/cardano-base](https://github.com/IntersectMBO/cardano-base) - Code used throughout the Cardano eco-system
 - [input-output-hk/cardano-rt-view](https://github.com/input-output-hk/cardano-rt-view) - RTView: real-time watching for Cardano nodes (ARCHIVED)
 - [fizruk/telegram-bot-simple](https://github.com/fizruk/telegram-bot-simple) - Easy to use library for building Telegram bots in Haskell.
 - [agrafix/Spock](https://github.com/agrafix/Spock) - Another Haskell web framework for rapid development
@@ -716,7 +717,7 @@
 - [commercialhaskell/stack](https://github.com/commercialhaskell/stack) - The Haskell Tool Stack
 - [snoyberg/http-client](https://github.com/snoyberg/http-client) - An HTTP client engine, intended as a base layer for more user-friendly packages.
 - [smallhadroncollider/taskell](https://github.com/smallhadroncollider/taskell) - Command-line Kanban board/task manager with support for Trello boards and GitHub projects
-- [input-output-hk/cardano-ledger](https://github.com/input-output-hk/cardano-ledger) - The ledger implementation and specifications of the Cardano blockchain.
+- [IntersectMBO/cardano-ledger](https://github.com/IntersectMBO/cardano-ledger) - The ledger implementation and specifications of the Cardano blockchain.
 - [cardano-foundation/cardano-wallet](https://github.com/cardano-foundation/cardano-wallet) - HTTP server & command-line for managing UTxOs and HD wallets in Cardano.
 - [phuhl/linux_notification_center](https://github.com/phuhl/linux_notification_center) - A notification daemon/center for linux
 - [joshuaclayton/unused](https://github.com/joshuaclayton/unused) - Deprecated; see https://github.com/unused-code/unused
@@ -1588,6 +1589,9 @@
 
 ## Lua 
 
+- [cpea2506/one_monokai.nvim](https://github.com/cpea2506/one_monokai.nvim) - One Monokai for Neovim
+- [Rolv-Apneseth/tfm.nvim](https://github.com/Rolv-Apneseth/tfm.nvim) - Neovim plugin for terminal file manager integration
+- [stevearc/oil.nvim](https://github.com/stevearc/oil.nvim) - Neovim file explorer: edit your filesystem like a buffer
 - [epwalsh/pomo.nvim](https://github.com/epwalsh/pomo.nvim) - :new: :stopwatch: A simple, customizable pomodoro timer for Neovim, written in Lua, with nvim-notify and lualine integrations
 - [Hubro/nvim-splitrun](https://github.com/Hubro/nvim-splitrun) - Super simple plugin for running a command in a new split
 - [m4xshen/hardtime.nvim](https://github.com/m4xshen/hardtime.nvim) - A Neovim plugin helping you establish good command workflow and habit
@@ -2004,12 +2008,11 @@
 ## Python 
 
 - [subframe7536/maple-font](https://github.com/subframe7536/maple-font) - Maple Mono: Open source monospace font with round corner, ligatures and Nerd-Font for IDE and command line. 带连字和控制台图标的圆角等宽字体，中英文宽度完美2:1
-- [input-output-hk/cardano-node-tests](https://github.com/input-output-hk/cardano-node-tests) - System and end-to-end (E2E) tests for cardano-node.
+- [IntersectMBO/cardano-node-tests](https://github.com/IntersectMBO/cardano-node-tests) - System and end-to-end (E2E) tests for cardano-node.
 - [KillianLucas/open-interpreter](https://github.com/KillianLucas/open-interpreter) - OpenAI's Code Interpreter in your terminal, running locally
 - [belluzj/fantasque-sans](https://github.com/belluzj/fantasque-sans) - A font family with a great monospaced variant for programmers.
 - [kserve/kserve](https://github.com/kserve/kserve) - Standardized Serverless ML Inference Platform on Kubernetes
 - [python-lsp/python-lsp-ruff](https://github.com/python-lsp/python-lsp-ruff) - Linter plugin for pylsp based on ruff.
-- [OpenBMB/ChatDev](https://github.com/OpenBMB/ChatDev) - Create Customized Software using Natural Language Idea (through LLM-powered Multi-Agent Collaboration)
 - [dortania/OpenCore-Legacy-Patcher](https://github.com/dortania/OpenCore-Legacy-Patcher) - Experience macOS just like before
 - [eliasdorneles/upiano](https://github.com/eliasdorneles/upiano) - A Piano in your terminal
 - [lauris/awesome-scala](https://github.com/lauris/awesome-scala) - A community driven list of useful Scala libraries, frameworks and software.
@@ -2852,6 +2855,7 @@
 ## Shell 
 
 - [blinklabs-io/docker-cardano-node](https://github.com/blinklabs-io/docker-cardano-node) - Builds cardano-node from source using cabal on debian
+- [OpenBMB/ChatDev](https://github.com/OpenBMB/ChatDev) - Create Customized Software using Natural Language Idea (through LLM-powered Multi-Agent Collaboration)
 - [nix-community/nixos-anywhere](https://github.com/nix-community/nixos-anywhere) - install nixos everywhere via ssh [maintainer=@numtide]
 - [dylanaraps/fff](https://github.com/dylanaraps/fff) - 📁 A simple file manager written in bash.
 - [codespaces-examples/rust](https://github.com/codespaces-examples/rust) - 
@@ -3124,7 +3128,7 @@
 - [AnishDe12020/portfolio](https://github.com/AnishDe12020/portfolio) - My portfolio site built using nextjs, contentlayer, and tailwind css
 - [AnishDe12020/gtfol-domains](https://github.com/AnishDe12020/gtfol-domains) - 
 - [KarthikeyanRanasthala/depulso](https://github.com/KarthikeyanRanasthala/depulso) - Deploy your static site in seconds
-- [toeverything/blocksuite](https://github.com/toeverything/blocksuite) - 🎨 BlockSuite provides the toolkit for composing collaborative editing applications.
+- [toeverything/blocksuite](https://github.com/toeverything/blocksuite) - 🧩 BlockSuite provides the toolkit for composing collaborative editing applications.
 - [Siumauricio/portfolio](https://github.com/Siumauricio/portfolio) - Simple and minimalist portfolio using Nextjs and NextUI.
 - [Siumauricio/nextjs-template-portfolio](https://github.com/Siumauricio/nextjs-template-portfolio) - Simple and minimalist portfolio using NextJs and TailwindCSS with DaisyUI with support with dark mode and more than 25 themes!!
 - [Siumauricio/nextui-dashboard-template](https://github.com/Siumauricio/nextui-dashboard-template) - Dashboard starter using NextUI V2 and Nextjs.
