@@ -890,7 +890,6 @@
 - [hasura/hasura-k8s-stack](https://github.com/hasura/hasura-k8s-stack) - A feature-complete Hasura stack on Kubernetes
 - [hasura/hasura-actions-examples](https://github.com/hasura/hasura-actions-examples) - Examples of handling custom business logic with Hasura Actions
 - [iuccio/csvToJson](https://github.com/iuccio/csvToJson) - Convert CSV file to JSON
-- [jjangga0214/hasura-cli](https://github.com/jjangga0214/hasura-cli) - Hasura CLI as an npm package
 - [framer/next.js](https://github.com/framer/next.js) - Framer Next.js Quickstart
 - [falcucci/blog-me-api](https://github.com/falcucci/blog-me-api) - Cloud Academy assignment
 - [falcucci/transactions-sample](https://github.com/falcucci/transactions-sample) - Sample transaction service.
@@ -2264,6 +2263,8 @@
 
 ## Rust 
 
+- [Equim-chan/Mortal](https://github.com/Equim-chan/Mortal) - 🚀🀄️ A fast and strong AI for riichi mahjong, powered by Rust and deep reinforcement learning.
+- [mullvad/udp-over-tcp](https://github.com/mullvad/udp-over-tcp) - Proxy UDP traffic over a TCP stream
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
 - [dcSpark/carp](https://github.com/dcSpark/carp) - A modular indexer for Cardano with an SQL Postgres backend (an alternative to the well known cardano-db-sync)
 - [01mf02/jaq](https://github.com/01mf02/jaq) - A jq clone focussed on correctness, speed, and simplicity
@@ -2421,7 +2422,7 @@
 - [daynin/fundoc](https://github.com/daynin/fundoc) - Fundoc - the right way to generate documentation
 - [jkfran/killport](https://github.com/jkfran/killport) - A command-line tool to easily kill processes running on a specified port.
 - [Byron/gitoxide](https://github.com/Byron/gitoxide) - An idiomatic, lean, fast & safe pure Rust implementation of Git
-- [nxthat/nanocl](https://github.com/nxthat/nanocl) - Distributed System that simplifies the management of containers and virtual machines.
+- [next-hat/nanocl](https://github.com/next-hat/nanocl) - Distributed System that simplifies the management of containers and virtual machines.
 - [badboy/mdbook-open-on-gh](https://github.com/badboy/mdbook-open-on-gh) - mdbook preprocessor to add a open-on-github link on every page
 - [google/comprehensive-rust](https://github.com/google/comprehensive-rust) - This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust.
 - [cormacrelf/dark-notify](https://github.com/cormacrelf/dark-notify) - Watcher for macOS 10.14+ light/dark mode changes
@@ -3006,6 +3007,7 @@
 
 ## TypeScript 
 
+- [tldraw/tldraw](https://github.com/tldraw/tldraw) - a very good whiteboard
 - [kubero-dev/kubero](https://github.com/kubero-dev/kubero) - A free and self-hosted Heroku PaaS alternative for Kubernetes that implements GitOps
 - [smolck/uivonim](https://github.com/smolck/uivonim) - Fork of the Veonim Neovim GUI
 - [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React)
@@ -3176,7 +3178,7 @@
 - [pacocoursey/cmdk](https://github.com/pacocoursey/cmdk) - Fast, unstyled command menu React component.
 - [yaegassy/coc-ruff](https://github.com/yaegassy/coc-ruff) - ruff-lsp (ruff) extension for coc.nvim
 - [radix-ui/colors](https://github.com/radix-ui/colors) - A gorgeous, accessible color system.
-- [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - Beautifully designed components built with Radix UI and Tailwind CSS.
+- [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - Beautifully designed components that you can copy and paste into your apps. Accessible. Customizable. Open Source.
 - [primer/react](https://github.com/primer/react) - An implementation of GitHub's Primer Design System using React
 - [platyplus/platyplus](https://github.com/platyplus/platyplus) - Low-code, offline-first apps with Hasura
 - [nhost/hasura-auth](https://github.com/nhost/hasura-auth) - Authentication for Hasura.
@@ -3208,6 +3210,7 @@
 - [hasura/ra-data-hasura](https://github.com/hasura/ra-data-hasura) - react-admin data provider for Hasura GraphQL Engine
 - [ronatskiy/country-flags-svg](https://github.com/ronatskiy/country-flags-svg) - A list of countries with url links to a svg image which you can simply use in your web application
 - [nhost/hasura-backend-plus](https://github.com/nhost/hasura-backend-plus) - 🔑Auth and 📦Storage for Hasura. The quickest way to get Auth and Storage working for your next app based on Hasura.
+- [jjangga0214/hasura-cli](https://github.com/jjangga0214/hasura-cli) - Hasura CLI as an npm package
 - [hasura/hasura-ecommerce](https://github.com/hasura/hasura-ecommerce) - 
 - [framer/motion](https://github.com/framer/motion) - Open source, production-ready animation and gesture library for React
 - [fannheyward/coc-sql](https://github.com/fannheyward/coc-sql) - SQL extension for coc.nvim
