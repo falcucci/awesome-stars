@@ -1588,6 +1588,7 @@
 
 ## Lua 
 
+- [epwalsh/obsidian.nvim](https://github.com/epwalsh/obsidian.nvim) - Obsidian 🤝 Neovim
 - [Afourcat/treesitter-terraform-doc.nvim](https://github.com/Afourcat/treesitter-terraform-doc.nvim) - A simple neovim plugin that use treesitter to find resource in context and open the url on your favorite web browser.
 - [cpea2506/one_monokai.nvim](https://github.com/cpea2506/one_monokai.nvim) - One Monokai for Neovim
 - [Rolv-Apneseth/tfm.nvim](https://github.com/Rolv-Apneseth/tfm.nvim) - Neovim plugin for terminal file manager integration
@@ -1888,7 +1889,7 @@
 - [JoseAlcerreca/android-lifecycles](https://github.com/JoseAlcerreca/android-lifecycles) - 
 - [hackstoic/golang-open-source-projects](https://github.com/hackstoic/golang-open-source-projects) - 为互联网IT人打造的中文版awesome-go
 - [ribot/android-guidelines](https://github.com/ribot/android-guidelines) - Architecture and code guidelines we use at ribot when developing for Android
-- [Alikhll/golang-developer-roadmap](https://github.com/Alikhll/golang-developer-roadmap) - Roadmap to becoming a Go developer in 2020
+- [darius-khll/golang-developer-roadmap](https://github.com/darius-khll/golang-developer-roadmap) - Roadmap to becoming a Go developer in 2020
 - [arnauddri/vim-lodash-snippets](https://github.com/arnauddri/vim-lodash-snippets) - Vim snippets for most commonly used lodash/underscore functions
 - [florinpop17/app-ideas](https://github.com/florinpop17/app-ideas) - A Collection of application ideas which can be used to improve your coding skills.
 - [appcypher/awesome-wasm-langs](https://github.com/appcypher/awesome-wasm-langs) - 😎 A curated list of languages that compile directly to or have their VMs in WebAssembly
@@ -2263,6 +2264,7 @@
 
 ## Rust 
 
+- [gavlig/kodiki](https://github.com/gavlig/kodiki) - 
 - [Equim-chan/Mortal](https://github.com/Equim-chan/Mortal) - 🚀🀄️ A fast and strong AI for riichi mahjong, powered by Rust and deep reinforcement learning.
 - [mullvad/udp-over-tcp](https://github.com/mullvad/udp-over-tcp) - Proxy UDP traffic over a TCP stream
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
@@ -2473,7 +2475,7 @@
 - [kud1ing/guiver](https://github.com/kud1ing/guiver) - GUI programming with Rust
 - [ttytm/wthrr-the-weathercrab](https://github.com/ttytm/wthrr-the-weathercrab) - 🌞 🦀 🌙 Weather companion for the terminal. Rust app.
 - [jvns/dnspeep](https://github.com/jvns/dnspeep) - spy on the DNS queries your computer is making
-- [jdx/rtx](https://github.com/jdx/rtx) - Runtime Executor (asdf-plugin compatible)
+- [jdx/rtx](https://github.com/jdx/rtx) - dev tools, env vars, task runner
 - [openshift/cincinnati](https://github.com/openshift/cincinnati) - 
 - [tjdevries/vim9jit](https://github.com/tjdevries/vim9jit) - a vim9script -&gt; lua transpiler (written in Rust)
 - [marc2332/freya-editor](https://github.com/marc2332/freya-editor) - Experimental code editor made with Freya 🦀
@@ -3433,6 +3435,7 @@
 
 ## Vim Script 
 
+- [gpanders/vim-oldfiles](https://github.com/gpanders/vim-oldfiles) - Improve Vim's native recent file history
 - [farmergreg/vim-lastplace](https://github.com/farmergreg/vim-lastplace) - A vim / nvim plugin that intelligently reopens files at your last edit position.
 - [Matsuuu/pinkmare](https://github.com/Matsuuu/pinkmare) - A crossup colorscheme between Miramare and PinkCatBoo
 - [gcmt/wildfire.vim](https://github.com/gcmt/wildfire.vim) - Smart selection of the closest text object
