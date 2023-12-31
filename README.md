@@ -1588,6 +1588,8 @@
 
 ## Lua 
 
+- [ecosse3/nvim](https://github.com/ecosse3/nvim) - A non-minimal Neovim config built to work most efficiently with Frontend Development
+- [akai54/2077.nvim](https://github.com/akai54/2077.nvim) - An attempt to make a Cyberpunk Color scheme for Neovim.
 - [epwalsh/obsidian.nvim](https://github.com/epwalsh/obsidian.nvim) - Obsidian 🤝 Neovim
 - [Afourcat/treesitter-terraform-doc.nvim](https://github.com/Afourcat/treesitter-terraform-doc.nvim) - A simple neovim plugin that use treesitter to find resource in context and open the url on your favorite web browser.
 - [cpea2506/one_monokai.nvim](https://github.com/cpea2506/one_monokai.nvim) - One Monokai for Neovim
@@ -1657,7 +1659,7 @@
 - [nvim-neo-tree/neo-tree.nvim](https://github.com/nvim-neo-tree/neo-tree.nvim) - Neovim plugin to manage the file system and other tree like structures.
 - [yorik1984/newpaper.nvim](https://github.com/yorik1984/newpaper.nvim) - 🎨 Newpaper colorscheme for NeoVim written in Lua with built-in support for native LSP, TreeSitter and many more plugins
 - [projekt0n/github-nvim-theme](https://github.com/projekt0n/github-nvim-theme) - Github's Neovim themes
-- [oxfist/night-owl.nvim](https://github.com/oxfist/night-owl.nvim) - 🦉 🌌 night-owl.nvim is a Night Owl colorscheme implementation for Neovim with support for Tree-sitter and semantic tokens
+- [oxfist/night-owl.nvim](https://github.com/oxfist/night-owl.nvim) - 🦉 🌌 night-owl.nvim is a Night Owl colorscheme implementation for Neovim with support for Treesitter and semantic tokens
 - [3rd/image.nvim](https://github.com/3rd/image.nvim) - 🖼️ Bringing images to Neovim.
 - [nvim-lualine/lualine.nvim](https://github.com/nvim-lualine/lualine.nvim) - A blazing fast and easy to configure neovim statusline plugin written in pure lua.
 - [jghauser/kitty-runner.nvim](https://github.com/jghauser/kitty-runner.nvim) - A neovim plugin allowing you to easily send lines from the current buffer to another kitty terminal
@@ -3435,6 +3437,7 @@
 
 ## Vim Script 
 
+- [gelguy/wilder.nvim](https://github.com/gelguy/wilder.nvim) - A more adventurous wildmenu
 - [gpanders/vim-oldfiles](https://github.com/gpanders/vim-oldfiles) - Improve Vim's native recent file history
 - [farmergreg/vim-lastplace](https://github.com/farmergreg/vim-lastplace) - A vim / nvim plugin that intelligently reopens files at your last edit position.
 - [Matsuuu/pinkmare](https://github.com/Matsuuu/pinkmare) - A crossup colorscheme between Miramare and PinkCatBoo
