@@ -2382,7 +2382,7 @@
 - [LemmyNet/lemmy](https://github.com/LemmyNet/lemmy) - 🐀 A link aggregator and forum for the fediverse
 - [krivahtoo/silicon.nvim](https://github.com/krivahtoo/silicon.nvim) - Neovim plugin for silicon in Rust
 - [dinoocch/dino.nvim](https://github.com/dinoocch/dino.nvim) - Some haphazard attempt to migrate my vim config to rust. Probably doesn't work and is currently more lua than rust
-- [ikey4u/nvim-previewer](https://github.com/ikey4u/nvim-previewer) - 
+- [ikey4u/nvim-previewer](https://github.com/ikey4u/nvim-previewer) - A concisemark previewer plugin for neovim
 - [noib3/nvim-oxi](https://github.com/noib3/nvim-oxi) - :link: Rust bindings to all things Neovim
 - [solidiquis/erdtree](https://github.com/solidiquis/erdtree) - A modern, cross-platform, multi-threaded, and general purpose filesystem and disk-usage utility that is aware of .gitignore and hidden file rules.
 - [rust-lang/mdBook](https://github.com/rust-lang/mdBook) - Create book from markdown files. Like Gitbook but implemented in Rust
