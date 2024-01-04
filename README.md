@@ -1586,6 +1586,9 @@
 
 ## Lua 
 
+- [HakonHarnes/img-clip.nvim](https://github.com/HakonHarnes/img-clip.nvim) - 📸 Effortlessly embed images into any markup language, like LaTeX, Markdown or Typst.
+- [mawkler/modicator.nvim](https://github.com/mawkler/modicator.nvim) - Cursor line number mode indicator
+- [FelipeIzolan/lipoide.nvim](https://github.com/FelipeIzolan/lipoide.nvim) - 👽 | lipoide.nvim | colorscheme | The ultra-dark-badass-neovim-theme
 - [ecosse3/nvim](https://github.com/ecosse3/nvim) - A non-minimal Neovim config built to work most efficiently with Frontend Development
 - [akai54/2077.nvim](https://github.com/akai54/2077.nvim) - An attempt to make a Cyberpunk Color scheme for Neovim.
 - [epwalsh/obsidian.nvim](https://github.com/epwalsh/obsidian.nvim) - Obsidian 🤝 Neovim
