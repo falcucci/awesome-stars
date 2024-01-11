@@ -1582,6 +1582,10 @@
 
 ## Lua 
 
+- [soulis-1256/hoverhints.nvim](https://github.com/soulis-1256/hoverhints.nvim) - Show lsp diagnostics based on mouse position
+- [LudoPinelli/dotfiles](https://github.com/LudoPinelli/dotfiles) - Just another dotfiles repo. I like to look at them, maybe you'll want to look at mine
+- [AckslD/nvim-neoclip.lua](https://github.com/AckslD/nvim-neoclip.lua) - Clipboard manager neovim plugin with telescope integration
+- [LudoPinelli/comment-box.nvim](https://github.com/LudoPinelli/comment-box.nvim) - :sparkles: Clarify and beautify your comments and plain text files using boxes and lines.
 - [otavioschwanck/arrow.nvim](https://github.com/otavioschwanck/arrow.nvim) - Bookmark your files, separated by project, and quickly navigate through them.
 - [chrisgrieser/nvim-scissors](https://github.com/chrisgrieser/nvim-scissors) - Automagical editing and creation of snippets.
 - [carbon-steel/detour.nvim](https://github.com/carbon-steel/detour.nvim) - Use popup windows to navigate files/buffer and to contain shells/TUIs
@@ -1595,7 +1599,7 @@
 - [folke/persistence.nvim](https://github.com/folke/persistence.nvim) - 💾  Simple session management for Neovim
 - [HakonHarnes/img-clip.nvim](https://github.com/HakonHarnes/img-clip.nvim) - Effortlessly embed images into any markup language, like LaTeX, Markdown or Typst.
 - [mawkler/modicator.nvim](https://github.com/mawkler/modicator.nvim) - Cursor line number mode indicator plugin for Neovim
-- [FelipeIzolan/lipoide.nvim](https://github.com/FelipeIzolan/lipoide.nvim) - 👽 | lipoide.nvim | colorscheme | The ultra-dark-badass-neovim-theme
+- [FelipeIzolan/lipoide.nvim](https://github.com/FelipeIzolan/lipoide.nvim) - 👽 | lipoide.nvim | colorscheme | The ultra-dark-green-badass-neovim-theme
 - [ecosse3/nvim](https://github.com/ecosse3/nvim) - A non-minimal Neovim config built to work most efficiently with Frontend Development
 - [akai54/2077.nvim](https://github.com/akai54/2077.nvim) - An attempt to make a Cyberpunk Color scheme for Neovim.
 - [epwalsh/obsidian.nvim](https://github.com/epwalsh/obsidian.nvim) - Obsidian 🤝 Neovim
@@ -2875,6 +2879,7 @@
 
 ## Shell 
 
+- [RoryNesbitt/dotfyle-cli](https://github.com/RoryNesbitt/dotfyle-cli) - Command line tool for Neovim multi-config management
 - [blinklabs-io/docker-cardano-node](https://github.com/blinklabs-io/docker-cardano-node) - Builds cardano-node from source using cabal on debian
 - [OpenBMB/ChatDev](https://github.com/OpenBMB/ChatDev) - Create Customized Software using Natural Language Idea (through LLM-powered Multi-Agent Collaboration)
 - [nix-community/nixos-anywhere](https://github.com/nix-community/nixos-anywhere) - install nixos everywhere via ssh [maintainer=@numtide]
