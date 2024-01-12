@@ -1582,6 +1582,7 @@
 
 ## Lua 
 
+- [scottmckendry/cyberdream.nvim](https://github.com/scottmckendry/cyberdream.nvim) - 🤖💤 High-contrast, Futuristic & Vibrant Coloursheme for Neovim
 - [soulis-1256/hoverhints.nvim](https://github.com/soulis-1256/hoverhints.nvim) - Show lsp diagnostics based on mouse position
 - [LudoPinelli/dotfiles](https://github.com/LudoPinelli/dotfiles) - Just another dotfiles repo. I like to look at them, maybe you'll want to look at mine
 - [AckslD/nvim-neoclip.lua](https://github.com/AckslD/nvim-neoclip.lua) - Clipboard manager neovim plugin with telescope integration
