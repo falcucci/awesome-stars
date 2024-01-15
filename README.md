@@ -1559,7 +1559,7 @@
 - [PatilShreyas/Foodium-KMM](https://github.com/PatilShreyas/Foodium-KMM) - 📱Sample application built to demonstrate the use of Kotlin Multiplatform Mobile for developing Android and iOS applications using Jetpack Compose 🚀.
 - [intellij-rust/intellij-rust](https://github.com/intellij-rust/intellij-rust) - Rust plugin for the IntelliJ Platform
 - [matheusmendes-dev/soccer-games](https://github.com/matheusmendes-dev/soccer-games) - 
-- [fwcd/kotlin-language-server](https://github.com/fwcd/kotlin-language-server) - Kotlin code completion, linting and more for any editor/IDE using the Language Server Protocol
+- [fwcd/kotlin-language-server](https://github.com/fwcd/kotlin-language-server) - Kotlin code completion, diagnostics and more for any editor/IDE using the Language Server Protocol
 - [happysingh23828/HappyTimer](https://github.com/happysingh23828/HappyTimer) - This is an android lib which helps you to implement Timer in your android app. This is 100% written in Kotlin.
 - [VictorChow/kotlin-android-lib](https://github.com/VictorChow/kotlin-android-lib) - Kotlin extensions for android. 😏
 - [jarroyoesp/TDDWeatherApp](https://github.com/jarroyoesp/TDDWeatherApp) - Android App trying to apply TDD and using MVVM, Kotlin Coroutines
@@ -1583,6 +1583,8 @@
 
 ## Lua 
 
+- [KaitlynEthylia/TreePin](https://github.com/KaitlynEthylia/TreePin) - A lightweight neovim plugin for pinning fragments of code to the screen.
+- [MisanthropicBit/decipher.nvim](https://github.com/MisanthropicBit/decipher.nvim) - A neovim plugin for encoding and decoding text
 - [Pheon-Dev/pigeon](https://github.com/Pheon-Dev/pigeon) - Neovim plugin packed with modules  ( battery, wifi, date, time, day  etc) to litter the statusline and winbar
 - [sontungexpt/sttusline](https://github.com/sontungexpt/sttusline) - A very lightweight, super fast and lazyloading statusline plugin for Neovim written in lua.
 - [sontungexpt/url-open](https://github.com/sontungexpt/url-open) - Minimal plugin allow you to open url under cursor in neovim without netrw with default browser of your system and highlight url
@@ -2286,6 +2288,7 @@
 
 ## Rust 
 
+- [rust-windowing/raw-window-handle](https://github.com/rust-windowing/raw-window-handle) - A common windowing interoperability library for Rust
 - [glicol/glicol-wgpu](https://github.com/glicol/glicol-wgpu) - A wgpu-based code editor for Glicol programming language, offering cross-platform functionality for desktop and web browsers, powered by WebGPU.
 - [ekzhang/sshx](https://github.com/ekzhang/sshx) - Fast, collaborative live terminal sharing over the web
 - [veeso/tuifeed](https://github.com/veeso/tuifeed) - 📰 A terminal feed reader with a fancy ui
