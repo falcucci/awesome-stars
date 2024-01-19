@@ -827,7 +827,7 @@
 - [padloc/padloc](https://github.com/padloc/padloc) - A modern, open source password manager for individuals and teams.
 - [sindresorhus/slash](https://github.com/sindresorhus/slash) - Convert Windows backslash paths to slash paths
 - [programmerhat/vim-online-editor](https://github.com/programmerhat/vim-online-editor) - Vim Editor. In the Browser
-- [Everduin94/better-commits](https://github.com/Everduin94/better-commits) - A CLI for creating better commits following the conventional commit guidelines. Written with Typescript | ZOD | Clack
+- [Everduin94/better-commits](https://github.com/Everduin94/better-commits) - A CLI for creating better commits following the conventional commits specification
 - [josa42/coc-sh](https://github.com/josa42/coc-sh) - SH language server extension using bash-language-server for coc.nvim.
 - [mathieudutour/medium-to-own-blog](https://github.com/mathieudutour/medium-to-own-blog) - Switch from Medium to your own blog in a few minutes
 - [glicol/glicol-tidal](https://github.com/glicol/glicol-tidal) - combining glicol language/audio engine with tidal pattern and strudel js
@@ -1549,6 +1549,7 @@
 
 ## Jupyter Notebook 
 
+- [XiongjieDai/GPU-Benchmarks-on-LLM-Inference](https://github.com/XiongjieDai/GPU-Benchmarks-on-LLM-Inference) - Multiple NVIDIA GPUs or Apple Silicon for Large Language Model Inference?
 - [modularml/mojo](https://github.com/modularml/mojo) - The Mojo Programming Language
 - [davycro/sonocrop](https://github.com/davycro/sonocrop) - Prepare ultrasound videos for machine learning-- crop and remove static clutter from ultrasound video.
 - [ykuo2/dicom2jpg](https://github.com/ykuo2/dicom2jpg) - A simple Python function tool to convert DICOM files into jpg/png/bmp/tiff files and numpy.ndarray
@@ -2483,7 +2484,7 @@
 - [KillTheMule/nvim-rs](https://github.com/KillTheMule/nvim-rs) - A rust library for neovim clients
 - [willothy/nvim-utils](https://github.com/willothy/nvim-utils) - Utilities and bindings for writing Neovim plugins in Rust
 - [Schniz/fnm](https://github.com/Schniz/fnm) - 🚀 Fast and simple Node.js version manager, built in Rust
-- [rust-skia/rust-skia](https://github.com/rust-skia/rust-skia) - Rust Bindings for Skia
+- [rust-skia/rust-skia](https://github.com/rust-skia/rust-skia) - Rust Bindings for the Skia Graphics Library
 - [Brendonovich/prisma-client-rust](https://github.com/Brendonovich/prisma-client-rust) - Type-safe database access for Rust
 - [lsk569937453/silverwind](https://github.com/lsk569937453/silverwind) - The High Performance Proxy/Load Balancer
 - [bytesnake/vim-graphical-preview](https://github.com/bytesnake/vim-graphical-preview) - Small plugin for Vim to display graphics with SIXEL characters
