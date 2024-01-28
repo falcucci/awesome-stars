@@ -3053,12 +3053,14 @@
 
 ## TypeScript 
 
+- [cardano-foundation/cardano-connect-with-wallet](https://github.com/cardano-foundation/cardano-connect-with-wallet) - This repository aims to provide useful hooks and React components as well as a framework-independent core library
+- [cardano-foundation/cardano-verify-datasignature](https://github.com/cardano-foundation/cardano-verify-datasignature) - A lightweight typescript library to verify a cip30 datasignature
 - [txpipe/laceanatomy](https://github.com/txpipe/laceanatomy) - Lets dissect Cardano data
 - [input-output-hk/cardano-js-sdk](https://github.com/input-output-hk/cardano-js-sdk) - JavaScript SDK for interacting with Cardano, providing various key management options, with support for popular hardware wallets
 - [txpipe/translucent](https://github.com/txpipe/translucent) - Translucent is a library, which allows you to create Cardano transactions and off-chain code for your Plutus contracts in JavaScript. Translucent forks from Lucid and makes major breaking changes. Con
 - [vscode-neovim/vscode-neovim](https://github.com/vscode-neovim/vscode-neovim) - Vim mode for VSCode, powered by Neovim
 - [daltonmenezes/aura-theme](https://github.com/daltonmenezes/aura-theme) - ✨ A beautiful dark theme for your favorite apps.
-- [tldraw/tldraw](https://github.com/tldraw/tldraw) - Infinite canvas SDK.
+- [tldraw/tldraw](https://github.com/tldraw/tldraw) - Infinite canvas app and SDK
 - [kubero-dev/kubero](https://github.com/kubero-dev/kubero) - A free and self-hosted Heroku PaaS alternative for Kubernetes that implements GitOps
 - [smolck/uivonim](https://github.com/smolck/uivonim) - Fork of the Veonim Neovim GUI
 - [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
