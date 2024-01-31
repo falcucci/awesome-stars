@@ -2298,6 +2298,8 @@
 
 ## Rust 
 
+- [dcSpark/cddl-codegen](https://github.com/dcSpark/cddl-codegen) - Codegen serialization logic for CBOR automatically from a CDDL specification
+- [txpipe/mumak](https://github.com/txpipe/mumak) - 
 - [fish-shell/fish-shell](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell.
 - [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
 - [utxorpc/spec](https://github.com/utxorpc/spec) - A RPC layer to interact with UTxO-based blockchains
@@ -2495,6 +2497,7 @@
 - [willothy/nvim-utils](https://github.com/willothy/nvim-utils) - Utilities and bindings for writing Neovim plugins in Rust
 - [Schniz/fnm](https://github.com/Schniz/fnm) - 🚀 Fast and simple Node.js version manager, built in Rust
 - [rust-skia/rust-skia](https://github.com/rust-skia/rust-skia) - Rust Bindings for the Skia Graphics Library
+- [BloopAI/bloop](https://github.com/BloopAI/bloop) - bloop is a fast code search engine written in Rust.
 - [Brendonovich/prisma-client-rust](https://github.com/Brendonovich/prisma-client-rust) - Type-safe database access for Rust
 - [lsk569937453/silverwind](https://github.com/lsk569937453/silverwind) - The High Performance Proxy/Load Balancer
 - [bytesnake/vim-graphical-preview](https://github.com/bytesnake/vim-graphical-preview) - Small plugin for Vim to display graphics with SIXEL characters
@@ -3132,7 +3135,6 @@
 - [mattvr/ShellGPT](https://github.com/mattvr/ShellGPT) - Upgrade your terminal with GPT-4. Ask questions, automate commands, pipe I/O, etc. Made with Deno.
 - [mathieudutour/slacking-pigeons](https://github.com/mathieudutour/slacking-pigeons) - :bird: Chat in real time with your users directly from Slack
 - [remotion-dev/github-unwrapped-2022](https://github.com/remotion-dev/github-unwrapped-2022) - Your coding year in review #GitHubUnwrapped
-- [BloopAI/bloop](https://github.com/BloopAI/bloop) - bloop is a fast code search engine written in Rust.
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 - [marmelab/ra-example-oauth](https://github.com/marmelab/ra-example-oauth) - An example of OpenID Connect implementation on React Admin
 - [codicocodes/dotfyle](https://github.com/codicocodes/dotfyle) - Find the best Neovim plugins
@@ -3722,6 +3724,7 @@
 
 ## Vue 
 
+- [crittermike/shortkeys](https://github.com/crittermike/shortkeys) - A browser extension for custom keyboard shortcuts
 - [tiny-craft/tiny-rdm](https://github.com/tiny-craft/tiny-rdm) - A Modern Redis GUI Client
 - [Akryum/guijs](https://github.com/Akryum/guijs) - 🐣️ The app that makes your #devlife easier.
 - [napthedev/mac-big-sur](https://github.com/napthedev/mac-big-sur) - 
