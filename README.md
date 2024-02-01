@@ -94,6 +94,7 @@
 
 ## C 
 
+- [jedisct1/libsodium](https://github.com/jedisct1/libsodium) - A modern, portable, easy to use crypto library.
 - [mitchellh/tree-sitter-hcl](https://github.com/mitchellh/tree-sitter-hcl) - A tree-sitter grammar for HCL (HashiCorp Configuration Language), used by projects such as Terraform.
 - [goldsborough/ipc-bench](https://github.com/goldsborough/ipc-bench) - :racehorse: Benchmarks for Inter-Process-Communication Techniques
 - [zevv/bucklespring](https://github.com/zevv/bucklespring) - Nostalgia bucklespring keyboard sound
@@ -684,6 +685,7 @@
 
 ## Haskell 
 
+- [IntersectMBO/cardano-addresses](https://github.com/IntersectMBO/cardano-addresses) - Addresses and mnemonic manipulation & derivations
 - [IntersectMBO/cardano-api](https://github.com/IntersectMBO/cardano-api) - Cardano API
 - [input-output-hk/hydra](https://github.com/input-output-hk/hydra) - Implementation of the Hydra Head protocol
 - [IntersectMBO/ouroboros-consensus](https://github.com/IntersectMBO/ouroboros-consensus) - Implementation of a Consensus Layer for the Ouroboros family of protocols
@@ -2298,6 +2300,7 @@
 
 ## Rust 
 
+- [IntersectMBO/cardaminal](https://github.com/IntersectMBO/cardaminal) - A CLI-based Cardano Wallet
 - [dcSpark/cddl-codegen](https://github.com/dcSpark/cddl-codegen) - Codegen serialization logic for CBOR automatically from a CDDL specification
 - [txpipe/mumak](https://github.com/txpipe/mumak) - 
 - [fish-shell/fish-shell](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell.
@@ -3598,7 +3601,7 @@
 - [nvimdev/spaceline.vim](https://github.com/nvimdev/spaceline.vim) - vim statusline like spacemacs
 - [tpope/vim-fugitive](https://github.com/tpope/vim-fugitive) - fugitive.vim: A Git wrapper so awesome, it should be illegal
 - [pacha/vem-tabline](https://github.com/pacha/vem-tabline) - A lightweight Vim/Neovim plugin to display buffers and tabs in the tabline
-- [dkarter/bullets.vim](https://github.com/dkarter/bullets.vim) - 🔫 Bullets.vim is a Vim/NeoVim plugin for automated bullet lists.
+- [bullets-vim/bullets.vim](https://github.com/bullets-vim/bullets.vim) - 🔫 Bullets.vim is a Vim/NeoVim plugin for automated bullet lists.
 - [omrisarig13/vim-mr-interface](https://github.com/omrisarig13/vim-mr-interface) - vim plugin that support doing CRs and MRs in gitlab
 - [jaredgorski/SpaceCamp](https://github.com/jaredgorski/SpaceCamp) - 🔭 Vim colors for the final frontier
 - [dhruvasagar/vim-prosession](https://github.com/dhruvasagar/vim-prosession) - Handle vim sessions like a pro
