@@ -94,6 +94,7 @@
 
 ## C 
 
+- [zigzap/zap](https://github.com/zigzap/zap) - blazingly fast backends in zig
 - [jakehilborn/displayplacer](https://github.com/jakehilborn/displayplacer) - macOS command line utility to configure multi-display resolutions and arrangements. Essentially XRandR for macOS.
 - [jedisct1/libsodium](https://github.com/jedisct1/libsodium) - A modern, portable, easy to use crypto library.
 - [mitchellh/tree-sitter-hcl](https://github.com/mitchellh/tree-sitter-hcl) - A tree-sitter grammar for HCL (HashiCorp Configuration Language), used by projects such as Terraform.
@@ -809,6 +810,7 @@
 
 ## JavaScript 
 
+- [dipeshpatil/simple-js-interpreter](https://github.com/dipeshpatil/simple-js-interpreter) - A Simple Interpreter written in NodeJS
 - [crittermike/shortkeys](https://github.com/crittermike/shortkeys) - A browser extension for custom keyboard shortcuts
 - [Stremio/stremio-official-addons](https://github.com/Stremio/stremio-official-addons) - All the stremio official add-ons, in an array of AddonDescriptors
 - [eonpatapon/tree-sitter-cue](https://github.com/eonpatapon/tree-sitter-cue) - Cue grammar for tree-sitter
@@ -1591,6 +1593,7 @@
 
 ## Lua 
 
+- [LunarVim/breadcrumbs.nvim](https://github.com/LunarVim/breadcrumbs.nvim) - 🍞 breadcrumbs.nvim context for your code in the winbar.
 - [willothy/wezterm.nvim](https://github.com/willothy/wezterm.nvim) - Utilities for interacting with Wezterm from within Neovim
 - [willothy/flatten.nvim](https://github.com/willothy/flatten.nvim) - Open files and command output from wezterm, kitty, and neovim terminals in your current neovim instance
 - [gsuuon/tshjkl.nvim](https://github.com/gsuuon/tshjkl.nvim) - Tree-sitter hjkl movement for neovim
@@ -2302,6 +2305,8 @@
 
 ## Rust 
 
+- [rerun-io/rerun](https://github.com/rerun-io/rerun) - Visualize streams of multimodal data. Fast, easy to use, and simple to integrate.  Built in Rust using egui.
+- [rust-cross/cargo-zigbuild](https://github.com/rust-cross/cargo-zigbuild) - Compile Cargo project with zig as linker
 - [input-output-hk/jormungandr](https://github.com/input-output-hk/jormungandr) - privacy voting blockchain node
 - [IntersectMBO/cardaminal](https://github.com/IntersectMBO/cardaminal) - A CLI-based Cardano Wallet
 - [dcSpark/cddl-codegen](https://github.com/dcSpark/cddl-codegen) - Codegen serialization logic for CBOR automatically from a CDDL specification
@@ -2493,7 +2498,7 @@
 - [DvorakDwarf/Infinite-Storage-Glitch](https://github.com/DvorakDwarf/Infinite-Storage-Glitch) - ISG lets you use YouTube as cloud storage for ANY files, not just video
 - [linebender/druid](https://github.com/linebender/druid) - A data-first Rust-native UI design toolkit.
 - [jpochyla/psst](https://github.com/jpochyla/psst) - Fast and multi-platform Spotify client with native GUI
-- [mitsuhiko/rye](https://github.com/mitsuhiko/rye) - An Experimental Package Management Solution for Python
+- [mitsuhiko/rye](https://github.com/mitsuhiko/rye) - a Hassle-Free Python Experience
 - [flutter-rs/flutter-rs](https://github.com/flutter-rs/flutter-rs) - Build beautiful desktop apps with flutter and rust. 🌠 (wip)
 - [dtolnay/rust-quiz](https://github.com/dtolnay/rust-quiz) - Medium to hard Rust questions with explanations
 - [RazrFalcon/resvg](https://github.com/RazrFalcon/resvg) - An SVG rendering library.
@@ -3743,6 +3748,9 @@
 
 ## Zig 
 
+- [foxnne/pixi](https://github.com/foxnne/pixi) - Pixel art editor made with Zig.
+- [Vexu/arocc](https://github.com/Vexu/arocc) - A C compiler written in Zig.
+- [capy-ui/capy](https://github.com/capy-ui/capy) - 💻Build one codebase and get native UI on Windows, Linux and Web
 - [zigtools/zls](https://github.com/zigtools/zls) - A Zig language server supporting Zig developers with features like autocomplete and goto definition
 - [ratfactor/ziglings](https://github.com/ratfactor/ziglings) - Learn the Zig programming language by fixing tiny broken programs.
 - [mkeeter/futureproof](https://github.com/mkeeter/futureproof) - A live editor for fragment shaders, powered by Neovim, WebGPU, and Zig!
