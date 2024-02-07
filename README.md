@@ -79,6 +79,7 @@
 
 ## Assembly 
 
+- [supranational/blst](https://github.com/supranational/blst) - Multilingual BLS12-381 signature library
 - [BLAKE3-team/BLAKE3](https://github.com/BLAKE3-team/BLAKE3) - the official Rust and C implementations of the BLAKE3 cryptographic hash function
 - [cirosantilli/x86-assembly-cheat](https://github.com/cirosantilli/x86-assembly-cheat) - MOVED TO: https://cirosantilli.com/linux-kernel-module-cheat/userland-assembly with code at https://github.com/cirosantilli/linux-kernel-module-cheat/tree/master/userland/arch/x86_64 SEE README. x86 I
 - [microsoft/MS-DOS](https://github.com/microsoft/MS-DOS) - The original sources of MS-DOS 1.25 and 2.0, for reference purposes
@@ -276,6 +277,8 @@
 
 ## Dockerfile 
 
+- [fullstack-development/cardano-testnet-env](https://github.com/fullstack-development/cardano-testnet-env) - This repo contains docker infrastructure necessary to set up and run cardano-node, cardano-wallet and plutus-chain-index
+- [ItFlyingStart/shelley-private-testnet](https://github.com/ItFlyingStart/shelley-private-testnet) - How to setup a private testnet for Shelley blockchain (Cardano)
 - [rochacbruno/irpf-docker](https://github.com/rochacbruno/irpf-docker) - Imagem Docker para o programa Declaração de IRPF
 - [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (December 2023)
 
@@ -690,6 +693,7 @@
 
 - [ndmitchell/ghcid](https://github.com/ndmitchell/ghcid) - Very low feature GHCi based IDE
 - [IntersectMBO/cardano-addresses](https://github.com/IntersectMBO/cardano-addresses) - Addresses and mnemonic manipulation & derivations
+- [utxorpc/spec](https://github.com/utxorpc/spec) - A RPC layer to interact with UTxO-based blockchains
 - [IntersectMBO/cardano-api](https://github.com/IntersectMBO/cardano-api) - Cardano API
 - [input-output-hk/hydra](https://github.com/input-output-hk/hydra) - Implementation of the Hydra Head protocol
 - [IntersectMBO/ouroboros-consensus](https://github.com/IntersectMBO/ouroboros-consensus) - Implementation of a Consensus Layer for the Ouroboros family of protocols
@@ -1593,6 +1597,9 @@
 
 ## Lua 
 
+- [Bekaboo/deadcolumn.nvim](https://github.com/Bekaboo/deadcolumn.nvim) - A neovim plugin that shows colorcolumn dynamically
+- [nvimdev/indentmini.nvim](https://github.com/nvimdev/indentmini.nvim) - A minimal and blazing fast indentline plugin
+- [Wansmer/treesj](https://github.com/Wansmer/treesj) - Neovim plugin for splitting/joining blocks of code
 - [LunarVim/breadcrumbs.nvim](https://github.com/LunarVim/breadcrumbs.nvim) - 🍞 breadcrumbs.nvim context for your code in the winbar.
 - [willothy/wezterm.nvim](https://github.com/willothy/wezterm.nvim) - Utilities for interacting with Wezterm from within Neovim
 - [willothy/flatten.nvim](https://github.com/willothy/flatten.nvim) - Open files and command output from wezterm, kitty, and neovim terminals in your current neovim instance
@@ -2051,7 +2058,7 @@
 - [python-pillow/Pillow](https://github.com/python-pillow/Pillow) - Python Imaging Library (Fork)
 - [subframe7536/maple-font](https://github.com/subframe7536/maple-font) - Maple Mono: Open source monospace font with round corner, ligatures and Nerd-Font for IDE and command line. 带连字和控制台图标的圆角等宽字体，中英文宽度完美2:1
 - [IntersectMBO/cardano-node-tests](https://github.com/IntersectMBO/cardano-node-tests) - System and end-to-end (E2E) tests for cardano-node.
-- [KillianLucas/open-interpreter](https://github.com/KillianLucas/open-interpreter) - A natural language interface for computers.
+- [KillianLucas/open-interpreter](https://github.com/KillianLucas/open-interpreter) - A natural language interface for computers
 - [belluzj/fantasque-sans](https://github.com/belluzj/fantasque-sans) - A font family with a great monospaced variant for programmers.
 - [kserve/kserve](https://github.com/kserve/kserve) - Standardized Serverless ML Inference Platform on Kubernetes
 - [python-lsp/python-lsp-ruff](https://github.com/python-lsp/python-lsp-ruff) - Linter plugin for pylsp based on ruff.
@@ -2297,6 +2304,8 @@
 - [lolcommits/lolcommits](https://github.com/lolcommits/lolcommits) - :camera: git-based selfies for software developers
 - [hstove/issue_stats](https://github.com/hstove/issue_stats) - Analyze and compare how long it takes for Github issues to be closed.
 - [mattbrictson/chandler](https://github.com/mattbrictson/chandler) - [unmaintained] chandler syncs your CHANGELOG entries to GitHub's release notes
+- [defunkt/github-gem](https://github.com/defunkt/github-gem) - `github` command line helper for simplifying your GitHub experience.
+- [defunkt/gist](https://github.com/defunkt/gist) - Potentially the best command line gister.
 - [StephenOTT/GitHub-Time-Tracking](https://github.com/StephenOTT/GitHub-Time-Tracking) - Use GitHub to Track Time and Budgets for your Development Projects(and really anything else you use GitHub for) - Ruby app that analyzes GitHub Issue Comments, Milestones, and Code Commit Messages for
 - [StephenOTT/GitHub-Analytics](https://github.com/StephenOTT/GitHub-Analytics) - GitHub Issues Tracker reporting and analytics (Project Management Reporting and Analytics)
 - [moll/vim-node](https://github.com/moll/vim-node) - Tools and environment to make Vim superb for developing with Node.js. Like Rails.vim for Node.
@@ -2305,6 +2314,8 @@
 
 ## Rust 
 
+- [tikv/minitrace-rust](https://github.com/tikv/minitrace-rust) - Extremely fast tracing library for Rust
+- [orhun/daktilo](https://github.com/orhun/daktilo) - Turn your keyboard into a typewriter! 📇
 - [rerun-io/rerun](https://github.com/rerun-io/rerun) - Visualize streams of multimodal data. Fast, easy to use, and simple to integrate.  Built in Rust using egui.
 - [rust-cross/cargo-zigbuild](https://github.com/rust-cross/cargo-zigbuild) - Compile Cargo project with zig as linker
 - [input-output-hk/jormungandr](https://github.com/input-output-hk/jormungandr) - privacy voting blockchain node
@@ -2313,7 +2324,6 @@
 - [txpipe/mumak](https://github.com/txpipe/mumak) - 
 - [fish-shell/fish-shell](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell.
 - [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
-- [utxorpc/spec](https://github.com/utxorpc/spec) - A RPC layer to interact with UTxO-based blockchains
 - [rust-lang/futures-rs](https://github.com/rust-lang/futures-rs) - Zero-cost asynchronous programming in Rust
 - [bitwarden/sdk](https://github.com/bitwarden/sdk) - Secrets Manager SDK
 - [YS-L/csvlens](https://github.com/YS-L/csvlens) - Command line csv viewer
@@ -2630,7 +2640,7 @@
 - [stencila/stencila](https://github.com/stencila/stencila) - Programmable, reproducible, interactive documents
 - [denoland/deno_lint](https://github.com/denoland/deno_lint) - Blazing fast linter for JavaScript and TypeScript written in Rust
 - [gperinazzo/dict-derive](https://github.com/gperinazzo/dict-derive) - Derive PyO3's FromPyObject to automatically transform Python dicts into Rust structs
-- [Anexen/pyxirr](https://github.com/Anexen/pyxirr) - Rust-powered collection of financial functions for Python.
+- [Anexen/pyxirr](https://github.com/Anexen/pyxirr) - Rust-powered collection of financial functions.
 - [cswinter/LocustDB](https://github.com/cswinter/LocustDB) - Massively parallel, high performance analytics database that will rapidly devour all of your data.
 - [PRQL/prql](https://github.com/PRQL/prql) - PRQL is a modern language for transforming data — a simple, powerful, pipelined SQL replacement
 - [fschutt/azul](https://github.com/fschutt/azul) - Desktop GUI Framework
@@ -2919,6 +2929,7 @@
 
 ## Shell 
 
+- [jterrier84/Cardano-node-docker](https://github.com/jterrier84/Cardano-node-docker) - Create and run a Cardano node in p2p mode as a docker image for ARM64 devices
 - [woofpool/cardano-private-testnet-setup](https://github.com/woofpool/cardano-private-testnet-setup) - Setup guide to create private Cardano testnet and run sample transactions including a Plutus contract example.  This environment can be used for local development and learning.
 - [RoryNesbitt/dotfyle-cli](https://github.com/RoryNesbitt/dotfyle-cli) - Command line tool for Neovim multi-config management
 - [blinklabs-io/docker-cardano-node](https://github.com/blinklabs-io/docker-cardano-node) - Builds cardano-node from source using cabal on debian
@@ -3071,6 +3082,8 @@
 
 ## TypeScript 
 
+- [xiyaowong/coc-zls](https://github.com/xiyaowong/coc-zls) - Zls(zig language server) extension for coc.nvim
+- [UltiRequiem/coc-zig](https://github.com/UltiRequiem/coc-zig) - 〰️ ZLS for coc.nvim
 - [cardano-foundation/cardano-connect-with-wallet](https://github.com/cardano-foundation/cardano-connect-with-wallet) - This repository aims to provide useful hooks and React components as well as a framework-independent core library
 - [cardano-foundation/cardano-verify-datasignature](https://github.com/cardano-foundation/cardano-verify-datasignature) - A lightweight typescript library to verify a cip30 datasignature
 - [txpipe/laceanatomy](https://github.com/txpipe/laceanatomy) - Lets dissect Cardano data
@@ -3748,6 +3761,7 @@
 
 ## Zig 
 
+- [kristoff-it/bork](https://github.com/kristoff-it/bork) - A TUI chat client tailored for livecoding on Twitch.
 - [foxnne/pixi](https://github.com/foxnne/pixi) - Pixel art editor made with Zig.
 - [Vexu/arocc](https://github.com/Vexu/arocc) - A C compiler written in Zig.
 - [capy-ui/capy](https://github.com/capy-ui/capy) - 💻Build one codebase and get native UI on Windows, Linux and Web
