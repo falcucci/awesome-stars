@@ -280,7 +280,7 @@
 - [fullstack-development/cardano-testnet-env](https://github.com/fullstack-development/cardano-testnet-env) - This repo contains docker infrastructure necessary to set up and run cardano-node, cardano-wallet and plutus-chain-index
 - [ItFlyingStart/shelley-private-testnet](https://github.com/ItFlyingStart/shelley-private-testnet) - How to setup a private testnet for Shelley blockchain (Cardano)
 - [rochacbruno/irpf-docker](https://github.com/rochacbruno/irpf-docker) - Imagem Docker para o programa Declaração de IRPF
-- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (December 2023)
+- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (February 2024)
 
 ## EJS 
 
@@ -576,7 +576,7 @@
 - [codegangsta/gin](https://github.com/codegangsta/gin) - Live reload utility for Go web servers
 - [swook/projecteuler-golang](https://github.com/swook/projecteuler-golang) - Project Euler Solutions in Go - Only for personal backup purposes.
 - [rakyll/hey](https://github.com/rakyll/hey) - HTTP load generator, ApacheBench (ab) replacement
-- [StackExchange/dnscontrol](https://github.com/StackExchange/dnscontrol) - Synchronize your DNS to multiple providers from a simple DSL
+- [StackExchange/dnscontrol](https://github.com/StackExchange/dnscontrol) - Infrastructure as code for DNS!
 - [kisielk/errcheck](https://github.com/kisielk/errcheck) - errcheck checks that you checked errors.
 - [rakyll/statik](https://github.com/rakyll/statik) - Embed files into a Go executable
 - [zachlatta/sshtron](https://github.com/zachlatta/sshtron) - $ ssh sshtron.zachlatta.com
@@ -1672,7 +1672,7 @@
 - [weilbith/nvim-code-action-menu](https://github.com/weilbith/nvim-code-action-menu) - Pop-up menu for code actions to show meta-information and diff preview
 - [ruifm/gitlinker.nvim](https://github.com/ruifm/gitlinker.nvim) - A lua neovim plugin to generate shareable file permalinks (with line ranges) for several git web frontend hosts. Inspired by tpope/vim-fugitive's :GBrowse
 - [nacro90/numb.nvim](https://github.com/nacro90/numb.nvim) - Peek lines just when you intend
-- [NvChad/nvterm](https://github.com/NvChad/nvterm) - NvChad's Official Terminal Plugin ( Unmaintained  )
+- [NvChad/nvterm](https://github.com/NvChad/nvterm) - NvChad's Official Terminal Plugin ( Unmaintained  but still usable and stable), wait for v3.0
 - [nvim-treesitter/playground](https://github.com/nvim-treesitter/playground) - Treesitter playground integrated into Neovim
 - [nvim-lua/plenary.nvim](https://github.com/nvim-lua/plenary.nvim) - plenary: full; complete; entire; absolute; unqualified. All the lua functions I don't want to write twice.
 - [simrat39/rust-tools.nvim](https://github.com/simrat39/rust-tools.nvim) - Tools for better development in rust using neovim's builtin lsp
@@ -3108,7 +3108,7 @@
 - [josa42/coc-lua](https://github.com/josa42/coc-lua) - Lua language server extension using lua-lsp for coc.nvim.
 - [codota/tabnine-vscode](https://github.com/codota/tabnine-vscode) - Visual Studio Code client for Tabnine. https://marketplace.visualstudio.com/items?itemName=TabNine.tabnine-vscode
 - [withfig/autocomplete](https://github.com/withfig/autocomplete) - IDE-style autocomplete for your existing terminal & shell
-- [StanGirard/quivr](https://github.com/StanGirard/quivr) - Your GenAI Second Brain 🧠  A personal productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...)  & apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic, VertexAI, Ollama, LLMs, that 
+- [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Your GenAI Second Brain 🧠  A personal productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...)  & apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic, VertexAI, Ollama, LLMs, that 
 - [ndungtse/next13-progressbar](https://github.com/ndungtse/next13-progressbar) - A simple Next.js progressbar component using NProgress with support of next.js &gt;=13 app dir.
 - [twidgeapp/twidge](https://github.com/twidgeapp/twidge) - Twidge is a fresh approach to productivity. It integrates with your workflow and allows you to be your most productive self.
 - [neoclide/coc-highlight](https://github.com/neoclide/coc-highlight) - Document highlight and document colors LSP support for coc.nvim
@@ -3761,6 +3761,7 @@
 
 ## Zig 
 
+- [orhun/linuxwave](https://github.com/orhun/linuxwave) - Generate music from the entropy of Linux 🐧🎵
 - [kristoff-it/bork](https://github.com/kristoff-it/bork) - A TUI chat client tailored for livecoding on Twitch.
 - [foxnne/pixi](https://github.com/foxnne/pixi) - Pixel art editor made with Zig.
 - [Vexu/arocc](https://github.com/Vexu/arocc) - A C compiler written in Zig.
