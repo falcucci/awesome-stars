@@ -693,7 +693,6 @@
 
 - [ndmitchell/ghcid](https://github.com/ndmitchell/ghcid) - Very low feature GHCi based IDE
 - [IntersectMBO/cardano-addresses](https://github.com/IntersectMBO/cardano-addresses) - Addresses and mnemonic manipulation & derivations
-- [utxorpc/spec](https://github.com/utxorpc/spec) - A RPC layer to interact with UTxO-based blockchains
 - [IntersectMBO/cardano-api](https://github.com/IntersectMBO/cardano-api) - Cardano API
 - [input-output-hk/hydra](https://github.com/input-output-hk/hydra) - Implementation of the Hydra Head protocol
 - [IntersectMBO/ouroboros-consensus](https://github.com/IntersectMBO/ouroboros-consensus) - Implementation of a Consensus Layer for the Ouroboros family of protocols
@@ -2314,6 +2313,7 @@
 
 ## Rust 
 
+- [MatthiasGrandl/loungy](https://github.com/MatthiasGrandl/loungy) - 
 - [tikv/minitrace-rust](https://github.com/tikv/minitrace-rust) - Extremely fast tracing library for Rust
 - [orhun/daktilo](https://github.com/orhun/daktilo) - Turn your keyboard into a typewriter! 📇
 - [rerun-io/rerun](https://github.com/rerun-io/rerun) - Visualize streams of multimodal data. Fast, easy to use, and simple to integrate.  Built in Rust using egui.
@@ -2324,6 +2324,7 @@
 - [txpipe/mumak](https://github.com/txpipe/mumak) - 
 - [fish-shell/fish-shell](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell.
 - [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
+- [utxorpc/spec](https://github.com/utxorpc/spec) - A RPC layer to interact with UTxO-based blockchains
 - [rust-lang/futures-rs](https://github.com/rust-lang/futures-rs) - Zero-cost asynchronous programming in Rust
 - [bitwarden/sdk](https://github.com/bitwarden/sdk) - Secrets Manager SDK
 - [YS-L/csvlens](https://github.com/YS-L/csvlens) - Command line csv viewer
