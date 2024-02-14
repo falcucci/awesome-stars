@@ -2055,6 +2055,7 @@
 
 ## Python 
 
+- [edc/bass](https://github.com/edc/bass) - Make Bash utilities usable in Fish shell
 - [python-pillow/Pillow](https://github.com/python-pillow/Pillow) - Python Imaging Library (Fork)
 - [subframe7536/maple-font](https://github.com/subframe7536/maple-font) - Maple Mono: Open source monospace font with round corner, ligatures and Nerd-Font for IDE and command line. 带连字和控制台图标的圆角等宽字体，中英文宽度完美2:1
 - [IntersectMBO/cardano-node-tests](https://github.com/IntersectMBO/cardano-node-tests) - System and end-to-end (E2E) tests for cardano-node.
@@ -2932,6 +2933,7 @@
 
 ## Shell 
 
+- [jorgebucaran/fisher](https://github.com/jorgebucaran/fisher) - A plugin manager for Fish
 - [jterrier84/Cardano-node-docker](https://github.com/jterrier84/Cardano-node-docker) - Create and run a Cardano node in p2p mode as a docker image for ARM64 devices
 - [woofpool/cardano-private-testnet-setup](https://github.com/woofpool/cardano-private-testnet-setup) - Setup guide to create private Cardano testnet and run sample transactions including a Plutus contract example.  This environment can be used for local development and learning.
 - [RoryNesbitt/dotfyle-cli](https://github.com/RoryNesbitt/dotfyle-cli) - Command line tool for Neovim multi-config management
@@ -3519,6 +3521,7 @@
 
 ## Vim Script 
 
+- [nanotee/zoxide.vim](https://github.com/nanotee/zoxide.vim) - A small (Neo)Vim wrapper for zoxide
 - [yassinebridi/vim-purpura](https://github.com/yassinebridi/vim-purpura) - ☂️ A bold purple colorscheme for vim
 - [hrsh7th/vim-vsnip](https://github.com/hrsh7th/vim-vsnip) - Snippet plugin for vim/nvim that supports LSP/VSCode's snippet format.
 - [hrsh7th/vim-eft](https://github.com/hrsh7th/vim-eft) - enhanced f/t
