@@ -974,7 +974,7 @@
 - [yeahoffline/redis-mock](https://github.com/yeahoffline/redis-mock) - Node.js redis client mock
 - [prettier/eslint-config-prettier](https://github.com/prettier/eslint-config-prettier) - Turns off all rules that are unnecessary or might conflict with Prettier.
 - [enghwa/chat-websocket-fargate](https://github.com/enghwa/chat-websocket-fargate) - Build a Nodejs chat room app on AWS Fargate + redis using AWS CDK.
-- [animir/node-rate-limiter-flexible](https://github.com/animir/node-rate-limiter-flexible) - Rate limiting tools. Limit resource access at any scale.
+- [animir/node-rate-limiter-flexible](https://github.com/animir/node-rate-limiter-flexible) - Atomic counters and rate limiting tools. Limit resource access at any scale.
 - [Jellyvision/jsdoc-mermaid](https://github.com/Jellyvision/jsdoc-mermaid) - A tool to automagically create flowcharts and diagrams in your jsdocs.
 - [mermaid-js/mermaid-cli](https://github.com/mermaid-js/mermaid-cli) - Command line tool for the Mermaid library
 - [yaronn/blessed-contrib](https://github.com/yaronn/blessed-contrib) - Build terminal dashboards using ascii/ansi art and javascript
@@ -2315,6 +2315,7 @@
 
 ## Rust 
 
+- [alexkirsz/dispatch](https://github.com/alexkirsz/dispatch) - Combine internet connections, increase your download speed
 - [Brendonovich/swift-rs](https://github.com/Brendonovich/swift-rs) - Call Swift functions from Rust with ease!
 - [MatthiasGrandl/loungy](https://github.com/MatthiasGrandl/loungy) - Loungy is a WIP launcher in the vein of Spotlight, Alfred, Raycast.
 - [tikv/minitrace-rust](https://github.com/tikv/minitrace-rust) - Extremely fast tracing library for Rust
