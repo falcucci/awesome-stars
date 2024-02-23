@@ -460,7 +460,7 @@
 - [tj/go-tea](https://github.com/tj/go-tea) - Tea provides an Elm inspired functional framework for interactive command-line programs.
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
 - [istio/istio](https://github.com/istio/istio) - Connect, secure, control, and observe services.
-- [ory/kratos](https://github.com/ory/kratos) - Next-gen identity server (think Auth0, Okta, Firebase) with Ory-hardened authentication, PassKeys, MFA, FIDO2, TOTP, WebAuthn, profile management, identity schemas, social sign in, registration, accou
+- [ory/kratos](https://github.com/ory/kratos) - Next-gen identity server replacing your Auth0, Okta, Firebase with hardened security and PassKeys, SMS, OIDC, Social Sign In, MFA, FIDO, TOTP and OTP, WebAuthn, passwordless and much more. Golang, hea
 - [rhysd/vim-startuptime](https://github.com/rhysd/vim-startuptime) - A small Go program for better `vim --startuptime` alternative
 - [zyedidia/micro](https://github.com/zyedidia/micro) - A modern and intuitive terminal-based text editor
 - [grafana/k6](https://github.com/grafana/k6) - A modern load testing tool, using Go and JavaScript - https://k6.io
@@ -2149,7 +2149,7 @@
 - [excalidraw/excalidraw-analytics](https://github.com/excalidraw/excalidraw-analytics) - 
 - [redis/redis-py](https://github.com/redis/redis-py) - Redis Python Client
 - [prabhupant/python-ds](https://github.com/prabhupant/python-ds) - No non-sense and no BS repo for how data structure code should be in Python - simple and elegant.
-- [vinta/awesome-python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of awesome Python frameworks, libraries, software and resources.
 - [sharkdp/config-files](https://github.com/sharkdp/config-files) - A set of configuration files for vim, zsh, i3, ...
 - [rustoceans/playlist-easy](https://github.com/rustoceans/playlist-easy) - :notes: A plugin for you make mp3 and mp4 download of many playlist from youtube. Hey, just playlist sure? :)
 - [prompt-toolkit/ptpython](https://github.com/prompt-toolkit/ptpython) - A better Python REPL
