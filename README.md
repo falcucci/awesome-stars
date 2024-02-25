@@ -711,7 +711,7 @@
 - [SimulaVR/Simula](https://github.com/SimulaVR/Simula) - Linux VR Desktop
 - [caiorss/Functional-Programming](https://github.com/caiorss/Functional-Programming) - Functional Programming concepts, examples and patterns illustrated in Haskell, Ocaml and Python
 - [kmonad/kmonad](https://github.com/kmonad/kmonad) - An advanced keyboard manager
-- [simplex-chat/simplex-chat](https://github.com/simplex-chat/simplex-chat) - SimpleX - the first messaging platform operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!
+- [simplex-chat/simplex-chat](https://github.com/simplex-chat/simplex-chat) - SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!
 - [hadolint/hadolint](https://github.com/hadolint/hadolint) - Dockerfile linter, validate inline bash, written in Haskell
 - [github/semantic](https://github.com/github/semantic) - Parsing, analyzing, and comparing source code across many languages
 - [koalaman/shellcheck](https://github.com/koalaman/shellcheck) - ShellCheck, a static analysis tool for shell scripts
@@ -1615,7 +1615,7 @@
 - [chrisgrieser/nvim-tinygit](https://github.com/chrisgrieser/nvim-tinygit) - Lightweight and nimble git client for nvim.
 - [nanozuki/tabby.nvim](https://github.com/nanozuki/tabby.nvim) - A declarative, highly configurable, and neovim style tabline plugin. Use your nvim tabs as a workspace multiplexer!
 - [scottmckendry/cyberdream.nvim](https://github.com/scottmckendry/cyberdream.nvim) - 🤖💤 High-contrast, Futuristic & Vibrant Coloursheme for Neovim
-- [soulis-1256/eagle.nvim](https://github.com/soulis-1256/eagle.nvim) - Show lsp diagnostics based on mouse position
+- [soulis-1256/eagle.nvim](https://github.com/soulis-1256/eagle.nvim) - Show diagnostics and lsp info inside a custom window, following the mouse position
 - [LudoPinelli/dotfiles](https://github.com/LudoPinelli/dotfiles) - Just another dotfiles repo. I like to look at them, maybe you'll want to look at mine
 - [AckslD/nvim-neoclip.lua](https://github.com/AckslD/nvim-neoclip.lua) - Clipboard manager neovim plugin with telescope integration
 - [LudoPinelli/comment-box.nvim](https://github.com/LudoPinelli/comment-box.nvim) - :sparkles: Clarify and beautify your comments and plain text files using boxes and lines.
@@ -1842,6 +1842,7 @@
 
 ## Others 
 
+- [LGUG2Z/helix-vim](https://github.com/LGUG2Z/helix-vim) - A Vim-like configuration for Helix
 - [txpipe/asteria](https://github.com/txpipe/asteria) - A Cardano bot challenge to showcase the capabilities of the eUTxO model.
 - [txpipe/hollow](https://github.com/txpipe/hollow) - A headless dApp framework for the Cardano blockchain
 - [txpipe/cheat-sheets](https://github.com/txpipe/cheat-sheets) - Cheat sheets for the pragmatic dev
@@ -2315,6 +2316,7 @@
 
 ## Rust 
 
+- [opensourcecheemsburgers/RustyTube](https://github.com/opensourcecheemsburgers/RustyTube) - A rusty Youtube client.
 - [fornwall/rust-script](https://github.com/fornwall/rust-script) - Run Rust files and expressions as scripts without any setup or compilation step.
 - [kamiyaa/joshuto](https://github.com/kamiyaa/joshuto) - ranger-like terminal file manager written in Rust
 - [quantumsheep/sshs](https://github.com/quantumsheep/sshs) - Terminal user interface for SSH
@@ -3094,6 +3096,7 @@
 
 ## TypeScript 
 
+- [leona/helix-gpt](https://github.com/leona/helix-gpt) - Code assistant language server for Helix with support for Copilot/OpenAI/Codeium.
 - [xiyaowong/coc-zls](https://github.com/xiyaowong/coc-zls) - Zls(zig language server) extension for coc.nvim
 - [UltiRequiem/coc-zig](https://github.com/UltiRequiem/coc-zig) - 〰️ ZLS for coc.nvim
 - [cardano-foundation/cardano-connect-with-wallet](https://github.com/cardano-foundation/cardano-connect-with-wallet) - This repository aims to provide useful hooks and React components as well as a framework-independent core library
@@ -3614,7 +3617,7 @@
 - [Exafunction/codeium.vim](https://github.com/Exafunction/codeium.vim) - Free, ultrafast Copilot alternative for Vim and Neovim
 - [skywind3000/asyncrun.vim](https://github.com/skywind3000/asyncrun.vim) - :rocket: Run Async Shell Commands in Vim 8.0 / NeoVim and Output to the Quickfix Window !!
 - [monkoose/vim9-stargate](https://github.com/monkoose/vim9-stargate) - modern alternative to easymotion written in vim9
-- [skywind3000/vim-quickui](https://github.com/skywind3000/vim-quickui) - The missing UI extensions for Vim 8.2 (and NeoVim 0.4) !! :sunglasses:
+- [skywind3000/vim-quickui](https://github.com/skywind3000/vim-quickui) - The missing UI extensions for Vim 9 (and NeoVim) !! :sunglasses:
 - [justinmk/vim-dirvish](https://github.com/justinmk/vim-dirvish) - Directory viewer for Vim :zap:
 - [lambdalisue/fern.vim](https://github.com/lambdalisue/fern.vim) - 🌿 General purpose asynchronous tree viewer written in Pure Vim script
 - [crusoexia/vim-dracula](https://github.com/crusoexia/vim-dracula) - Refined Dracula color scheme for Vim, color palettes are from https://github.com/zenorocha/dracula-theme.
