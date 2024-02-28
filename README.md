@@ -1063,7 +1063,6 @@
 - [mafintosh/chromecasts](https://github.com/mafintosh/chromecasts) - Query your local network for Chromecasts and have them play media
 - [xat/castnow](https://github.com/xat/castnow) - commandline chromecast player
 - [codecombat/codecombat](https://github.com/codecombat/codecombat) - Game for learning how to code.
-- [transloadit/uppy](https://github.com/transloadit/uppy) - The next open source file uploader for web browsers :dog:
 - [mjhea0/node-mocha-chai-tutorial](https://github.com/mjhea0/node-mocha-chai-tutorial) - 
 - [chaijs/chai-http](https://github.com/chaijs/chai-http) - HTTP Response assertions for the Chai Assertion Library.
 - [chaijs/chai](https://github.com/chaijs/chai) - BDD / TDD assertion framework for node.js and the browser that can be paired with any testing framework.
@@ -3106,7 +3105,7 @@
 - [cardano-foundation/cardano-verify-datasignature](https://github.com/cardano-foundation/cardano-verify-datasignature) - A lightweight typescript library to verify a cip30 datasignature
 - [txpipe/laceanatomy](https://github.com/txpipe/laceanatomy) - Lets dissect Cardano data
 - [input-output-hk/cardano-js-sdk](https://github.com/input-output-hk/cardano-js-sdk) - JavaScript SDK for interacting with Cardano, providing various key management options, with support for popular hardware wallets
-- [txpipe/translucent](https://github.com/txpipe/translucent) - Translucent is a library, which allows you to create Cardano transactions and off-chain code for your Plutus contracts in JavaScript. Translucent forks from Lucid and makes major breaking changes. Con
+- [antibody-cardano/translucent](https://github.com/antibody-cardano/translucent) - Translucent is a library, which allows you to create Cardano transactions and off-chain code for your Plutus contracts in JavaScript. Translucent forks from Lucid and makes major breaking changes. Con
 - [vscode-neovim/vscode-neovim](https://github.com/vscode-neovim/vscode-neovim) - Vim mode for VSCode, powered by Neovim
 - [daltonmenezes/aura-theme](https://github.com/daltonmenezes/aura-theme) - ✨ A beautiful dark theme for your favorite apps.
 - [tldraw/tldraw](https://github.com/tldraw/tldraw) - Infinite canvas.
@@ -3403,6 +3402,7 @@
 - [kelektiv/node-cron](https://github.com/kelektiv/node-cron) - Cron for NodeJS.
 - [debiki/talkyard](https://github.com/debiki/talkyard) - A community discussion platform: Brings together the main features from StackOverflow, Slack, Discourse, Reddit, and Disqus blog comments.
 - [microsoft/etcd3](https://github.com/microsoft/etcd3) - :bookmark: Node.js client for etcd3
+- [transloadit/uppy](https://github.com/transloadit/uppy) - The next open source file uploader for web browsers :dog:
 - [chimurai/http-proxy-middleware](https://github.com/chimurai/http-proxy-middleware) - :zap: The one-liner node.js http-proxy middleware for connect, express, next.js and more
 - [Raathigesh/majestic](https://github.com/Raathigesh/majestic) - ⚡ Zero config GUI for Jest
 - [dempfi/ava-playback](https://github.com/dempfi/ava-playback) - 📼 🚀 Record and playback http requests from your ava tests
