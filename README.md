@@ -162,7 +162,6 @@
 ## C++ 
 
 - [WerWolv/ImHex](https://github.com/WerWolv/ImHex) - 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.
-- [yuzu-emu/yuzu](https://github.com/yuzu-emu/yuzu) - Nintendo Switch emulator
 - [wolfpld/tracy](https://github.com/wolfpld/tracy) - Frame profiler
 - [NixOS/nix](https://github.com/NixOS/nix) - Nix, the purely functional package manager
 - [facebook/rocksdb](https://github.com/facebook/rocksdb) - A library that provides an embeddable, persistent key-value store for fast storage.
