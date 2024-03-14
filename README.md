@@ -1562,7 +1562,6 @@
 ## Jupyter Notebook 
 
 - [XiongjieDai/GPU-Benchmarks-on-LLM-Inference](https://github.com/XiongjieDai/GPU-Benchmarks-on-LLM-Inference) - Multiple NVIDIA GPUs or Apple Silicon for Large Language Model Inference?
-- [modularml/mojo](https://github.com/modularml/mojo) - The Mojo Programming Language
 - [davycro/sonocrop](https://github.com/davycro/sonocrop) - Prepare ultrasound videos for machine learning-- crop and remove static clutter from ultrasound video.
 - [ykuo2/dicom2jpg](https://github.com/ykuo2/dicom2jpg) - A simple Python function tool to convert DICOM files into jpg/png/bmp/tiff files and numpy.ndarray
 - [jupyter/notebook](https://github.com/jupyter/notebook) - Jupyter Interactive Notebook
@@ -1866,6 +1865,7 @@
 - [mozilla/gecko-dev](https://github.com/mozilla/gecko-dev) - Read-only Git mirror of the Mercurial gecko repositories at https://hg.mozilla.org. How to contribute: https://firefox-source-docs.mozilla.org/contributing/contribution_quickref.html
 - [dexterleng/homerow](https://github.com/dexterleng/homerow) - Like Raycast or Spotlight for macOS. Click, navigate, and perform tasks with the keyboard and no mouse.
 - [aniftyco/awesome-tailwindcss](https://github.com/aniftyco/awesome-tailwindcss) - 😎 Awesome things related to Tailwind CSS
+- [modularml/mojo](https://github.com/modularml/mojo) - The Mojo Programming Language
 - [nostr-protocol/nostr](https://github.com/nostr-protocol/nostr) - a truly censorship-resistant alternative to Twitter that has a chance of working
 - [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is a modern, Rust-based terminal with AI built in so you and your team can build great software, faster.
 - [flosse/text-editors-written-in-rust](https://github.com/flosse/text-editors-written-in-rust) - 
