@@ -1267,7 +1267,6 @@
 - [choojs/nanocomponent](https://github.com/choojs/nanocomponent) - 🚃 - create performant HTML components
 - [choojs/wayfarer](https://github.com/choojs/wayfarer) - :eyeglasses: composable trie based router
 - [choojs/choo](https://github.com/choojs/choo) - :steam_locomotive::train: - sturdy 4kb frontend framework
-- [fregante/webext-inject-on-install](https://github.com/fregante/webext-inject-on-install) - Automatically add content scripts to existing tabs when your extension is installed. Chrome
 - [jillix/jQuery-sidebar](https://github.com/jillix/jQuery-sidebar) - :chocolate_bar: A stupid simple sidebar jQuery plugin.
 - [zenorocha/delegate](https://github.com/zenorocha/delegate) - Lightweight event delegation
 - [DrewML/GifHub](https://github.com/DrewML/GifHub) - Quickly insert GIFs in GitHub comments
@@ -2324,6 +2323,7 @@
 
 ## Rust 
 
+- [rust-headless-chrome/rust-headless-chrome](https://github.com/rust-headless-chrome/rust-headless-chrome) - A high-level API to control headless Chrome or Chromium over the DevTools Protocol. It is the Rust equivalent of Puppeteer, a Node library maintained by the Chrome DevTools team.
 - [3Hren/msgpack-rust](https://github.com/3Hren/msgpack-rust) - MessagePack implementation for Rust / msgpack.org[Rust]
 - [svix/svix-webhooks](https://github.com/svix/svix-webhooks) - The enterprise-ready webhooks service 🦀
 - [zaghaghi/openapi-tui](https://github.com/zaghaghi/openapi-tui) - Terminal UI to list, browse and run APIs defined with openapi spec.
@@ -2750,7 +2750,6 @@
 - [rust-fuzz/afl.rs](https://github.com/rust-fuzz/afl.rs) - 🐇 Fuzzing Rust code with American Fuzzy Lop
 - [rust-in-action/code](https://github.com/rust-in-action/code) - Source code for the book Rust in Action
 - [http-rs/surf](https://github.com/http-rs/surf) - Fast and friendly HTTP client framework for async Rust
-- [rust-headless-chrome/rust-headless-chrome](https://github.com/rust-headless-chrome/rust-headless-chrome) - A high-level API to control headless Chrome or Chromium over the DevTools Protocol. It is the Rust equivalent of Puppeteer, a Node library maintained by the Chrome DevTools team.
 - [valeriansaliou/vigil](https://github.com/valeriansaliou/vigil) - 🚦 Microservices Status Page. Monitors a distributed infrastructure and sends alerts (Slack, SMS, etc.).
 - [fabianlindfors/reshape](https://github.com/fabianlindfors/reshape) - An easy-to-use, zero-downtime schema migration tool for Postgres
 - [sbstp/kubie](https://github.com/sbstp/kubie) - A more powerful alternative to kubectx and kubens
@@ -3474,6 +3473,7 @@
 - [zzarcon/react-gh-corner](https://github.com/zzarcon/react-gh-corner) - React portals + Github corners + Styled component = 💘
 - [OneSignal/react-native-onesignal](https://github.com/OneSignal/react-native-onesignal) - React Native Library for OneSignal Push Notifications Service
 - [AntonioVdlC/html-template-tag](https://github.com/AntonioVdlC/html-template-tag) - :page_facing_up: - ES6 Tagged Template for compiling HTML template strings
+- [fregante/webext-inject-on-install](https://github.com/fregante/webext-inject-on-install) - Automatically add content scripts to existing tabs when your extension is installed. Chrome
 - [alex-kinokon/jsx-dom](https://github.com/alex-kinokon/jsx-dom) - Use JSX to create DOM elements.
 - [styfle/copee](https://github.com/styfle/copee) - 📄 Copy text from browser to clipboard...natively! &lt; 1kB
 - [knicklabs/lorem-ipsum.js](https://github.com/knicklabs/lorem-ipsum.js) - Generate lorem ipsum placeholder text
