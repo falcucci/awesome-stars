@@ -331,6 +331,8 @@
 
 ## Go 
 
+- [ariga/atlas](https://github.com/ariga/atlas) - A modern tool for managing database schemas
+- [golang-migrate/migrate](https://github.com/golang-migrate/migrate) - Database migrations. CLI and Golang library.
 - [zolamk/hasura-exporter](https://github.com/zolamk/hasura-exporter) - Hasura Prometheus Exporter
 - [sony/appsync-client-go](https://github.com/sony/appsync-client-go) - AWS AppSync golang client library
 - [prometheus/prometheus](https://github.com/prometheus/prometheus) - The Prometheus monitoring system and time series database.
@@ -658,7 +660,6 @@
 - [infinum/ios-viper-xcode-templates](https://github.com/infinum/ios-viper-xcode-templates) - Used for generating template files for the VIPER architecture, which solves the common Massive View Controller issues in iOS apps.
 - [italia/designers.italia.it](https://github.com/italia/designers.italia.it) - Designers Italia mette a disposizione la conoscenza e gli strumenti per progettare e realizzare servizi pubblici centrati sulle necessità delle persone
 - [calcom/cal.fm](https://github.com/calcom/cal.fm) - The official Cal.com Work Playlist, only on Cal.fm
-- [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development.
 - [filipedeschamps/tabnews.com.br](https://github.com/filipedeschamps/tabnews.com.br) - Conteúdos para quem trabalha com Programação e Tecnologia.
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
 - [wzulfikar/vercel-runtimes](https://github.com/wzulfikar/vercel-runtimes) - Code examples for different Vercel runtimes.
@@ -698,6 +699,7 @@
 
 ## Haskell 
 
+- [CardanoSolutions/ogmios](https://github.com/CardanoSolutions/ogmios) - ❇️ A WebSocket JSON/RPC bridge for Cardano
 - [ndmitchell/ghcid](https://github.com/ndmitchell/ghcid) - Very low feature GHCi based IDE
 - [IntersectMBO/cardano-addresses](https://github.com/IntersectMBO/cardano-addresses) - Addresses and mnemonic manipulation & derivations
 - [IntersectMBO/cardano-api](https://github.com/IntersectMBO/cardano-api) - Cardano API
@@ -879,6 +881,7 @@
 - [reactjs/react-magic](https://github.com/reactjs/react-magic) - Automatically AJAXify plain HTML with the power of React. It's magic!
 - [tanmayrajani/notifications-preview-github](https://github.com/tanmayrajani/notifications-preview-github) - Browser Extension: preview GitHub notifications with same page pop-overs
 - [upstash/vercel-note-taker-slackbot](https://github.com/upstash/vercel-note-taker-slackbot) - Serverless Slackbot with Vercel
+- [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development.
 - [segmentio/evergreen](https://github.com/segmentio/evergreen) - 🌲 Evergreen React UI Framework by Segment
 - [netlify-templates/nextjs-blog-theme](https://github.com/netlify-templates/nextjs-blog-theme) - A customizable Next.js and Tailwind blog starter. Designed by the Bejamas agency.
 - [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
@@ -1363,7 +1366,7 @@
 - [reactstrap/reactstrap](https://github.com/reactstrap/reactstrap) - Simple React Bootstrap 5 components
 - [jsdoc/jsdoc](https://github.com/jsdoc/jsdoc) - An API documentation generator for JavaScript.
 - [asimolmez/react-native-folder-structure](https://github.com/asimolmez/react-native-folder-structure) - Ideal folder organization scheme for react-native with use redux applications
-- [andcards/react-colorizer](https://github.com/andcards/react-colorizer) - 🌈 A Color Picker Component for React and React Native.
+- [spacebring/react-colorizer](https://github.com/spacebring/react-colorizer) - 🌈 A Color Picker Component for React and React Native.
 - [mjsolidarios/react-native-search-filter](https://github.com/mjsolidarios/react-native-search-filter) - Modified version of react-search-input (https://github.com/enkidevs/react-search-input) to work with react-native.
 - [joe-re/async-storage-repl](https://github.com/joe-re/async-storage-repl) - AsyncStorageRepl provides you to access remote ReactNative application's AsyncStorage from your node REPL.
 - [appium/appium](https://github.com/appium/appium) - Cross-platform automation framework for all kinds of your apps built on top of W3C WebDriver protocol
@@ -2076,6 +2079,7 @@
 
 ## Python 
 
+- [3b1b/manim](https://github.com/3b1b/manim) - Animation engine for explanatory math videos
 - [xai-org/grok-1](https://github.com/xai-org/grok-1) - Grok open release
 - [mhinz/neovim-remote](https://github.com/mhinz/neovim-remote) - :ok_hand: Support for --remote and friends.
 - [edc/bass](https://github.com/edc/bass) - Make Bash utilities usable in Fish shell
@@ -2338,6 +2342,7 @@
 
 ## Rust 
 
+- [rust-db/refinery](https://github.com/rust-db/refinery) - Powerful SQL migration toolkit for Rust.
 - [hasura/ndc-hub](https://github.com/hasura/ndc-hub) - 
 - [georust/geo](https://github.com/georust/geo) - Geospatial primitives and algorithms for Rust
 - [asciinema/asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder 📹
@@ -2981,6 +2986,7 @@
 
 ## Shell 
 
+- [akinomyoga/ble.sh](https://github.com/akinomyoga/ble.sh) - Bash Line Editor―a line editor written in pure Bash with syntax highlighting, auto suggestions, vim modes, etc. for Bash interactive sessions.
 - [create-dmg/create-dmg](https://github.com/create-dmg/create-dmg) - A shell script to build fancy DMGs
 - [jorgebucaran/fisher](https://github.com/jorgebucaran/fisher) - A plugin manager for Fish
 - [jterrier84/Cardano-node-docker](https://github.com/jterrier84/Cardano-node-docker) - Create and run a Cardano node in p2p mode as a docker image for ARM64 devices
@@ -3088,6 +3094,7 @@
 
 ## Swift 
 
+- [lwouis/alt-tab-macos](https://github.com/lwouis/alt-tab-macos) - Windows alt-tab on macOS
 - [JohnCoates/Aerial](https://github.com/JohnCoates/Aerial) - Apple TV Aerial Screensaver for Mac
 - [devMEremenko/XcodeBenchmark](https://github.com/devMEremenko/XcodeBenchmark) - XcodeBenchmark measures the compilation time of a large codebase on iMac, MacBook, and Mac Pro
 - [alex35mil/NeoHub](https://github.com/alex35mil/NeoHub) - Instance manager for Neovide
