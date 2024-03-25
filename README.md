@@ -2342,6 +2342,7 @@
 
 ## Rust 
 
+- [chaosprint/asak](https://github.com/chaosprint/asak) - A cross-platform audio recording/playback CLI tool with TUI, written in Rust.
 - [rust-db/refinery](https://github.com/rust-db/refinery) - Powerful SQL migration toolkit for Rust.
 - [hasura/ndc-hub](https://github.com/hasura/ndc-hub) - 
 - [georust/geo](https://github.com/georust/geo) - Geospatial primitives and algorithms for Rust
