@@ -331,6 +331,9 @@
 
 ## Go 
 
+- [99designs/gqlgen](https://github.com/99designs/gqlgen) - go generate based graphql server library
+- [matelang/jwt-go-aws-kms](https://github.com/matelang/jwt-go-aws-kms) - AWS KMS adapter for https://github.com/golang-jwt/jwt GoLang Json Web Token(JWT) Library
+- [aws/aws-sdk-go-v2](https://github.com/aws/aws-sdk-go-v2) - AWS SDK for the Go programming language.
 - [subzero112233/aws-golang-lambda](https://github.com/subzero112233/aws-golang-lambda) - 
 - [aws/aws-lambda-go](https://github.com/aws/aws-lambda-go) - Libraries, samples and tools to help Go developers develop AWS Lambda functions.
 - [kubevela/terraform-controller](https://github.com/kubevela/terraform-controller) - A Kubernetes Terraform Controller, managing Cloud resources through Kubernetes
@@ -1862,6 +1865,7 @@
 
 ## Others 
 
+- [hasura/ndc-hub](https://github.com/hasura/ndc-hub) - 
 - [LGUG2Z/helix-vim](https://github.com/LGUG2Z/helix-vim) - A Vim-like configuration for Helix
 - [txpipe/asteria](https://github.com/txpipe/asteria) - A Cardano bot challenge to showcase the capabilities of the eUTxO model.
 - [txpipe/hollow](https://github.com/txpipe/hollow) - A headless dApp framework for the Cardano blockchain
@@ -2348,7 +2352,6 @@
 - [gc-victor/query](https://github.com/gc-victor/query) - Query is a Rust server for your remote SQLite databases and a CLI to manage them.
 - [chaosprint/asak](https://github.com/chaosprint/asak) - A cross-platform audio recording/playback CLI tool with TUI, written in Rust.
 - [rust-db/refinery](https://github.com/rust-db/refinery) - Powerful SQL migration toolkit for Rust.
-- [hasura/ndc-hub](https://github.com/hasura/ndc-hub) - 
 - [georust/geo](https://github.com/georust/geo) - Geospatial primitives and algorithms for Rust
 - [asciinema/asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder 📹
 - [tower-rs/tower](https://github.com/tower-rs/tower) - async fn(Request) -&gt; Result&lt;Response, Error&gt;
@@ -3150,6 +3153,7 @@
 
 ## TypeScript 
 
+- [prisma-labs/get-graphql-schema](https://github.com/prisma-labs/get-graphql-schema) - Fetch and print the GraphQL schema from a GraphQL HTTP endpoint. (Can be used for Relay Modern.)
 - [hasura/ndc-typescript-deno](https://github.com/hasura/ndc-typescript-deno) - Instant Hasura Native Data Connector by writing Typescript Functions
 - [sql-formatter-org/sql-formatter](https://github.com/sql-formatter-org/sql-formatter) - A whitespace formatter for different query languages
 - [josa42/coc-go](https://github.com/josa42/coc-go) - Go language server extension using gopls for coc.nvim.
