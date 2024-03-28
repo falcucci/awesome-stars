@@ -331,6 +331,9 @@
 
 ## Go 
 
+- [golang/crypto](https://github.com/golang/crypto) - [mirror] Go supplementary cryptography libraries
+- [jackc/pgtype](https://github.com/jackc/pgtype) - 
+- [jackc/pgx](https://github.com/jackc/pgx) - PostgreSQL driver and toolkit for Go
 - [99designs/gqlgen](https://github.com/99designs/gqlgen) - go generate based graphql server library
 - [matelang/jwt-go-aws-kms](https://github.com/matelang/jwt-go-aws-kms) - AWS KMS adapter for https://github.com/golang-jwt/jwt GoLang Json Web Token(JWT) Library
 - [aws/aws-sdk-go-v2](https://github.com/aws/aws-sdk-go-v2) - AWS SDK for the Go programming language.
@@ -583,8 +586,8 @@
 - [golang/dep](https://github.com/golang/dep) - Go dependency management tool experiment (deprecated)
 - [robfig/cron](https://github.com/robfig/cron) - a cron library for go
 - [tealeg/xlsx](https://github.com/tealeg/xlsx) - Go library for reading and writing XLSX files.
-- [alioygur/is](https://github.com/alioygur/is) - Micro check library in Golang.
-- [alioygur/godash](https://github.com/alioygur/godash) - A utility library in Go inspired by lodash
+- [aliuygur/is](https://github.com/aliuygur/is) - Micro check library in Golang.
+- [aliuygur/godash](https://github.com/aliuygur/godash) - A utility library in Go inspired by lodash
 - [robpike/filter](https://github.com/robpike/filter) - Simple apply/filter/reduce package.
 - [gravityblast/fresh](https://github.com/gravityblast/fresh) - Build and (re)start go web apps after saving/creating/deleting source files.
 - [codegangsta/gin](https://github.com/codegangsta/gin) - Live reload utility for Go web servers
@@ -2086,6 +2089,7 @@
 
 ## Python 
 
+- [aws/aws-sam-cli](https://github.com/aws/aws-sam-cli) - CLI tool to build, test, debug, and deploy Serverless applications using AWS SAM
 - [3b1b/manim](https://github.com/3b1b/manim) - Animation engine for explanatory math videos
 - [xai-org/grok-1](https://github.com/xai-org/grok-1) - Grok open release
 - [mhinz/neovim-remote](https://github.com/mhinz/neovim-remote) - :ok_hand: Support for --remote and friends.
