@@ -97,6 +97,7 @@
 
 ## C 
 
+- [valkey-io/valkey](https://github.com/valkey-io/valkey) - A new project to resume development on the formerly open-source Redis project. We're calling it Valkey, like a Valkyrie.
 - [hasura/skor](https://github.com/hasura/skor) - Now part of Hasura GraphQL Engine. Listen to postgres events and forward them as JSON payloads to a webhook
 - [zigzap/zap](https://github.com/zigzap/zap) - blazingly fast backends in zig
 - [jakehilborn/displayplacer](https://github.com/jakehilborn/displayplacer) - macOS command line utility to configure multi-display resolutions and arrangements. Essentially XRandR for macOS.
@@ -1624,7 +1625,7 @@
 - [2KAbhishek/termim.nvim](https://github.com/2KAbhishek/termim.nvim) - Neovim Terminal, Improved 🦾💻
 - [olimorris/onedarkpro.nvim](https://github.com/olimorris/onedarkpro.nvim) - 🎨 Atom's iconic One Dark theme. Cacheable, fully customisable, Tree-sitter and LSP semantic token support. Comes with variants
 - [nvim-focus/focus.nvim](https://github.com/nvim-focus/focus.nvim) - Auto-Focusing and Auto-Resizing Splits/Windows for Neovim written in Lua. A full suite of window management enhancements. Vim splits on steroids!
-- [wojciech-kulik/xcodebuild.nvim](https://github.com/wojciech-kulik/xcodebuild.nvim) - Neovim plugin to Build, Debug, and Test iOS & macOS applications.
+- [wojciech-kulik/xcodebuild.nvim](https://github.com/wojciech-kulik/xcodebuild.nvim) - Neovim plugin to Build, Debug, and Test applications created for Apple devices (iOS, macOS, watchOS, etc.)
 - [numToStr/Comment.nvim](https://github.com/numToStr/Comment.nvim) - :brain: :muscle: // Smart and powerful comment plugin for neovim. Supports treesitter, dot repeat, left-right/up-down motions, hooks, and more
 - [Bekaboo/deadcolumn.nvim](https://github.com/Bekaboo/deadcolumn.nvim) - A neovim plugin that shows colorcolumn dynamically
 - [nvimdev/indentmini.nvim](https://github.com/nvimdev/indentmini.nvim) - A minimal and blazing fast indentline plugin
