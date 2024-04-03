@@ -703,7 +703,7 @@
 
 ## Handlebars 
 
-- [sunface/beat-ai](https://github.com/sunface/beat-ai) - 专属于软件开发工程师的 AI 入门圣经。从神经网络到大模型，从高层设计到微观原理，从工程实现到算法，学完后，你会发现 AI 也并不是想象中那么高不可攀、无法战胜，Just beat it !
+- [loong-ai/beat-ai](https://github.com/loong-ai/beat-ai) - 专属于软件开发工程师的 AI 入门圣经。从神经网络到大模型，从高层设计到微观原理，从工程实现到算法，学完后，你会发现 AI 也并不是想象中那么高不可攀、无法战胜，Just beat it !
 - [rust-unofficial/patterns](https://github.com/rust-unofficial/patterns) - A catalogue of Rust design patterns, anti-patterns and idioms
 - [DannyDainton/basic-newman-slack-bot](https://github.com/DannyDainton/basic-newman-slack-bot) - A basic express app that allows you to run Postman collections against different environments with Newman, straight from Slack.
 
@@ -1668,7 +1668,7 @@
 - [cpea2506/one_monokai.nvim](https://github.com/cpea2506/one_monokai.nvim) - One Monokai for Neovim
 - [Rolv-Apneseth/tfm.nvim](https://github.com/Rolv-Apneseth/tfm.nvim) - Neovim plugin for terminal file manager integration
 - [stevearc/oil.nvim](https://github.com/stevearc/oil.nvim) - Neovim file explorer: edit your filesystem like a buffer
-- [epwalsh/pomo.nvim](https://github.com/epwalsh/pomo.nvim) - :new: :stopwatch: A simple, customizable pomodoro timer for Neovim, written in Lua, with nvim-notify and lualine integrations
+- [epwalsh/pomo.nvim](https://github.com/epwalsh/pomo.nvim) - :new: :stopwatch: A simple, customizable pomodoro timer for Neovim, written in Lua, with nvim-notify, lualine, and telescope integrations
 - [Hubro/nvim-splitrun](https://github.com/Hubro/nvim-splitrun) - Super simple plugin for running a command in a new split
 - [m4xshen/hardtime.nvim](https://github.com/m4xshen/hardtime.nvim) - A Neovim plugin helping you establish good command workflow and habit
 - [jbyuki/nabla.nvim](https://github.com/jbyuki/nabla.nvim) - take your scientific notes :pencil2: in Neovim
@@ -1874,6 +1874,7 @@
 
 ## Others 
 
+- [servo/servo](https://github.com/servo/servo) - Servo, the embeddable, independent, memory-safe, modular, parallel web rendering engine
 - [ErikMcClure/bad-licenses](https://github.com/ErikMcClure/bad-licenses) - A compendium of absurd open-source licenses.
 - [hasura/ndc-hub](https://github.com/hasura/ndc-hub) - 
 - [LGUG2Z/helix-vim](https://github.com/LGUG2Z/helix-vim) - A Vim-like configuration for Helix
@@ -2359,6 +2360,8 @@
 
 ## Rust 
 
+- [ruffle-rs/ruffle](https://github.com/ruffle-rs/ruffle) - A Flash Player emulator written in Rust
+- [slint-ui/slint](https://github.com/slint-ui/slint) - Slint is a declarative GUI toolkit to build native user interfaces for Rust, C++, or JavaScript apps.
 - [Kobzol/cargo-wizard](https://github.com/Kobzol/cargo-wizard) - Cargo subcommand for configuring Cargo projects for best performance.
 - [hasura/ndc-postgres](https://github.com/hasura/ndc-postgres) - Hasura v3 Data Connector for PostgreSQL
 - [mainmatter/cargo-autoinherit](https://github.com/mainmatter/cargo-autoinherit) - (Auto)DRY for your Rust dependencies
@@ -2653,7 +2656,7 @@
 - [infinyon/node-bindgen](https://github.com/infinyon/node-bindgen) - Easy way to write Node.js module using Rust
 - [abdolence/slack-morphism-rust](https://github.com/abdolence/slack-morphism-rust) - A modern async client library for Rust, supports Slack Web / Events API/Socket Mode and Block Kit.
 - [a-b-street/abstreet](https://github.com/a-b-street/abstreet) - Transportation planning and traffic simulation software for creating cities friendlier to walking, biking, and public transit
-- [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack GUI library for desktop, web, mobile, and more.
+- [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack GUI library for web, desktop, mobile, and more.
 - [svenstaro/rust-web-boilerplate](https://github.com/svenstaro/rust-web-boilerplate) - Rust web template for modern web backend applications
 - [svenstaro/genact](https://github.com/svenstaro/genact) - 🌀 A nonsense activity generator
 - [o2sh/onefetch](https://github.com/o2sh/onefetch) - Command-line Git information tool
@@ -3089,7 +3092,7 @@
 - [soulseekah/bash-utils](https://github.com/soulseekah/bash-utils) - A collection of pocket-size bash script utilities
 - [labbots/google-drive-upload](https://github.com/labbots/google-drive-upload) - Bash scripts to upload files to google drive
 - [Jintin/aliasme](https://github.com/Jintin/aliasme) - A shell script to memorize your command in command line.
-- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,200+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
+- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,300+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 - [opengapps/opengapps](https://github.com/opengapps/opengapps) - The main repository of the Open GApps Project
 - [tj/git-extras](https://github.com/tj/git-extras) - GIT utilities -- repo summary, repl, changelog population, author commit percentages and more
 - [tj/n](https://github.com/tj/n) - Node version management
@@ -3546,7 +3549,7 @@
 - [styleguidist/react-styleguidist](https://github.com/styleguidist/react-styleguidist) - Isolated React component development environment with a living style guide
 - [wojtekmaj/react-lifecycle-methods-diagram](https://github.com/wojtekmaj/react-lifecycle-methods-diagram) - Interactive React Lifecycle Methods diagram.
 - [GoogleCloudPlatform/require-so-slow](https://github.com/GoogleCloudPlatform/require-so-slow) - `require`s taking too much time? Profile 'em.
-- [mui/material-ui](https://github.com/mui/material-ui) - MUI Core: Ready-to-use foundational React components, free forever. It includes Material UI, which implements Google's Material Design.
+- [mui/material-ui](https://github.com/mui/material-ui) - Material UI: Ready-to-use foundational React components, free forever. It includes Material UI, which implements Google's Material Design.
 - [vuejs/devtools](https://github.com/vuejs/devtools) - ⚙️ Browser devtools extension for debugging Vue.js applications.
 - [sindresorhus/ow](https://github.com/sindresorhus/ow) - Function argument validation for humans
 - [howdyai/botkit](https://github.com/howdyai/botkit) - Botkit is an open source developer tool for building chat bots, apps and custom integrations for major messaging platforms.
