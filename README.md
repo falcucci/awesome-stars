@@ -2252,7 +2252,7 @@
 - [jarun/buku](https://github.com/jarun/buku) - :bookmark: Personal mini-web in text
 - [cslarsen/wpm](https://github.com/cslarsen/wpm) - Typeracer-like console app for measuring your WPM
 - [jeffkaufman/icdiff](https://github.com/jeffkaufman/icdiff) - improved colored diff
-- [ymattw/ydiff](https://github.com/ymattw/ydiff) - View colored, incremental diff in workspace or from stdin with side by side and auto pager support (Was "cdiff")
+- [ymattw/ydiff](https://github.com/ymattw/ydiff) - View colored, incremental diff in workspace or from stdin with side by side and auto pager support
 - [danigm/gitlab-telegram-bot](https://github.com/danigm/gitlab-telegram-bot) - Simple gitlab telegram bot that listen webhooks
 - [JakeWharton/pidcat](https://github.com/JakeWharton/pidcat) - Colored logcat script which only shows log entries for a specific application package.
 - [vaab/gitchangelog](https://github.com/vaab/gitchangelog) - Creates a changelog from git log history.
@@ -2360,6 +2360,7 @@
 
 ## Rust 
 
+- [tailcallhq/tailcall](https://github.com/tailcallhq/tailcall) - A high-performance API Platform
 - [ruffle-rs/ruffle](https://github.com/ruffle-rs/ruffle) - A Flash Player emulator written in Rust
 - [slint-ui/slint](https://github.com/slint-ui/slint) - Slint is a declarative GUI toolkit to build native user interfaces for Rust, C++, or JavaScript apps.
 - [Kobzol/cargo-wizard](https://github.com/Kobzol/cargo-wizard) - Cargo subcommand for configuring Cargo projects for best performance.
