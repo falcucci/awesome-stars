@@ -3189,7 +3189,7 @@
 - [cardano-foundation/cardano-verify-datasignature](https://github.com/cardano-foundation/cardano-verify-datasignature) - A lightweight typescript library to verify a cip30 datasignature
 - [txpipe/laceanatomy](https://github.com/txpipe/laceanatomy) - Lets dissect Cardano data
 - [input-output-hk/cardano-js-sdk](https://github.com/input-output-hk/cardano-js-sdk) - JavaScript SDK for interacting with Cardano, providing various key management options, with support for popular hardware wallets
-- [antibody-cardano/translucent](https://github.com/antibody-cardano/translucent) - Translucent is a library, which allows you to create Cardano transactions and off-chain code for your Plutus contracts in JavaScript. Translucent forks from Lucid and makes major breaking changes. Con
+- [butaneprotocol/translucent](https://github.com/butaneprotocol/translucent) - Translucent is a library, which allows you to create Cardano transactions and off-chain code for your Plutus contracts in JavaScript. Translucent forks from Lucid and makes major breaking changes. Con
 - [vscode-neovim/vscode-neovim](https://github.com/vscode-neovim/vscode-neovim) - Vim mode for VSCode, powered by Neovim
 - [daltonmenezes/aura-theme](https://github.com/daltonmenezes/aura-theme) - ✨ A beautiful dark theme for your favorite apps.
 - [tldraw/tldraw](https://github.com/tldraw/tldraw) - Infinite canvas.
