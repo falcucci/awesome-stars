@@ -705,7 +705,7 @@
 
 ## Handlebars 
 
-- [0xx0-ai/beat-ai](https://github.com/0xx0-ai/beat-ai) - &lt;&lt;Beat AI&gt;&gt; 专属于软件开发工程师的 AI 入门圣经，手把手带你上手写 AI。从神经网络到大模型，从高层设计到微观原理，从工程实现到算法，学完后，你会发现 AI 也并不是想象中那么高不可攀、无法战胜，Just beat it !
+- [0xx0-ai/beat-ai](https://github.com/0xx0-ai/beat-ai) - 《Beat AI》又名《零生万物》 ，是一本专属于软件开发工程师的 AI 入门圣经，手把手带你上手写 AI。从神经网络到大模型，从高层设计到微观原理，从工程实现到算法，学完后，你会发现 AI 也并不是想象中那么高不可攀、无法战胜，Just beat it !
 - [rust-unofficial/patterns](https://github.com/rust-unofficial/patterns) - A catalogue of Rust design patterns, anti-patterns and idioms
 - [DannyDainton/basic-newman-slack-bot](https://github.com/DannyDainton/basic-newman-slack-bot) - A basic express app that allows you to run Postman collections against different environments with Newman, straight from Slack.
 
@@ -2194,7 +2194,7 @@
 - [ycm-core/YouCompleteMe](https://github.com/ycm-core/YouCompleteMe) - A code-completion engine for Vim
 - [google/grr](https://github.com/google/grr) - GRR Rapid Response: remote live forensics for incident response
 - [excalidraw/excalidraw-analytics](https://github.com/excalidraw/excalidraw-analytics) - 
-- [redis/redis-py](https://github.com/redis/redis-py) - Redis Python Client
+- [redis/redis-py](https://github.com/redis/redis-py) - Redis Python client
 - [prabhupant/python-ds](https://github.com/prabhupant/python-ds) - No non-sense and no BS repo for how data structure code should be in Python - simple and elegant.
 - [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of awesome Python frameworks, libraries, software and resources.
 - [sharkdp/config-files](https://github.com/sharkdp/config-files) - A set of configuration files for vim, zsh, i3, ...
@@ -2364,7 +2364,7 @@
 
 - [turboladen/init.rs](https://github.com/turboladen/init.rs) - Neovim init but in Rust
 - [mistricky/codesnap.nvim](https://github.com/mistricky/codesnap.nvim) - 📸 Snapshot plugin with rich features that can make pretty code snapshots for Neovim
-- [tailcallhq/tailcall](https://github.com/tailcallhq/tailcall) - A high-performance API Platform
+- [tailcallhq/tailcall](https://github.com/tailcallhq/tailcall) - A high-performance GraphQL Platform
 - [ruffle-rs/ruffle](https://github.com/ruffle-rs/ruffle) - A Flash Player emulator written in Rust
 - [slint-ui/slint](https://github.com/slint-ui/slint) - Slint is a declarative GUI toolkit to build native user interfaces for Rust, C++, or JavaScript apps.
 - [Kobzol/cargo-wizard](https://github.com/Kobzol/cargo-wizard) - Cargo subcommand for configuring Cargo projects for best performance.
@@ -2408,6 +2408,7 @@
 - [input-output-hk/jormungandr](https://github.com/input-output-hk/jormungandr) - privacy voting blockchain node
 - [IntersectMBO/cardaminal](https://github.com/IntersectMBO/cardaminal) - A CLI-based Cardano Wallet
 - [dcSpark/cddl-codegen](https://github.com/dcSpark/cddl-codegen) - Codegen serialization logic for CBOR automatically from a CDDL specification
+- [txpipe/mumak](https://github.com/txpipe/mumak) - 
 - [fish-shell/fish-shell](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell.
 - [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
 - [utxorpc/spec](https://github.com/utxorpc/spec) - A RPC layer to interact with UTxO-based blockchains
@@ -2790,7 +2791,7 @@
 - [astral-sh/ruff](https://github.com/astral-sh/ruff) - An extremely fast Python linter and code formatter, written in Rust.
 - [roapi/roapi](https://github.com/roapi/roapi) - Create full-fledged APIs for slowly moving datasets without writing a single line of code.
 - [kitao/pyxel](https://github.com/kitao/pyxel) - A retro game engine for Python
-- [PyO3/maturin](https://github.com/PyO3/maturin) - Build and publish crates with pyo3, rust-cpython and cffi bindings as well as rust binaries as python packages
+- [PyO3/maturin](https://github.com/PyO3/maturin) - Build and publish crates with pyo3, cffi and uniffi bindings as well as rust binaries as python packages
 - [rbatis/rbatis](https://github.com/rbatis/rbatis) - Rust  Compile Time ORM robustness,async, pure Rust Dynamic SQL
 - [pola-rs/polars](https://github.com/pola-rs/polars) - Dataframes powered by a multithreaded, vectorized query engine, written in Rust
 - [shuttle-hq/shuttle-examples](https://github.com/shuttle-hq/shuttle-examples) - Examples for using Shuttle with different frameworks and resources
@@ -3020,7 +3021,6 @@
 - [create-dmg/create-dmg](https://github.com/create-dmg/create-dmg) - A shell script to build fancy DMGs
 - [jorgebucaran/fisher](https://github.com/jorgebucaran/fisher) - A plugin manager for Fish
 - [jterrier84/Cardano-node-docker](https://github.com/jterrier84/Cardano-node-docker) - Create and run a Cardano node in p2p mode as a docker image for ARM64 devices
-- [txpipe/mumak](https://github.com/txpipe/mumak) - 
 - [woofpool/cardano-private-testnet-setup](https://github.com/woofpool/cardano-private-testnet-setup) - Setup guide to create private Cardano testnet and run sample transactions including a Plutus contract example.  This environment can be used for local development and learning.
 - [RoryNesbitt/dotfyle-cli](https://github.com/RoryNesbitt/dotfyle-cli) - Command line tool for Neovim multi-config management
 - [blinklabs-io/docker-cardano-node](https://github.com/blinklabs-io/docker-cardano-node) - Builds cardano-node from source using cabal on debian
@@ -3177,6 +3177,10 @@
 
 ## TypeScript 
 
+- [Unleash/unleash-proxy-client-js](https://github.com/Unleash/unleash-proxy-client-js) - A browser client that can be used together with the unleash-proxy.
+- [Unleash/unleash-client-nextjs](https://github.com/Unleash/unleash-client-nextjs) - Unleash SDK for Next.js
+- [apollographql/apollo-client-nextjs](https://github.com/apollographql/apollo-client-nextjs) - Apollo Client support for the Next.js App Router
+- [Uniswap/interface](https://github.com/Uniswap/interface) - 🦄 Open source interfaces for the Uniswap protocol
 - [prisma-labs/get-graphql-schema](https://github.com/prisma-labs/get-graphql-schema) - Fetch and print the GraphQL schema from a GraphQL HTTP endpoint. (Can be used for Relay Modern.)
 - [hasura/ndc-typescript-deno](https://github.com/hasura/ndc-typescript-deno) - Instant Hasura Native Data Connector by writing Typescript Functions
 - [sql-formatter-org/sql-formatter](https://github.com/sql-formatter-org/sql-formatter) - A whitespace formatter for different query languages
@@ -3353,7 +3357,7 @@
 - [refinedev/refine](https://github.com/refinedev/refine) - A React Framework for building  internal tools, admin panels, dashboards & B2B apps with unmatched flexibility.
 - [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
 - [rhysd/monolith-of-web](https://github.com/rhysd/monolith-of-web) - A chrome extension to make a single static HTML file of the web page using a WebAssembly port of monolith CLI
-- [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev) - Trigger.dev is the open source background jobs framework for TypeScript. With features like API integrations, webhooks, scheduling and delays.
+- [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev) - Trigger.dev is the open source background jobs platform for TypeScript.
 - [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development.
 - [shadcn-ui/taxonomy](https://github.com/shadcn-ui/taxonomy) - An open source application built using the new router, server components and everything new in Next.js 13.
 - [napi-rs/package-template](https://github.com/napi-rs/package-template) - Template project for using napi-rs to build native package
