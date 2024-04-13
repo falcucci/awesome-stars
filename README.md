@@ -333,6 +333,7 @@
 
 ## Go 
 
+- [Unleash/terraform-provider-unleash](https://github.com/Unleash/terraform-provider-unleash) - Terraform provider for unleash, the Open-source feature management solution
 - [golang/crypto](https://github.com/golang/crypto) - [mirror] Go supplementary cryptography libraries
 - [jackc/pgtype](https://github.com/jackc/pgtype) - 
 - [jackc/pgx](https://github.com/jackc/pgx) - PostgreSQL driver and toolkit for Go
@@ -3112,6 +3113,7 @@
 
 ## Smarty 
 
+- [Unleash/helm-charts](https://github.com/Unleash/helm-charts) - Contains helm-charts for Unleash
 - [regel/cardano-charts](https://github.com/regel/cardano-charts) - Helm Charts to deploy a secure Cardano node in Kubernetes
 
 ## Svelte 
@@ -3177,6 +3179,7 @@
 
 ## TypeScript 
 
+- [fannheyward/coc-biome](https://github.com/fannheyward/coc-biome) - Biome extension for coc.nvim
 - [Unleash/unleash-proxy-client-js](https://github.com/Unleash/unleash-proxy-client-js) - A browser client that can be used together with the unleash-proxy.
 - [Unleash/unleash-client-nextjs](https://github.com/Unleash/unleash-client-nextjs) - Unleash SDK for Next.js
 - [apollographql/apollo-client-nextjs](https://github.com/apollographql/apollo-client-nextjs) - Apollo Client support for the Next.js App Router
