@@ -653,7 +653,7 @@
 - [cloudfoundry/cli](https://github.com/cloudfoundry/cli) - The official command line client for Cloud Foundry
 - [howtowhale/dvm](https://github.com/howtowhale/dvm) - Docker Version Manager
 - [github-release/github-release](https://github.com/github-release/github-release) - Commandline app to create and edit releases on Github (and upload artifacts)
-- [inconshreveable/ngrok](https://github.com/inconshreveable/ngrok) - Introspected tunnels to localhost
+- [inconshreveable/ngrok](https://github.com/inconshreveable/ngrok) - Unified ingress for developers
 
 ## Groovy 
 
@@ -2165,7 +2165,6 @@
 - [pyca/cryptography](https://github.com/pyca/cryptography) - cryptography is a package designed to expose cryptographic primitives and recipes to Python developers.
 - [hora-search/horapy](https://github.com/hora-search/horapy) - 🐍  Python bidding for the Hora Approximate Nearest Neighbor Search Algorithm library
 - [falcucci/dicomcrop](https://github.com/falcucci/dicomcrop) - Prepare bedside medical images for machine learning and image interpretation, encrypting informations consumed from specified sources afterwards.
-- [camchambers/parallel-python](https://github.com/camchambers/parallel-python) - An example of parallel computing with python.
 - [numba/numba](https://github.com/numba/numba) - NumPy aware dynamic Python compiler using LLVM
 - [google/python-fire](https://github.com/google/python-fire) - Python Fire is a library for automatically generating command line interfaces (CLIs) from absolutely any Python object.
 - [PyImageSearch/imutils](https://github.com/PyImageSearch/imutils) - A series of convenience functions to make basic image processing operations such as translation, rotation, resizing, skeletonization, and displaying Matplotlib images easier with OpenCV and Python.
@@ -2363,6 +2362,7 @@
 
 ## Rust 
 
+- [gfx-rs/wgpu](https://github.com/gfx-rs/wgpu) - Cross-platform, safe, pure-rust graphics api.
 - [turboladen/init.rs](https://github.com/turboladen/init.rs) - Neovim init but in Rust
 - [mistricky/codesnap.nvim](https://github.com/mistricky/codesnap.nvim) - 📸 Snapshot plugin with rich features that can make pretty code snapshots for Neovim
 - [tailcallhq/tailcall](https://github.com/tailcallhq/tailcall) - A high-performance GraphQL Platform
