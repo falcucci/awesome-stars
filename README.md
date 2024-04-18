@@ -343,7 +343,7 @@
 - [subzero112233/aws-golang-lambda](https://github.com/subzero112233/aws-golang-lambda) - 
 - [aws/aws-lambda-go](https://github.com/aws/aws-lambda-go) - Libraries, samples and tools to help Go developers develop AWS Lambda functions.
 - [kubevela/terraform-controller](https://github.com/kubevela/terraform-controller) - A Kubernetes Terraform Controller, managing Cloud resources through Kubernetes
-- [ariga/atlas](https://github.com/ariga/atlas) - A modern tool for managing database schemas
+- [ariga/atlas](https://github.com/ariga/atlas) - Manage your database schema as code
 - [golang-migrate/migrate](https://github.com/golang-migrate/migrate) - Database migrations. CLI and Golang library.
 - [zolamk/hasura-exporter](https://github.com/zolamk/hasura-exporter) - Hasura Prometheus Exporter
 - [sony/appsync-client-go](https://github.com/sony/appsync-client-go) - AWS AppSync golang client library
@@ -835,6 +835,7 @@
 
 ## JavaScript 
 
+- [aws-actions/setup-sam](https://github.com/aws-actions/setup-sam) - Action to set up AWS SAM CLI and add it to the PATH
 - [dherault/serverless-offline](https://github.com/dherault/serverless-offline) - Emulate AWS λ and API Gateway locally when developing your Serverless project
 - [abhi40308/instagram-clone](https://github.com/abhi40308/instagram-clone) - Instagram clone using apollo, react and graphQl (hasura-graphQl engine)
 - [hasura/hasura-aws-stack](https://github.com/hasura/hasura-aws-stack) - A complete production ready 100% serverless stack on AWS with Hasura
@@ -1878,6 +1879,7 @@
 
 ## Others 
 
+- [napptive/kubecon-23-oam-kubevela-tutorial](https://github.com/napptive/kubecon-23-oam-kubevela-tutorial) - Material for the KubeCon EU 2023 tutorial about Open Application Model and KubeVela
 - [servo/servo](https://github.com/servo/servo) - Servo, the embeddable, independent, memory-safe, modular, parallel web rendering engine
 - [ErikMcClure/bad-licenses](https://github.com/ErikMcClure/bad-licenses) - A compendium of absurd open-source licenses.
 - [LGUG2Z/helix-vim](https://github.com/LGUG2Z/helix-vim) - A Vim-like configuration for Helix
@@ -2361,6 +2363,10 @@
 
 ## Rust 
 
+- [paritytech/smoldot](https://github.com/paritytech/smoldot) - Alternative client for Substrate-based chains.
+- [paritytech/polkadot-sdk](https://github.com/paritytech/polkadot-sdk) - The Parity Polkadot Blockchain SDK
+- [open-sauced/repo-query](https://github.com/open-sauced/repo-query) - Ask questions, get insights from repos
+- [MordechaiHadad/bob](https://github.com/MordechaiHadad/bob) - A version manager for neovim
 - [gfx-rs/wgpu](https://github.com/gfx-rs/wgpu) - Cross-platform, safe, pure-rust graphics api.
 - [turboladen/init.rs](https://github.com/turboladen/init.rs) - Neovim init but in Rust
 - [mistricky/codesnap.nvim](https://github.com/mistricky/codesnap.nvim) - 📸 Snapshot plugin with rich features that can make pretty code snapshots for Neovim
@@ -3128,6 +3134,7 @@
 
 ## Swift 
 
+- [falcucci/NeoHub](https://github.com/falcucci/NeoHub) - Instance manager for Neovide
 - [lwouis/alt-tab-macos](https://github.com/lwouis/alt-tab-macos) - Windows alt-tab on macOS
 - [JohnCoates/Aerial](https://github.com/JohnCoates/Aerial) - Apple TV Aerial Screensaver for Mac
 - [devMEremenko/XcodeBenchmark](https://github.com/devMEremenko/XcodeBenchmark) - XcodeBenchmark measures the compilation time of a large codebase on iMac, MacBook, and Mac Pro
@@ -3180,6 +3187,9 @@
 
 ## TypeScript 
 
+- [pulumi/pulumi-cloud](https://github.com/pulumi/pulumi-cloud) - A highly productive multi-cloud framework for containers, serverless, and data
+- [pulumi/examples](https://github.com/pulumi/examples) - Infrastructure, containers, and serverless apps to AWS, Azure, GCP, and Kubernetes... all deployed with Pulumi
+- [open-sauced/hot](https://github.com/open-sauced/hot) - 🍕The site that recommends the hottest projects on GitHub.
 - [fannheyward/coc-biome](https://github.com/fannheyward/coc-biome) - Biome extension for coc.nvim
 - [Unleash/unleash-proxy-client-js](https://github.com/Unleash/unleash-proxy-client-js) - A browser client that can be used together with the unleash-proxy.
 - [Unleash/unleash-client-nextjs](https://github.com/Unleash/unleash-client-nextjs) - Unleash SDK for Next.js
