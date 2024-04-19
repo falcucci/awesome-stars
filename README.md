@@ -333,6 +333,7 @@
 
 ## Go 
 
+- [k3d-io/k3d](https://github.com/k3d-io/k3d) - Little helper to run CNCF's k3s in Docker
 - [Unleash/terraform-provider-unleash](https://github.com/Unleash/terraform-provider-unleash) - Terraform provider for unleash, the Open-source feature management solution
 - [golang/crypto](https://github.com/golang/crypto) - [mirror] Go supplementary cryptography libraries
 - [jackc/pgtype](https://github.com/jackc/pgtype) - 
@@ -1887,7 +1888,7 @@
 - [txpipe/cheat-sheets](https://github.com/txpipe/cheat-sheets) - Cheat sheets for the pragmatic dev
 - [oam-dev/spec](https://github.com/oam-dev/spec) - Open Application Model (OAM).
 - [blinklabs-io/cardano-compose-stacks](https://github.com/blinklabs-io/cardano-compose-stacks) - Docker compose files for Cardano blockchain services
-- [getcursor/cursor](https://github.com/getcursor/cursor) - An AI-powered code editor based on VSCode 🤖
+- [getcursor/cursor](https://github.com/getcursor/cursor) - The AI-powered code editor
 - [madmalik/mononoki](https://github.com/madmalik/mononoki) - a programming typeface
 - [crystalidea/macs-fan-control](https://github.com/crystalidea/macs-fan-control) - Control fans on Apple computers
 - [imhq/rust-interview-handbook](https://github.com/imhq/rust-interview-handbook) - A curated list of Rust interview preparation materials for busy software engineers. Submit a PR if you know of any other Rust interview questions.
