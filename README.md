@@ -2365,6 +2365,7 @@
 
 ## Rust 
 
+- [zkcrypto/bellman](https://github.com/zkcrypto/bellman) - zk-SNARK library.
 - [johanhelsing/matchbox](https://github.com/johanhelsing/matchbox) - Painless peer-to-peer WebRTC networking for rust wasm (and native!)
 - [paritytech/smoldot](https://github.com/paritytech/smoldot) - Alternative client for Substrate-based chains.
 - [paritytech/polkadot-sdk](https://github.com/paritytech/polkadot-sdk) - The Parity Polkadot Blockchain SDK
@@ -2436,6 +2437,7 @@
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
 - [dcSpark/carp](https://github.com/dcSpark/carp) - A modular indexer for Cardano with an SQL Postgres backend (an alternative to the well known cardano-db-sync)
 - [01mf02/jaq](https://github.com/01mf02/jaq) - A jq clone focussed on correctness, speed, and simplicity
+- [txpipe/asteria](https://github.com/txpipe/asteria) - A Cardano bot challenge to showcase the capabilities of the eUTxO model.
 - [primetype/cbor_event](https://github.com/primetype/cbor_event) - cbor library in rust
 - [godot-rust/gdext](https://github.com/godot-rust/gdext) - Rust bindings for Godot 4
 - [imsnif/weather-pal](https://github.com/imsnif/weather-pal) - A Zellij plugin to get weather information inside the terminal
@@ -2643,7 +2645,7 @@
 - [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner
 - [openshift/cincinnati](https://github.com/openshift/cincinnati) - 
 - [tjdevries/vim9jit](https://github.com/tjdevries/vim9jit) - a vim9script -&gt; lua transpiler (written in Rust)
-- [marc2332/freya-editor](https://github.com/marc2332/freya-editor) - Experimental code editor made with Freya 🦀
+- [marc2332/valin](https://github.com/marc2332/valin) - Cross-platform code editor made with Freya 🦀 and Rust
 - [y21/tl](https://github.com/y21/tl) - Fast, zero-copy HTML Parser written in Rust
 - [vercel/turbo](https://github.com/vercel/turbo) - Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turbopack and Turborepo.
 - [metrics-rs/quanta](https://github.com/metrics-rs/quanta) - high-speed timing library in Rust
@@ -3214,7 +3216,6 @@
 - [daltonmenezes/aura-theme](https://github.com/daltonmenezes/aura-theme) - ✨ A beautiful dark theme for your favorite apps.
 - [tldraw/tldraw](https://github.com/tldraw/tldraw) - Infinite canvas.
 - [kubero-dev/kubero](https://github.com/kubero-dev/kubero) - A free and self-hosted Heroku PaaS alternative for Kubernetes that implements GitOps
-- [txpipe/asteria](https://github.com/txpipe/asteria) - A Cardano bot challenge to showcase the capabilities of the eUTxO model.
 - [smolck/uivonim](https://github.com/smolck/uivonim) - Fork of the Veonim Neovim GUI
 - [actions/dependency-review-action](https://github.com/actions/dependency-review-action) - A GitHub Action for detecting vulnerable dependencies and invalid licenses in your PRs
 - [githubnext/monaspace](https://github.com/githubnext/monaspace) - An innovative superfamily of fonts for code
