@@ -332,6 +332,7 @@
 
 ## Go 
 
+- [opentofu/opentofu](https://github.com/opentofu/opentofu) - OpenTofu lets you declaratively manage your cloud infrastructure.
 - [eksctl-io/eksctl](https://github.com/eksctl-io/eksctl) - The official CLI for Amazon EKS
 - [kedacore/keda](https://github.com/kedacore/keda) - KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes
 - [k3d-io/k3d](https://github.com/k3d-io/k3d) - Little helper to run CNCF's k3s in Docker
@@ -1385,7 +1386,7 @@
 - [spacebring/react-colorizer](https://github.com/spacebring/react-colorizer) - 🌈 A Color Picker Component for React and React Native.
 - [mjsolidarios/react-native-search-filter](https://github.com/mjsolidarios/react-native-search-filter) - Modified version of react-search-input (https://github.com/enkidevs/react-search-input) to work with react-native.
 - [joe-re/async-storage-repl](https://github.com/joe-re/async-storage-repl) - AsyncStorageRepl provides you to access remote ReactNative application's AsyncStorage from your node REPL.
-- [appium/appium](https://github.com/appium/appium) - Cross-platform automation framework for all kinds of your apps built on top of W3C WebDriver protocol
+- [appium/appium](https://github.com/appium/appium) - Cross-platform automation framework for all kinds of apps, built on top of the W3C WebDriver protocol
 - [mdx-js/mdx](https://github.com/mdx-js/mdx) - Markdown for the component era
 - [typicode/json-server](https://github.com/typicode/json-server) - Get a full fake REST API with zero coding in less than 30 seconds (seriously)
 - [redux-form/redux-form](https://github.com/redux-form/redux-form) - A Higher Order Component using react-redux to keep form state in a Redux store
@@ -2368,6 +2369,7 @@
 
 ## Rust 
 
+- [borgo-lang/borgo](https://github.com/borgo-lang/borgo) - Borgo is a statically typed language that compiles to Go.
 - [zkcrypto/bellman](https://github.com/zkcrypto/bellman) - zk-SNARK library.
 - [johanhelsing/matchbox](https://github.com/johanhelsing/matchbox) - Painless peer-to-peer WebRTC networking for rust wasm (and native!)
 - [paritytech/smoldot](https://github.com/paritytech/smoldot) - Alternative client for Substrate-based chains.
