@@ -715,6 +715,7 @@
 
 ## Haskell 
 
+- [hasura/kriti-lang](https://github.com/hasura/kriti-lang) - A minimal JSON templating language
 - [CardanoSolutions/ogmios](https://github.com/CardanoSolutions/ogmios) - ❇️ A WebSocket JSON/RPC bridge for Cardano
 - [ndmitchell/ghcid](https://github.com/ndmitchell/ghcid) - Very low feature GHCi based IDE
 - [IntersectMBO/cardano-addresses](https://github.com/IntersectMBO/cardano-addresses) - Addresses and mnemonic manipulation & derivations
