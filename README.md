@@ -2374,6 +2374,11 @@
 
 ## Rust 
 
+- [meteroid-oss/meteroid](https://github.com/meteroid-oss/meteroid) - Open-source Pricing and Billing Infrastructure 🚀 Subscription management, Invoicing, Pricing, Usage-based billing, Cost limiting, Grandfathering, Experiments, Revenue analytics & Actionable insights
+- [linebender/vello](https://github.com/linebender/vello) - An experimental GPU compute-centric 2D renderer.
+- [linebender/xilem](https://github.com/linebender/xilem) - An experimental Rust native UI framework
+- [linebender/masonry](https://github.com/linebender/masonry) - Rust UI design toolkit.
+- [linebender/parley](https://github.com/linebender/parley) - Rich text layout library
 - [borgo-lang/borgo](https://github.com/borgo-lang/borgo) - Borgo is a statically typed language that compiles to Go.
 - [zkcrypto/bellman](https://github.com/zkcrypto/bellman) - zk-SNARK library.
 - [johanhelsing/matchbox](https://github.com/johanhelsing/matchbox) - Painless peer-to-peer WebRTC networking for rust wasm (and native!)
