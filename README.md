@@ -2110,6 +2110,7 @@
 
 ## Python 
 
+- [peter-evans/docker-compose-actions-workflow](https://github.com/peter-evans/docker-compose-actions-workflow) - GitHub Actions workflow example using Docker Compose to build and test a multi-container stack
 - [Flagsmith/flagsmith](https://github.com/Flagsmith/flagsmith) - Open Source Feature Flagging and Remote Config Service. Host on-prem or use our hosted version at https://flagsmith.com/
 - [aws/aws-sam-cli](https://github.com/aws/aws-sam-cli) - CLI tool to build, test, debug, and deploy Serverless applications using AWS SAM
 - [3b1b/manim](https://github.com/3b1b/manim) - Animation engine for explanatory math videos
