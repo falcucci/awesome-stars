@@ -1767,7 +1767,7 @@
 - [wbthomason/packer.nvim](https://github.com/wbthomason/packer.nvim) - A use-package inspired plugin manager for Neovim. Uses native packages, supports Luarocks dependencies, written in Lua, allows for expressive config
 - [folke/lazy.nvim](https://github.com/folke/lazy.nvim) - 💤 A modern plugin manager for Neovim
 - [zbirenbaum/copilot.lua](https://github.com/zbirenbaum/copilot.lua) - Fully featured & enhanced replacement for copilot.vim complete with API for interacting with Github Copilot
-- [Sanix-Darker/snips.nvim](https://github.com/Sanix-Darker/snips.nvim) - Create snips from your vim/nvim editor
+- [Sanix-Darker/snips.nvim](https://github.com/Sanix-Darker/snips.nvim) - Create snips from your vim/nvim editor, code wrapper of snips.sh
 - [akinsho/toggleterm.nvim](https://github.com/akinsho/toggleterm.nvim) - A neovim lua plugin to help easily manage multiple terminal windows
 - [jinh0/eyeliner.nvim](https://github.com/jinh0/eyeliner.nvim) - 👀 Move faster with unique f/F indicators.
 - [nullchilly/fsread.nvim](https://github.com/nullchilly/fsread.nvim) - Flow state reading in neovim
