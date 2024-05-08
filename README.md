@@ -97,6 +97,7 @@
 
 ## C 
 
+- [qemu/qemu](https://github.com/qemu/qemu) - Official QEMU mirror. Please see https://www.qemu.org/contribute/ for how to submit changes to QEMU. Pull Requests are ignored. Please only use release tarballs from the QEMU website.
 - [valkey-io/valkey](https://github.com/valkey-io/valkey) - A new project to resume development on the formerly open-source Redis project. We're calling it Valkey, since it's a twist on the key-value datastore.
 - [hasura/skor](https://github.com/hasura/skor) - Now part of Hasura GraphQL Engine. Listen to postgres events and forward them as JSON payloads to a webhook
 - [zigzap/zap](https://github.com/zigzap/zap) - blazingly fast backends in zig
@@ -3207,6 +3208,7 @@
 
 ## TypeScript 
 
+- [docker/login-action](https://github.com/docker/login-action) - GitHub Action to login against a Docker registry
 - [docker/build-push-action](https://github.com/docker/build-push-action) - GitHub Action to build and push Docker images with Buildx
 - [neoclide/coc-git](https://github.com/neoclide/coc-git) - Git integration of coc.nvim
 - [pulumi/pulumi-cloud](https://github.com/pulumi/pulumi-cloud) - A highly productive multi-cloud framework for containers, serverless, and data
@@ -3229,7 +3231,7 @@
 - [cardano-foundation/cardano-verify-datasignature](https://github.com/cardano-foundation/cardano-verify-datasignature) - A lightweight typescript library to verify a cip30 datasignature
 - [txpipe/laceanatomy](https://github.com/txpipe/laceanatomy) - Lets dissect Cardano data
 - [input-output-hk/cardano-js-sdk](https://github.com/input-output-hk/cardano-js-sdk) - JavaScript SDK for interacting with Cardano, providing various key management options, with support for popular hardware wallets
-- [butaneprotocol/translucent-compat](https://github.com/butaneprotocol/translucent-compat) - This is the compatibility layer to use translucent utilities with a Lucid api.
+- [butaneprotocol/translucent-compat](https://github.com/butaneprotocol/translucent-compat) - Deprecated in favour of blaze https://github.com/butaneprotocol/blaze-cardano
 - [vscode-neovim/vscode-neovim](https://github.com/vscode-neovim/vscode-neovim) - Vim mode for VSCode, powered by Neovim
 - [daltonmenezes/aura-theme](https://github.com/daltonmenezes/aura-theme) - ✨ A beautiful dark theme for your favorite apps.
 - [tldraw/tldraw](https://github.com/tldraw/tldraw) - SDK for creating whiteboards and canvas experiences on the web.
