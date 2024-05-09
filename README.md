@@ -3757,7 +3757,7 @@
 - [monkoose/vim9-stargate](https://github.com/monkoose/vim9-stargate) - modern alternative to easymotion written in vim9
 - [skywind3000/vim-quickui](https://github.com/skywind3000/vim-quickui) - The missing UI extensions for Vim 9 (and NeoVim) !! :sunglasses:
 - [justinmk/vim-dirvish](https://github.com/justinmk/vim-dirvish) - Directory viewer for Vim :zap:
-- [lambdalisue/fern.vim](https://github.com/lambdalisue/fern.vim) - 🌿 General purpose asynchronous tree viewer written in Pure Vim script
+- [lambdalisue/vim-fern](https://github.com/lambdalisue/vim-fern) - 🌿 General purpose asynchronous tree viewer written in Pure Vim script
 - [crusoexia/vim-dracula](https://github.com/crusoexia/vim-dracula) - Refined Dracula color scheme for Vim, color palettes are from https://github.com/zenorocha/dracula-theme.
 - [tpope/vim-speeddating](https://github.com/tpope/vim-speeddating) - speeddating.vim: use CTRL-A/CTRL-X to increment dates, times, and more
 - [github/copilot.vim](https://github.com/github/copilot.vim) - Neovim plugin for GitHub Copilot
@@ -3828,7 +3828,7 @@
 - [junegunn/gv.vim](https://github.com/junegunn/gv.vim) - A git commit browser in Vim
 - [amix/vimrc](https://github.com/amix/vimrc) - The ultimate Vim configuration (vimrc)
 - [caenrique/nvim-toggle-terminal](https://github.com/caenrique/nvim-toggle-terminal) - NeoVim plugin that toggles a terminal buffer in the current window maintaining the same shell instance
-- [lambdalisue/wifi.vim](https://github.com/lambdalisue/wifi.vim) - Show wifi information on statusline/tabline of Neovim/Vim
+- [lambdalisue/vim-wifi](https://github.com/lambdalisue/vim-wifi) - Show wifi information on statusline/tabline of Neovim/Vim
 - [will133/vim-dirdiff](https://github.com/will133/vim-dirdiff) - Vim plugin to diff two directories
 - [itchyny/lightline.vim](https://github.com/itchyny/lightline.vim) - A light and configurable statusline/tabline plugin for Vim
 - [mhinz/vim-galore](https://github.com/mhinz/vim-galore) - :mortar_board: All things Vim!
