@@ -771,6 +771,7 @@
 
 ## Java 
 
+- [bloxbean/yaci-devkit](https://github.com/bloxbean/yaci-devkit) - A set of dev tools for development on Cardano.
 - [HamburgChimps/apple-notes-liberator](https://github.com/HamburgChimps/apple-notes-liberator) - Free your Apple Notes data from Notes.app
 - [matheusmendes-dev/store-print-ml](https://github.com/matheusmendes-dev/store-print-ml) - Teste na busca de impressoras
 - [elastic/elasticsearch](https://github.com/elastic/elasticsearch) - Free and Open, Distributed, RESTful Search Engine
@@ -1835,7 +1836,6 @@
 
 ## Makefile 
 
-- [chrisgrieser/finder-vim-mode](https://github.com/chrisgrieser/finder-vim-mode) - Feature-rich mouseless control of macOS Finder, inspired by vim/ranger.
 - [badboy/makerust](https://github.com/badboy/makerust) - Rust, but in a Makefile.
 - [PostgresApp/PostgresApp](https://github.com/PostgresApp/PostgresApp) - The easiest way to get started with PostgreSQL on the Mac
 - [golang-standards/project-layout](https://github.com/golang-standards/project-layout) - Standard Go Project Layout
@@ -3048,7 +3048,6 @@
 
 ## Shell 
 
-- [bloxbean/yaci-devkit](https://github.com/bloxbean/yaci-devkit) - A set of dev tools for development on Cardano.
 - [akinomyoga/ble.sh](https://github.com/akinomyoga/ble.sh) - Bash Line Editor―a line editor written in pure Bash with syntax highlighting, auto suggestions, vim modes, etc. for Bash interactive sessions.
 - [hasura/ndc-hub](https://github.com/hasura/ndc-hub) - 
 - [create-dmg/create-dmg](https://github.com/create-dmg/create-dmg) - A shell script to build fancy DMGs
@@ -3060,6 +3059,7 @@
 - [OpenBMB/ChatDev](https://github.com/OpenBMB/ChatDev) - Create Customized Software using Natural Language Idea (through LLM-powered Multi-Agent Collaboration)
 - [nix-community/nixos-anywhere](https://github.com/nix-community/nixos-anywhere) - install nixos everywhere via ssh [maintainer=@numtide]
 - [dylanaraps/fff](https://github.com/dylanaraps/fff) - 📁 A simple file manager written in bash.
+- [chrisgrieser/finder-vim-mode](https://github.com/chrisgrieser/finder-vim-mode) - Feature-rich mouseless control of macOS Finder, inspired by vim/ranger.
 - [codespaces-examples/rust](https://github.com/codespaces-examples/rust) - 
 - [bigH/git-fuzzy](https://github.com/bigH/git-fuzzy) - interactive `git` with the help of `fzf`
 - [hrantzsch/vimclip](https://github.com/hrantzsch/vimclip) - Never type outside vim again
