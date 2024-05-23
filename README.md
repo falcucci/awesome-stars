@@ -153,6 +153,7 @@
 
 ## C# # 
 
+- [marlowe-contrib/marlowe-csharp-sdk](https://github.com/marlowe-contrib/marlowe-csharp-sdk) - 
 - [volvo-cars/congestion-tax-calculator](https://github.com/volvo-cars/congestion-tax-calculator) - A developer test assignment used as basis for candidate interview and evaluation.
 - [evgeny-nadymov/telegram-wp](https://github.com/evgeny-nadymov/telegram-wp) - Telegram Messenger for Windows Phone
 - [XamlAnimatedGif/WpfAnimatedGif](https://github.com/XamlAnimatedGif/WpfAnimatedGif) - A simple library to display animated GIF images in WPF, usable in XAML or in code.
@@ -1656,7 +1657,7 @@
 - [Pheon-Dev/pigeon](https://github.com/Pheon-Dev/pigeon) - Neovim plugin packed with modules  ( battery, wifi, date, time, day  etc) to litter the statusline and winbar
 - [sontungexpt/sttusline](https://github.com/sontungexpt/sttusline) - A very lightweight, super fast and lazyloading statusline plugin for Neovim written in lua.
 - [sontungexpt/url-open](https://github.com/sontungexpt/url-open) - Minimal plugin allow you to open url under cursor in neovim without netrw with default browser of your system and highlight url
-- [chrisgrieser/nvim-tinygit](https://github.com/chrisgrieser/nvim-tinygit) - Lightweight and nimble git client for nvim.
+- [chrisgrieser/nvim-tinygit](https://github.com/chrisgrieser/nvim-tinygit) - A lightweight bundle of commands focussed on swift and streamlined git operations.
 - [nanozuki/tabby.nvim](https://github.com/nanozuki/tabby.nvim) - A declarative, highly configurable, and neovim style tabline plugin. Use your nvim tabs as a workspace multiplexer!
 - [scottmckendry/cyberdream.nvim](https://github.com/scottmckendry/cyberdream.nvim) - 🤖💤 High-contrast, Futuristic & Vibrant Coloursheme for Neovim
 - [soulis-1256/eagle.nvim](https://github.com/soulis-1256/eagle.nvim) - Show diagnostics and lsp info inside a custom window, following the mouse position
@@ -1889,6 +1890,7 @@
 
 ## Others 
 
+- [marlowe-contrib/marlowe-go-sdk](https://github.com/marlowe-contrib/marlowe-go-sdk) - 
 - [Imgkl/the-dark-side](https://github.com/Imgkl/the-dark-side) - True Dark Theme for Zed IDE
 - [pragma-org/amaru](https://github.com/pragma-org/amaru) - A node client for Cardano, written in Rust
 - [napptive/kubecon-23-oam-kubevela-tutorial](https://github.com/napptive/kubecon-23-oam-kubevela-tutorial) - Material for the KubeCon EU 2023 tutorial about Open Application Model and KubeVela
@@ -2113,6 +2115,7 @@
 
 ## Python 
 
+- [marlowe-contrib/marlowe-python-sdk](https://github.com/marlowe-contrib/marlowe-python-sdk) - 
 - [kholia/OSX-KVM](https://github.com/kholia/OSX-KVM) - Run macOS on QEMU/KVM. With OpenCore + Monterey + Ventura + Sonoma support now! Only commercial (paid) support is available now to avoid spammy issues. No Mac system is required.
 - [peter-evans/docker-compose-actions-workflow](https://github.com/peter-evans/docker-compose-actions-workflow) - GitHub Actions workflow example using Docker Compose to build and test a multi-container stack
 - [Flagsmith/flagsmith](https://github.com/Flagsmith/flagsmith) - Open Source Feature Flagging and Remote Config Service. Host on-prem or use our hosted version at https://flagsmith.com/
@@ -2380,6 +2383,7 @@
 
 ## Rust 
 
+- [marlowe-contrib/marlowe-rust-sdk](https://github.com/marlowe-contrib/marlowe-rust-sdk) - 
 - [HigherOrderCO/Bend](https://github.com/HigherOrderCO/Bend) - A massively parallel, high-level programming language
 - [awslabs/mountpoint-s3](https://github.com/awslabs/mountpoint-s3) - A simple, high-throughput file client for mounting an Amazon S3 bucket as a local file system.
 - [smol-dot/smoldot](https://github.com/smol-dot/smoldot) - Lightweight client for Substrate-based chains, such as Polkadot and Kusama.
@@ -3216,6 +3220,8 @@
 
 ## TypeScript 
 
+- [marlowe-contrib/marlowe-typescript-sdk](https://github.com/marlowe-contrib/marlowe-typescript-sdk) - 
+- [tale/kubectl-action](https://github.com/tale/kubectl-action) - GitHub Action to manage a K8s cluster using kubectl
 - [docker/login-action](https://github.com/docker/login-action) - GitHub Action to login against a Docker registry
 - [docker/build-push-action](https://github.com/docker/build-push-action) - GitHub Action to build and push Docker images with Buildx
 - [neoclide/coc-git](https://github.com/neoclide/coc-git) - Git integration of coc.nvim
