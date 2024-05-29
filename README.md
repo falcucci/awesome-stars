@@ -2383,6 +2383,8 @@
 
 ## Rust 
 
+- [oSumAtrIX/DownOnSpot](https://github.com/oSumAtrIX/DownOnSpot) - 🎧 A Spotify music and playlist downloader working with free Spotify accounts written in Rust
+- [neovide/vide](https://github.com/neovide/vide) - A straightforward wgpu renderer for 2d interfaces
 - [ast-grep/ast-grep](https://github.com/ast-grep/ast-grep) - ⚡A CLI tool for code structural search, lint and rewriting. Written in Rust
 - [marlowe-contrib/marlowe-rust-sdk](https://github.com/marlowe-contrib/marlowe-rust-sdk) - 
 - [HigherOrderCO/Bend](https://github.com/HigherOrderCO/Bend) - A massively parallel, high-level programming language
