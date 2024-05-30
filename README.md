@@ -2383,6 +2383,7 @@
 
 ## Rust 
 
+- [fresh2dev/zellij-autolock](https://github.com/fresh2dev/zellij-autolock) - autolock Zellij when certain processes open.
 - [oSumAtrIX/DownOnSpot](https://github.com/oSumAtrIX/DownOnSpot) - 🎧 A Spotify music and playlist downloader working with free Spotify accounts written in Rust
 - [neovide/vide](https://github.com/neovide/vide) - A straightforward wgpu renderer for 2d interfaces
 - [ast-grep/ast-grep](https://github.com/ast-grep/ast-grep) - ⚡A CLI tool for code structural search, lint and rewriting. Written in Rust
@@ -2393,7 +2394,7 @@
 - [meteroid-oss/meteroid](https://github.com/meteroid-oss/meteroid) - Open-source Pricing and Billing Infrastructure 🚀 Subscription management, Invoicing, Pricing, Usage-based billing, Cost limiting, Grandfathering, Experiments, Revenue analytics & Actionable insights
 - [linebender/vello](https://github.com/linebender/vello) - An experimental GPU compute-centric 2D renderer.
 - [linebender/xilem](https://github.com/linebender/xilem) - An experimental Rust native UI framework
-- [linebender/masonry](https://github.com/linebender/masonry) - Rust UI design toolkit.
+- [linebender/masonry](https://github.com/linebender/masonry) - Rust UI design toolkit - moved.
 - [linebender/parley](https://github.com/linebender/parley) - Rich text layout library
 - [borgo-lang/borgo](https://github.com/borgo-lang/borgo) - Borgo is a statically typed language that compiles to Go.
 - [zkcrypto/bellman](https://github.com/zkcrypto/bellman) - zk-SNARK library.
