@@ -2928,7 +2928,6 @@
 - [coastalwhite/lemurs](https://github.com/coastalwhite/lemurs) - A customizable TUI display/login manager written in Rust 🐒
 - [ia0/data-encoding](https://github.com/ia0/data-encoding) - Efficient and customizable data-encoding functions in Rust
 - [alex/csv-sql](https://github.com/alex/csv-sql) - Query your CSV files with SQL
-- [falcucci/rust-in-practice](https://github.com/falcucci/rust-in-practice) - A bunch of exercises to learn Rust properly.
 - [rust-lang/rustfix](https://github.com/rust-lang/rustfix) - Automatically apply the suggestions made by rustc
 - [assert-rs/assert_cmd](https://github.com/assert-rs/assert_cmd) - Assert process::Command - Easy command initialization and assertions
 - [clap-rs/clap](https://github.com/clap-rs/clap) - A full featured, fast Command Line Argument Parser for Rust
