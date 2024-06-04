@@ -389,7 +389,7 @@
 - [bensadeh/circumflex](https://github.com/bensadeh/circumflex) - 🌿 It's Hacker News in your terminal
 - [matryer/moq](https://github.com/matryer/moq) - Interface mocking tool for go generate
 - [matryer/xbar](https://github.com/matryer/xbar) - Put the output from any script or program into your macOS Menu Bar (the BitBar reboot)
-- [cosmtrek/air](https://github.com/cosmtrek/air) - ☁️ Live reload for Go apps
+- [air-verse/air](https://github.com/air-verse/air) - ☁️ Live reload for Go apps
 - [binwiederhier/ntfy](https://github.com/binwiederhier/ntfy) - Send push notifications to your phone or desktop using PUT/POST
 - [luizalabs/mitose](https://github.com/luizalabs/mitose) - 
 - [neondatabase/autoscaling](https://github.com/neondatabase/autoscaling) - Postgres vertical autoscaling in k8s
