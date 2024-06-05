@@ -939,7 +939,6 @@
 - [hasura/hasura-k8s-stack](https://github.com/hasura/hasura-k8s-stack) - A feature-complete Hasura stack on Kubernetes
 - [hasura/hasura-actions-examples](https://github.com/hasura/hasura-actions-examples) - Examples of handling custom business logic with Hasura Actions
 - [iuccio/csvToJson](https://github.com/iuccio/csvToJson) - Convert CSV file to JSON
-- [falcucci/blog-me-api](https://github.com/falcucci/blog-me-api) - Cloud Academy assignment
 - [falcucci/transactions-sample](https://github.com/falcucci/transactions-sample) - Sample transaction service.
 - [mafintosh/why-is-node-running](https://github.com/mafintosh/why-is-node-running) - Node is running but you don't know why? why-is-node-running is here to help you.
 - [mafintosh/torrent-stream](https://github.com/mafintosh/torrent-stream) - The low level streaming torrent engine that peerflix uses
@@ -2038,7 +2037,6 @@
 - [facebook/react-devtools](https://github.com/facebook/react-devtools) - An extension that allows inspection of React component hierarchy in the Chrome and Firefox Developer Tools.
 - [jiangfengming/webpack-and-spa-guide](https://github.com/jiangfengming/webpack-and-spa-guide) - Webpack 4 和单页应用入门
 - [davo/awesome-react-framer-x](https://github.com/davo/awesome-react-framer-x) - A collection of awesome links to learn React, ES6 & Framer X
-- [falcucci/ex-activity-starter](https://github.com/falcucci/ex-activity-starter) - An app that opens external apps based on your parameters :calling:
 - [firefox-devtools/debugger](https://github.com/firefox-devtools/debugger) - The faster and smarter Debugger for Firefox DevTools 🔥🦊🛠
 - [wasabeef/awesome-android-ui](https://github.com/wasabeef/awesome-android-ui) - A curated list of awesome Android UI/UX libraries
 - [InterviewMap/CS-Interview-Knowledge-Map](https://github.com/InterviewMap/CS-Interview-Knowledge-Map) - Build the best interview map. The current content includes JS, network, browser related, performance optimization, security, framework, Git, data structure, algorithm, etc.
@@ -2595,7 +2593,7 @@
 - [Qiskit/rustworkx](https://github.com/Qiskit/rustworkx) - A high performance Python graph library implemented in Rust.
 - [icedland/iced](https://github.com/icedland/iced) - Blazing fast and correct x86/x64 disassembler, assembler, decoder, encoder for Rust, .NET, Java, Python, Lua
 - [reinterpretcat/vrp](https://github.com/reinterpretcat/vrp) - A Vehicle Routing Problem solver
-- [Pometry/Raphtory](https://github.com/Pometry/Raphtory) - Blazingly fast, vectorised, parallel, and scalable temporal graph engine for Rust, Python and JavaScript
+- [Pometry/Raphtory](https://github.com/Pometry/Raphtory) - Blazingly fast, vectorised, parallel, and scalable embedded graph database and analytics engine for Rust, Python and JavaScript
 - [hubblo-org/scaphandre](https://github.com/hubblo-org/scaphandre) - ⚡ Energy consumption metrology agent. Let "scaph" dive and bring back the metrics that will help you make your systems and applications more sustainable !
 - [raphamorim/rio](https://github.com/raphamorim/rio) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
 - [gabotechs/signway](https://github.com/gabotechs/signway) - Bring the power of pre-signed URLs to your apps. Signway is a gateway for redirecting ephimeral signed URLs to the requested API
