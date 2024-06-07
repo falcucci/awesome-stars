@@ -2462,7 +2462,7 @@
 - [glicol/glicol-wgpu](https://github.com/glicol/glicol-wgpu) - A wgpu-based code editor for Glicol programming language, offering cross-platform functionality for desktop and web browsers, powered by WebGPU.
 - [ekzhang/sshx](https://github.com/ekzhang/sshx) - Fast, collaborative live terminal sharing over the web
 - [veeso/tuifeed](https://github.com/veeso/tuifeed) - 📰 A terminal feed reader with a fancy ui
-- [llenotre/maestro](https://github.com/llenotre/maestro) - Unix-like kernel written in Rust
+- [maestro-os/maestro](https://github.com/maestro-os/maestro) - Unix-like kernel written in Rust
 - [gavlig/kodiki](https://github.com/gavlig/kodiki) - 
 - [Equim-chan/Mortal](https://github.com/Equim-chan/Mortal) - 🚀🀄️ A fast and strong AI for riichi mahjong, powered by Rust and deep reinforcement learning.
 - [mullvad/udp-over-tcp](https://github.com/mullvad/udp-over-tcp) - Proxy UDP traffic over a TCP stream
