@@ -358,7 +358,7 @@
 - [zolamk/hasura-exporter](https://github.com/zolamk/hasura-exporter) - Hasura Prometheus Exporter
 - [sony/appsync-client-go](https://github.com/sony/appsync-client-go) - AWS AppSync golang client library
 - [prometheus/prometheus](https://github.com/prometheus/prometheus) - The Prometheus monitoring system and time series database.
-- [gabotechs/dep-tree](https://github.com/gabotechs/dep-tree) - tool for helping developers keep their code bases clean and decoupled. It allows visualising a code base complexity using a 3d force-directed graph of files and the dependencies between.
+- [gabotechs/dep-tree](https://github.com/gabotechs/dep-tree) - tool for helping developers keep their code bases clean and decoupled. It allows visualising a code base complexity using a 3d force-directed graph of files and the dependencies between them.
 - [runatlantis/atlantis](https://github.com/runatlantis/atlantis) - Terraform Pull Request Automation
 - [gavinbunney/terraform-provider-kubectl](https://github.com/gavinbunney/terraform-provider-kubectl) - Terraform provider to handle raw kubernetes manifest yaml files
 - [kubevela/velaux](https://github.com/kubevela/velaux) - The KubeVela User Experience (UX) Platform
@@ -850,6 +850,7 @@
 
 ## JavaScript 
 
+- [substrate-developer-hub/substrate-front-end-template](https://github.com/substrate-developer-hub/substrate-front-end-template) - A Polkadot.js API + React based template for building Substrate Front Ends
 - [aws-actions/setup-sam](https://github.com/aws-actions/setup-sam) - Action to set up AWS SAM CLI and add it to the PATH
 - [dherault/serverless-offline](https://github.com/dherault/serverless-offline) - Emulate AWS λ and API Gateway locally when developing your Serverless project
 - [abhi40308/instagram-clone](https://github.com/abhi40308/instagram-clone) - Instagram clone using apollo, react and graphQl (hasura-graphQl engine)
@@ -1844,7 +1845,7 @@
 
 ## Markdown 
 
-- [apple/swift-evolution](https://github.com/apple/swift-evolution) - This maintains proposals for changes and user-visible enhancements to the Swift Programming Language.
+- [swiftlang/swift-evolution](https://github.com/swiftlang/swift-evolution) - This maintains proposals for changes and user-visible enhancements to the Swift Programming Language.
 - [rust-lang/rfcs](https://github.com/rust-lang/rfcs) - RFCs for changes to Rust
 
 ## Mojo 
@@ -1890,6 +1891,7 @@
 
 ## Others 
 
+- [substrate-developer-hub/awesome-substrate](https://github.com/substrate-developer-hub/awesome-substrate) - A curated list of awesome projects and resources related to the Substrate blockchain development framework.
 - [marlowe-contrib/marlowe-go-sdk](https://github.com/marlowe-contrib/marlowe-go-sdk) - 
 - [Imgkl/the-dark-side](https://github.com/Imgkl/the-dark-side) - True Dark Theme for Zed IDE
 - [pragma-org/amaru](https://github.com/pragma-org/amaru) - A node client for Cardano, written in Rust
@@ -2381,6 +2383,12 @@
 
 ## Rust 
 
+- [dtolnay/cargo-expand](https://github.com/dtolnay/cargo-expand) - Subcommand to show result of macro expansion
+- [Off-Narrative-Labs/Tuxedo](https://github.com/Off-Narrative-Labs/Tuxedo) - Write UTXO-based Substrate Runtimes
+- [substrate-developer-hub/substrate-node-template](https://github.com/substrate-developer-hub/substrate-node-template) - A new FRAME-based Substrate node, ready for hacking.
+- [paritytech/parity-scale-codec](https://github.com/paritytech/parity-scale-codec) - Lightweight, efficient, binary serialization and deserialization codec
+- [Polkadot-Blockchain-Academy/Academy-PoW](https://github.com/Polkadot-Blockchain-Academy/Academy-PoW) - PoW blockchain node to gain hands-on experience starting a real network together
+- [JoshOrndorff/blockchain-from-scratch](https://github.com/JoshOrndorff/blockchain-from-scratch) - A tutorial to build your own blockchain in Rust from the ground up
 - [loro-dev/loro](https://github.com/loro-dev/loro) - Reimagine state management with CRDTs. Make your app collaborative effortlessly.
 - [bottlerocket-os/bottlerocket](https://github.com/bottlerocket-os/bottlerocket) - An operating system designed for hosting containers
 - [mstange/samply](https://github.com/mstange/samply) - Command-line sampling profiler for macOS and Linux
@@ -3226,6 +3234,7 @@
 
 ## TypeScript 
 
+- [polkadot-js/apps](https://github.com/polkadot-js/apps) - Basic Polkadot/Substrate UI for interacting with a Polkadot and Substrate node. This is the main user-facing application, allowing access to all features available on Substrate chains.
 - [marlowe-contrib/marlowe-typescript-sdk](https://github.com/marlowe-contrib/marlowe-typescript-sdk) - 
 - [tale/kubectl-action](https://github.com/tale/kubectl-action) - GitHub Action to manage a K8s cluster using kubectl
 - [docker/login-action](https://github.com/docker/login-action) - GitHub Action to login against a Docker registry
