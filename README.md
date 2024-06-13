@@ -166,6 +166,7 @@
 
 ## C++ 
 
+- [redpanda-data/redpanda](https://github.com/redpanda-data/redpanda) - Redpanda is a streaming data platform for developers. Kafka API compatible. 10x faster. No ZooKeeper. No JVM!
 - [WerWolv/ImHex](https://github.com/WerWolv/ImHex) - 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.
 - [wolfpld/tracy](https://github.com/wolfpld/tracy) - Frame profiler
 - [NixOS/nix](https://github.com/NixOS/nix) - Nix, the purely functional package manager
@@ -850,6 +851,8 @@
 
 ## JavaScript 
 
+- [substrate-developer-hub/substrate-developer-hub.github.io](https://github.com/substrate-developer-hub/substrate-developer-hub.github.io) - Substrate Documentation
+- [LaurentTrk/ki.dot](https://github.com/LaurentTrk/ki.dot) - Bring Chainlink Price Feeds to Polkadot Substrate Chain
 - [substrate-developer-hub/substrate-front-end-template](https://github.com/substrate-developer-hub/substrate-front-end-template) - A Polkadot.js API + React based template for building Substrate Front Ends
 - [aws-actions/setup-sam](https://github.com/aws-actions/setup-sam) - Action to set up AWS SAM CLI and add it to the PATH
 - [dherault/serverless-offline](https://github.com/dherault/serverless-offline) - Emulate AWS λ and API Gateway locally when developing your Serverless project
@@ -985,7 +988,6 @@
 - [sleeyax/stremio-discord](https://github.com/sleeyax/stremio-discord) - Local addon that shows the movie or series you're watching in Discord
 - [Stremio/stremio-web](https://github.com/Stremio/stremio-web) - Stremio - Freedom to Stream
 - [Stremio/stremio-addon-sdk](https://github.com/Stremio/stremio-addon-sdk) - 🧙 A Node.js SDK for creating and publishing Stremio add-ons
-- [markedjs/marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed.
 - [JessicaSachs/carbon](https://github.com/JessicaSachs/carbon) - 🎨 Create and share beautiful images of your source code
 - [chjj/ttystudio](https://github.com/chjj/ttystudio) - A terminal-to-gif recorder minus the headaches.
 - [wix/Detox](https://github.com/wix/Detox) - Gray box end-to-end testing and automation framework for mobile apps
@@ -2383,6 +2385,11 @@
 
 ## Rust 
 
+- [Acurast/acurast-substrate](https://github.com/Acurast/acurast-substrate) - Acurast's own Substrate chain.
+- [bifrost-finance/bifrost](https://github.com/bifrost-finance/bifrost) - A parachain focused on building bridges of chains based on PoS consensus.
+- [ComposableFi/composable](https://github.com/ComposableFi/composable) - Picasso Kusama and Composable Polkadot parachains
+- [zeitgeistpm/zeitgeist](https://github.com/zeitgeistpm/zeitgeist) - An evolving blockchain for prediction markets and futarchy.
+- [centrifuge/centrifuge-chain](https://github.com/centrifuge/centrifuge-chain) - Centrifuge Chain: the layer-1 blockchain for real-world assets, built on Substrate.
 - [dtolnay/cargo-expand](https://github.com/dtolnay/cargo-expand) - Subcommand to show result of macro expansion
 - [Off-Narrative-Labs/Tuxedo](https://github.com/Off-Narrative-Labs/Tuxedo) - Write UTXO-based Substrate Runtimes
 - [substrate-developer-hub/substrate-node-template](https://github.com/substrate-developer-hub/substrate-node-template) - A new FRAME-based Substrate node, ready for hacking.
@@ -3296,7 +3303,7 @@
 - [agmmnn/tauri-ui](https://github.com/agmmnn/tauri-ui) - 🦀 Create modern Tauri desktop apps in just a few simple steps with shadcn/ui. React, Next.js, Sveltekit.
 - [pomber/stargazer](https://github.com/pomber/stargazer) - Your repo reached a stars milestone? Celebrate with a video of your stargazers!
 - [graphile/crystal](https://github.com/graphile/crystal) - 🔮 Graphile's Crystal Monorepo; home to Grafast, PostGraphile, pg-introspection, pg-sql2 and much more!
-- [amannn/next-intl](https://github.com/amannn/next-intl) - Internationalization (i18n) for Next.js that gets out of your way. 🌐
+- [amannn/next-intl](https://github.com/amannn/next-intl) - 🌐 Internationalization (i18n) for Next.js
 - [netlify/next-runtime](https://github.com/netlify/next-runtime) - The Next.js Runtime allows Next.js to run on Netlify with zero configuration
 - [Farzin-Firoozi/react-modern-drawer](https://github.com/Farzin-Firoozi/react-modern-drawer) - 
 - [hyesungoh/comet-land](https://github.com/hyesungoh/comet-land) - Blog and Resume template :comet:
@@ -3507,6 +3514,7 @@
 - [JonnyBurger/anysticker-tutorials](https://github.com/JonnyBurger/anysticker-tutorials) - In-App tutorial videos for AnySticker
 - [remotion-dev/trailer](https://github.com/remotion-dev/trailer) - The promo video for Remotion
 - [kunalnagarco/imdb-scraper](https://github.com/kunalnagarco/imdb-scraper) - 🎬 An attempt at the most complete IMDb API
+- [markedjs/marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed.
 - [pavlobu/deskreen](https://github.com/pavlobu/deskreen) - Deskreen turns any device with a web browser into a secondary screen for your computer. ⭐️ Star to support our work!
 - [vacuumlabs/cardano-hw-cli](https://github.com/vacuumlabs/cardano-hw-cli) - Cardano CLI tool for hardware wallets
 - [mattermost/mattermost](https://github.com/mattermost/mattermost) - Mattermost is an open source platform for secure collaboration across the entire software development lifecycle..
