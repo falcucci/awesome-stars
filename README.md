@@ -2512,7 +2512,7 @@
 - [josecelano/cargo-pretty-test](https://github.com/josecelano/cargo-pretty-test) - A Rust command that prettifies the ugly `cargo test` output into a beautiful one.
 - [orbstack/pidfd-rs](https://github.com/orbstack/pidfd-rs) - Fast, polling-free approach to kill and wait for all processes to exit. Rust + Tokio, pidfd + epoll + timer
 - [nvzqz/fruity](https://github.com/nvzqz/fruity) - Rusty bindings for Apple libraries
-- [aiken-lang/aiken](https://github.com/aiken-lang/aiken) - Cardano Smart Contracts
+- [aiken-lang/aiken](https://github.com/aiken-lang/aiken) - A modern smart contract platform for Cardano
 - [input-output-hk/mithril](https://github.com/input-output-hk/mithril) - Stake-based threshold multi-signatures protocol
 - [txpipe/pallas](https://github.com/txpipe/pallas) - Rust-native building blocks for the Cardano blockchain ecosystem
 - [AmrDeveloper/GQL](https://github.com/AmrDeveloper/GQL) - Git Query language is a SQL like language to perform queries on .git files with supports of most of SQL features such as grouping, ordering and aggregations functions
