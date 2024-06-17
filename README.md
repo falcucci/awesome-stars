@@ -2385,6 +2385,7 @@
 
 ## Rust 
 
+- [kulupu/kulupu](https://github.com/kulupu/kulupu) - PoW blockchain with on-chain governance and online upgrade, built on Substrate
 - [Acurast/acurast-substrate](https://github.com/Acurast/acurast-substrate) - Acurast's own Substrate chain.
 - [bifrost-finance/bifrost](https://github.com/bifrost-finance/bifrost) - One Stake, Endless Opportunities. Build with Polkadot SDK (Substrate).
 - [ComposableFi/composable](https://github.com/ComposableFi/composable) - Picasso Kusama and Composable Polkadot parachains
