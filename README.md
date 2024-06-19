@@ -1477,7 +1477,7 @@
 - [yarnpkg/yarn](https://github.com/yarnpkg/yarn) - The 1.x line is frozen - features and bugfixes now happen on https://github.com/yarnpkg/berry
 - [orbitbot/chrome-extensions-examples](https://github.com/orbitbot/chrome-extensions-examples) - All Chrome Extension examples collected into one repository
 - [darcyclarke/rawkit](https://github.com/darcyclarke/rawkit) - 🦊 Immediately Open Chrome DevTools when debugging Node.js apps
-- [refined-bitbucket/refined-bitbucket](https://github.com/refined-bitbucket/refined-bitbucket) - Chrome and Firefox extension that improves Bitbucket's user experience
+- [refined-bitbucket/refined-bitbucket](https://github.com/refined-bitbucket/refined-bitbucket) - [NOT MAINTAINED] Chrome and Firefox extension that improves Bitbucket's user experience
 - [kdzwinel/DOMListenerExtension](https://github.com/kdzwinel/DOMListenerExtension) - Chrome extension that allows you to monitor, browse and filter all DOM changes.
 - [EmailThis/extension-boilerplate](https://github.com/EmailThis/extension-boilerplate) - ⚡️ A template for building cross browser extensions for Chrome, Opera & Firefox.
 - [Justineo/github-hovercard](https://github.com/Justineo/github-hovercard) - Neat hovercards for GitHub.
@@ -3382,7 +3382,7 @@
 - [hensm/fx_cast](https://github.com/hensm/fx_cast) - Chromecast Web Sender SDK implementation for Firefox
 - [Phineas/phineas.io](https://github.com/Phineas/phineas.io) - 👨‍💻 React app for my personal website (this is 3 years old, will rewrite it at some point!)
 - [alii/use-last-fm](https://github.com/alii/use-last-fm) - 🎸 React Hook to use realtime last.fm data and display your currently played song in your application.
-- [privatenumber/esbuild-loader](https://github.com/privatenumber/esbuild-loader) - Webpack loader for esbuild: Speed up your build ⚡️
+- [privatenumber/esbuild-loader](https://github.com/privatenumber/esbuild-loader) - 💠 Speed up your Webpack with esbuild ⚡️
 - [datejer/vercel-badge](https://github.com/datejer/vercel-badge) - Simple serverless service for embedding a Vercel deployment badge.
 - [m1guelpf/clippy-widget](https://github.com/m1guelpf/clippy-widget) - An AI-powered assistant for your company's docs.
 - [DevExpress/devextreme-reactive](https://github.com/DevExpress/devextreme-reactive) - Business React components for Bootstrap and Material-UI
