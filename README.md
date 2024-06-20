@@ -2543,7 +2543,7 @@
 - [Gadersd/stable-diffusion-burn](https://github.com/Gadersd/stable-diffusion-burn) - Stable Diffusion v1.4 ported to Rust's burn framework
 - [orf/git-workspace](https://github.com/orf/git-workspace) - Sync personal and work git repositories from multiple providers :rocket:
 - [apollographql/rover](https://github.com/apollographql/rover) - ✨🤖 🐶 The CLI for Apollo GraphOS
-- [getcord/spr](https://github.com/getcord/spr) - Submit pull requests for individual, amendable, rebaseable commits to GitHub
+- [spacedentist/spr](https://github.com/spacedentist/spr) - Submit pull requests for individual, amendable, rebaseable commits to GitHub
 - [facebook/relay](https://github.com/facebook/relay) - Relay is a JavaScript framework for building data-driven React applications.
 - [vectordotdev/vector](https://github.com/vectordotdev/vector) - A high-performance observability data pipeline.
 - [jeastham1993/rust-on-serverless](https://github.com/jeastham1993/rust-on-serverless) - Learning Rust in public
@@ -3272,7 +3272,7 @@
 - [vscode-neovim/vscode-neovim](https://github.com/vscode-neovim/vscode-neovim) - Vim mode for VSCode, powered by Neovim
 - [daltonmenezes/aura-theme](https://github.com/daltonmenezes/aura-theme) - ✨ A beautiful dark theme for your favorite apps.
 - [tldraw/tldraw](https://github.com/tldraw/tldraw) - SDK for creating whiteboards and canvas experiences on the web.
-- [kubero-dev/kubero](https://github.com/kubero-dev/kubero) - A free and self-hosted Heroku PaaS alternative for Kubernetes that implements GitOps
+- [kubero-dev/kubero](https://github.com/kubero-dev/kubero) - A free and self-hosted Heroku / Netlify / Vercel alternative for Kubernetes
 - [smolck/uivonim](https://github.com/smolck/uivonim) - Fork of the Veonim Neovim GUI
 - [actions/dependency-review-action](https://github.com/actions/dependency-review-action) - A GitHub Action for detecting vulnerable dependencies and invalid licenses in your PRs
 - [githubnext/monaspace](https://github.com/githubnext/monaspace) - An innovative superfamily of fonts for code
