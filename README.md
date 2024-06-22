@@ -2385,6 +2385,9 @@
 
 ## Rust 
 
+- [use-ink/ink](https://github.com/use-ink/ink) - Polkadot's ink! to write smart contracts.
+- [polkadot-evm/frontier](https://github.com/polkadot-evm/frontier) - Ethereum compatibility layer for Substrate.
+- [paritytech/substrate](https://github.com/paritytech/substrate) - Substrate: The platform for blockchain innovators
 - [kulupu/kulupu](https://github.com/kulupu/kulupu) - PoW blockchain with on-chain governance and online upgrade, built on Substrate
 - [Acurast/acurast-substrate](https://github.com/Acurast/acurast-substrate) - Acurast's own Substrate chain.
 - [bifrost-finance/bifrost](https://github.com/bifrost-finance/bifrost) - One Stake, Endless Opportunities. Build with Polkadot SDK (Substrate).
