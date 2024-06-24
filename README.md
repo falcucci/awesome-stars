@@ -167,6 +167,7 @@
 
 ## C++ 
 
+- [rsnano-node/rsnano-node](https://github.com/rsnano-node/rsnano-node) - RsNano is a Rust port of nano-node
 - [redpanda-data/redpanda](https://github.com/redpanda-data/redpanda) - Redpanda is a streaming data platform for developers. Kafka API compatible. 10x faster. No ZooKeeper. No JVM!
 - [WerWolv/ImHex](https://github.com/WerWolv/ImHex) - 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.
 - [wolfpld/tracy](https://github.com/wolfpld/tracy) - Frame profiler
@@ -2387,6 +2388,9 @@
 
 ## Rust 
 
+- [paritytech/pallet-chaos](https://github.com/paritytech/pallet-chaos) - Substrate Pallet for chaotic experimentations
+- [jimmychu0807/substrate-offchain-worker-demo](https://github.com/jimmychu0807/substrate-offchain-worker-demo) - Fetching cryptocurrency prices using off-chain workers
+- [Moonsong-Labs/moonkit](https://github.com/Moonsong-Labs/moonkit) - Collection of open substrate pallets
 - [use-ink/ink](https://github.com/use-ink/ink) - Polkadot's ink! to write smart contracts.
 - [polkadot-evm/frontier](https://github.com/polkadot-evm/frontier) - Ethereum compatibility layer for Substrate.
 - [paritytech/substrate](https://github.com/paritytech/substrate) - Substrate: The platform for blockchain innovators
