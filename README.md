@@ -2011,7 +2011,6 @@
 - [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
 - [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL
 - [jkup/awesome-personal-blogs](https://github.com/jkup/awesome-personal-blogs) - A delightful list of personal tech blogs
-- [SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim) - 
 - [kaHaleMaKai/ideavim-settings](https://github.com/kaHaleMaKai/ideavim-settings) - settingsfile and .ideavimrc for intellij 15
 - [saaguero/ideavimrc](https://github.com/saaguero/ideavimrc) - My ideavimrc settings
 - [denji/awesome-http-benchmark](https://github.com/denji/awesome-http-benchmark) - HTTP(S) benchmark tools, testing/debugging, & restAPI (RESTful)
@@ -3905,6 +3904,7 @@
 - [syngan/vim-gitlab](https://github.com/syngan/vim-gitlab) - vim-gitlab is a vim client for GitLab
 - [prettier/vim-prettier](https://github.com/prettier/vim-prettier) - A Vim plugin for Prettier
 - [tpope/vim-scriptease](https://github.com/tpope/vim-scriptease) - scriptease.vim: A Vim plugin for Vim plugins
+- [SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim) - 
 - [justinmk/vim-sneak](https://github.com/justinmk/vim-sneak) - The missing motion for Vim :athletic_shoe:
 - [joshdick/onedark.vim](https://github.com/joshdick/onedark.vim) - A dark Vim/Neovim color scheme inspired by Atom's One Dark syntax theme.
 - [metakirby5/codi.vim](https://github.com/metakirby5/codi.vim) - :notebook_with_decorative_cover: The interactive scratchpad for hackers.
