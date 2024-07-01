@@ -167,6 +167,7 @@
 
 ## C++ 
 
+- [ocornut/imgui](https://github.com/ocornut/imgui) - Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies
 - [vroomai/vst](https://github.com/vroomai/vst) - 🎹 Generate sounds from words. Directly in your DAW.
 - [rsnano-node/rsnano-node](https://github.com/rsnano-node/rsnano-node) - RsNano is a Rust port of nano-node
 - [redpanda-data/redpanda](https://github.com/redpanda-data/redpanda) - Redpanda is a streaming data platform for developers. Kafka API compatible. 10x faster. No ZooKeeper. No JVM!
@@ -2389,6 +2390,7 @@
 
 ## Rust 
 
+- [JoshOrndorff/recipes](https://github.com/JoshOrndorff/recipes) - A Hands-On Cookbook for Aspiring Blockchain Chefs
 - [paritytech/pallet-chaos](https://github.com/paritytech/pallet-chaos) - Substrate Pallet for chaotic experimentations
 - [jimmychu0807/substrate-offchain-worker-demo](https://github.com/jimmychu0807/substrate-offchain-worker-demo) - Fetching cryptocurrency prices using off-chain workers
 - [Moonsong-Labs/moonkit](https://github.com/Moonsong-Labs/moonkit) - Collection of open substrate pallets
@@ -3965,6 +3967,7 @@
 
 ## Zig 
 
+- [zackradisic/tether](https://github.com/zackradisic/tether) - WIP high-performance code editor inspired by Doom Emacs and neovim. Comes with explosions.
 - [rvcas/mpool](https://github.com/rvcas/mpool) - A memory pool library written in Zig
 - [NilsIrl/dockerc](https://github.com/NilsIrl/dockerc) - container image to single executable compiler
 - [orhun/linuxwave](https://github.com/orhun/linuxwave) - Generate music from the entropy of Linux 🐧🎵
