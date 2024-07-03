@@ -681,7 +681,6 @@
 
 ## HTML 
 
-- [servo/servo](https://github.com/servo/servo) - Servo, the embeddable, independent, memory-safe, modular, parallel web rendering engine
 - [anushkaparadkar/Thanos-snap-effect](https://github.com/anushkaparadkar/Thanos-snap-effect) - Thanos snap effect using Javascript and chance.js.
 - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 - [ayushnix/kangae](https://github.com/ayushnix/kangae) - a lightweight microblog theme for zola
@@ -1258,6 +1257,7 @@
 - [geowarin/electron-hot-loader](https://github.com/geowarin/electron-hot-loader) - Hot reloading for React components in electron without babel nor webpack
 - [junedomingo/movieapp](https://github.com/junedomingo/movieapp) - Discover Movies and TV shows -  React Native
 - [avanslaars/redux-actions-course](https://github.com/avanslaars/redux-actions-course) - Source code for my egghead course on redux-actions
+- [expo/create-react-native-app](https://github.com/expo/create-react-native-app) - Create React Native apps that run on iOS, Android, and web
 - [GoogleChromeLabs/ndb](https://github.com/GoogleChromeLabs/ndb) - ndb is an improved debugging experience for Node.js, enabled by Chrome DevTools
 - [aksonov/react-native-router-flux](https://github.com/aksonov/react-native-router-flux) - The first declarative React Native router
 - [bamlab/redux-enhancer-react-native-appstate](https://github.com/bamlab/redux-enhancer-react-native-appstate) - Connect your App State changes directly to your Redux store
@@ -2390,6 +2390,7 @@
 
 ## Rust 
 
+- [paritytech/zombienet-sdk](https://github.com/paritytech/zombienet-sdk) - ZombieNet SDK
 - [JoshOrndorff/recipes](https://github.com/JoshOrndorff/recipes) - A Hands-On Cookbook for Aspiring Blockchain Chefs
 - [paritytech/pallet-chaos](https://github.com/paritytech/pallet-chaos) - Substrate Pallet for chaotic experimentations
 - [jimmychu0807/substrate-offchain-worker-demo](https://github.com/jimmychu0807/substrate-offchain-worker-demo) - Fetching cryptocurrency prices using off-chain workers
@@ -2435,9 +2436,10 @@
 - [gfx-rs/wgpu](https://github.com/gfx-rs/wgpu) - A cross-platform, safe, pure-Rust graphics API.
 - [turboladen/init.rs](https://github.com/turboladen/init.rs) - Neovim init but in Rust
 - [mistricky/codesnap.nvim](https://github.com/mistricky/codesnap.nvim) - 📸 Snapshot plugin with rich features that can make pretty code snapshots for Neovim
-- [tailcallhq/tailcall](https://github.com/tailcallhq/tailcall) - High Performance GraphQL Runtime
+- [tailcallhq/graphql-runtime](https://github.com/tailcallhq/graphql-runtime) - High Performance GraphQL Runtime
 - [ruffle-rs/ruffle](https://github.com/ruffle-rs/ruffle) - A Flash Player emulator written in Rust
 - [slint-ui/slint](https://github.com/slint-ui/slint) - Slint is a declarative GUI toolkit to build native user interfaces for Rust, C++, or JavaScript apps.
+- [servo/servo](https://github.com/servo/servo) - Servo, the embeddable, independent, memory-safe, modular, parallel web rendering engine
 - [Kobzol/cargo-wizard](https://github.com/Kobzol/cargo-wizard) - Cargo subcommand for configuring Cargo projects for best performance.
 - [hasura/ndc-postgres](https://github.com/hasura/ndc-postgres) - Hasura v3 Data Connector for PostgreSQL
 - [mainmatter/cargo-autoinherit](https://github.com/mainmatter/cargo-autoinherit) - (Auto)DRY for your Rust dependencies
@@ -3626,7 +3628,6 @@
 - [cs01/gdbgui](https://github.com/cs01/gdbgui) - Browser-based frontend to gdb (gnu debugger). Add breakpoints, view the stack, visualize data structures, and more in C, C++, Go, Rust, and Fortran. Run gdbgui from the terminal and a new tab will ope
 - [jaredpalmer/formik](https://github.com/jaredpalmer/formik) - Build forms in React, without the tears 😭
 - [react-navigation/react-navigation](https://github.com/react-navigation/react-navigation) - Routing and navigation for your React Native apps
-- [expo/create-react-native-app](https://github.com/expo/create-react-native-app) - Create React Native apps that run on iOS, Android, and web
 - [reduxjs/reselect](https://github.com/reduxjs/reselect) - Selector library for Redux
 - [mixn/carbon-now-cli](https://github.com/mixn/carbon-now-cli) - 🎨 Beautiful images of your code — from right inside your terminal.
 - [rgommezz/react-native-offline](https://github.com/rgommezz/react-native-offline) - Handy toolbelt to deal nicely with offline/online connectivity in a React Native app. Smooth redux integration ✈️
