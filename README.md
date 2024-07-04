@@ -167,6 +167,7 @@
 
 ## C++ 
 
+- [mobile-shell/mosh](https://github.com/mobile-shell/mosh) - Mobile Shell
 - [ocornut/imgui](https://github.com/ocornut/imgui) - Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies
 - [vroomai/vst](https://github.com/vroomai/vst) - 🎹 Generate sounds from words. Directly in your DAW.
 - [rsnano-node/rsnano-node](https://github.com/rsnano-node/rsnano-node) - RsNano is a Rust port of nano-node
@@ -231,6 +232,7 @@
 
 ## CSS 
 
+- [catppuccin/mdBook](https://github.com/catppuccin/mdBook) - 🎊 Soothing pastel theme for mdBook
 - [rust-analyzer/rust-analyzer.github.io](https://github.com/rust-analyzer/rust-analyzer.github.io) - 
 - [LemmyNet/lemmy-ui](https://github.com/LemmyNet/lemmy-ui) - The official web app for lemmy.
 - [braver/programmingfonts](https://github.com/braver/programmingfonts) - Test drive programming fonts online: the definitive list of fonts for code.
@@ -646,7 +648,7 @@
 - [hoisie/redis](https://github.com/hoisie/redis) - A simple, powerful Redis client for Go
 - [redis/go-redis](https://github.com/redis/go-redis) - Redis Go client
 - [joho/godotenv](https://github.com/joho/godotenv) - A Go port of Ruby's dotenv library (Loads environment variables from .env files)
-- [caarlos0/env](https://github.com/caarlos0/env) - A simple and zero-dependencies library to parse environment variables into structs
+- [caarlos0/env](https://github.com/caarlos0/env) - A simple, zero-dependencies library to parse environment variables into structs
 - [olebedev/config](https://github.com/olebedev/config) - JSON or YAML configuration wrapper with convenient access methods.
 - [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
 - [ktr0731/evans](https://github.com/ktr0731/evans) - Evans: more expressive universal gRPC client
@@ -1898,6 +1900,7 @@
 
 ## Others 
 
+- [softprops/awesome-mdbook](https://github.com/softprops/awesome-mdbook) - 🕶️🗃️ a card catalog of mdbooks for your reading curiosity
 - [substrate-developer-hub/awesome-substrate](https://github.com/substrate-developer-hub/awesome-substrate) - A curated list of awesome projects and resources related to the Substrate blockchain development framework.
 - [marlowe-contrib/marlowe-go-sdk](https://github.com/marlowe-contrib/marlowe-go-sdk) - 
 - [Imgkl/the-dark-side](https://github.com/Imgkl/the-dark-side) - True Dark Theme for Zed IDE
@@ -2390,6 +2393,7 @@
 
 ## Rust 
 
+- [tommilligan/mdbook-admonish](https://github.com/tommilligan/mdbook-admonish) - A preprocessor for mdbook to add Material Design admonishments.
 - [paritytech/zombienet-sdk](https://github.com/paritytech/zombienet-sdk) - ZombieNet SDK
 - [JoshOrndorff/recipes](https://github.com/JoshOrndorff/recipes) - A Hands-On Cookbook for Aspiring Blockchain Chefs
 - [paritytech/pallet-chaos](https://github.com/paritytech/pallet-chaos) - Substrate Pallet for chaotic experimentations
@@ -2436,7 +2440,7 @@
 - [gfx-rs/wgpu](https://github.com/gfx-rs/wgpu) - A cross-platform, safe, pure-Rust graphics API.
 - [turboladen/init.rs](https://github.com/turboladen/init.rs) - Neovim init but in Rust
 - [mistricky/codesnap.nvim](https://github.com/mistricky/codesnap.nvim) - 📸 Snapshot plugin with rich features that can make pretty code snapshots for Neovim
-- [tailcallhq/graphql-runtime](https://github.com/tailcallhq/graphql-runtime) - High Performance GraphQL Runtime
+- [tailcallhq/tailcall](https://github.com/tailcallhq/tailcall) - High Performance GraphQL Runtime
 - [ruffle-rs/ruffle](https://github.com/ruffle-rs/ruffle) - A Flash Player emulator written in Rust
 - [slint-ui/slint](https://github.com/slint-ui/slint) - Slint is a declarative GUI toolkit to build native user interfaces for Rust, C++, or JavaScript apps.
 - [servo/servo](https://github.com/servo/servo) - Servo, the embeddable, independent, memory-safe, modular, parallel web rendering engine
