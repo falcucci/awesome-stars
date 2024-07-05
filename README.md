@@ -33,6 +33,7 @@
 - [Handlebars](#handlebars)
 - [Haskell](#haskell)
 - [Isabelle](#isabelle)
+- [Janet](#janet)
 - [Java](#java)
 - [JavaScript](#javascript)
 - [Jsonnet](#jsonnet)
@@ -778,6 +779,10 @@
 ## Isabelle 
 
 - [input-output-hk/marlowe](https://github.com/input-output-hk/marlowe) - Prototype implementation of domain-specific language for the design of smart-contracts over cryptocurrencies
+
+## Janet 
+
+- [nvim-treesitter/nvim-treesitter-context](https://github.com/nvim-treesitter/nvim-treesitter-context) - Show code context
 
 ## Java 
 
@@ -1760,7 +1765,6 @@
 - [yorik1984/newpaper.nvim](https://github.com/yorik1984/newpaper.nvim) - 🎨 Newpaper colorscheme for NeoVim written in Lua with built-in support for native LSP, TreeSitter and many more plugins
 - [projekt0n/github-nvim-theme](https://github.com/projekt0n/github-nvim-theme) - Github's Neovim themes
 - [oxfist/night-owl.nvim](https://github.com/oxfist/night-owl.nvim) - 🦉 🌌 Night Owl colorscheme implementation for Neovim with support for Treesitter and semantic tokens
-- [nvim-treesitter/nvim-treesitter-context](https://github.com/nvim-treesitter/nvim-treesitter-context) - Show code context
 - [3rd/image.nvim](https://github.com/3rd/image.nvim) - 🖼️ Bringing images to Neovim.
 - [nvim-lualine/lualine.nvim](https://github.com/nvim-lualine/lualine.nvim) - A blazing fast and easy to configure neovim statusline plugin written in pure lua.
 - [jghauser/kitty-runner.nvim](https://github.com/jghauser/kitty-runner.nvim) - A neovim plugin allowing you to easily send lines from the current buffer to another kitty terminal
@@ -3260,6 +3264,7 @@
 
 ## TypeScript 
 
+- [excalidraw/mermaid-to-excalidraw](https://github.com/excalidraw/mermaid-to-excalidraw) - Generate Excalidraw diagrams from Mermaid
 - [paritytech/zombienet](https://github.com/paritytech/zombienet) - A cli tool to easily spawn ephemeral Polkadot/Substrate networks and perform tests against them.
 - [polkadot-js/apps](https://github.com/polkadot-js/apps) - Basic Polkadot/Substrate UI for interacting with a Polkadot and Substrate node. This is the main user-facing application, allowing access to all features available on Substrate chains.
 - [marlowe-contrib/marlowe-typescript-sdk](https://github.com/marlowe-contrib/marlowe-typescript-sdk) - 
