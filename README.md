@@ -2397,6 +2397,8 @@
 
 ## Rust 
 
+- [quickwit-oss/quickwit](https://github.com/quickwit-oss/quickwit) - Cloud-native search engine for observability. An open-source alternative to Datadog, Elasticsearch, Loki, and Tempo.
+- [datafuselabs/databend](https://github.com/datafuselabs/databend) - 𝗗𝗮𝘁𝗮, 𝗔𝗻𝗮𝗹𝘆𝘁𝗶𝗰𝘀 & 𝗔𝗜. Modern alternative to Snowflake. Cost-effective and simple for massive-scale analytics. https://databend.com
 - [tommilligan/mdbook-admonish](https://github.com/tommilligan/mdbook-admonish) - A preprocessor for mdbook to add Material Design admonishments.
 - [paritytech/zombienet-sdk](https://github.com/paritytech/zombienet-sdk) - ZombieNet SDK
 - [JoshOrndorff/recipes](https://github.com/JoshOrndorff/recipes) - A Hands-On Cookbook for Aspiring Blockchain Chefs
