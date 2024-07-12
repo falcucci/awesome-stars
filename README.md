@@ -123,7 +123,6 @@
 - [wg/wrk](https://github.com/wg/wrk) - Modern HTTP benchmarking tool
 - [cardano-foundation/ledger-app-cardano](https://github.com/cardano-foundation/ledger-app-cardano) - Cardano Ledger App for Ledger Nano S
 - [edenhill/kcat](https://github.com/edenhill/kcat) - Generic command line non-JVM Apache Kafka producer and consumer
-- [confluentinc/librdkafka](https://github.com/confluentinc/librdkafka) - The Apache Kafka C/C++ library
 - [vysheng/tg](https://github.com/vysheng/tg) - telegram-cli
 - [audacity/audacity](https://github.com/audacity/audacity) - Audio Editor
 - [jarun/nnn](https://github.com/jarun/nnn) - n³ The unorthodox terminal file manager
@@ -791,7 +790,6 @@
 - [HamburgChimps/apple-notes-liberator](https://github.com/HamburgChimps/apple-notes-liberator) - Free your Apple Notes data from Notes.app
 - [matheusmendes-dev/store-print-ml](https://github.com/matheusmendes-dev/store-print-ml) - Teste na busca de impressoras
 - [elastic/elasticsearch](https://github.com/elastic/elasticsearch) - Free and Open, Distributed, RESTful Search Engine
-- [confluentinc/ksql](https://github.com/confluentinc/ksql) - The database purpose-built for stream processing applications.
 - [apache/kafka](https://github.com/apache/kafka) - Mirror of Apache Kafka
 - [google/volley](https://github.com/google/volley) - 
 - [ervandew/eclim](https://github.com/ervandew/eclim) - Expose eclipse features inside of vim.
@@ -808,7 +806,6 @@
 - [termux/termux-app](https://github.com/termux/termux-app) - Termux - a terminal emulator application for Android OS extendible by variety of packages.
 - [zaproxy/zaproxy](https://github.com/zaproxy/zaproxy) - The ZAP core project
 - [djarza/football-events](https://github.com/djarza/football-events) - Event-Driven microservices with Kafka Streams
-- [confluentinc/kafka-rest](https://github.com/confluentinc/kafka-rest) - Confluent REST Proxy for Kafka
 - [android10/Android-CleanArchitecture](https://github.com/android10/Android-CleanArchitecture) - This is a sample app that is part of a series of blog posts I have written about how to architect an android application using Uncle Bob's clean architecture approach.
 - [krasa/StringManipulation](https://github.com/krasa/StringManipulation) - IntelliJ plugin - https://plugins.jetbrains.com/plugin/2162
 - [nisrulz/android-examples](https://github.com/nisrulz/android-examples) - :shipit: [Examples] Simple basic isolated apps, for budding android devs.
@@ -1918,7 +1915,7 @@
 - [txpipe/cheat-sheets](https://github.com/txpipe/cheat-sheets) - Cheat sheets for the pragmatic dev
 - [oam-dev/spec](https://github.com/oam-dev/spec) - Open Application Model (OAM).
 - [blinklabs-io/cardano-compose-stacks](https://github.com/blinklabs-io/cardano-compose-stacks) - Docker compose files for Cardano blockchain services
-- [getcursor/cursor](https://github.com/getcursor/cursor) - The AI-powered code editor
+- [getcursor/cursor](https://github.com/getcursor/cursor) - The AI Code Editor
 - [madmalik/mononoki](https://github.com/madmalik/mononoki) - a programming typeface
 - [nikitavoloboev/wiki](https://github.com/nikitavoloboev/wiki) - Everything I know
 - [crystalidea/macs-fan-control](https://github.com/crystalidea/macs-fan-control) - Control fans on Apple computers
@@ -2244,7 +2241,6 @@
 - [tuxity/insta-unfollower](https://github.com/tuxity/insta-unfollower) - An Instagram script to unfollow accounts who doesn't follow-you-back
 - [insanum/gcalcli](https://github.com/insanum/gcalcli) - Google Calendar Command Line Interface
 - [ccozkan/instagram-unfollowers](https://github.com/ccozkan/instagram-unfollowers) - Who unfollowed you, who followed you, who doesn't follow you back, who liked your pics the most and who never? Don't worry I got all the answers. Also this can used for non-private users too.
-- [confluentinc/confluent-kafka-python](https://github.com/confluentinc/confluent-kafka-python) - Confluent's Kafka Python Client
 - [dpkp/kafka-python](https://github.com/dpkp/kafka-python) - Python client for Apache Kafka
 - [Zulko/moviepy](https://github.com/Zulko/moviepy) - Video editing with Python
 - [philipperemy/name-dataset](https://github.com/philipperemy/name-dataset) - The Python library for names.
@@ -2399,6 +2395,9 @@
 
 ## Rust 
 
+- [paritytech/substrate-telemetry](https://github.com/paritytech/substrate-telemetry) - Polkadot Telemetry service
+- [paritytech/polkadot-introspector](https://github.com/paritytech/polkadot-introspector) - A collection of tools focused on debugging and monitoring the relay chain and parachain progress from a 🐦-view
+- [paritytech/subxt](https://github.com/paritytech/subxt) - Interact with Substrate based nodes in Rust or WebAssembly
 - [Sunscreen-tech/Sunscreen](https://github.com/Sunscreen-tech/Sunscreen) - A compiler for fully homomorphic encryption and zero knowledge proofs
 - [zkonduit/ezkl](https://github.com/zkonduit/ezkl) - ezkl is an engine for doing inference for deep learning models and other computational graphs in a zk-snark (ZKML). Use it from Python, Javascript, or the command line.
 - [ah-/anne-key](https://github.com/ah-/anne-key) - Firmware for Anne Pro Keyboard written in Rust
@@ -2502,7 +2501,7 @@
 - [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
 - [utxorpc/spec](https://github.com/utxorpc/spec) - A RPC layer to interact with UTxO-based blockchains
 - [rust-lang/futures-rs](https://github.com/rust-lang/futures-rs) - Zero-cost asynchronous programming in Rust
-- [bitwarden/sdk](https://github.com/bitwarden/sdk) - Bitwarden SDK.
+- [bitwarden/sdk](https://github.com/bitwarden/sdk) - Bitwarden SDK
 - [YS-L/csvlens](https://github.com/YS-L/csvlens) - Command line csv viewer
 - [uutils/coreutils](https://github.com/uutils/coreutils) - Cross-platform Rust rewrite of the GNU coreutils
 - [rust-windowing/raw-window-handle](https://github.com/rust-windowing/raw-window-handle) - A common windowing interoperability library for Rust
@@ -2742,7 +2741,7 @@
 - [max-niederman/ttyper](https://github.com/max-niederman/ttyper) - Terminal-based typing test.
 - [AnishDe12020/secli](https://github.com/AnishDe12020/secli) - A CLI to store secrets locally
 - [aschey/vercel-tokei](https://github.com/aschey/vercel-tokei) - Tokei badge service running as a Vercel serverless function
-- [leptos-rs/start](https://github.com/leptos-rs/start) - Starter template for use with the Leptos web framework.
+- [leptos-rs/start-actix](https://github.com/leptos-rs/start-actix) - Starter template for use with the Leptos web framework.
 - [silkenweb/silkenweb](https://github.com/silkenweb/silkenweb) - A library for writing reactive single page web apps
 - [ZOXEXIVO/football-simulator](https://github.com/ZOXEXIVO/football-simulator) - Football simulation engine (like Football Manager) written in pure Rust
 - [tokio-rs/axum](https://github.com/tokio-rs/axum) - Ergonomic and modular web framework built with Tokio, Tower, and Hyper
@@ -3218,6 +3217,7 @@
 
 ## Swift 
 
+- [AerialScreensaver/AerialCompanion](https://github.com/AerialScreensaver/AerialCompanion) - A companion app for the Aerial screen saver for macOS that takes care of install and auto-updates.
 - [jordanbaird/Ice](https://github.com/jordanbaird/Ice) - Powerful menu bar manager for macOS
 - [blinksh/blink](https://github.com/blinksh/blink) - Blink Mobile Shell for iOS (Mosh based)
 - [falcucci/NeoHub](https://github.com/falcucci/NeoHub) - Instance manager for Neovide
@@ -3273,6 +3273,7 @@
 
 ## TypeScript 
 
+- [paritytech/substrate-connect](https://github.com/paritytech/substrate-connect) - Run Wasm Light Clients of any Substrate based chain directly in your browser.
 - [zsviczian/obsidian-excalidraw-plugin](https://github.com/zsviczian/obsidian-excalidraw-plugin) - A plugin to edit and view Excalidraw drawings in Obsidian
 - [vrtmrz/ninja-cursor](https://github.com/vrtmrz/ninja-cursor) - 
 - [excalidraw/mermaid-to-excalidraw](https://github.com/excalidraw/mermaid-to-excalidraw) - Generate Excalidraw diagrams from Mermaid
