@@ -2631,7 +2631,7 @@
 - [google/mdbook-i18n-helpers](https://github.com/google/mdbook-i18n-helpers) - Translation support for mdbook. The plugins here give you a structured way to maintain a translated book.
 - [9999years/cherries-4-prs](https://github.com/9999years/cherries-4-prs) - You approve my PRs, I send you cherries
 - [dzfrias/projectable](https://github.com/dzfrias/projectable) - :dizzy: A TUI file manager built for projects
-- [flows-network/github-pr-summary](https://github.com/flows-network/github-pr-summary) - Use ChatGPT to summarize & review GitHub Pull Requests
+- [flows-network/github-pr-summary](https://github.com/flows-network/github-pr-summary) - Use LLM to summarize & review GitHub Pull Requests
 - [nate-xyz/chromatic](https://github.com/nate-xyz/chromatic) - Fine-tune your instruments.
 - [nate-xyz/paleta](https://github.com/nate-xyz/paleta) - Extract the dominant colors from any image.
 - [nate-xyz/resonance](https://github.com/nate-xyz/resonance) - Intuitive GTK4/LibAdwaita music player
