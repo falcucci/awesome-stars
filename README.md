@@ -684,6 +684,7 @@
 
 ## HTML 
 
+- [munificent/craftinginterpreters](https://github.com/munificent/craftinginterpreters) - Repository for the book "Crafting Interpreters"
 - [anushkaparadkar/Thanos-snap-effect](https://github.com/anushkaparadkar/Thanos-snap-effect) - Thanos snap effect using Javascript and chance.js.
 - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 - [ayushnix/kangae](https://github.com/ayushnix/kangae) - a lightweight microblog theme for zola
@@ -995,6 +996,7 @@
 - [sleeyax/stremio-discord](https://github.com/sleeyax/stremio-discord) - Local addon that shows the movie or series you're watching in Discord
 - [Stremio/stremio-web](https://github.com/Stremio/stremio-web) - Stremio - Freedom to Stream
 - [Stremio/stremio-addon-sdk](https://github.com/Stremio/stremio-addon-sdk) - 🧙 A Node.js SDK for creating and publishing Stremio add-ons
+- [markedjs/marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed.
 - [JessicaSachs/carbon](https://github.com/JessicaSachs/carbon) - 🎨 Create and share beautiful images of your source code
 - [chjj/ttystudio](https://github.com/chjj/ttystudio) - A terminal-to-gif recorder minus the headaches.
 - [wix/Detox](https://github.com/wix/Detox) - Gray box end-to-end testing and automation framework for mobile apps
@@ -1241,7 +1243,7 @@
 - [rolodato/dotenv-safe](https://github.com/rolodato/dotenv-safe) - Load environment variables from .env and ensure they are all present
 - [shellscape/koa-webpack](https://github.com/shellscape/koa-webpack) - Development and Hot Reload Middleware for Koa2
 - [iamkun/dayjs](https://github.com/iamkun/dayjs) - ⏰ Day.js 2kB immutable date-time library alternative to Moment.js with the same modern API
-- [renatorib/react-powerplug](https://github.com/renatorib/react-powerplug) - :electric_plug: [Unmaintained] Renderless Containers
+- [renatorib/react-powerplug](https://github.com/renatorib/react-powerplug) - :electric_plug: Renderless Containers
 - [luanpablo-luizalabs/generator-labs-koa-api](https://github.com/luanpablo-luizalabs/generator-labs-koa-api) - A koa API generator
 - [jeffijoe/koa-es7-boilerplate](https://github.com/jeffijoe/koa-es7-boilerplate) - A boilerplate for writing Koa 2 apps in ES7 with Babel.
 - [atom/autosave](https://github.com/atom/autosave) - Autosaves buffers when they lose focus
@@ -3551,7 +3553,6 @@
 - [JonnyBurger/anysticker-tutorials](https://github.com/JonnyBurger/anysticker-tutorials) - In-App tutorial videos for AnySticker
 - [remotion-dev/trailer](https://github.com/remotion-dev/trailer) - The promo video for Remotion
 - [kunalnagarco/imdb-scraper](https://github.com/kunalnagarco/imdb-scraper) - 🎬 An attempt at the most complete IMDb API
-- [markedjs/marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed.
 - [pavlobu/deskreen](https://github.com/pavlobu/deskreen) - Deskreen turns any device with a web browser into a secondary screen for your computer. ⭐️ Star to support our work!
 - [vacuumlabs/cardano-hw-cli](https://github.com/vacuumlabs/cardano-hw-cli) - Cardano CLI tool for hardware wallets
 - [mattermost/mattermost](https://github.com/mattermost/mattermost) - Mattermost is an open source platform for secure collaboration across the entire software development lifecycle..
