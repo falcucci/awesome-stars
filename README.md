@@ -3219,6 +3219,7 @@
 
 ## Swift 
 
+- [exelban/stats](https://github.com/exelban/stats) - macOS system monitor in your menu bar
 - [AerialScreensaver/AerialCompanion](https://github.com/AerialScreensaver/AerialCompanion) - A companion app for the Aerial screen saver for macOS that takes care of install and auto-updates.
 - [jordanbaird/Ice](https://github.com/jordanbaird/Ice) - Powerful menu bar manager for macOS
 - [blinksh/blink](https://github.com/blinksh/blink) - Blink Mobile Shell for iOS (Mosh based)
