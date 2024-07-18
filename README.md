@@ -179,6 +179,7 @@
 - [facebook/rocksdb](https://github.com/facebook/rocksdb) - A library that provides an embeddable, persistent key-value store for fast storage.
 - [equalsraf/neovim-qt](https://github.com/equalsraf/neovim-qt) - Neovim client library and GUI, in Qt5.
 - [audo-ai/magic-mic](https://github.com/audo-ai/magic-mic) - Open Source Noise Cancellation App for Virtual Meetings
+- [mozilla/gecko-dev](https://github.com/mozilla/gecko-dev) - Read-only Git mirror of the Mercurial gecko repositories at https://hg.mozilla.org. How to contribute: https://firefox-source-docs.mozilla.org/contributing/contribution_quickref.html
 - [MaskRay/ccls](https://github.com/MaskRay/ccls) - C/C++/ObjC language server supporting cross references, hierarchies, completion and semantic highlighting
 - [ggerganov/kbd-audio](https://github.com/ggerganov/kbd-audio) - 🎤⌨️ Acoustic keyboard eavesdropping
 - [mrousavy/react-native-mmkv](https://github.com/mrousavy/react-native-mmkv) - ⚡️ The fastest key/value storage for React Native. ~30x faster than AsyncStorage!
@@ -1926,7 +1927,6 @@
 - [cseelus/monego](https://github.com/cseelus/monego) - The beloved Monaco monospaced font, recreated with a bold and italic variant. Finally.
 - [ivbeg/awesome-status-pages](https://github.com/ivbeg/awesome-status-pages) - Awesome list of status page open source software, services and public status pages of major internet companies
 - [nikomatsakis/how-to-rust](https://github.com/nikomatsakis/how-to-rust) - A collection of blog posts and links that talk about how to successfully use Rust.
-- [mozilla/gecko-dev](https://github.com/mozilla/gecko-dev) - Read-only Git mirror of the Mercurial gecko repositories at https://hg.mozilla.org. How to contribute: https://firefox-source-docs.mozilla.org/contributing/contribution_quickref.html
 - [nchudleigh/homerow](https://github.com/nchudleigh/homerow) - Like Raycast or Spotlight for macOS. Click, navigate, and perform tasks with the keyboard and no mouse.
 - [aniftyco/awesome-tailwindcss](https://github.com/aniftyco/awesome-tailwindcss) - 😎 Awesome things related to Tailwind CSS
 - [nostr-protocol/nostr](https://github.com/nostr-protocol/nostr) - a truly censorship-resistant alternative to Twitter that has a chance of working
@@ -2397,6 +2397,7 @@
 
 ## Rust 
 
+- [SergioBenitez/yansi](https://github.com/SergioBenitez/yansi) - A dead simple ANSI terminal color painting library for Rust.
 - [paritytech/substrate-telemetry](https://github.com/paritytech/substrate-telemetry) - Polkadot Telemetry service
 - [paritytech/polkadot-introspector](https://github.com/paritytech/polkadot-introspector) - A collection of tools focused on debugging and monitoring the relay chain and parachain progress from a 🐦-view
 - [paritytech/subxt](https://github.com/paritytech/subxt) - Interact with Substrate based nodes in Rust or WebAssembly
@@ -2850,7 +2851,7 @@
 - [atanunq/viu](https://github.com/atanunq/viu) - Terminal image viewer with native support for iTerm and Kitty
 - [bincode-org/bincode](https://github.com/bincode-org/bincode) - A binary encoder / decoder implementation in Rust.
 - [notify-rs/notify](https://github.com/notify-rs/notify) - 🔭 Cross-platform filesystem notification library for Rust.
-- [warp-tech/warpgate](https://github.com/warp-tech/warpgate) - Smart SSH, HTTPS and MySQL bastion that requires no additional client-side software
+- [Eugeny/warpgate](https://github.com/Eugeny/warpgate) - Smart SSH, HTTPS and MySQL bastion that requires no additional client-side software
 - [sozu-proxy/sozu](https://github.com/sozu-proxy/sozu) - Sōzu HTTP reverse proxy, configurable at runtime, fast and safe, built in Rust. It is awesome!
 - [rust-itertools/itertools](https://github.com/rust-itertools/itertools) - Extra iterator adaptors, iterator methods, free functions, and macros.
 - [petgraph/petgraph](https://github.com/petgraph/petgraph) - Graph data structure library for Rust.
