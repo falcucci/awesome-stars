@@ -815,7 +815,7 @@
 - [balsikandar/Android-Studio-Plugins](https://github.com/balsikandar/Android-Studio-Plugins) - This is a list of all awesome and useful android studio plugins.
 - [wakatime/jetbrains-wakatime](https://github.com/wakatime/jetbrains-wakatime) - IntelliJ IDEA, PyCharm, RubyMine, PhpStorm, AppCode, AndroidStudio, Goland, Rider, & WebStorm plugin for quantifying your coding.
 - [kgmyshin/eventbus-intellij-plugin](https://github.com/kgmyshin/eventbus-intellij-plugin) - 
-- [facebookarchive/stetho](https://github.com/facebookarchive/stetho) - Stetho is a debug bridge for Android applications, enabling the powerful Chrome Developer Tools and much more.
+- [facebook/stetho](https://github.com/facebook/stetho) - Stetho is a debug bridge for Android applications, enabling the powerful Chrome Developer Tools and much more.
 - [nisrulz/android-tips-tricks](https://github.com/nisrulz/android-tips-tricks) - :ballot_box_with_check: [Cheatsheet] Tips and tricks for Android Development
 - [aritraroy/UltimateAndroidReference](https://github.com/aritraroy/UltimateAndroidReference) - :rocket: Ultimate Android Reference - Your Road to Become a Better Android Developer
 - [winterbe/java8-tutorial](https://github.com/winterbe/java8-tutorial) - Modern Java - A Guide to Java 8
@@ -1418,7 +1418,6 @@
 - [magicismight/react-native-root-toast](https://github.com/magicismight/react-native-root-toast) - react native toast like component, pure javascript solution
 - [JesperLekland/react-native-svg-charts](https://github.com/JesperLekland/react-native-svg-charts) - 📈 One library to rule all charts for React Native 📊
 - [adamjmcgrath/react-native-simple-auth](https://github.com/adamjmcgrath/react-native-simple-auth) - OAuth login for React Native
-- [sbycrosz/react-native-credit-card-input](https://github.com/sbycrosz/react-native-credit-card-input) - Easy, cross-platform credit-card input for your React Native Project! Start accepting payment 💰 in your app today!
 - [ferrannp/react-native-testing-example](https://github.com/ferrannp/react-native-testing-example) - Example of unit testing a React Native & Redux app using Jest (and Snapshots!)
 - [varmais/react-native-unit-tests](https://github.com/varmais/react-native-unit-tests) - Example how to test React Native components
 - [879479119/react-native-shadow](https://github.com/879479119/react-native-shadow) - A SVG shadow component powered with react-native-svg,which can provide shadow on Android like iOS ^_^
@@ -1641,6 +1640,7 @@
 
 ## Lua 
 
+- [0xstepit/flow.nvim](https://github.com/0xstepit/flow.nvim) - 
 - [vmarcosp/dotfiles](https://github.com/vmarcosp/dotfiles) - :bulb: ~/.dotfiles
 - [kwakzalver/duckytype.nvim](https://github.com/kwakzalver/duckytype.nvim) - NeoVim plugin simulating monkeytype.com
 - [Canop/nvim-bacon](https://github.com/Canop/nvim-bacon) - bacon's companion for neovim
@@ -2397,6 +2397,7 @@
 
 ## Rust 
 
+- [quickwit-oss/tantivy](https://github.com/quickwit-oss/tantivy) - Tantivy is a full-text search engine library inspired by Apache Lucene and written in Rust
 - [SergioBenitez/yansi](https://github.com/SergioBenitez/yansi) - A dead simple ANSI terminal color painting library for Rust.
 - [paritytech/substrate-telemetry](https://github.com/paritytech/substrate-telemetry) - Polkadot Telemetry service
 - [paritytech/polkadot-introspector](https://github.com/paritytech/polkadot-introspector) - A collection of tools focused on debugging and monitoring the relay chain and parachain progress from a 🐦-view
@@ -2851,7 +2852,7 @@
 - [atanunq/viu](https://github.com/atanunq/viu) - Terminal image viewer with native support for iTerm and Kitty
 - [bincode-org/bincode](https://github.com/bincode-org/bincode) - A binary encoder / decoder implementation in Rust.
 - [notify-rs/notify](https://github.com/notify-rs/notify) - 🔭 Cross-platform filesystem notification library for Rust.
-- [Eugeny/warpgate](https://github.com/Eugeny/warpgate) - Smart SSH, HTTPS and MySQL bastion that requires no additional client-side software
+- [warp-tech/warpgate](https://github.com/warp-tech/warpgate) - Smart SSH, HTTPS and MySQL bastion that requires no additional client-side software
 - [sozu-proxy/sozu](https://github.com/sozu-proxy/sozu) - Sōzu HTTP reverse proxy, configurable at runtime, fast and safe, built in Rust. It is awesome!
 - [rust-itertools/itertools](https://github.com/rust-itertools/itertools) - Extra iterator adaptors, iterator methods, free functions, and macros.
 - [petgraph/petgraph](https://github.com/petgraph/petgraph) - Graph data structure library for Rust.
@@ -3641,7 +3642,7 @@
 - [nuxt/nuxt](https://github.com/nuxt/nuxt) - The Intuitive Vue Framework.
 - [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
 - [sindresorhus/got](https://github.com/sindresorhus/got) - 🌐 Human-friendly and powerful HTTP request library for Node.js
-- [sindresorhus/ky](https://github.com/sindresorhus/ky) - 🌳 Tiny & elegant JavaScript HTTP client based on the browser Fetch API
+- [sindresorhus/ky](https://github.com/sindresorhus/ky) - 🌳 Tiny & elegant JavaScript HTTP client based on the Fetch API
 - [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable and developer-first.
 - [szmarczak/http-timer](https://github.com/szmarczak/http-timer) - 🕐 Performance timings for HTTP requests
 - [mfrachet/rn-placeholder](https://github.com/mfrachet/rn-placeholder) - 🏖️ Display some placeholder stuff before rendering your text or media content in React Native
@@ -3686,6 +3687,7 @@
 - [vercel/hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
 - [GeekyAnts/NativeBase](https://github.com/GeekyAnts/NativeBase) - Mobile-first, accessible components for React Native & Web to build consistent UI across Android, iOS and Web.
 - [getsentry/sentry-react-native](https://github.com/getsentry/sentry-react-native) - Official Sentry SDK for React-Native
+- [sbycrosz/react-native-credit-card-input](https://github.com/sbycrosz/react-native-credit-card-input) - Easy, cross-platform credit-card input for your React Native Project! Start accepting payment 💰 in your app today!
 - [react-native-modal/react-native-modal](https://github.com/react-native-modal/react-native-modal) - An enhanced, animated, customizable Modal for React Native.
 - [pmndrs/react-spring](https://github.com/pmndrs/react-spring) - ✌️ A spring physics based React animation library
 - [vercel/uid-promise](https://github.com/vercel/uid-promise) - Creates a cryptographically strong UID
