@@ -2397,6 +2397,9 @@
 
 ## Rust 
 
+- [ron-rs/ron](https://github.com/ron-rs/ron) - Rusty Object Notation
+- [madsmtm/objc2](https://github.com/madsmtm/objc2) - Bindings to Apple's frameworks in Rust
+- [madsmtm/objc2-generated](https://github.com/madsmtm/objc2-generated) - Automatically generated code; see the `objc2` project for details.
 - [quickwit-oss/tantivy](https://github.com/quickwit-oss/tantivy) - Tantivy is a full-text search engine library inspired by Apache Lucene and written in Rust
 - [SergioBenitez/yansi](https://github.com/SergioBenitez/yansi) - A dead simple ANSI terminal color painting library for Rust.
 - [paritytech/substrate-telemetry](https://github.com/paritytech/substrate-telemetry) - Polkadot Telemetry service
