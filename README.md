@@ -48,6 +48,7 @@
 - [Nix](#nix)
 - [OCaml](#ocaml)
 - [Objective-C](#objective-c)
+- [Objective-C++](#objective-c++)
 - [Others](#others)
 - [PEG.js](#peg.js)
 - [PHP](#php)
@@ -1640,6 +1641,7 @@
 
 ## Lua 
 
+- [tamton-aquib/keys.nvim](https://github.com/tamton-aquib/keys.nvim) - A screen keys plugin for neovim.
 - [0xstepit/flow.nvim](https://github.com/0xstepit/flow.nvim) - 
 - [vmarcosp/dotfiles](https://github.com/vmarcosp/dotfiles) - :bulb: ~/.dotfiles
 - [kwakzalver/duckytype.nvim](https://github.com/kwakzalver/duckytype.nvim) - NeoVim plugin simulating monkeytype.com
@@ -1903,6 +1905,10 @@
 - [tomighty/tomighty-osx](https://github.com/tomighty/tomighty-osx) - Tomighty for macOS
 - [julienXX/terminal-notifier](https://github.com/julienXX/terminal-notifier) - Send User Notifications on macOS from the command-line.
 - [wwayne/react-native-nba-app](https://github.com/wwayne/react-native-nba-app) - This is why we play
+
+## Objective-C++ 
+
+- [rogual/neovim-dot-app](https://github.com/rogual/neovim-dot-app) - Mac OS X GUI for Neovim
 
 ## Others 
 
