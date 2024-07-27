@@ -168,6 +168,7 @@
 
 ## C++ 
 
+- [microsoft/onnxruntime](https://github.com/microsoft/onnxruntime) - ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator
 - [aristocratos/btop](https://github.com/aristocratos/btop) - A monitor of resources
 - [mobile-shell/mosh](https://github.com/mobile-shell/mosh) - Mobile Shell
 - [ocornut/imgui](https://github.com/ocornut/imgui) - Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies
@@ -862,6 +863,7 @@
 
 ## JavaScript 
 
+- [sindresorhus/sketch-icon-preview](https://github.com/sindresorhus/sketch-icon-preview) - Sketch plugin to preview macOS app icons in the Dock using the Icon Preview app
 - [substrate-developer-hub/substrate-developer-hub.github.io](https://github.com/substrate-developer-hub/substrate-developer-hub.github.io) - Substrate Documentation
 - [LaurentTrk/ki.dot](https://github.com/LaurentTrk/ki.dot) - Bring Chainlink Price Feeds to Polkadot Substrate Chain
 - [substrate-developer-hub/substrate-front-end-template](https://github.com/substrate-developer-hub/substrate-front-end-template) - A Polkadot.js API + React based template for building Substrate Front Ends
