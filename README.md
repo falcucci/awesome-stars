@@ -99,6 +99,7 @@
 
 ## C 
 
+- [raspberrypi/debugprobe](https://github.com/raspberrypi/debugprobe) - 
 - [ish-app/ish](https://github.com/ish-app/ish) - Linux shell for iOS
 - [qemu/qemu](https://github.com/qemu/qemu) - Official QEMU mirror. Please see https://www.qemu.org/contribute/ for how to submit changes to QEMU. Pull Requests are ignored. Please only use release tarballs from the QEMU website.
 - [valkey-io/valkey](https://github.com/valkey-io/valkey) - A flexible distributed key-value datastore that supports both caching and beyond caching workloads.
