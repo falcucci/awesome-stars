@@ -1644,6 +1644,7 @@
 
 ## Lua 
 
+- [leath-dub/snipe.nvim](https://github.com/leath-dub/snipe.nvim) - Efficient targetted menu built for fast buffer navigation
 - [tamton-aquib/keys.nvim](https://github.com/tamton-aquib/keys.nvim) - A screen keys plugin for neovim.
 - [0xstepit/flow.nvim](https://github.com/0xstepit/flow.nvim) - 
 - [vmarcosp/dotfiles](https://github.com/vmarcosp/dotfiles) - :bulb: ~/.dotfiles
@@ -2226,7 +2227,7 @@
 - [paulotruta/jee-pee-tee](https://github.com/paulotruta/jee-pee-tee) - An Alexa Skill to interface with chat.openai.com
 - [encode/django-rest-framework](https://github.com/encode/django-rest-framework) - Web APIs for Django. 🎸
 - [scionoftech/FastAPI-Full-Stack-Samples](https://github.com/scionoftech/FastAPI-Full-Stack-Samples) - The API Application Development using Python FastAPI, including interactive API documentation
-- [tiangolo/fastapi](https://github.com/tiangolo/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
+- [fastapi/fastapi](https://github.com/fastapi/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
 - [raghur/vim-ghost](https://github.com/raghur/vim-ghost) - Vim/Nvim client for GhostText - Edit browser text areas in Vim/Neovim
 - [mbroton/chatgpt-api](https://github.com/mbroton/chatgpt-api) - ChatGPT HTTP API Client and CLI
 - [terror/chatgpt.nvim](https://github.com/terror/chatgpt.nvim) - Query ChatGPT in Neovim
@@ -2409,6 +2410,11 @@
 
 ## Rust 
 
+- [JunSuzukiJapan/macro-lisp](https://github.com/JunSuzukiJapan/macro-lisp) - Lisp-like DSL for Rust language
+- [SeniorMars/render.nvim](https://github.com/SeniorMars/render.nvim) - I'm going to try to be working on the anticonceal feature of nvim for image support for typst. This is going to a proof of concept so I can properly figure out what I need to do to get everything work
+- [melMass/echo.nvim](https://github.com/melMass/echo.nvim) - 🔊 Seamlessly integrate sound into your Neovim workflow
+- [falcucci/hyper-jump](https://github.com/falcucci/hyper-jump) - The Cardano aircraft ready to hyper-jump: a generalist all-in-one and cross-platform command-line version manager toolset for a more efficient development workflow.
+- [SeniorMars/typst.nvim](https://github.com/SeniorMars/typst.nvim) - WIP. Goals: Treesitter highlighting, snippets, and a smooth intergration with neovim.
 - [BurntSushi/jiff](https://github.com/BurntSushi/jiff) - A date-time library for Rust that encourages you to jump into the pit of success.
 - [ron-rs/ron](https://github.com/ron-rs/ron) - Rusty Object Notation
 - [madsmtm/objc2](https://github.com/madsmtm/objc2) - Bindings to Apple's frameworks in Rust
@@ -2954,7 +2960,7 @@
 - [asomers/mockall](https://github.com/asomers/mockall) - A powerful mock object library for Rust
 - [sfu-db/connector-x](https://github.com/sfu-db/connector-x) - Fastest library to load data from DB to DataFrames in Rust and Python
 - [jaemk/cached](https://github.com/jaemk/cached) - Rust cache structures and easy function memoization
-- [skyzh/type-exercise-in-rust](https://github.com/skyzh/type-exercise-in-rust) - Learn Rust black magics by implementing an expression framework in database systems
+- [skyzh/type-exercise-in-rust](https://github.com/skyzh/type-exercise-in-rust) - Learn Rust dark magics by implementing an expression framework in database systems
 - [est31/cargo-udeps](https://github.com/est31/cargo-udeps) - Find unused dependencies in Cargo.toml
 - [ms-jpq/sad](https://github.com/ms-jpq/sad) - CLI search and replace | Space Age seD
 - [jetli/rust-yew-axum-tauri-desktop](https://github.com/jetli/rust-yew-axum-tauri-desktop) - Rust + Yew + Axum + Tauri + Tailwindcss, full-stack Rust development for Desktop apps.
