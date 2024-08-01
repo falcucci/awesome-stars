@@ -1008,7 +1008,7 @@
 - [nodejs/node](https://github.com/nodejs/node) - Node.js JavaScript runtime ✨🐢🚀✨
 - [maikelvl/dot-json](https://github.com/maikelvl/dot-json) - Easily edit a json file from the CLI or NodeJS
 - [abhijeetps/weekly-digest](https://github.com/abhijeetps/weekly-digest) - Weekly summary of activity on your GitHub repository :calendar:
-- [brodybits/prettierx](https://github.com/brodybits/prettierx) - a less opinionated fork of Prettier code formatter
+- [brodycj/prettierx](https://github.com/brodycj/prettierx) - a less opinionated fork of Prettier code formatter
 - [spagnuolocarmine/touchbar-systemmonitor](https://github.com/spagnuolocarmine/touchbar-systemmonitor) - A better simple reactive system monitor on macOS for your MacBook pro. Built with Electron.
 - [rwaldron/johnny-five](https://github.com/rwaldron/johnny-five) - JavaScript Robotics and IoT programming framework, developed at Bocoup.
 - [sindresorhus/kill-tabs](https://github.com/sindresorhus/kill-tabs) - Kill all Chrome tabs to improve performance, decrease battery usage, and save memory
@@ -2410,6 +2410,9 @@
 
 ## Rust 
 
+- [demeter-run/specs](https://github.com/demeter-run/specs) - Shared interface definitions among different components
+- [demeter-run/cli](https://github.com/demeter-run/cli) - All of Demeter from the comfort of your terminal
+- [demeter-run/fabric](https://github.com/demeter-run/fabric) - Decentralized Demeter
 - [JunSuzukiJapan/macro-lisp](https://github.com/JunSuzukiJapan/macro-lisp) - Lisp-like DSL for Rust language
 - [SeniorMars/render.nvim](https://github.com/SeniorMars/render.nvim) - I'm going to try to be working on the anticonceal feature of nvim for image support for typst. This is going to a proof of concept so I can properly figure out what I need to do to get everything work
 - [melMass/echo.nvim](https://github.com/melMass/echo.nvim) - 🔊 Seamlessly integrate sound into your Neovim workflow
@@ -2776,7 +2779,7 @@
 - [infinyon/node-bindgen](https://github.com/infinyon/node-bindgen) - Easy way to write Node.js module using Rust
 - [abdolence/slack-morphism-rust](https://github.com/abdolence/slack-morphism-rust) - A modern async client library for Rust, supports Slack Web / Events API/Socket Mode and Block Kit.
 - [a-b-street/abstreet](https://github.com/a-b-street/abstreet) - Transportation planning and traffic simulation software for creating cities friendlier to walking, biking, and public transit
-- [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack GUI library for web, desktop, mobile, and more.
+- [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack app framework for web, desktop, mobile, and more.
 - [svenstaro/rust-web-boilerplate](https://github.com/svenstaro/rust-web-boilerplate) - Rust web template for modern web backend applications
 - [svenstaro/genact](https://github.com/svenstaro/genact) - 🌀 A nonsense activity generator
 - [o2sh/onefetch](https://github.com/o2sh/onefetch) - Command-line Git information tool
