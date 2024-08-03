@@ -479,6 +479,7 @@
 - [netgusto/nodebook](https://github.com/netgusto/nodebook) - Nodebook - Multi-Lang Web REPL + CLI Code runner
 - [yjjnls/awesome-blockchain](https://github.com/yjjnls/awesome-blockchain) - ⚡️Curated list of resources for the development and applications of blockchain.
 - [containers/buildah](https://github.com/containers/buildah) - A tool that facilitates building OCI images.
+- [KingOfBugbounty/KingOfBugBountyTips](https://github.com/KingOfBugbounty/KingOfBugBountyTips) - Our main goal is to share tips from some well-known bughunters. Using recon methodology, we are able to find subdomains, apis, and tokens that are already exploitable, so we can report them. We wish t
 - [go4org/go4](https://github.com/go4org/go4) - go4 hosts the go4.org packages.
 - [hoanhan101/ultimate-go](https://github.com/hoanhan101/ultimate-go) - The Ultimate Go Study Guide
 - [shuveb/containers-the-hard-way](https://github.com/shuveb/containers-the-hard-way) - Learning about containers and how they work by creating them the hard way
@@ -864,6 +865,7 @@
 
 ## JavaScript 
 
+- [w3f/polkadot-wiki](https://github.com/w3f/polkadot-wiki) - The source of truth for Polkadot.
 - [sindresorhus/sketch-icon-preview](https://github.com/sindresorhus/sketch-icon-preview) - Sketch plugin to preview macOS app icons in the Dock using the Icon Preview app
 - [substrate-developer-hub/substrate-developer-hub.github.io](https://github.com/substrate-developer-hub/substrate-developer-hub.github.io) - Substrate Documentation
 - [LaurentTrk/ki.dot](https://github.com/LaurentTrk/ki.dot) - Bring Chainlink Price Feeds to Polkadot Substrate Chain
@@ -2176,7 +2178,7 @@
 - [gukoff/dtparse](https://github.com/gukoff/dtparse) - Fast datetime parser for Python written in Rust
 - [openai/tiktoken](https://github.com/openai/tiktoken) - tiktoken is a fast BPE tokeniser for use with OpenAI's models.
 - [AntonOsika/CLI-Co-Pilot](https://github.com/AntonOsika/CLI-Co-Pilot) - CLI tool that uses GPT4 to turn natural language commands into their Bash/ZShell/PowerShell equivalents
-- [gpt-engineer-org/gpt-engineer](https://github.com/gpt-engineer-org/gpt-engineer) - Specify what you want it to build, the AI asks for clarification, and then builds it.
+- [gpt-engineer-org/gpt-engineer](https://github.com/gpt-engineer-org/gpt-engineer) - Specify what you want it to build, the AI asks for clarification, and then builds it. Not actively maintained.
 - [Mithil467/mitype](https://github.com/Mithil467/mitype) - Typing speed test in terminal
 - [TobinPalmer/pastify.nvim](https://github.com/TobinPalmer/pastify.nvim) - Paste images into markdown from neovim
 - [sdabhi23/django-hasura-jwt-auth](https://github.com/sdabhi23/django-hasura-jwt-auth) - A simple containerized JWT based auth server for integration with Hasura GraphQL Engine written in Python using Django and Django Rest Framework
@@ -2265,7 +2267,6 @@
 - [lucidrains/DALLE-pytorch](https://github.com/lucidrains/DALLE-pytorch) - Implementation / replication of DALL-E, OpenAI's Text to Image Transformer, in Pytorch
 - [caiomadeira/The-Philosopher-BOT](https://github.com/caiomadeira/The-Philosopher-BOT) - O Philosopher Bot ou PhiloBot é uma aplicação responsável por pegar qualquer texto e transforma-lo em uma citação com algum filosofo aleatório.
 - [mingrammer/diagrams](https://github.com/mingrammer/diagrams) - :art: Diagram as Code for prototyping cloud system architectures
-- [KingOfBugbounty/KingOfBugBountyTips](https://github.com/KingOfBugbounty/KingOfBugBountyTips) - Our main goal is to share tips from some well-known bughunters. Using recon methodology, we are able to find subdomains, apis, and tokens that are already exploitable, so we can report them. We wish t
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 - [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
 - [peterwilliams97/git-stats](https://github.com/peterwilliams97/git-stats) - Compute statistics on git repositories
