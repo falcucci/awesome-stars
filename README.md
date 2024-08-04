@@ -99,6 +99,7 @@
 
 ## C 
 
+- [git/git](https://github.com/git/git) - Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentat
 - [raspberrypi/debugprobe](https://github.com/raspberrypi/debugprobe) - 
 - [ish-app/ish](https://github.com/ish-app/ish) - Linux shell for iOS
 - [qemu/qemu](https://github.com/qemu/qemu) - Official QEMU mirror. Please see https://www.qemu.org/contribute/ for how to submit changes to QEMU. Pull Requests are ignored. Please only use release tarballs from the QEMU website.
@@ -2411,6 +2412,7 @@
 
 ## Rust 
 
+- [paritytech/polkadot-sdk-minimal-template](https://github.com/paritytech/polkadot-sdk-minimal-template) - 
 - [demeter-run/specs](https://github.com/demeter-run/specs) - Shared interface definitions among different components
 - [demeter-run/cli](https://github.com/demeter-run/cli) - All of Demeter from the comfort of your terminal
 - [demeter-run/fabric](https://github.com/demeter-run/fabric) - Decentralized Demeter
