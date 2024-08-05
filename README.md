@@ -409,7 +409,7 @@
 - [machinebox/appify](https://github.com/machinebox/appify) - Create a macOS Application from an executable (like a Go binary)
 - [akiyosi/goneovim](https://github.com/akiyosi/goneovim) - A GUI frontend for neovim.
 - [zincsearch/zincsearch](https://github.com/zincsearch/zincsearch) - ZincSearch . A lightweight alternative to elasticsearch that requires minimal resources, written in Go.
-- [sozercan/kubectl-ai](https://github.com/sozercan/kubectl-ai) - ✨ Kubectl plugin for OpenAI GPT
+- [sozercan/kubectl-ai](https://github.com/sozercan/kubectl-ai) - ✨ Kubectl plugin to create manifests with LLMs
 - [pandodao/tokenizer-go](https://github.com/pandodao/tokenizer-go) - A Go wrapper for GPT-3 token encode/decode. https://platform.openai.com/tokenizer
 - [nhost/hasura-storage](https://github.com/nhost/hasura-storage) - Storage for Hasura built on top of S3
 - [connectrpc/connect-go](https://github.com/connectrpc/connect-go) - The Go implementation of Connect: Protobuf RPC that works.
@@ -1928,7 +1928,6 @@
 - [napptive/kubecon-23-oam-kubevela-tutorial](https://github.com/napptive/kubecon-23-oam-kubevela-tutorial) - Material for the KubeCon EU 2023 tutorial about Open Application Model and KubeVela
 - [ErikMcClure/bad-licenses](https://github.com/ErikMcClure/bad-licenses) - A compendium of absurd open-source licenses.
 - [LGUG2Z/helix-vim](https://github.com/LGUG2Z/helix-vim) - A Vim-like configuration for Helix
-- [txpipe/hollow](https://github.com/txpipe/hollow) - A headless dApp framework for the Cardano blockchain
 - [txpipe/cheat-sheets](https://github.com/txpipe/cheat-sheets) - Cheat sheets for the pragmatic dev
 - [oam-dev/spec](https://github.com/oam-dev/spec) - Open Application Model (OAM).
 - [blinklabs-io/cardano-compose-stacks](https://github.com/blinklabs-io/cardano-compose-stacks) - Docker compose files for Cardano blockchain services
@@ -2550,6 +2549,7 @@
 - [txpipe/asteria](https://github.com/txpipe/asteria) - A Cardano bot challenge to showcase the capabilities of the eUTxO model.
 - [primetype/cbor_event](https://github.com/primetype/cbor_event) - cbor library in rust
 - [godot-rust/gdext](https://github.com/godot-rust/gdext) - Rust bindings for Godot 4
+- [txpipe/hollow](https://github.com/txpipe/hollow) - A headless dApp framework for the Cardano blockchain
 - [imsnif/weather-pal](https://github.com/imsnif/weather-pal) - A Zellij plugin to get weather information inside the terminal
 - [anweiss/cddl](https://github.com/anweiss/cddl) - Concise data definition language (RFC 8610) implementation and JSON and CBOR validator in Rust
 - [wadackel/vim-dogrun](https://github.com/wadackel/vim-dogrun) - :dog: A dark Neovim / Vim colorscheme for the GUI and 256 / true-color terminals.
