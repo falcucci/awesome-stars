@@ -369,6 +369,7 @@
 - [kubevela/terraform-controller](https://github.com/kubevela/terraform-controller) - A Kubernetes Terraform Controller, managing Cloud resources through Kubernetes
 - [ariga/atlas](https://github.com/ariga/atlas) - Manage your database schema as code
 - [golang-migrate/migrate](https://github.com/golang-migrate/migrate) - Database migrations. CLI and Golang library.
+- [hasura/ndc-hub](https://github.com/hasura/ndc-hub) - 
 - [zolamk/hasura-exporter](https://github.com/zolamk/hasura-exporter) - Hasura Prometheus Exporter
 - [sony/appsync-client-go](https://github.com/sony/appsync-client-go) - AWS AppSync golang client library
 - [prometheus/prometheus](https://github.com/prometheus/prometheus) - The Prometheus monitoring system and time series database.
@@ -1648,6 +1649,7 @@
 
 ## Lua 
 
+- [paulobressan/setup](https://github.com/paulobressan/setup) - Development environment configuration
 - [stevearc/quicker.nvim](https://github.com/stevearc/quicker.nvim) - Improved UI and workflow for the Neovim quickfix
 - [shellRaining/hlchunk.nvim](https://github.com/shellRaining/hlchunk.nvim) - This is the lua implementation of nvim-hlchunk, you can use this neovim plugin to highlight your indent line and the current chunk (context) your cursor stayed
 - [leath-dub/snipe.nvim](https://github.com/leath-dub/snipe.nvim) - Efficient targetted menu built for fast buffer navigation
@@ -2141,6 +2143,7 @@
 
 ## PureScript 
 
+- [input-output-hk/partner-chains-smart-contracts](https://github.com/input-output-hk/partner-chains-smart-contracts) - Command Line Tool and Cardano Plutus Contracts for interacting with Partner Chains.
 - [KSF-Media/gitlab-dashboard](https://github.com/KSF-Media/gitlab-dashboard) - 📺 TV dashboard for a global view on Gitlab Pipelines
 
 ## Python 
@@ -2414,6 +2417,8 @@
 
 ## Rust 
 
+- [MCOfficer/zip-extract](https://github.com/MCOfficer/zip-extract) - Extract zip archives using the zip crate.
+- [zip-rs/zip2](https://github.com/zip-rs/zip2) - Zip implementation in Rust
 - [stepancheg/rust-protobuf](https://github.com/stepancheg/rust-protobuf) - Rust implementation of Google protocol buffers
 - [avl/arcshift](https://github.com/avl/arcshift) - Variant of Rust's std::sync::Arc that supports atomic replacement of the value.
 - [toml-rs/toml](https://github.com/toml-rs/toml) - Rust TOML Parser
@@ -3150,7 +3155,6 @@
 
 - [unfor19/install-aws-cli-action](https://github.com/unfor19/install-aws-cli-action) - Install AWS CLI on a GitHub Actions Linux host
 - [akinomyoga/ble.sh](https://github.com/akinomyoga/ble.sh) - Bash Line Editor―a line editor written in pure Bash with syntax highlighting, auto suggestions, vim modes, etc. for Bash interactive sessions.
-- [hasura/ndc-hub](https://github.com/hasura/ndc-hub) - 
 - [create-dmg/create-dmg](https://github.com/create-dmg/create-dmg) - A shell script to build fancy DMGs
 - [jorgebucaran/fisher](https://github.com/jorgebucaran/fisher) - A plugin manager for Fish
 - [jterrier84/Cardano-node-docker](https://github.com/jterrier84/Cardano-node-docker) - Create and run a Cardano node in p2p mode as a docker image for ARM64 devices
