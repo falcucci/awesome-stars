@@ -829,7 +829,6 @@
 - [kennedyoliveira/standalone-hystrix-dashboard](https://github.com/kennedyoliveira/standalone-hystrix-dashboard) - Standalone hystrix dashboard that can be started using a single jar and is very lightweight
 - [Genymobile/gnirehtet](https://github.com/Genymobile/gnirehtet) - Gnirehtet provides reverse tethering for Android
 - [guardianproject/haven](https://github.com/guardianproject/haven) - Haven is for people who need a way to protect their personal spaces and possessions without compromising their own privacy, through an Android app and on-device sensors
-- [firebase/quickstart-android](https://github.com/firebase/quickstart-android) - Firebase Quickstart Samples for Android
 - [rafaeltakiyama/react-native-zxing](https://github.com/rafaeltakiyama/react-native-zxing) - Zxing library for React Native Android
 - [rafaeltakiyama/EditTag](https://github.com/rafaeltakiyama/EditTag) - a view to edit tag just like EditText edit text.
 - [prscX/react-native-photo-editor](https://github.com/prscX/react-native-photo-editor) - React Native: Native Photo Editor
@@ -1642,6 +1641,7 @@
 - [JetBrains/idea-gitignore](https://github.com/JetBrains/idea-gitignore) - .ignore support plugin for IntelliJ IDEA
 - [rieonke/idea-auto-switch-im](https://github.com/rieonke/idea-auto-switch-im) - An IntelliJ IDEA Plugin for auto-switching Input Source
 - [JetBrains/ideavim](https://github.com/JetBrains/ideavim) - IdeaVim – A Vim engine for JetBrains IDEs
+- [firebase/quickstart-android](https://github.com/firebase/quickstart-android) - Firebase Quickstart Samples for Android
 - [MarcinMoskala/ActivityStarter](https://github.com/MarcinMoskala/ActivityStarter) - Simple Android Library, that provides easy way to start the Activities with arguments.
 - [sourcerer-io/sourcerer-app](https://github.com/sourcerer-io/sourcerer-app) - 🦄 Sourcerer app makes a visual profile from your GitHub and git repositories.
 - [lottie-react-native/lottie-react-native](https://github.com/lottie-react-native/lottie-react-native) - Lottie wrapper for React Native.
