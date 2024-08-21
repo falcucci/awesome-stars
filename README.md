@@ -2860,7 +2860,7 @@
 - [kata-containers/kata-containers](https://github.com/kata-containers/kata-containers) - Kata Containers is an open source project and community working to build a standard implementation of lightweight Virtual Machines (VMs) that feel and perform like containers, but provide the workload
 - [actix/examples](https://github.com/actix/examples) - Community showcase and examples of Actix Web ecosystem usage.
 - [nickel-org/nickel.rs](https://github.com/nickel-org/nickel.rs) - An expressjs inspired web framework for Rust
-- [instant-labs/instant-distance](https://github.com/instant-labs/instant-distance) - Fast approximate nearest neighbor searching in Rust, based on HNSW index
+- [djc/instant-distance](https://github.com/djc/instant-distance) - Fast approximate nearest neighbor searching in Rust, based on HNSW index
 - [0b01/xprite-editor](https://github.com/0b01/xprite-editor) - Pixel art editor
 - [stencila/stencila](https://github.com/stencila/stencila) - Programmable, reproducible, interactive documents
 - [denoland/deno_lint](https://github.com/denoland/deno_lint) - Blazing fast linter for JavaScript and TypeScript written in Rust
