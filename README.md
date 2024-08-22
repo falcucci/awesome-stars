@@ -2752,7 +2752,7 @@
 - [KunalBagaria/rustyvibes](https://github.com/KunalBagaria/rustyvibes) - A Rust CLI that makes mechanical keyboard sound effects on every key press
 - [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor.
 - [glicol/glicol-cli](https://github.com/glicol/glicol-cli) - glicol cli: cross-platform music live coding in terminal
-- [ratatui-org/ratatui](https://github.com/ratatui-org/ratatui) - Rust library that's all about cooking up terminal user interfaces (TUIs) 👨‍🍳🐀
+- [ratatui/ratatui](https://github.com/ratatui/ratatui) - Rust library that's all about cooking up terminal user interfaces (TUIs) 👨‍🍳🐀
 - [soywod/himalaya](https://github.com/soywod/himalaya) - CLI to manage emails
 - [jcdickinson/http.nvim](https://github.com/jcdickinson/http.nvim) - A http library for your neovim plugin
 - [fizyk20/generic-array](https://github.com/fizyk20/generic-array) - Generic array types in Rust
