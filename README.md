@@ -277,6 +277,7 @@
 
 ## Clojure 
 
+- [instantdb/instant](https://github.com/instantdb/instant) - The realtime client-side database
 - [tonsky/FiraCode](https://github.com/tonsky/FiraCode) - Free monospaced font with programming ligatures
 - [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: http://trello.com/b/8txSM12G/roadmap
 - [LightTable/LightTable](https://github.com/LightTable/LightTable) - The Light Table IDE ⛺
@@ -2416,6 +2417,7 @@
 
 ## Rust 
 
+- [zetanumbers/tigerbeetle-rs](https://github.com/zetanumbers/tigerbeetle-rs) - Safe bindings to tigerbeetle client
 - [MCOfficer/zip-extract](https://github.com/MCOfficer/zip-extract) - Extract zip archives using the zip crate.
 - [zip-rs/zip2](https://github.com/zip-rs/zip2) - Zip implementation in Rust
 - [stepancheg/rust-protobuf](https://github.com/stepancheg/rust-protobuf) - Rust implementation of Google protocol buffers
@@ -4040,6 +4042,7 @@
 
 ## Zig 
 
+- [tigerbeetle/tigerbeetle](https://github.com/tigerbeetle/tigerbeetle) - The financial transactions database designed for mission critical safety and performance.
 - [cryptocode/bio](https://github.com/cryptocode/bio) - A Lisp dialect written in Zig
 - [zackradisic/tether](https://github.com/zackradisic/tether) - WIP high-performance code editor inspired by Doom Emacs and neovim. Comes with explosions.
 - [rvcas/mpool](https://github.com/rvcas/mpool) - A memory pool library written in Zig
