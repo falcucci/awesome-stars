@@ -2417,6 +2417,10 @@
 
 ## Rust 
 
+- [beac0n/ruroco](https://github.com/beac0n/ruroco) - Ruroco is a tool that lets you execute commands on a server by sending UDP packets. The commands are configured on the server side, so the client does not define what is going to be executed, it only 
+- [FedericoBruzzone/tgt](https://github.com/FedericoBruzzone/tgt) - TUI for Telegram written in Rust 🦀
+- [console-rs/dialoguer](https://github.com/console-rs/dialoguer) - Rust utility library for nice command line prompts and similar things
+- [Jesterhearts/ratatui-wgpu](https://github.com/Jesterhearts/ratatui-wgpu) - A wgpu based rendering backend for ratatui.
 - [zetanumbers/tigerbeetle-rs](https://github.com/zetanumbers/tigerbeetle-rs) - Safe bindings to tigerbeetle client
 - [MCOfficer/zip-extract](https://github.com/MCOfficer/zip-extract) - Extract zip archives using the zip crate.
 - [zip-rs/zip2](https://github.com/zip-rs/zip2) - Zip implementation in Rust
