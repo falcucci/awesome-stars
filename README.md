@@ -2417,6 +2417,7 @@
 
 ## Rust 
 
+- [alceal/plotlars](https://github.com/alceal/plotlars) - Plotlars is a Rust library designed to facilitate the integration between the Polars data analysis library and Plotly library.
 - [beac0n/ruroco](https://github.com/beac0n/ruroco) - Ruroco is a tool that lets you execute commands on a server by sending UDP packets. The commands are configured on the server side, so the client does not define what is going to be executed, it only 
 - [FedericoBruzzone/tgt](https://github.com/FedericoBruzzone/tgt) - TUI for Telegram written in Rust 🦀
 - [console-rs/dialoguer](https://github.com/console-rs/dialoguer) - Rust utility library for nice command line prompts and similar things
