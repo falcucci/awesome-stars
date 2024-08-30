@@ -862,7 +862,7 @@
 - [zo0r/react-native-push-notification](https://github.com/zo0r/react-native-push-notification) - React Native Local and Remote Notifications
 - [cesardeazevedo/react-native-collapsing-toolbar](https://github.com/cesardeazevedo/react-native-collapsing-toolbar) - react-native wrapper for android CollapsingToolbarLayout
 - [lugg/react-native-config](https://github.com/lugg/react-native-config) - Bring some 12 factor love to your mobile apps!
-- [yorkxin/copy-as-markdown](https://github.com/yorkxin/copy-as-markdown) - Copying Link, Image and Tab(s) as Markdown Much Easier.
+- [yorkxin/copy-as-markdown](https://github.com/yorkxin/copy-as-markdown) - A browser extension to copy tabs and links as Markdown
 - [nayuki/Project-Euler-solutions](https://github.com/nayuki/Project-Euler-solutions) - Runnable code for solving Project Euler problems in Java, Python, Mathematica, Haskell.
 
 ## JavaScript 
@@ -1303,6 +1303,7 @@
 - [mikenikles/html-to-react](https://github.com/mikenikles/html-to-react) - A lightweight library that converts raw HTML to a React DOM structure.
 - [mermaidjs/mermaid.cli](https://github.com/mermaidjs/mermaid.cli) - Development has been moved to https://github.com/mermaid-js/mermaid-cli
 - [mermaidjs/mermaid-live-editor](https://github.com/mermaidjs/mermaid-live-editor) - Location has moved to https://github.com/mermaid-js/mermaid-live-editor
+- [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
 - [marcbachmann/github-issue-templates](https://github.com/marcbachmann/github-issue-templates) - ARCHIVED. Github has now that built in - A chrome extension to enhance the 'New Issue' button with a dropdown populated from a templates file on github.
 - [zenorocha/good-listener](https://github.com/zenorocha/good-listener) - A more versatile way of adding & removing event listeners
 - [zenorocha/clipboard.js](https://github.com/zenorocha/clipboard.js) - :scissors: Modern copy to clipboard. No Flash. Just 3kb gzipped :clipboard:
@@ -2416,6 +2417,7 @@
 
 ## Rust 
 
+- [paritytech/psvm](https://github.com/paritytech/psvm) - Polkadot SDK Version Manager
 - [paseo-network/runtimes](https://github.com/paseo-network/runtimes) - Runtimes for Polkadot community testnet
 - [flox/flox](https://github.com/flox/flox) - Developer environments you can take with you
 - [elastio/bon](https://github.com/elastio/bon) - Generate builders for everything!
@@ -2730,7 +2732,7 @@
 - [google/comprehensive-rust](https://github.com/google/comprehensive-rust) - This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust.
 - [cormacrelf/dark-notify](https://github.com/cormacrelf/dark-notify) - Watcher for macOS 10.14+ light/dark mode changes
 - [hopinc/cli](https://github.com/hopinc/cli) - 💻 Interact with Hop in your terminal
-- [stevepryde/thirtyfour](https://github.com/stevepryde/thirtyfour) - Selenium WebDriver client for Rust, for automated testing of websites
+- [Vrtgs/thirtyfour](https://github.com/Vrtgs/thirtyfour) - Selenium WebDriver client for Rust, for automated testing of websites
 - [cncf/gitvote](https://github.com/cncf/gitvote) - GitVote is a GitHub application that allows holding a vote on issues and pull requests
 - [redbadger/crux](https://github.com/redbadger/crux) - Cross-platform app development in Rust
 - [wasmerio/wasmer](https://github.com/wasmerio/wasmer) - 🚀 The leading Wasm Runtime supporting WASIX, WASI and Emscripten
@@ -3712,7 +3714,6 @@
 - [rgommezz/react-native-offline](https://github.com/rgommezz/react-native-offline) - Handy toolbelt to deal nicely with offline/online connectivity in a React Native app. Smooth redux integration ✈️
 - [zzarcon/react-gh-corner](https://github.com/zzarcon/react-gh-corner) - React portals + Github corners + Styled component = 💘
 - [OneSignal/react-native-onesignal](https://github.com/OneSignal/react-native-onesignal) - React Native Library for OneSignal Push Notifications Service
-- [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
 - [AntonioVdlC/html-template-tag](https://github.com/AntonioVdlC/html-template-tag) - :page_facing_up: - ES6 Tagged Template for compiling HTML template strings
 - [fregante/webext-inject-on-install](https://github.com/fregante/webext-inject-on-install) - Automatically add content scripts to existing tabs when your extension is installed. Chrome
 - [alex-kinokon/jsx-dom](https://github.com/alex-kinokon/jsx-dom) - Use JSX to create DOM elements.
