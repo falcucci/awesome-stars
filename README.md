@@ -226,6 +226,7 @@
 - [godotengine/godot](https://github.com/godotengine/godot) - Godot Engine – Multi-platform 2D and 3D game engine
 - [libcpr/cpr](https://github.com/libcpr/cpr) - C++ Requests: Curl for People, a spiritual port of Python Requests.
 - [pmq20/node-packer](https://github.com/pmq20/node-packer) - Packing your Node.js application into a single executable.
+- [BrowserWorks/Waterfox](https://github.com/BrowserWorks/Waterfox) - The official Waterfox 💧 source code repository
 - [microsoft/react-native-windows](https://github.com/microsoft/react-native-windows) - A framework for building native Windows apps with React.
 - [facebook/react-native](https://github.com/facebook/react-native) - A framework for building native applications using React
 - [nem0/LumixEngine](https://github.com/nem0/LumixEngine) - 3D C++ Game Engine - yet another open source game engine
@@ -1649,6 +1650,7 @@
 
 ## Lua 
 
+- [xero/evangelion.nvim](https://github.com/xero/evangelion.nvim) - a colorscheme for {neo,}vim inspired by neon genesis evangelion. supports treesitter, gitsigns, lazy, which-key, telescope, lsp diagnostics, and more.
 - [paulobressan/setup](https://github.com/paulobressan/setup) - Development environment configuration
 - [stevearc/quicker.nvim](https://github.com/stevearc/quicker.nvim) - Improved UI and workflow for the Neovim quickfix
 - [shellRaining/hlchunk.nvim](https://github.com/shellRaining/hlchunk.nvim) - This is the lua implementation of nvim-hlchunk, you can use this neovim plugin to highlight your indent line and the current chunk (context) your cursor stayed
@@ -1876,6 +1878,7 @@
 
 - [swiftlang/swift-evolution](https://github.com/swiftlang/swift-evolution) - This maintains proposals for changes and user-visible enhancements to the Swift Programming Language.
 - [rust-lang/rfcs](https://github.com/rust-lang/rfcs) - RFCs for changes to Rust
+- [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
 
 ## Mojo 
 
@@ -2087,7 +2090,6 @@
 - [codepath/android_guides](https://github.com/codepath/android_guides) - Extensive Open-Source Guides for Android Developers
 - [domenic/proposal-blocks](https://github.com/domenic/proposal-blocks) - Former home of a proposal for a new syntactic construct for serializable blocks of JavaScript code
 - [springload/awesome-wagtail](https://github.com/springload/awesome-wagtail) - A curated list of awesome packages, articles, and other cool resources from the Wagtail community.
-- [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
 - [epilande/vim-es2015-snippets](https://github.com/epilande/vim-es2015-snippets) - :scissors: ES2015 code snippets for vim
 - [epilande/vim-react-snippets](https://github.com/epilande/vim-react-snippets) - :scissors: React code snippets for vim
 - [EQuimper/VSC-React-Native-React-Redux-Snippets](https://github.com/EQuimper/VSC-React-Native-React-Redux-Snippets) - Snippets for React and React-Native with a bit of Redux for es6/es7 user.
@@ -2123,7 +2125,6 @@
 - [JakeWorrell/docodile](https://github.com/JakeWorrell/docodile) - Generate HTML API documentation from a Postman collection
 - [kielabokkie/blueman](https://github.com/kielabokkie/blueman) - Convert a generated API Blueprint JSON file into a Postman collection
 - [laravel/framework](https://github.com/laravel/framework) - The Laravel Framework.
-- [BrowserWorks/Waterfox](https://github.com/BrowserWorks/Waterfox) - The official Waterfox 💧 source code repository
 - [gharlan/alfred-github-workflow](https://github.com/gharlan/alfred-github-workflow) - GitHub Workflow for Alfred
 
 ## PLpgSQL 
@@ -2417,6 +2418,7 @@
 
 ## Rust 
 
+- [elijah-potter/harper](https://github.com/elijah-potter/harper) - The Grammar Checker for Developers
 - [paritytech/psvm](https://github.com/paritytech/psvm) - Polkadot SDK Version Manager
 - [paseo-network/runtimes](https://github.com/paseo-network/runtimes) - Runtimes for Polkadot community testnet
 - [flox/flox](https://github.com/flox/flox) - Developer environments you can take with you
@@ -3750,7 +3752,7 @@
 - [vercel/ms](https://github.com/vercel/ms) - Tiny millisecond conversion utility
 - [wix/react-native-calendars](https://github.com/wix/react-native-calendars) - React Native Calendar Components 🗓️ 📆
 - [akveo/kittenTricks](https://github.com/akveo/kittenTricks) - React Native starter kit with over 40 screens and modern Light and Dark theme for creating stunning cross-platform mobile applications.
-- [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - the secure note taking and to-do app with synchronisation capabilities for Windows, macOS, Linux, Android and iOS.
+- [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - the privacy-focused note taking app with sync capabilities for Windows, macOS, Linux, Android and iOS.
 - [ant-design/ant-design-mobile](https://github.com/ant-design/ant-design-mobile) - Essential UI blocks for building mobile web apps.
 - [FaridSafi/react-native-gifted-chat](https://github.com/FaridSafi/react-native-gifted-chat) - 💬 The most complete chat UI for React Native
 - [remix-run/react-router](https://github.com/remix-run/react-router) - Declarative routing for React
@@ -3796,7 +3798,6 @@
 
 ## Vim Script 
 
-- [xero/evangelion.nvim](https://github.com/xero/evangelion.nvim) - a colorscheme for {neo,}vim inspired by neon genesis evangelion. supports treesitter, gitsigns, lazy, which-key, telescope, lsp diagnostics, and more.
 - [tpope/vim-rhubarb](https://github.com/tpope/vim-rhubarb) - rhubarb.vim: GitHub extension for fugitive.vim
 - [rhysd/git-messenger.vim](https://github.com/rhysd/git-messenger.vim) - Vim and Neovim plugin to reveal the commit messages under the cursor
 - [szw/vim-maximizer](https://github.com/szw/vim-maximizer) - Maximizes and restores the current window in Vim.
