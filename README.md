@@ -2647,7 +2647,7 @@
 - [alacritty/vtebench](https://github.com/alacritty/vtebench) - Generate benchmarks for terminal emulators
 - [Rodrigodd/tiny-snake.rs](https://github.com/Rodrigodd/tiny-snake.rs) - A very tiny terminal snake game, purely implemented in Rust.
 - [hecatia-elegua/bilge](https://github.com/hecatia-elegua/bilge) - Use bitsized types as if they were a feature of rust.
-- [SixArm/rust-summaries](https://github.com/SixArm/rust-summaries) - Rust summaries are short introductions to Rust programming topics, including the language, ecosystem, concepts, crates, and more.
+- [SixArm/rust-quick-guide](https://github.com/SixArm/rust-quick-guide) - Rust Quick Guide provides short introductions to many Rust programming topics, including the language, ecosystem, concepts, crates, and more.
 - [chipsenkbeil/distant](https://github.com/chipsenkbeil/distant) - 🚧 (Alpha stage software) Library and tooling that supports remote filesystem and process operations. 🚧
 - [kkharji/xbase](https://github.com/kkharji/xbase) - Develop Apple software products within your favorite editor.
 - [chyh1990/yaml-rust](https://github.com/chyh1990/yaml-rust) - A pure rust YAML implementation.
