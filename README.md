@@ -171,6 +171,7 @@
 
 ## C++ 
 
+- [ethereum/solidity](https://github.com/ethereum/solidity) - Solidity, the Smart Contract Programming Language
 - [microsoft/onnxruntime](https://github.com/microsoft/onnxruntime) - ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator
 - [aristocratos/btop](https://github.com/aristocratos/btop) - A monitor of resources
 - [mobile-shell/mosh](https://github.com/mobile-shell/mosh) - Mobile Shell
@@ -2418,6 +2419,10 @@
 
 ## Rust 
 
+- [dtolnay/thiserror](https://github.com/dtolnay/thiserror) - derive(Error) for struct and enum error types
+- [dtolnay/anyhow](https://github.com/dtolnay/anyhow) - Flexible concrete Error type built on std::error::Error
+- [RyanWelly/lisp-in-rs-macros](https://github.com/RyanWelly/lisp-in-rs-macros) - A Lisp interpreter written fully in rust macros.
+- [paradigmxyz/reth](https://github.com/paradigmxyz/reth) - Modular, contributor-friendly and blazing-fast implementation of the Ethereum protocol, in Rust
 - [Wumpf/wgpu-profiler](https://github.com/Wumpf/wgpu-profiler) - Simple profiler scopes for wgpu using timer queries
 - [lambdaclass/lambdaworks](https://github.com/lambdaclass/lambdaworks) - lambdaworks offers implementations for both SNARKs and STARKs provers, along with the flexibility to leverage their individual components for constructing customized SNARKs.
 - [noir-lang/noir](https://github.com/noir-lang/noir) - Noir is a domain specific language for zero knowledge proofs
@@ -2767,7 +2772,7 @@
 - [KunalBagaria/rustyvibes](https://github.com/KunalBagaria/rustyvibes) - A Rust CLI that makes mechanical keyboard sound effects on every key press
 - [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor.
 - [glicol/glicol-cli](https://github.com/glicol/glicol-cli) - glicol cli: cross-platform music live coding in terminal
-- [ratatui/ratatui](https://github.com/ratatui/ratatui) - Rust library that's all about cooking up terminal user interfaces (TUIs) 👨‍🍳🐀
+- [ratatui/ratatui](https://github.com/ratatui/ratatui) - A Rust crate for cooking up terminal user interfaces (TUIs) 👨‍🍳🐀 https://ratatui.rs
 - [pimalaya/himalaya](https://github.com/pimalaya/himalaya) - CLI to manage emails
 - [jcdickinson/http.nvim](https://github.com/jcdickinson/http.nvim) - A http library for your neovim plugin
 - [fizyk20/generic-array](https://github.com/fizyk20/generic-array) - Generic array types in Rust
@@ -3252,7 +3257,7 @@
 - [soulseekah/bash-utils](https://github.com/soulseekah/bash-utils) - A collection of pocket-size bash script utilities
 - [labbots/google-drive-upload](https://github.com/labbots/google-drive-upload) - Bash scripts to upload files to google drive
 - [Jintin/aliasme](https://github.com/Jintin/aliasme) - A shell script to memorize your command in command line.
-- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,300+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
+- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 - [opengapps/opengapps](https://github.com/opengapps/opengapps) - The main repository of the Open GApps Project
 - [tj/git-extras](https://github.com/tj/git-extras) - GIT utilities -- repo summary, repl, changelog population, author commit percentages and more
 - [tj/n](https://github.com/tj/n) - Node version management
@@ -3339,6 +3344,7 @@
 
 ## TypeScript 
 
+- [yaakapp/app](https://github.com/yaakapp/app) - The most intuitive desktop API client. Organize and execute REST, GraphQL, and gRPC requests in a simple and intuitive app.
 - [paritytech/substrate-connect](https://github.com/paritytech/substrate-connect) - Run Wasm Light Clients of any Substrate based chain directly in your browser.
 - [zsviczian/obsidian-excalidraw-plugin](https://github.com/zsviczian/obsidian-excalidraw-plugin) - A plugin to edit and view Excalidraw drawings in Obsidian
 - [vrtmrz/ninja-cursor](https://github.com/vrtmrz/ninja-cursor) - 
@@ -3565,7 +3571,7 @@
 - [hoangvvo/next-connect](https://github.com/hoangvvo/next-connect) - The TypeScript-ready, minimal router and middleware layer for Next.js, Micro, Vercel, or Node.js http/http2
 - [zenflow/hasura-node-monolith-example](https://github.com/zenflow/hasura-node-monolith-example) - Example of a monolithic web application using Hasura GraphQL Engine + Node.js + Next.js
 - [felippepuhle/coc-graphql](https://github.com/felippepuhle/coc-graphql) - GraphQL Language Service extension for coc.nvim
-- [jasonkuhrt/graffle](https://github.com/jasonkuhrt/graffle) - Minimal GraphQL client
+- [jasonkuhrt/graffle](https://github.com/jasonkuhrt/graffle) - Simple GraphQL Client for JavaScript. Minimal. Extensible. Type Safe. Runs everywhere.
 - [pwa-builder/pwa-starter](https://github.com/pwa-builder/pwa-starter) - Welcome to the PWABuilder pwa-starter! Looking to build a new Progressive Web App and not sure where to get started? This is what you are looking for!
 - [hasura/graphql-engine](https://github.com/hasura/graphql-engine) - Blazing fast, instant realtime GraphQL APIs on your DB with fine grained access control, also trigger webhooks on database events.
 - [ghoshnirmalya/nextjs-hasura-boilerplate](https://github.com/ghoshnirmalya/nextjs-hasura-boilerplate) - :art: Boilerplate for building applications using Hasura and Next.js
