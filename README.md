@@ -171,6 +171,7 @@
 
 ## C++ 
 
+- [WasmEdge/WasmEdge](https://github.com/WasmEdge/WasmEdge) - WasmEdge is a lightweight, high-performance, and extensible WebAssembly runtime for cloud native, edge, and decentralized applications. It powers serverless apps, embedded functions, microservices, sm
 - [ethereum/solidity](https://github.com/ethereum/solidity) - Solidity, the Smart Contract Programming Language
 - [microsoft/onnxruntime](https://github.com/microsoft/onnxruntime) - ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator
 - [aristocratos/btop](https://github.com/aristocratos/btop) - A monitor of resources
@@ -800,7 +801,7 @@
 - [bloxbean/yaci-devkit](https://github.com/bloxbean/yaci-devkit) - A set of dev tools for development on Cardano.
 - [HamburgChimps/apple-notes-liberator](https://github.com/HamburgChimps/apple-notes-liberator) - Free your Apple Notes data from Notes.app
 - [matheusmendes-dev/store-print-ml](https://github.com/matheusmendes-dev/store-print-ml) - Teste na busca de impressoras
-- [elastic/elasticsearch](https://github.com/elastic/elasticsearch) - Free and Open, Distributed, RESTful Search Engine
+- [elastic/elasticsearch](https://github.com/elastic/elasticsearch) - Free and Open Source, Distributed, RESTful Search Engine
 - [apache/kafka](https://github.com/apache/kafka) - Mirror of Apache Kafka
 - [google/volley](https://github.com/google/volley) - 
 - [ervandew/eclim](https://github.com/ervandew/eclim) - Expose eclipse features inside of vim.
@@ -1300,7 +1301,6 @@
 - [kunalkapadia/express-mongoose-es6-rest-api](https://github.com/kunalkapadia/express-mongoose-es6-rest-api) - :collision: A boilerplate application for building RESTful APIs Microservice in Node.js using express and mongoose in ES6 with code coverage and JsonWebToken Authentication
 - [developit/express-es6-rest-api](https://github.com/developit/express-es6-rest-api) - :battery: Starter project for an ES6 RESTful Express API.
 - [handlebars-lang/handlebars.js](https://github.com/handlebars-lang/handlebars.js) - Minimal templating on steroids.
-- [pagarme/lambda](https://github.com/pagarme/lambda) - 🔮 Estudos obscuros de programação funcional
 - [ded/reqwest](https://github.com/ded/reqwest) - browser asynchronous http requests
 - [mikenikles/html-to-react](https://github.com/mikenikles/html-to-react) - A lightweight library that converts raw HTML to a React DOM structure.
 - [mermaidjs/mermaid.cli](https://github.com/mermaidjs/mermaid.cli) - Development has been moved to https://github.com/mermaid-js/mermaid-cli
@@ -2418,6 +2418,9 @@
 
 ## Rust 
 
+- [gevulotnetwork/gevulot](https://github.com/gevulotnetwork/gevulot) - Gevulot is an internet scale compute network for zero-knowledge proof generation and verification.
+- [casper-network/casper-node](https://github.com/casper-network/casper-node) - Reference client for CASPER protocol
+- [casper-network/juliet](https://github.com/casper-network/juliet) - A TCP-based, multiplexing, backpressuring low-overhead transport protocol.
 - [zcash/halo2](https://github.com/zcash/halo2) - The Halo2 zero-knowledge proving system
 - [Amanieu/parking_lot](https://github.com/Amanieu/parking_lot) - Compact and efficient synchronization primitives for Rust. Also provides an API for creating custom synchronization primitives.
 - [dtolnay/thiserror](https://github.com/dtolnay/thiserror) - derive(Error) for struct and enum error types
@@ -3507,7 +3510,7 @@
 - [Siumauricio/portfolio](https://github.com/Siumauricio/portfolio) - Simple and minimalist portfolio using Nextjs and NextUI.
 - [Siumauricio/nextjs-template-portfolio](https://github.com/Siumauricio/nextjs-template-portfolio) - Simple and minimalist portfolio using NextJs and TailwindCSS with DaisyUI with support with dark mode and more than 25 themes!!
 - [Siumauricio/nextui-dashboard-template](https://github.com/Siumauricio/nextui-dashboard-template) - Dashboard starter using NextUI V2 and Nextjs.
-- [WalletConnect/web3modal](https://github.com/WalletConnect/web3modal) - A single Web3 provider solution for all Wallets
+- [reown-com/appkit](https://github.com/reown-com/appkit) - The full stack toolkit to build onchain app UX
 - [timc1/kbar](https://github.com/timc1/kbar) - fast, portable, and extensible cmd+k interface for your site
 - [pacocoursey/next-themes](https://github.com/pacocoursey/next-themes) - Perfect Next.js dark mode in 2 lines of code. Support System preference and any other theme with no flashing
 - [fregante/webext-sandbox](https://github.com/fregante/webext-sandbox) - WIP
