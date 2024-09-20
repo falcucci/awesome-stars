@@ -280,7 +280,7 @@
 
 ## Clojure 
 
-- [instantdb/instant](https://github.com/instantdb/instant) - The realtime client-side database
+- [instantdb/instant](https://github.com/instantdb/instant) - Instant is a modern Firebase. We make you productive by giving your frontend a real-time database.
 - [tonsky/FiraCode](https://github.com/tonsky/FiraCode) - Free monospaced font with programming ligatures
 - [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: http://trello.com/b/8txSM12G/roadmap
 - [LightTable/LightTable](https://github.com/LightTable/LightTable) - The Light Table IDE ⛺
@@ -508,7 +508,7 @@
 - [tj/go-tea](https://github.com/tj/go-tea) - Tea provides an Elm inspired functional framework for interactive command-line programs.
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
 - [istio/istio](https://github.com/istio/istio) - Connect, secure, control, and observe services.
-- [ory/kratos](https://github.com/ory/kratos) - Next-gen identity server replacing your Auth0, Okta, Firebase with hardened security and PassKeys, SMS, OIDC, Social Sign In, MFA, FIDO, TOTP and OTP, WebAuthn, passwordless and much more. Golang, hea
+- [ory/kratos](https://github.com/ory/kratos) - The most scalable and customizable identity server on the market. Replace your Homegrown, Auth0, Okta, Firebase with better UX and DX. Has all the tablestakes: Passkeys, Social Sign In, Multi-Factor A
 - [rhysd/vim-startuptime](https://github.com/rhysd/vim-startuptime) - A small Go program for better `vim --startuptime` alternative
 - [zyedidia/micro](https://github.com/zyedidia/micro) - A modern and intuitive terminal-based text editor
 - [grafana/k6](https://github.com/grafana/k6) - A modern load testing tool, using Go and JavaScript - https://k6.io
@@ -1434,7 +1434,7 @@
 - [APSL/react-native-keyboard-aware-scroll-view](https://github.com/APSL/react-native-keyboard-aware-scroll-view) - A ScrollView component that handles keyboard appearance and automatically scrolls to focused TextInput.
 - [roycclu/react-native-sticky-header-footer-scroll-view](https://github.com/roycclu/react-native-sticky-header-footer-scroll-view) - Takes any component, makes it scrollable and add your sticky header/footer.
 - [krasimir/react-in-patterns](https://github.com/krasimir/react-in-patterns) - A free book that talks about design patterns/techniques used while developing with React.
-- [TheSavior/react-native-mask-loader](https://github.com/TheSavior/react-native-mask-loader) - React Native App Loader that shows an expanding image as a mask on your app. Direct rip of Twitter's loading animation.
+- [elicwhite/react-native-mask-loader](https://github.com/elicwhite/react-native-mask-loader) - React Native App Loader that shows an expanding image as a mask on your app. Direct rip of Twitter's loading animation.
 - [Noitidart/react-native-buttonex](https://github.com/Noitidart/react-native-buttonex) - Minor additions to the standard react-native/Button component to make it perfectly match the native button component on iOS and Android.
 - [sindresorhus/react-router-util](https://github.com/sindresorhus/react-router-util) - Useful components and utilities for working with React Router
 - [sindresorhus/np](https://github.com/sindresorhus/np) - A better `npm publish`
@@ -2418,6 +2418,7 @@
 
 ## Rust 
 
+- [aurora-is-near/aurora-engine](https://github.com/aurora-is-near/aurora-engine) - ⚙️ Aurora Engine implements an Ethereum Virtual Machine (EVM) on the NEAR Protocol.
 - [gevulotnetwork/gevulot](https://github.com/gevulotnetwork/gevulot) - Gevulot is an internet scale compute network for zero-knowledge proof generation and verification.
 - [casper-network/casper-node](https://github.com/casper-network/casper-node) - Reference client for CASPER protocol
 - [casper-network/juliet](https://github.com/casper-network/juliet) - A TCP-based, multiplexing, backpressuring low-overhead transport protocol.
@@ -2573,7 +2574,7 @@
 - [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
 - [utxorpc/spec](https://github.com/utxorpc/spec) - A RPC layer to interact with UTxO-based blockchains
 - [rust-lang/futures-rs](https://github.com/rust-lang/futures-rs) - Zero-cost asynchronous programming in Rust
-- [bitwarden/sdk](https://github.com/bitwarden/sdk) - Bitwarden SDK
+- [bitwarden/sdk](https://github.com/bitwarden/sdk) - Bitwarden SDK.
 - [YS-L/csvlens](https://github.com/YS-L/csvlens) - Command line csv viewer
 - [uutils/coreutils](https://github.com/uutils/coreutils) - Cross-platform Rust rewrite of the GNU coreutils
 - [rust-windowing/raw-window-handle](https://github.com/rust-windowing/raw-window-handle) - A common windowing interoperability library for Rust
