@@ -2510,7 +2510,7 @@
 - [awslabs/mountpoint-s3](https://github.com/awslabs/mountpoint-s3) - A simple, high-throughput file client for mounting an Amazon S3 bucket as a local file system.
 - [smol-dot/smoldot](https://github.com/smol-dot/smoldot) - Lightweight client for Substrate-based chains, such as Polkadot and Kusama.
 - [meteroid-oss/meteroid](https://github.com/meteroid-oss/meteroid) - Open-source Pricing and Billing Infrastructure 🚀 Subscription management, Invoicing, Pricing, Usage-based billing, Cost limiting, Grandfathering, Experiments, Revenue analytics & Actionable insights
-- [linebender/vello](https://github.com/linebender/vello) - An experimental GPU compute-centric 2D renderer.
+- [linebender/vello](https://github.com/linebender/vello) - A GPU compute-centric 2D renderer.
 - [linebender/xilem](https://github.com/linebender/xilem) - An experimental Rust native UI framework
 - [linebender/masonry](https://github.com/linebender/masonry) - Rust UI design toolkit - moved.
 - [linebender/parley](https://github.com/linebender/parley) - Rich text layout library
