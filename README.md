@@ -241,7 +241,6 @@
 
 ## CSS 
 
-- [catppuccin/mdBook](https://github.com/catppuccin/mdBook) - 🎊 Soothing pastel theme for mdBook
 - [rust-analyzer/rust-analyzer.github.io](https://github.com/rust-analyzer/rust-analyzer.github.io) - 
 - [LemmyNet/lemmy-ui](https://github.com/LemmyNet/lemmy-ui) - The official web app for lemmy.
 - [braver/programmingfonts](https://github.com/braver/programmingfonts) - Test drive programming fonts online: the definitive list of fonts for code.
@@ -694,6 +693,7 @@
 
 ## HTML 
 
+- [CodeFreezr/awesome-graphviz](https://github.com/CodeFreezr/awesome-graphviz) - A curated list of GraphViz related resources
 - [munificent/craftinginterpreters](https://github.com/munificent/craftinginterpreters) - Repository for the book "Crafting Interpreters"
 - [anushkaparadkar/Thanos-snap-effect](https://github.com/anushkaparadkar/Thanos-snap-effect) - Thanos snap effect using Javascript and chance.js.
 - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
@@ -735,6 +735,7 @@
 
 ## Handlebars 
 
+- [catppuccin/mdBook](https://github.com/catppuccin/mdBook) - 🎊 Soothing pastel theme for mdBook
 - [ibeatai/beat-ai](https://github.com/ibeatai/beat-ai) - &lt;Beat AI&gt; 又名 &lt;零生万物&gt; , 是一本专属于软件开发工程师的 AI 入门圣经，手把手带你上手写 AI。从神经网络到大模型，从高层设计到微观原理，从工程实现到算法，学完后，你会发现 AI 也并不是想象中那么高不可攀、无法战胜，Just beat it !
 - [rust-unofficial/patterns](https://github.com/rust-unofficial/patterns) - A catalogue of Rust design patterns, anti-patterns and idioms
 - [DannyDainton/basic-newman-slack-bot](https://github.com/DannyDainton/basic-newman-slack-bot) - A basic express app that allows you to run Postman collections against different environments with Newman, straight from Slack.
@@ -839,7 +840,6 @@
 - [dbeaver/dbeaver](https://github.com/dbeaver/dbeaver) - Free universal database tool and SQL client
 - [OpenAPITools/openapi-generator](https://github.com/OpenAPITools/openapi-generator) - OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)
 - [sriraman/react-native-shared-preferences](https://github.com/sriraman/react-native-shared-preferences) - Android's Native key value storage system in React Native
-- [oblador/react-native-keychain](https://github.com/oblador/react-native-keychain) - :key: Keychain Access for React Native
 - [DrKLO/Telegram](https://github.com/DrKLO/Telegram) - Telegram for Android source
 - [Hitomis/ActivitySwitcher](https://github.com/Hitomis/ActivitySwitcher) - ActivitySwitcher is based on the Activity view operation management library, you can achieve any jump between Activity, close any Activity and end applications and other functions.
 - [hajiyevelnur92/intentanimation](https://github.com/hajiyevelnur92/intentanimation) - animattion between activities
@@ -1646,6 +1646,7 @@
 - [JetBrains/ideavim](https://github.com/JetBrains/ideavim) - IdeaVim – A Vim engine for JetBrains IDEs
 - [firebase/quickstart-android](https://github.com/firebase/quickstart-android) - Firebase Quickstart Samples for Android
 - [MarcinMoskala/ActivityStarter](https://github.com/MarcinMoskala/ActivityStarter) - Simple Android Library, that provides easy way to start the Activities with arguments.
+- [oblador/react-native-keychain](https://github.com/oblador/react-native-keychain) - :key: Keychain Access for React Native
 - [sourcerer-io/sourcerer-app](https://github.com/sourcerer-io/sourcerer-app) - 🦄 Sourcerer app makes a visual profile from your GitHub and git repositories.
 - [lottie-react-native/lottie-react-native](https://github.com/lottie-react-native/lottie-react-native) - Lottie wrapper for React Native.
 
@@ -2418,6 +2419,9 @@
 
 ## Rust 
 
+- [Kethku/Pando](https://github.com/Kethku/Pando) - An infinite canvas for todo trees
+- [jewlexx/discord-presence](https://github.com/jewlexx/discord-presence) - Discord Rich Presence in Rust
+- [Rust-GPU/rust-gpu](https://github.com/Rust-GPU/rust-gpu) - 🐉 Making Rust a first-class language and ecosystem for GPU shaders 🚧
 - [aurora-is-near/aurora-engine](https://github.com/aurora-is-near/aurora-engine) - ⚙️ Aurora Engine implements an Ethereum Virtual Machine (EVM) on the NEAR Protocol.
 - [gevulotnetwork/gevulot](https://github.com/gevulotnetwork/gevulot) - Gevulot is an internet scale compute network for zero-knowledge proof generation and verification.
 - [casper-network/casper-node](https://github.com/casper-network/casper-node) - Reference client for CASPER protocol
