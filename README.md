@@ -2419,6 +2419,7 @@
 
 ## Rust 
 
+- [grampelberg/kty](https://github.com/grampelberg/kty) - The terminal for Kubernetes
 - [Kethku/Pando](https://github.com/Kethku/Pando) - An infinite canvas for todo trees
 - [jewlexx/discord-presence](https://github.com/jewlexx/discord-presence) - Discord Rich Presence in Rust
 - [Rust-GPU/rust-gpu](https://github.com/Rust-GPU/rust-gpu) - 🐉 Making Rust a first-class language and ecosystem for GPU shaders 🚧
