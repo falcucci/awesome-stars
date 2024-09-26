@@ -2209,7 +2209,6 @@
 - [matkapi/postpy2](https://github.com/matkapi/postpy2) - Postman collection runner library for python
 - [mmz-001/knowledge_gpt](https://github.com/mmz-001/knowledge_gpt) - Accurate answers and instant citations for your documents.
 - [chenfei-wu/TaskMatrix](https://github.com/chenfei-wu/TaskMatrix) - 
-- [keephq/keep](https://github.com/keephq/keep) - The open-source alert management and AIOps platform
 - [lucidrains/musiclm-pytorch](https://github.com/lucidrains/musiclm-pytorch) - Implementation of MusicLM, Google's new SOTA model for music generation using attention networks, in Pytorch
 - [lllyasviel/ControlNet](https://github.com/lllyasviel/ControlNet) - Let us control diffusion models!
 - [microsoft/unilm](https://github.com/microsoft/unilm) - Large-scale Self-supervised Pre-training Across Tasks, Languages, and Modalities
@@ -2420,6 +2419,7 @@
 
 ## Rust 
 
+- [indygreg/apple-platform-rs](https://github.com/indygreg/apple-platform-rs) - Rust crates supporting Apple platform development
 - [grampelberg/kty](https://github.com/grampelberg/kty) - The terminal for Kubernetes
 - [Kethku/Pando](https://github.com/Kethku/Pando) - An infinite canvas for todo trees
 - [jewlexx/discord-presence](https://github.com/jewlexx/discord-presence) - Discord Rich Presence in Rust
@@ -2443,7 +2443,7 @@
 - [paritytech/psvm](https://github.com/paritytech/psvm) - Polkadot SDK Version Manager
 - [paseo-network/runtimes](https://github.com/paseo-network/runtimes) - Runtimes for Polkadot community testnet
 - [flox/flox](https://github.com/flox/flox) - Developer environments you can take with you
-- [elastio/bon](https://github.com/elastio/bon) - Generate builders for everything!
+- [elastio/bon](https://github.com/elastio/bon) - Next gen compile-time-checked builder generator, named function's arguments, and more!
 - [alceal/plotlars](https://github.com/alceal/plotlars) - Plotlars is a Rust library designed to facilitate the integration between the Polars data analysis library and Plotly library.
 - [beac0n/ruroco](https://github.com/beac0n/ruroco) - Ruroco is a tool that lets you execute commands on a server by sending UDP packets. The commands are configured on the server side, so the client does not define what is going to be executed, it only 
 - [FedericoBruzzone/tgt](https://github.com/FedericoBruzzone/tgt) - TUI for Telegram written in Rust 🦀
@@ -3468,6 +3468,7 @@
 - [urql-graphql/urql-devtools](https://github.com/urql-graphql/urql-devtools) - A tool for monitoring and debugging urql during development
 - [shuding/nextra](https://github.com/shuding/nextra) - Simple, powerful and flexible site generation framework with everything you love from Next.js.
 - [kamilkisiela/graphql-hive](https://github.com/kamilkisiela/graphql-hive) - GraphQL Hive is a schema registry and observability
+- [keephq/keep](https://github.com/keephq/keep) - The open-source alert management and AIOps platform
 - [felixfbecker/dom-to-svg](https://github.com/felixfbecker/dom-to-svg) - Library to convert a given HTML DOM node into an accessible SVG "screenshot".
 - [Gabb-c/spotify-embed](https://github.com/Gabb-c/spotify-embed) - A plug-n-play Spotify embed component
 - [vercel/swr](https://github.com/vercel/swr) - React Hooks for Data Fetching
@@ -3722,7 +3723,7 @@
 - [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
 - [sindresorhus/got](https://github.com/sindresorhus/got) - 🌐 Human-friendly and powerful HTTP request library for Node.js
 - [sindresorhus/ky](https://github.com/sindresorhus/ky) - 🌳 Tiny & elegant JavaScript HTTP client based on the Fetch API
-- [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable and developer-first.
+- [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable, and developer-first.
 - [szmarczak/http-timer](https://github.com/szmarczak/http-timer) - 🕐 Performance timings for HTTP requests
 - [mfrachet/rn-placeholder](https://github.com/mfrachet/rn-placeholder) - 🏖️ Display some placeholder stuff before rendering your text or media content in React Native
 - [williamngan/pts](https://github.com/williamngan/pts) - A library for visualization and creative-coding
