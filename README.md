@@ -171,6 +171,7 @@
 
 ## C++ 
 
+- [id-Software/DOOM](https://github.com/id-Software/DOOM) - DOOM Open Source Release
 - [WasmEdge/WasmEdge](https://github.com/WasmEdge/WasmEdge) - WasmEdge is a lightweight, high-performance, and extensible WebAssembly runtime for cloud native, edge, and decentralized applications. It powers serverless apps, embedded functions, microservices, sm
 - [ethereum/solidity](https://github.com/ethereum/solidity) - Solidity, the Smart Contract Programming Language
 - [microsoft/onnxruntime](https://github.com/microsoft/onnxruntime) - ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator
@@ -1195,7 +1196,7 @@
 - [mafintosh/peerflix](https://github.com/mafintosh/peerflix) - Streaming torrent client for node.js
 - [lorepozo/magnet](https://github.com/lorepozo/magnet) - Search for a torrent from the command-line and start streaming
 - [EliverLara/terminator-themes](https://github.com/EliverLara/terminator-themes) - :metal: The biggest collection of themes for Terminator terminal.
-- [appbaseio/dejavu](https://github.com/appbaseio/dejavu) - The Missing Web UI for Elasticsearch: Import, browse and edit data with rich filters and query views, create search UIs visually.
+- [appbaseio/dejavu](https://github.com/appbaseio/dejavu) - A Web UI for Elasticsearch and OpenSearch: Import, browse and edit data with rich filters and query views, create reference search UIs.
 - [koajs/kick-off-koa](https://github.com/koajs/kick-off-koa) - [MAINTAINERS WANTED] An intro to koa via a set of self-guided workshops
 - [bulkan/async-you](https://github.com/bulkan/async-you) - Learn to use https://github.com/caolan/async in this self guided workshop
 - [slorber/gatsby-plugin-react-native-web](https://github.com/slorber/gatsby-plugin-react-native-web) - react-native-web plugin for Gatsby
@@ -3084,7 +3085,7 @@
 - [timvisee/ffsend](https://github.com/timvisee/ffsend) - :mailbox_with_mail: Easily and securely share files from the command line. A fully featured Firefox Send client.
 - [PyO3/pyo3](https://github.com/PyO3/pyo3) - Rust bindings for the Python interpreter
 - [security-union/videocall-rs](https://github.com/security-union/videocall-rs) - teleconference system written in rust
-- [dbrgn/tealdeer](https://github.com/dbrgn/tealdeer) - A very fast implementation of tldr in Rust.
+- [tealdeer-rs/tealdeer](https://github.com/tealdeer-rs/tealdeer) - A very fast implementation of tldr in Rust.
 - [metrics-rs/metrics](https://github.com/metrics-rs/metrics) - A metrics ecosystem for Rust.
 - [rome/tools](https://github.com/rome/tools) - Unified developer tools for JavaScript, TypeScript, and the web
 - [wfxr/code-minimap](https://github.com/wfxr/code-minimap) - 🛰  A high performance code minimap render.
