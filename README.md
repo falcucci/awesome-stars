@@ -1654,6 +1654,7 @@
 
 ## Lua 
 
+- [Ramilito/kubectl.nvim](https://github.com/Ramilito/kubectl.nvim) - 
 - [yetone/avante.nvim](https://github.com/yetone/avante.nvim) - Use your Neovim like using Cursor AI IDE!
 - [gbprod/substitute.nvim](https://github.com/gbprod/substitute.nvim) - Neovim plugin introducing a new operators motions to quickly replace and exchange text.
 - [paulobressan/setup](https://github.com/paulobressan/setup) - Development environment configuration
@@ -2421,6 +2422,8 @@
 
 ## Rust 
 
+- [lapce/floem](https://github.com/lapce/floem) - A native Rust UI library with fine-grained reactivity
+- [orhun/binsider](https://github.com/orhun/binsider) - Analyze ELF binaries like a boss 😼🕵️‍♂️
 - [rust-bitcoin/rust-bitcoin](https://github.com/rust-bitcoin/rust-bitcoin) - Rust Bitcoin library
 - [indygreg/apple-platform-rs](https://github.com/indygreg/apple-platform-rs) - Rust crates supporting Apple platform development
 - [grampelberg/kty](https://github.com/grampelberg/kty) - The terminal for Kubernetes
@@ -2465,8 +2468,6 @@
 - [lvkv/whenfs](https://github.com/lvkv/whenfs) - A FUSE filesystem for your Google calendar
 - [whitequark/rust-xdg](https://github.com/whitequark/rust-xdg) - A library that makes it easy to follow the X Desktop Group specifications
 - [paritytech/polkadot-sdk-minimal-template](https://github.com/paritytech/polkadot-sdk-minimal-template) - The Minimal (Testing/Learning-Only) Template From Polkadot SDK
-- [demeter-run/specs](https://github.com/demeter-run/specs) - Shared interface definitions among different components
-- [demeter-run/cli](https://github.com/demeter-run/cli) - All of Demeter from the comfort of your terminal
 - [demeter-run/fabric](https://github.com/demeter-run/fabric) - Decentralized Demeter
 - [JunSuzukiJapan/macro-lisp](https://github.com/JunSuzukiJapan/macro-lisp) - Lisp-like DSL for Rust language
 - [SeniorMars/render.nvim](https://github.com/SeniorMars/render.nvim) - I'm going to try to be working on the anticonceal feature of nvim for image support for typst. This is going to a proof of concept so I can properly figure out what I need to do to get everything work
@@ -2578,7 +2579,6 @@
 - [input-output-hk/jormungandr](https://github.com/input-output-hk/jormungandr) - privacy voting blockchain node
 - [IntersectMBO/cardaminal](https://github.com/IntersectMBO/cardaminal) - A CLI-based Cardano Wallet
 - [dcSpark/cddl-codegen](https://github.com/dcSpark/cddl-codegen) - Codegen serialization logic for CBOR automatically from a CDDL specification
-- [txpipe/mumak](https://github.com/txpipe/mumak) - 
 - [fish-shell/fish-shell](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell.
 - [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
 - [utxorpc/spec](https://github.com/utxorpc/spec) - A RPC layer to interact with UTxO-based blockchains
@@ -2597,10 +2597,8 @@
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
 - [dcSpark/carp](https://github.com/dcSpark/carp) - A modular indexer for Cardano with an SQL Postgres backend (an alternative to the well known cardano-db-sync)
 - [01mf02/jaq](https://github.com/01mf02/jaq) - A jq clone focussed on correctness, speed, and simplicity
-- [txpipe/asteria](https://github.com/txpipe/asteria) - A Cardano bot challenge to showcase the capabilities of the eUTxO model.
 - [primetype/cbor_event](https://github.com/primetype/cbor_event) - cbor library in rust
 - [godot-rust/gdext](https://github.com/godot-rust/gdext) - Rust bindings for Godot 4
-- [txpipe/balius](https://github.com/txpipe/balius) - A headless dApp framework for the Cardano blockchain
 - [imsnif/weather-pal](https://github.com/imsnif/weather-pal) - A Zellij plugin to get weather information inside the terminal
 - [anweiss/cddl](https://github.com/anweiss/cddl) - Concise data definition language (RFC 8610) implementation and JSON and CBOR validator in Rust
 - [wadackel/vim-dogrun](https://github.com/wadackel/vim-dogrun) - :dog: A dark Neovim / Vim colorscheme for the GUI and 256 / true-color terminals.
@@ -2614,11 +2612,9 @@
 - [Dzejkop/super-space-smugglers-jam](https://github.com/Dzejkop/super-space-smugglers-jam) - 
 - [slog-rs/slog](https://github.com/slog-rs/slog) - Structured, contextual, extensible, composable logging for Rust
 - [dprint/dprint](https://github.com/dprint/dprint) - Pluggable and configurable code formatting platform written in Rust.
-- [txpipe/scrolls](https://github.com/txpipe/scrolls) - Read-optimized cache of Cardano on-chain entities
 - [solana-labs/solana](https://github.com/solana-labs/solana) - Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces.
 - [FuelLabs/sway](https://github.com/FuelLabs/sway) - 🌴 Empowering everyone to build reliable and efficient smart contracts.
 - [valeriansaliou/sonic](https://github.com/valeriansaliou/sonic) - 🦔 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM.
-- [txpipe/dolos](https://github.com/txpipe/dolos) - Cardano Data Node
 - [curlpipe/ox](https://github.com/curlpipe/ox) - An independent Rust text editor that runs in your terminal!
 - [tauri-apps/cargo-mobile2](https://github.com/tauri-apps/cargo-mobile2) - Rust on mobile made easy!
 - [josecelano/cargo-pretty-test](https://github.com/josecelano/cargo-pretty-test) - A Rust command that prettifies the ugly `cargo test` output into a beautiful one.
@@ -2697,7 +2693,6 @@
 - [oppiliappan/dijo](https://github.com/oppiliappan/dijo) - scriptable, curses-based, digital habit tracker
 - [m1guelpf/tinyvector](https://github.com/m1guelpf/tinyvector) - A tiny embedding database in pure Rust.
 - [chmln/nvim-ctrl](https://github.com/chmln/nvim-ctrl) - Control neovim instances using the command line.
-- [construkts/gasket-rs](https://github.com/construkts/gasket-rs) - An opinionated Rust library for building application using data pipeline semantics.
 - [headcrab-rs/headcrab](https://github.com/headcrab-rs/headcrab) - A modern Rust debugging library 🦀
 - [Gekkio/mooneye-gb](https://github.com/Gekkio/mooneye-gb) - A Game Boy research project and emulator written in Rust
 - [maplibre/maplibre-rs](https://github.com/maplibre/maplibre-rs) - Experimental Maps for Web, Mobile and Desktop
@@ -2718,7 +2713,6 @@
 - [nate-xyz/paleta](https://github.com/nate-xyz/paleta) - Extract the dominant colors from any image.
 - [nate-xyz/resonance](https://github.com/nate-xyz/resonance) - Intuitive GTK4/LibAdwaita music player
 - [yutkat/dispkey](https://github.com/yutkat/dispkey) - Screencast to display your keys
-- [txpipe/oura](https://github.com/txpipe/oura) - The tail of Cardano
 - [coastalwhite/wavedrom-rs](https://github.com/coastalwhite/wavedrom-rs) - Beautiful Digital Timing Diagrams with Rust
 - [Qiskit/rustworkx](https://github.com/Qiskit/rustworkx) - A high performance Python graph library implemented in Rust.
 - [icedland/iced](https://github.com/icedland/iced) - Blazing fast and correct x86/x64 disassembler, assembler, decoder, encoder for Rust, .NET, Java, Python, Lua
