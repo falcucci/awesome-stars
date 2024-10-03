@@ -2471,7 +2471,7 @@
 - [JunSuzukiJapan/macro-lisp](https://github.com/JunSuzukiJapan/macro-lisp) - Lisp-like DSL for Rust language
 - [SeniorMars/render.nvim](https://github.com/SeniorMars/render.nvim) - I'm going to try to be working on the anticonceal feature of nvim for image support for typst. This is going to a proof of concept so I can properly figure out what I need to do to get everything work
 - [melMass/echo.nvim](https://github.com/melMass/echo.nvim) - 🔊 Seamlessly integrate sound into your Neovim workflow
-- [falcucci/hyper-jump](https://github.com/falcucci/hyper-jump) - The Cardano aircraft ready to hyper-jump: a generalist all-in-one and cross-platform command-line version manager toolset for a more efficient development workflow.
+- [falcucci/hyper-jump](https://github.com/falcucci/hyper-jump) - The aircraft ready to hyper-jump: a generalist all-in-one and cross-platform command-line version manager toolset for a more efficient development workflow.
 - [SeniorMars/typst.nvim](https://github.com/SeniorMars/typst.nvim) - WIP. Goals: Treesitter highlighting, snippets, and a smooth intergration with neovim.
 - [BurntSushi/jiff](https://github.com/BurntSushi/jiff) - A date-time library for Rust that encourages you to jump into the pit of success.
 - [ron-rs/ron](https://github.com/ron-rs/ron) - Rusty Object Notation
@@ -2825,7 +2825,7 @@
 - [infinyon/node-bindgen](https://github.com/infinyon/node-bindgen) - Easy way to write Node.js module using Rust
 - [abdolence/slack-morphism-rust](https://github.com/abdolence/slack-morphism-rust) - A modern async client library for Rust, supports Slack Web / Events API/Socket Mode and Block Kit.
 - [a-b-street/abstreet](https://github.com/a-b-street/abstreet) - Transportation planning and traffic simulation software for creating cities friendlier to walking, biking, and public transit
-- [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - App framework for web, desktop, mobile, and more.
+- [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack app framework for web, desktop, mobile, and more.
 - [svenstaro/rust-web-boilerplate](https://github.com/svenstaro/rust-web-boilerplate) - Rust web template for modern web backend applications
 - [svenstaro/genact](https://github.com/svenstaro/genact) - 🌀 A nonsense activity generator
 - [o2sh/onefetch](https://github.com/o2sh/onefetch) - Command-line Git information tool
@@ -3116,7 +3116,7 @@
 - [hrkfdn/ncspot](https://github.com/hrkfdn/ncspot) - Cross-platform ncurses Spotify client written in Rust, inspired by ncmpc and the likes.
 - [chaosprint/glicol](https://github.com/chaosprint/glicol) - Graph-oriented live coding language and music/audio DSP library written in Rust
 - [Stremio/stremio-core-web](https://github.com/Stremio/stremio-core-web) - Bridge between stremio-core and stremio-web
-- [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend.
+- [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop and mobile applications with a web frontend.
 - [anshulrgoyal/rust-web-developer-roadmap](https://github.com/anshulrgoyal/rust-web-developer-roadmap) - Roadmap to becoming a Rust Web Developer in 2022
 - [Stremio/stremio-core](https://github.com/Stremio/stremio-core) - ⚛️ The Stremio Core: types, addon system, UI models, core logic
 - [paritytech/polkadot](https://github.com/paritytech/polkadot) - Polkadot Node Implementation
