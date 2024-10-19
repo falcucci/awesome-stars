@@ -917,7 +917,7 @@
 - [dai-shi/remote-faces](https://github.com/dai-shi/remote-faces) - A tool for Working From Home: Share your webcam images with your colleagues
 - [iamcco/vim-language-server](https://github.com/iamcco/vim-language-server) - VImScript language server, LSP for vim script
 - [giosilvi/GPT-Prompter](https://github.com/giosilvi/GPT-Prompter) - Browser extension to get a fast prompt (of the selected text) for OpenAI`s GPT-3, GPT-4 & ChatGPT API . Available in the Chrome web store and Firefox browser add-ons
-- [xenova/transformers.js](https://github.com/xenova/transformers.js) - State-of-the-art Machine Learning for the web. Run 🤗 Transformers directly in your browser, with no need for a server!
+- [huggingface/transformers.js](https://github.com/huggingface/transformers.js) - State-of-the-art Machine Learning for the web. Run 🤗 Transformers directly in your browser, with no need for a server!
 - [m1guelpf/obs-now-playing](https://github.com/m1guelpf/obs-now-playing) - Let your listeners know what music you're playing right now by showing it on screen at all times!
 - [pixel-point/favpie](https://github.com/pixel-point/favpie) - Generate favicons and webmanifest with a CLI
 - [falcucci/github-auto-issue](https://github.com/falcucci/github-auto-issue) - AI-driven browser extension to generate Github issue summary as a quick start to improve your workflow experience and save your time.
@@ -1659,7 +1659,7 @@
 
 - [NvChad/menu](https://github.com/NvChad/menu) - Menu plugin for neovim ( supports nested menus ) made using volt
 - [amitds1997/remote-nvim.nvim](https://github.com/amitds1997/remote-nvim.nvim) - Remote development in Neovim 🔥
-- [Ramilito/kubectl.nvim](https://github.com/Ramilito/kubectl.nvim) - 
+- [Ramilito/kubectl.nvim](https://github.com/Ramilito/kubectl.nvim) - ⎈ Streamline your Kubernetes management within Neovim—control and monitor your cluster seamlessly, all without leaving your coding environment.
 - [yetone/avante.nvim](https://github.com/yetone/avante.nvim) - Use your Neovim like using Cursor AI IDE!
 - [gbprod/substitute.nvim](https://github.com/gbprod/substitute.nvim) - Neovim plugin introducing a new operators motions to quickly replace and exchange text.
 - [paulobressan/setup](https://github.com/paulobressan/setup) - Development environment configuration
@@ -1667,7 +1667,7 @@
 - [shellRaining/hlchunk.nvim](https://github.com/shellRaining/hlchunk.nvim) - This is the lua implementation of nvim-hlchunk, you can use this neovim plugin to highlight your indent line and the current chunk (context) your cursor stayed
 - [leath-dub/snipe.nvim](https://github.com/leath-dub/snipe.nvim) - Efficient targetted menu built for fast buffer navigation
 - [tamton-aquib/keys.nvim](https://github.com/tamton-aquib/keys.nvim) - A screen keys plugin for neovim.
-- [0xstepit/flow.nvim](https://github.com/0xstepit/flow.nvim) - 
+- [0xstepit/flow.nvim](https://github.com/0xstepit/flow.nvim) - A flow-immersive Nvim colorscheme with fluorescent details.
 - [kwakzalver/duckytype.nvim](https://github.com/kwakzalver/duckytype.nvim) - NeoVim plugin simulating monkeytype.com
 - [Canop/nvim-bacon](https://github.com/Canop/nvim-bacon) - bacon's companion for neovim
 - [linrongbin16/gitlinker.nvim](https://github.com/linrongbin16/gitlinker.nvim) - Maintained fork of ruifm's gitlinker, refactored with bug fixes, ssh aliases, blame support and other improvements.
@@ -1937,6 +1937,7 @@
 
 ## Others 
 
+- [matter-labs/awesome-zero-knowledge-proofs](https://github.com/matter-labs/awesome-zero-knowledge-proofs) - A curated list of awesome things related to learning Zero-Knowledge Proofs (ZKP).
 - [mdn/workflows](https://github.com/mdn/workflows) - Reusable GitHub Actions workflows
 - [softprops/awesome-mdbook](https://github.com/softprops/awesome-mdbook) - 🕶️🗃️ a card catalog of mdbooks for your reading curiosity
 - [polkadot-developers/awesome-substrate](https://github.com/polkadot-developers/awesome-substrate) - A curated list of awesome projects and resources related to the Substrate blockchain development framework.
@@ -2425,6 +2426,8 @@
 
 ## Rust 
 
+- [superlistapp/super_native_extensions](https://github.com/superlistapp/super_native_extensions) - Native drag & drop, clipboard access and context menu.
+- [AleoNet/snarkOS](https://github.com/AleoNet/snarkOS) - A Decentralized Operating System for ZK Applications
 - [GraphiteEditor/Graphite](https://github.com/GraphiteEditor/Graphite) - 2D vector & raster editor that melds traditional layers & tools with a modern node-based, non-destructive, procedural workflow.
 - [badboy/mdbook-mermaid](https://github.com/badboy/mdbook-mermaid) - A preprocessor for mdbook to add mermaid support
 - [Michael-F-Bryan/mdbook-epub](https://github.com/Michael-F-Bryan/mdbook-epub) - An experimental mdbook backend for creating EPUB documents.
