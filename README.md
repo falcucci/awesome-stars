@@ -2425,6 +2425,7 @@
 
 ## Rust 
 
+- [Myriad-Dreamin/tinymist](https://github.com/Myriad-Dreamin/tinymist) - Tinymist [ˈtaɪni mɪst] is an integrated language service for Typst [taɪpst].
 - [makepad/makepad](https://github.com/makepad/makepad) - Makepad is a creative software development platform for Rust that compiles to wasm/webGL, osx/metal, windows/dx11 linux/opengl
 - [superlistapp/super_native_extensions](https://github.com/superlistapp/super_native_extensions) - Native drag & drop, clipboard access and context menu.
 - [AleoNet/snarkOS](https://github.com/AleoNet/snarkOS) - A Decentralized Operating System for ZK Applications
@@ -2973,7 +2974,7 @@
 - [roapi/roapi](https://github.com/roapi/roapi) - Create full-fledged APIs for slowly moving datasets without writing a single line of code.
 - [kitao/pyxel](https://github.com/kitao/pyxel) - A retro game engine for Python
 - [PyO3/maturin](https://github.com/PyO3/maturin) - Build and publish crates with pyo3, cffi and uniffi bindings as well as rust binaries as python packages
-- [rbatis/rbatis](https://github.com/rbatis/rbatis) - Rust  Compile Time ORM robustness,async, pure Rust Dynamic SQL
+- [rbatis/rbatis](https://github.com/rbatis/rbatis) - Rust Compile Time ORM with Async Dynamic SQL
 - [pola-rs/polars](https://github.com/pola-rs/polars) - Dataframes powered by a multithreaded, vectorized query engine, written in Rust
 - [shuttle-hq/shuttle-examples](https://github.com/shuttle-hq/shuttle-examples) - Examples for using Shuttle with different frameworks and resources
 - [shuttle-hq/shuttle](https://github.com/shuttle-hq/shuttle) - Build & ship backends without writing any infrastructure files.
