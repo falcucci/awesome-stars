@@ -107,7 +107,7 @@
 - [raspberrypi/debugprobe](https://github.com/raspberrypi/debugprobe) - 
 - [ish-app/ish](https://github.com/ish-app/ish) - Linux shell for iOS
 - [qemu/qemu](https://github.com/qemu/qemu) - Official QEMU mirror. Please see https://www.qemu.org/contribute/ for how to submit changes to QEMU. Pull Requests are ignored. Please only use release tarballs from the QEMU website.
-- [valkey-io/valkey](https://github.com/valkey-io/valkey) - A flexible distributed key-value datastore that supports both caching and beyond caching workloads.
+- [valkey-io/valkey](https://github.com/valkey-io/valkey) - A flexible distributed key-value datastore that is optimized for caching and other realtime workloads.
 - [hasura/skor](https://github.com/hasura/skor) - Now part of Hasura GraphQL Engine. Listen to postgres events and forward them as JSON payloads to a webhook
 - [zigzap/zap](https://github.com/zigzap/zap) - blazingly fast backends in zig
 - [jakehilborn/displayplacer](https://github.com/jakehilborn/displayplacer) - macOS command line utility to configure multi-display resolutions and arrangements. Essentially XRandR for macOS.
@@ -896,6 +896,7 @@
 - [obra/Youtube2Webpage](https://github.com/obra/Youtube2Webpage) - I learn much better from text than from videos
 - [dconnolly/chromecast-backgrounds](https://github.com/dconnolly/chromecast-backgrounds) - Archive of all Chromecast background images.
 - [bigskysoftware/htmx](https://github.com/bigskysoftware/htmx) - &lt;/&gt; htmx - high power tools for HTML
+- [carbon-design-system/carbon](https://github.com/carbon-design-system/carbon) - A design system built by IBM
 - [TiddlyWiki/TiddlyWiki5](https://github.com/TiddlyWiki/TiddlyWiki5) - A self-contained JavaScript wiki for the browser, Node.js, AWS Lambda etc.
 - [be5invis/Iosevka](https://github.com/be5invis/Iosevka) - Versatile typeface for code, from code.
 - [zed-industries/zed-fonts](https://github.com/zed-industries/zed-fonts) - The Zed Mono and Sans typefaces, custom built from Iosevka
@@ -952,6 +953,7 @@
 - [danielbayerlein/dashboard](https://github.com/danielbayerlein/dashboard) - 📺 Create your own team dashboard with custom widgets. Built with Next.js, React, styled-components and polished.
 - [dawsbot/mailto](https://github.com/dawsbot/mailto) - 💌 ⚡️ The mailto encoder
 - [auth0-blog/nextjs-got](https://github.com/auth0-blog/nextjs-got) - A simple nextjs application that showcases Game of Thrones Characters
+- [fschutt/printpdf](https://github.com/fschutt/printpdf) - A fully-featured PDF library for Rust, WASM-ready
 - [BetaHuhn/vercel-pdf-converter](https://github.com/BetaHuhn/vercel-pdf-converter) - 📄▲ Vercel function which generates PDFs from Webpages.
 - [sindresorhus/exit-hook](https://github.com/sindresorhus/exit-hook) - Run some code when the process exits
 - [vincelwt/chatgpt-mac](https://github.com/vincelwt/chatgpt-mac) - ChatGPT for Mac, living in your menubar.
@@ -1660,6 +1662,7 @@
 
 ## Lua 
 
+- [Wansmer/sibling-swap.nvim](https://github.com/Wansmer/sibling-swap.nvim) - Neovim plugin for swaps closest siblings with Tree-Sitter
 - [NvChad/menu](https://github.com/NvChad/menu) - Menu plugin for neovim ( supports nested menus ) made using volt
 - [amitds1997/remote-nvim.nvim](https://github.com/amitds1997/remote-nvim.nvim) - Remote development in Neovim 🔥
 - [Ramilito/kubectl.nvim](https://github.com/Ramilito/kubectl.nvim) - ⎈ Streamline your Kubernetes management within Neovim—control and monitor your cluster seamlessly, all without leaving your coding environment.
@@ -2257,6 +2260,7 @@
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [python-excel/xlrd](https://github.com/python-excel/xlrd) - Please use openpyxl where you can...
 - [pandas-dev/pandas](https://github.com/pandas-dev/pandas) - Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more
+- [ijl/orjson](https://github.com/ijl/orjson) - Fast, correct Python JSON library supporting dataclasses, datetimes, and numpy
 - [mre/hyperjson](https://github.com/mre/hyperjson) - 🐍 A hyper-fast Python module for reading/writing JSON data using Rust's serde-json.
 - [detailyang/awesome-cheatsheet](https://github.com/detailyang/awesome-cheatsheet) - :beers: awesome cheatsheet
 - [ycm-core/YouCompleteMe](https://github.com/ycm-core/YouCompleteMe) - A code-completion engine for Vim
@@ -2428,6 +2432,7 @@
 
 ## Rust 
 
+- [tvlfyi/tvix](https://github.com/tvlfyi/tvix) - Tvix - A Rust implementation of Nix. Read-only mirror of https://cs.tvl.fyi/depot/-/tree/tvix
 - [rust-ethereum/evm](https://github.com/rust-ethereum/evm) - Pure Rust implementation of Ethereum Virtual Machine
 - [zesterer/pollster](https://github.com/zesterer/pollster) - A minimal async executor that lets you block on a future
 - [GuillaumeGomez/sysinfo](https://github.com/GuillaumeGomez/sysinfo) - Cross-platform library to fetch system information
@@ -2499,7 +2504,7 @@
 - [JunSuzukiJapan/macro-lisp](https://github.com/JunSuzukiJapan/macro-lisp) - Lisp-like DSL for Rust language
 - [SeniorMars/render.nvim](https://github.com/SeniorMars/render.nvim) - I'm going to try to be working on the anticonceal feature of nvim for image support for typst. This is going to a proof of concept so I can properly figure out what I need to do to get everything work
 - [melMass/echo.nvim](https://github.com/melMass/echo.nvim) - 🔊 Seamlessly integrate sound into your Neovim workflow
-- [falcucci/hyper-jump](https://github.com/falcucci/hyper-jump) - The aircraft ready to hyper-jump: a generalist all-in-one and cross-platform command-line version manager toolset for a more efficient development workflow.
+- [falcucci/hyper-jump](https://github.com/falcucci/hyper-jump) - The aircraft ready to hyper-jump: agnostic all-in-one and cross-platform command-line version manager toolset for a more efficient development workflow.
 - [SeniorMars/typst.nvim](https://github.com/SeniorMars/typst.nvim) - WIP. Goals: Treesitter highlighting, snippets, and a smooth intergration with neovim.
 - [BurntSushi/jiff](https://github.com/BurntSushi/jiff) - A date-time library for Rust that encourages you to jump into the pit of success.
 - [ron-rs/ron](https://github.com/ron-rs/ron) - Rusty Object Notation
@@ -2643,7 +2648,7 @@
 - [solana-labs/solana](https://github.com/solana-labs/solana) - Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces.
 - [FuelLabs/sway](https://github.com/FuelLabs/sway) - 🌴 Empowering everyone to build reliable and efficient smart contracts.
 - [valeriansaliou/sonic](https://github.com/valeriansaliou/sonic) - 🦔 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM.
-- [curlpipe/ox](https://github.com/curlpipe/ox) - An independent Rust text editor that runs in your terminal!
+- [curlpipe/ox](https://github.com/curlpipe/ox) - The simple but flexible text editor
 - [tauri-apps/cargo-mobile2](https://github.com/tauri-apps/cargo-mobile2) - Rust on mobile made easy!
 - [josecelano/cargo-pretty-test](https://github.com/josecelano/cargo-pretty-test) - A Rust command that prettifies the ugly `cargo test` output into a beautiful one.
 - [orbstack/pidfd-rs](https://github.com/orbstack/pidfd-rs) - Fast, polling-free approach to kill and wait for all processes to exit. Rust + Tokio, pidfd + epoll + timer
@@ -3011,7 +3016,6 @@
 - [pacak/cargo-show-asm](https://github.com/pacak/cargo-show-asm) - cargo subcommand showing the assembly, LLVM-IR and MIR generated for Rust code
 - [clap-rs/clap-verbosity-flag](https://github.com/clap-rs/clap-verbosity-flag) - Easily add a --verbose flag to CLIs using Clap
 - [falcucci/changelog-it](https://github.com/falcucci/changelog-it) - Rust crate and cli that generates clear github releases based on milestones, including merged pull requests, contributors and organized by topics.
-- [fschutt/printpdf](https://github.com/fschutt/printpdf) - An easy-to-use library for writing PDF in Rust
 - [rust-scraper/scraper](https://github.com/rust-scraper/scraper) - HTML parsing and querying with CSS selectors
 - [rustsec/rustsec](https://github.com/rustsec/rustsec) - RustSec API & Tooling
 - [lettre/lettre](https://github.com/lettre/lettre) - a mailer library for Rust
@@ -3104,7 +3108,6 @@
 - [RustPython/RustPython](https://github.com/RustPython/RustPython) - A Python Interpreter written in Rust
 - [timvisee/prs](https://github.com/timvisee/prs) - 🔐 A secure, fast & convenient password manager CLI using GPG and git to sync.
 - [timvisee/ffsend](https://github.com/timvisee/ffsend) - :mailbox_with_mail: Easily and securely share files from the command line. A fully featured Firefox Send client.
-- [ijl/orjson](https://github.com/ijl/orjson) - Fast, correct Python JSON library supporting dataclasses, datetimes, and numpy
 - [PyO3/pyo3](https://github.com/PyO3/pyo3) - Rust bindings for the Python interpreter
 - [security-union/videocall-rs](https://github.com/security-union/videocall-rs) - teleconference system written in rust
 - [tealdeer-rs/tealdeer](https://github.com/tealdeer-rs/tealdeer) - A very fast implementation of tldr in Rust.
@@ -3443,7 +3446,6 @@
 - [glacambre/firenvim](https://github.com/glacambre/firenvim) - Embed Neovim in Chrome, Firefox & others.
 - [steven-tey/novel](https://github.com/steven-tey/novel) - Notion-style WYSIWYG editor with AI-powered autocompletion.
 - [DAB0mB/react-autorun](https://github.com/DAB0mB/react-autorun) - A macro that compiles into a dependencies array for hooks.
-- [carbon-design-system/carbon](https://github.com/carbon-design-system/carbon) - A design system built by IBM
 - [denoland/deno_blog](https://github.com/denoland/deno_blog) - Minimal boilerplate blogging.
 - [vimcolorschemes/vimcolorschemes](https://github.com/vimcolorschemes/vimcolorschemes) - Find the best vim color schemes around
 - [agmmnn/tauri-ui](https://github.com/agmmnn/tauri-ui) - 🦀 Create modern Tauri desktop apps in just a few simple steps with shadcn/ui. React, Next.js, Sveltekit.
@@ -3820,7 +3822,7 @@
 - [gigobyte/ui-stack](https://github.com/gigobyte/ui-stack) - :mag: A Chrome extension that lets you inspect a website's framework and libraries
 - [vadimdemedes/ink](https://github.com/vadimdemedes/ink) - 🌈 React for interactive command-line apps
 - [lerna/lerna-changelog](https://github.com/lerna/lerna-changelog) - :book: PR-based changelog generator with monorepo support
-- [lerna/lerna](https://github.com/lerna/lerna) - :dragon: Lerna is a fast, modern build system for managing and publishing multiple JavaScript/TypeScript packages from the same repository.
+- [lerna/lerna](https://github.com/lerna/lerna) - Lerna is a fast, modern build system for managing and publishing multiple JavaScript/TypeScript packages from the same repository.
 - [sindresorhus/fast-cli](https://github.com/sindresorhus/fast-cli) - Test your download and upload speed using fast.com
 - [reduxjs/redux-thunk](https://github.com/reduxjs/redux-thunk) - Thunk middleware for Redux
 - [electron-react-boilerplate/electron-react-boilerplate](https://github.com/electron-react-boilerplate/electron-react-boilerplate) - A Foundation for Scalable Cross-Platform Apps
