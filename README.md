@@ -2432,6 +2432,7 @@
 
 ## Rust 
 
+- [quinn-rs/quinn](https://github.com/quinn-rs/quinn) - Async-friendly QUIC implementation in Rust
 - [tvlfyi/tvix](https://github.com/tvlfyi/tvix) - Tvix - A Rust implementation of Nix. Read-only mirror of https://cs.tvl.fyi/depot/-/tree/tvix
 - [rust-ethereum/evm](https://github.com/rust-ethereum/evm) - Pure Rust implementation of Ethereum Virtual Machine
 - [zesterer/pollster](https://github.com/zesterer/pollster) - A minimal async executor that lets you block on a future
@@ -2487,7 +2488,7 @@
 - [FedericoBruzzone/tgt](https://github.com/FedericoBruzzone/tgt) - TUI for Telegram written in Rust 🦀
 - [console-rs/dialoguer](https://github.com/console-rs/dialoguer) - Rust utility library for nice command line prompts and similar things
 - [Jesterhearts/ratatui-wgpu](https://github.com/Jesterhearts/ratatui-wgpu) - A wgpu based rendering backend for ratatui.
-- [zetanumbers/tigerbeetle-rs](https://github.com/zetanumbers/tigerbeetle-rs) - Safe bindings to tigerbeetle client
+- [tigerbeetle-rust/tigerbeetle-unofficial](https://github.com/tigerbeetle-rust/tigerbeetle-unofficial) - Safe bindings to tigerbeetle client
 - [MCOfficer/zip-extract](https://github.com/MCOfficer/zip-extract) - Extract zip archives using the zip crate.
 - [zip-rs/zip2](https://github.com/zip-rs/zip2) - Zip implementation in Rust
 - [stepancheg/rust-protobuf](https://github.com/stepancheg/rust-protobuf) - Rust implementation of Google protocol buffers
@@ -3418,7 +3419,7 @@
 - [butaneprotocol/translucent-compat](https://github.com/butaneprotocol/translucent-compat) - Deprecated in favour of blaze https://github.com/butaneprotocol/blaze-cardano
 - [vscode-neovim/vscode-neovim](https://github.com/vscode-neovim/vscode-neovim) - Vim mode for VSCode, powered by Neovim
 - [daltonmenezes/aura-theme](https://github.com/daltonmenezes/aura-theme) - ✨ A beautiful dark theme for your favorite apps.
-- [tldraw/tldraw](https://github.com/tldraw/tldraw) - whiteboard / infinite canvas SDK
+- [tldraw/tldraw](https://github.com/tldraw/tldraw) - realtime whiteboard / infinite canvas SDK
 - [kubero-dev/kubero](https://github.com/kubero-dev/kubero) - A free and self-hosted PaaS for Kubernetes
 - [smolck/uivonim](https://github.com/smolck/uivonim) - Fork of the Veonim Neovim GUI
 - [actions/dependency-review-action](https://github.com/actions/dependency-review-action) - A GitHub Action for detecting vulnerable dependencies and invalid licenses in your PRs
@@ -3847,6 +3848,7 @@
 
 ## Vim Script 
 
+- [bogado/file-line](https://github.com/bogado/file-line) - Plugin for vim to enabling opening a file in a given line
 - [xero/evangelion.nvim](https://github.com/xero/evangelion.nvim) - a colorscheme for {neo,}vim inspired by neon genesis evangelion. supports diagnostics, cmp, fzf, gitsigns, lazy, lsp, lualine, telescope, treesitter, trouble, which-key, & more.
 - [tpope/vim-rhubarb](https://github.com/tpope/vim-rhubarb) - rhubarb.vim: GitHub extension for fugitive.vim
 - [rhysd/git-messenger.vim](https://github.com/rhysd/git-messenger.vim) - Vim and Neovim plugin to reveal the commit messages under the cursor
