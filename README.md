@@ -1917,7 +1917,6 @@
 
 ## Nix 
 
-- [cardano-foundation/cardano-graphql](https://github.com/cardano-foundation/cardano-graphql) - GraphQL API for Cardano
 - [input-output-hk/iogx](https://github.com/input-output-hk/iogx) - Flake Template for Haskell Projects
 
 ## OCaml 
@@ -2233,6 +2232,7 @@
 - [bhaskatripathi/pdfGPT](https://github.com/bhaskatripathi/pdfGPT) - PDF GPT allows you to chat with the contents of your PDF file by using GPT capabilities. The most effective open source solution to turn your pdf files in a chatbot!
 - [jvns/git-workflow](https://github.com/jvns/git-workflow) - Tool to visualize your git workflow, in a pretty graph
 - [trevorhobenshield/twitter-api-client](https://github.com/trevorhobenshield/twitter-api-client) - Implementation of X/Twitter v1, v2, and GraphQL APIs
+- [madox2/vim-ai](https://github.com/madox2/vim-ai) - AI-powered code assistant for Vim. OpenAI and ChatGPT plugin for Vim and Neovim.
 - [GerevAI/gerev](https://github.com/GerevAI/gerev) - 🧠 AI-powered enterprise search engine 🔎
 - [jrnl-org/jrnl](https://github.com/jrnl-org/jrnl) - Collect your thoughts and notes without leaving the command line.
 - [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - Cross-platform, fast, feature-rich, GPU based terminal
@@ -2451,6 +2451,7 @@
 
 ## Rust 
 
+- [falcucci/harvest-moon](https://github.com/falcucci/harvest-moon) - A Substrate community-based and platform agnostic for fact-checking governance system.
 - [exonum/exonum](https://github.com/exonum/exonum) - An extensible open-source framework for creating private/permissioned blockchain applications
 - [tangle-network/tangle](https://github.com/tangle-network/tangle) - The Layer 1 blockchain for on-demand services.
 - [ralexstokes/ethereum-consensus](https://github.com/ralexstokes/ethereum-consensus) - 
@@ -2549,7 +2550,7 @@
 - [melMass/echo.nvim](https://github.com/melMass/echo.nvim) - 🔊 Seamlessly integrate sound into your Neovim workflow
 - [falcucci/hyper-jump](https://github.com/falcucci/hyper-jump) - The aircraft ready to hyper-jump: agnostic all-in-one and cross-platform command-line version manager toolset for a more efficient development workflow.
 - [SeniorMars/typst.nvim](https://github.com/SeniorMars/typst.nvim) - WIP. Goals: Treesitter highlighting, snippets, and a smooth intergration with neovim.
-- [BurntSushi/jiff](https://github.com/BurntSushi/jiff) - A date-time library for Rust that encourages you to jump into the pit of success.
+- [BurntSushi/jiff](https://github.com/BurntSushi/jiff) - A datetime library for Rust that encourages you to jump into the pit of success.
 - [ron-rs/ron](https://github.com/ron-rs/ron) - Rusty Object Notation
 - [madsmtm/objc2](https://github.com/madsmtm/objc2) - Bindings to Apple's frameworks in Rust
 - [madsmtm/objc2-generated](https://github.com/madsmtm/objc2-generated) - Automatically generated code; see the `objc2` project for details.
@@ -2659,7 +2660,7 @@
 - [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
 - [utxorpc/spec](https://github.com/utxorpc/spec) - A RPC layer to interact with UTxO-based blockchains
 - [rust-lang/futures-rs](https://github.com/rust-lang/futures-rs) - Zero-cost asynchronous programming in Rust
-- [bitwarden/sdk](https://github.com/bitwarden/sdk) - Bitwarden Secrets Manager SDK
+- [bitwarden/sdk-sm](https://github.com/bitwarden/sdk-sm) - Bitwarden Secrets Manager SDK.
 - [YS-L/csvlens](https://github.com/YS-L/csvlens) - Command line csv viewer
 - [uutils/coreutils](https://github.com/uutils/coreutils) - Cross-platform Rust rewrite of the GNU coreutils
 - [rust-windowing/raw-window-handle](https://github.com/rust-windowing/raw-window-handle) - A common windowing interoperability library for Rust
@@ -2819,7 +2820,7 @@
 - [daynin/fundoc](https://github.com/daynin/fundoc) - Fundoc - the right way to generate documentation
 - [jkfran/killport](https://github.com/jkfran/killport) - A command-line tool to easily kill processes running on a specified port.
 - [GitoxideLabs/gitoxide](https://github.com/GitoxideLabs/gitoxide) - An idiomatic, lean, fast & safe pure Rust implementation of Git
-- [next-hat/nanocl](https://github.com/next-hat/nanocl) - Distributed System that simplifies the orchestration of containers and virtual machines.
+- [next-hat/nanocl](https://github.com/next-hat/nanocl) - Work in progress distributed system that simplifies the orchestration of containers and virtual machines.
 - [badboy/mdbook-open-on-gh](https://github.com/badboy/mdbook-open-on-gh) - mdbook preprocessor to add a open-on-github link on every page
 - [google/comprehensive-rust](https://github.com/google/comprehensive-rust) - This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust.
 - [cormacrelf/dark-notify](https://github.com/cormacrelf/dark-notify) - Watcher for macOS 10.14+ light/dark mode changes
@@ -2939,7 +2940,7 @@
 - [serde-rs/serde](https://github.com/serde-rs/serde) - Serialization framework for Rust
 - [ggez/ggez](https://github.com/ggez/ggez) - Rust library to create a Good Game Easily
 - [serde-rs/json](https://github.com/serde-rs/json) - Strongly typed JSON library for Rust
-- [watchexec/watchexec](https://github.com/watchexec/watchexec) - Executes commands in response to file modifications —— Maintenance status: on hold. I have no time for OSS currently; back late 2024.
+- [watchexec/watchexec](https://github.com/watchexec/watchexec) - Executes commands in response to file modifications
 - [image-rs/image](https://github.com/image-rs/image) - Encoding and decoding images in Rust
 - [PaulJuliusMartinez/jless](https://github.com/PaulJuliusMartinez/jless) - jless is a command-line JSON viewer designed for reading, exploring, and searching through JSON data.
 - [SeaQL/sea-orm](https://github.com/SeaQL/sea-orm) - 🐚 An async & dynamic ORM for Rust
@@ -3461,6 +3462,7 @@
 - [prisma-labs/get-graphql-schema](https://github.com/prisma-labs/get-graphql-schema) - Fetch and print the GraphQL schema from a GraphQL HTTP endpoint. (Can be used for Relay Modern.)
 - [hasura/ndc-typescript-deno](https://github.com/hasura/ndc-typescript-deno) - Instant Hasura Native Data Connector by writing Typescript Functions
 - [sql-formatter-org/sql-formatter](https://github.com/sql-formatter-org/sql-formatter) - A whitespace formatter for different query languages
+- [cardano-foundation/cardano-graphql](https://github.com/cardano-foundation/cardano-graphql) - GraphQL API for Cardano
 - [josa42/coc-go](https://github.com/josa42/coc-go) - Go language server extension using gopls for coc.nvim.
 - [nhost/nhost](https://github.com/nhost/nhost) - The Open Source Firebase Alternative with GraphQL.
 - [leona/helix-gpt](https://github.com/leona/helix-gpt) - Code assistant language server for Helix with support for Copilot/OpenAI/Codeium/Ollama
@@ -3474,7 +3476,7 @@
 - [vscode-neovim/vscode-neovim](https://github.com/vscode-neovim/vscode-neovim) - Vim mode for VSCode, powered by Neovim
 - [daltonmenezes/aura-theme](https://github.com/daltonmenezes/aura-theme) - ✨ A beautiful dark theme for your favorite apps.
 - [tldraw/tldraw](https://github.com/tldraw/tldraw) - whiteboard / infinite canvas SDK
-- [kubero-dev/kubero](https://github.com/kubero-dev/kubero) - A free and self-hosted PaaS alternative to Coolify / Vercel / Dokku / Portainer running on Kubernetes
+- [kubero-dev/kubero](https://github.com/kubero-dev/kubero) - A free and self-hosted PaaS alternative to Netlify / Coolify / Vercel / Dokku / Portainer running on Kubernetes
 - [smolck/uivonim](https://github.com/smolck/uivonim) - Fork of the Veonim Neovim GUI
 - [actions/dependency-review-action](https://github.com/actions/dependency-review-action) - A GitHub Action for detecting vulnerable dependencies and invalid licenses in your PRs
 - [githubnext/monaspace](https://github.com/githubnext/monaspace) - An innovative superfamily of fonts for code
@@ -3973,7 +3975,6 @@
 - [jvns/vimconfig](https://github.com/jvns/vimconfig) - 
 - [m-pilia/vim-ccls](https://github.com/m-pilia/vim-ccls) - Vim plugin for the ccls language server
 - [freitass/todo.txt-vim](https://github.com/freitass/todo.txt-vim) - Vim plugin for Todo.txt
-- [madox2/vim-ai](https://github.com/madox2/vim-ai) - AI-powered code assistant for Vim. OpenAI and ChatGPT plugin for Vim and Neovim.
 - [junegunn/goyo.vim](https://github.com/junegunn/goyo.vim) - :tulip: Distraction-free writing in Vim
 - [vimpostor/vim-lumen](https://github.com/vimpostor/vim-lumen) - Make vim follow your system-wide dark mode preference
 - [wolandark/wim](https://github.com/wolandark/wim) - This is a Vim configuration that gets you a similar experience as a full-featured IDE. This is accomplished using native vim features with the help of some plugins.
