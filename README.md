@@ -569,6 +569,7 @@
 - [andygrunwald/go-jira](https://github.com/andygrunwald/go-jira) - Go client library for Atlassian Jira
 - [go-jira/jira](https://github.com/go-jira/jira) - simple jira command line client in Go
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
+- [asdf-vm/asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
 - [egonelbre/gophers](https://github.com/egonelbre/gophers) - Free gophers
 - [PhillippOhlandt/pmtoapib](https://github.com/PhillippOhlandt/pmtoapib) - Tool to convert Postman collection exports to Api Blueprint documentation
 - [aubm/postmanerator](https://github.com/aubm/postmanerator) - A HTTP API documentation generator that use Postman collections
@@ -1248,7 +1249,6 @@
 - [pmuellr/bluemix-service-switcher](https://github.com/pmuellr/bluemix-service-switcher) - 
 - [you-dont-need/You-Dont-Need-Momentjs](https://github.com/you-dont-need/You-Dont-Need-Momentjs) - List of functions which you can use to replace moment.js + ESLint Plugin
 - [goofychris/art-template](https://github.com/goofychris/art-template) - High performance JavaScript templating engine
-- [eggjs/egg](https://github.com/eggjs/egg) - 🥚 Born to build better enterprise frameworks and apps with Node.js & Koa
 - [markdown-it/markdown-it](https://github.com/markdown-it/markdown-it) - Markdown parser, done right. 100% CommonMark support, extensions, syntax plugins & high speed
 - [nitin42/react-color-extractor](https://github.com/nitin42/react-color-extractor) - A React component which extracts colors from an image
 - [moment/moment-timezone](https://github.com/moment/moment-timezone) - Timezone support for moment.js
@@ -1707,7 +1707,7 @@
 - [Wansmer/treesj](https://github.com/Wansmer/treesj) - Neovim plugin for splitting/joining blocks of code
 - [LunarVim/breadcrumbs.nvim](https://github.com/LunarVim/breadcrumbs.nvim) - 🍞 breadcrumbs.nvim context for your code in the winbar.
 - [willothy/wezterm.nvim](https://github.com/willothy/wezterm.nvim) - Utilities for interacting with Wezterm from within Neovim
-- [willothy/flatten.nvim](https://github.com/willothy/flatten.nvim) - Open files and command output from wezterm, kitty, and neovim terminals in your current neovim instance
+- [willothy/flatten.nvim](https://github.com/willothy/flatten.nvim) - Pipe from wezterm, kitty, and neovim terminals into your current neovim instance. Like `code -r` on steroids.
 - [gsuuon/tshjkl.nvim](https://github.com/gsuuon/tshjkl.nvim) - Tree-sitter hjkl movement for neovim
 - [jbyuki/venn.nvim](https://github.com/jbyuki/venn.nvim) - Draw ASCII diagrams in Neovim
 - [AckslD/messages.nvim](https://github.com/AckslD/messages.nvim) - Capture and show any messages in a customisable (floating) buffer
@@ -2178,6 +2178,7 @@
 
 ## Python 
 
+- [soimort/you-get](https://github.com/soimort/you-get) - :arrow_double_down: Dumb downloader that scrapes the web
 - [MarshalX/atproto](https://github.com/MarshalX/atproto) - The AT Protocol (🦋 Bluesky) SDK for Python 🐍
 - [chrieke/awesome-geospatial-companies](https://github.com/chrieke/awesome-geospatial-companies) - :globe_with_meridians: List & Map of 700+ companies for geospatial jobs (GIS, Earth Observation, UAV, Satellite, Digital Farming, ..)
 - [IdreesInc/Monocraft](https://github.com/IdreesInc/Monocraft) - A monospaced programming font inspired by the Minecraft typeface
@@ -2203,6 +2204,7 @@
 - [belluzj/fantasque-sans](https://github.com/belluzj/fantasque-sans) - A font family with a great monospaced variant for programmers.
 - [kserve/kserve](https://github.com/kserve/kserve) - Standardized Serverless ML Inference Platform on Kubernetes
 - [python-lsp/python-lsp-ruff](https://github.com/python-lsp/python-lsp-ruff) - Linter plugin for pylsp based on ruff.
+- [OpenBMB/ChatDev](https://github.com/OpenBMB/ChatDev) - Create Customized Software using Natural Language Idea (through LLM-powered Multi-Agent Collaboration)
 - [dortania/OpenCore-Legacy-Patcher](https://github.com/dortania/OpenCore-Legacy-Patcher) - Experience macOS just like before
 - [eliasdorneles/upiano](https://github.com/eliasdorneles/upiano) - A Piano in your terminal
 - [lauris/awesome-scala](https://github.com/lauris/awesome-scala) - A community driven list of useful Scala libraries, frameworks and software.
@@ -2218,7 +2220,7 @@
 - [gukoff/dtparse](https://github.com/gukoff/dtparse) - Fast datetime parser for Python written in Rust
 - [openai/tiktoken](https://github.com/openai/tiktoken) - tiktoken is a fast BPE tokeniser for use with OpenAI's models.
 - [AntonOsika/CLI-Co-Pilot](https://github.com/AntonOsika/CLI-Co-Pilot) - CLI tool that uses GPT4 to turn natural language commands into their Bash/ZShell/PowerShell equivalents
-- [gpt-engineer-org/gpt-engineer](https://github.com/gpt-engineer-org/gpt-engineer) - Platform to experiment with the AI Software Engineer. Terminal based. NOTE: Very different from https://gptengineer.app
+- [AntonOsika/gpt-engineer](https://github.com/AntonOsika/gpt-engineer) - Platform to experiment with the AI Software Engineer. Terminal based. NOTE: Very different from https://gptengineer.app
 - [Mithil467/mitype](https://github.com/Mithil467/mitype) - Typing speed test in terminal
 - [TobinPalmer/pastify.nvim](https://github.com/TobinPalmer/pastify.nvim) - Paste images into markdown from neovim
 - [sdabhi23/django-hasura-jwt-auth](https://github.com/sdabhi23/django-hasura-jwt-auth) - A simple containerized JWT based auth server for integration with Hasura GraphQL Engine written in Python using Django and Django Rest Framework
@@ -2452,6 +2454,10 @@
 
 ## Rust 
 
+- [samsze0/websocket.nvim](https://github.com/samsze0/websocket.nvim) - Websocket implementation for Neovim
+- [abhi-xyz/age.nvim](https://github.com/abhi-xyz/age.nvim) - Neovim plugin for encrypting and decrypting text files inside neovim using age with ease.
+- [LemmyNet/lemmy-client-rs](https://github.com/LemmyNet/lemmy-client-rs) - Rust client for Lemmy
+- [TobiasMarschner/ferrishare](https://github.com/TobiasMarschner/ferrishare) - Simple, self-hostable filesharing application with builtin end-to-end encryption
 - [falcucci/harvest-moon](https://github.com/falcucci/harvest-moon) - A Substrate community-based and platform agnostic for fact-checking governance system.
 - [exonum/exonum](https://github.com/exonum/exonum) - An extensible open-source framework for creating private/permissioned blockchain applications
 - [tangle-network/tangle](https://github.com/tangle-network/tangle) - The Layer 1 blockchain for on-demand services.
@@ -3268,7 +3274,6 @@
 - [woofpool/cardano-private-testnet-setup](https://github.com/woofpool/cardano-private-testnet-setup) - Setup guide to create private Cardano testnet and run sample transactions including a Plutus contract example.  This environment can be used for local development and learning.
 - [RoryNesbitt/dotfyle-cli](https://github.com/RoryNesbitt/dotfyle-cli) - Command line tool for Neovim multi-config management
 - [blinklabs-io/docker-cardano-node](https://github.com/blinklabs-io/docker-cardano-node) - Builds Intersect's Haskell cardano-node from source using cabal on debian
-- [OpenBMB/ChatDev](https://github.com/OpenBMB/ChatDev) - Create Customized Software using Natural Language Idea (through LLM-powered Multi-Agent Collaboration)
 - [nix-community/nixos-anywhere](https://github.com/nix-community/nixos-anywhere) - install nixos everywhere via ssh [maintainer=@numtide]
 - [dylanaraps/fff](https://github.com/dylanaraps/fff) - 📁 A simple file manager written in bash.
 - [chrisgrieser/finder-vim-mode](https://github.com/chrisgrieser/finder-vim-mode) - Feature-rich mouseless control of macOS Finder, inspired by vim/ranger.
@@ -3303,7 +3308,7 @@
 - [falcucci/release-me](https://github.com/falcucci/release-me) - A bunch of scripts that helps developers manage their software releases. It provides a ready-to-use process to track tasks, organize releases, and automate deployment processes.
 - [jvns/zine-translations](https://github.com/jvns/zine-translations) - SVGs of zines that are easier to translate than a PDF
 - [Toxblh/MTMR-presets](https://github.com/Toxblh/MTMR-presets) - 💈 [My TouchBar My rules] Share your preset!
-- [mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Over 325 terminal color schemes/themes for iTerm/iTerm2. Includes ports to Terminal, Konsole, PuTTY, Xresources, XRDB, Remmina, Termite, XFCE, Tilda, FreeBSD VT, Terminator, Kitty, MobaXterm, LXTermin
+- [mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Over 370 terminal color schemes/themes for iTerm/iTerm2. Includes ports to Terminal, Konsole, PuTTY, Xresources, XRDB, Remmina, Termite, XFCE, Tilda, FreeBSD VT, Terminator, Kitty, MobaXterm, LXTermin
 - [sdepold/rsvm](https://github.com/sdepold/rsvm) - Rust Version Manager
 - [mkropat/jumpapp](https://github.com/mkropat/jumpapp) - A run-or-raise application switcher for any X11 desktop
 - [fregante/web-ext-submit](https://github.com/fregante/web-ext-submit) - Wrapper around Mozilla’s web-ext to submit extensions to AMO.
@@ -3320,7 +3325,6 @@
 - [cClaude/gitlab-bash-api](https://github.com/cClaude/gitlab-bash-api) - Configure GitLab using bash scripts
 - [franiglesias/versiontag](https://github.com/franiglesias/versiontag) - Bash command to automate tag semantic versioning
 - [keyboardsurfer/idea-live-templates](https://github.com/keyboardsurfer/idea-live-templates) - An #androidDev collection of Live Templates for Android Studio
-- [asdf-vm/asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
 - [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) - 🖥 📊 🕹 🛠 A curated list of command line apps
 - [alrra/dotfiles](https://github.com/alrra/dotfiles) - 💻 macOS / Ubuntu dotfiles
 - [k4m4/movies-for-hackers](https://github.com/k4m4/movies-for-hackers) - 🎬 A curated list of movies every hacker & cyberpunk must watch.
@@ -3745,7 +3749,7 @@
 - [fannheyward/coc-marketplace](https://github.com/fannheyward/coc-marketplace) - coc.nvim extensions marketplace
 - [neoclide/coc-tsserver](https://github.com/neoclide/coc-tsserver) - Tsserver extension for coc.nvim that provide rich features like VSCode for javascript & typescript
 - [prettier/prettier-vscode](https://github.com/prettier/prettier-vscode) - Visual Studio Code extension for Prettier
-- [themerdev/themer](https://github.com/themerdev/themer) - 🎨 themer takes a set of colors and generates themes for your apps (editors, terminals, wallpapers, and more).
+- [mjswensen/themer](https://github.com/mjswensen/themer) - 🎨 themer takes a set of colors and generates themes for your apps (editors, terminals, wallpapers, and more).
 - [jitsi/jitsi-meet](https://github.com/jitsi/jitsi-meet) - Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application.
 - [transitive-bullshit/twitter-search](https://github.com/transitive-bullshit/twitter-search) - Instantly search across your entire Twitter history with a beautiful UI powered by Algolia.
 - [mermaid-js/mermaid-live-editor](https://github.com/mermaid-js/mermaid-live-editor) - Edit, preview and share mermaid charts/diagrams. New implementation of the live editor.
@@ -3809,6 +3813,7 @@
 - [sindresorhus/got](https://github.com/sindresorhus/got) - 🌐 Human-friendly and powerful HTTP request library for Node.js
 - [sindresorhus/ky](https://github.com/sindresorhus/ky) - 🌳 Tiny & elegant JavaScript HTTP client based on the Fetch API
 - [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable, and developer-first.
+- [eggjs/egg](https://github.com/eggjs/egg) - 🥚 Born to build better enterprise frameworks and apps with Node.js & Koa
 - [szmarczak/http-timer](https://github.com/szmarczak/http-timer) - 🕐 Performance timings for HTTP requests
 - [mfrachet/rn-placeholder](https://github.com/mfrachet/rn-placeholder) - 🏖️ Display some placeholder stuff before rendering your text or media content in React Native
 - [williamngan/pts](https://github.com/williamngan/pts) - A library for visualization and creative-coding
