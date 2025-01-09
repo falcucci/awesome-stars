@@ -105,6 +105,7 @@
 
 ## C 
 
+- [FRRouting/frr](https://github.com/FRRouting/frr) - The FRRouting Protocol Suite
 - [LostArtefacts/TRX](https://github.com/LostArtefacts/TRX) - Open source re-implementation of Tomb Raider I and Tomb Raider II, along with additional enhancements and bugfixes
 - [libretro/RetroArch](https://github.com/libretro/RetroArch) - Cross-platform, sophisticated frontend for the libretro API. Licensed GPLv3.
 - [libretro/slang-shaders](https://github.com/libretro/slang-shaders) - 
@@ -417,7 +418,6 @@
 - [docker/compose](https://github.com/docker/compose) - Define and run multi-container applications with Docker
 - [dagger/dagger](https://github.com/dagger/dagger) - An engine to run your pipelines in containers
 - [gokcehan/lf](https://github.com/gokcehan/lf) - Terminal file manager
-- [nikitavoloboev/go](https://github.com/nikitavoloboev/go) - Go tools, libraries and other code
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀
 - [charmbracelet/kancli](https://github.com/charmbracelet/kancli) - A tutorial for building a command line kanban board in Go
 - [robherley/snips.sh](https://github.com/robherley/snips.sh) - ✂️ passwordless, anonymous SSH-powered pastebin with a human-friendly TUI and web UI
@@ -562,7 +562,7 @@
 - [requilence/integram](https://github.com/requilence/integram) - Integrate Telegram into your workflow – Trello, Gitlab, Bitbucket and other bots
 - [divan/txqr](https://github.com/divan/txqr) - Transfer data via animated QR codes
 - [sogko/golang-relay-starter-kit](https://github.com/sogko/golang-relay-starter-kit) - Barebones starting point for a Relay application with Golang GraphQL server
-- [dgraph-io/dgraph](https://github.com/dgraph-io/dgraph) - The database for modern applications. Common use cases: knowledge graphs for AI, fraud detection, personalization, and search. Built and maintained by @HypermodeInc.
+- [hypermodeinc/dgraph](https://github.com/hypermodeinc/dgraph) - high-performance graph database for real-time use cases
 - [skanehira/gjo](https://github.com/skanehira/gjo) - Small utility to create JSON objects
 - [pydio/cells](https://github.com/pydio/cells) - Future-proof content collaboration platform
 - [antham/chyle](https://github.com/antham/chyle) - Changelog generator : use a git repository and various data sources and publish the result on external services
@@ -715,6 +715,7 @@
 
 ## HTML 
 
+- [lowtechmag/solar_v2](https://github.com/lowtechmag/solar_v2) - Redesign of solar.lowtechmagazine.com in Hugo engine
 - [CodeFreezr/awesome-graphviz](https://github.com/CodeFreezr/awesome-graphviz) - A curated list of GraphViz related resources
 - [munificent/craftinginterpreters](https://github.com/munificent/craftinginterpreters) - Repository for the book "Crafting Interpreters"
 - [anushkaparadkar/Thanos-snap-effect](https://github.com/anushkaparadkar/Thanos-snap-effect) - Thanos snap effect using Javascript and chance.js.
@@ -725,7 +726,7 @@
 - [italia/designers.italia.it](https://github.com/italia/designers.italia.it) - Designers Italia mette a disposizione la conoscenza e gli strumenti per progettare e realizzare servizi pubblici centrati sulle necessità delle persone
 - [calcom/cal.fm](https://github.com/calcom/cal.fm) - The official Cal.com Work Playlist, only on Cal.fm
 - [filipedeschamps/tabnews.com.br](https://github.com/filipedeschamps/tabnews.com.br) - Conteúdos para quem trabalha com Programação e Tecnologia.
-- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
+- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
 - [wzulfikar/vercel-runtimes](https://github.com/wzulfikar/vercel-runtimes) - Code examples for different Vercel runtimes.
 - [snotra-org/hasura-parser](https://github.com/snotra-org/hasura-parser) - :zap: Parse Hasura actions and events with ease in JS/TS projects.
 - [edsonlb/tobuscando](https://github.com/edsonlb/tobuscando) - (Django/Python) Protótipo para sites de leitão inverso de qualquer tipo de mercadoria.
@@ -955,6 +956,7 @@
 - [chec/commercejs-nextjs-demo-store](https://github.com/chec/commercejs-nextjs-demo-store) - Commerce demo store built for the Jamstack. Built with Commerce.js, Next.js, and can be one-click deployed to Netlify. Includes product catalog, customer login, categories, variants, cart, checkout, p
 - [creativetimofficial/nextjs-material-kit](https://github.com/creativetimofficial/nextjs-material-kit) - NextJS version of Material Kit React by Creative Tim
 - [craigary/nobelium](https://github.com/craigary/nobelium) - A static blog build on top of Notion and NextJS, deployed on Vercel.
+- [thedevs-network/kutt](https://github.com/thedevs-network/kutt) - Free Modern URL Shortener.
 - [reactjs/react-magic](https://github.com/reactjs/react-magic) - Automatically AJAXify plain HTML with the power of React. It's magic!
 - [fregante/notifications-preview-github](https://github.com/fregante/notifications-preview-github) - Browser Extension: preview GitHub notifications with same page pop-overs
 - [upstash/vercel-note-taker-slackbot](https://github.com/upstash/vercel-note-taker-slackbot) - Serverless Slackbot with Vercel
@@ -1055,7 +1057,7 @@
 - [alfianlosari/node-grpc-server-note-crud](https://github.com/alfianlosari/node-grpc-server-note-crud) - gRPC Server and Client Example for CRUD Note Service using node.js
 - [sindresorhus/is-npm-cli](https://github.com/sindresorhus/is-npm-cli) - Check if your code is running as an npm script
 - [HarryEMartland/monitoring-opossum-circuit-breakers-with-prometheus](https://github.com/HarryEMartland/monitoring-opossum-circuit-breakers-with-prometheus) - 
-- [fastify/benchmarks](https://github.com/fastify/benchmarks) - Fast and low overhead web framework fastify benchmarks.
+- [fastify/benchmarks](https://github.com/fastify/benchmarks) - Fast and low overhead web framework fastify benchmarks
 - [yeahoffline/redis-mock](https://github.com/yeahoffline/redis-mock) - Node.js redis client mock
 - [prettier/eslint-config-prettier](https://github.com/prettier/eslint-config-prettier) - Turns off all rules that are unnecessary or might conflict with Prettier.
 - [enghwa/chat-websocket-fargate](https://github.com/enghwa/chat-websocket-fargate) - Build a Nodejs chat room app on AWS Fargate + redis using AWS CDK.
@@ -1087,7 +1089,7 @@
 - [mifi/editly](https://github.com/mifi/editly) - Slick, declarative command line video editing & API
 - [docsifyjs/docsify-cli](https://github.com/docsifyjs/docsify-cli) - 🖌 docsify cli tool - A magical documentation generator.
 - [dferber90/githubbox](https://github.com/dferber90/githubbox) - 🏖 Open any GitHub repo in CodeSandbox by changing the hostname
-- [ryanmcdermott/clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript) - :bathtub: Clean Code concepts adapted for JavaScript
+- [ryanmcdermott/clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript) - Clean Code concepts adapted for JavaScript
 - [lukeed/httpie](https://github.com/lukeed/httpie) - A Node.js HTTP client as easy as pie! 🥧
 - [okta/okta-sdk-nodejs](https://github.com/okta/okta-sdk-nodejs) - Node.js API Client for the Okta Platform API
 - [iamcco/markdown-preview.nvim](https://github.com/iamcco/markdown-preview.nvim) - markdown preview plugin for (neo)vim
@@ -1736,7 +1738,7 @@
 - [folke/persistence.nvim](https://github.com/folke/persistence.nvim) - 💾  Simple session management for Neovim
 - [HakonHarnes/img-clip.nvim](https://github.com/HakonHarnes/img-clip.nvim) - Effortlessly embed images into any markup language, like LaTeX, Markdown or Typst
 - [mawkler/modicator.nvim](https://github.com/mawkler/modicator.nvim) - Cursor line number mode indicator plugin for Neovim
-- [FelipeIzolan/lipoide.nvim](https://github.com/FelipeIzolan/lipoide.nvim) - 👽 | lipoide.nvim | colorscheme | The ultra-dark-green-badass-neovim-theme
+- [FelipeIzolan/lipoide.nvim](https://github.com/FelipeIzolan/lipoide.nvim) - 👽 lipoide.nvim | colorscheme | The ultra-dark-green-badass-neovim-theme
 - [ecosse3/nvim](https://github.com/ecosse3/nvim) - A non-minimal Neovim config built to work most efficiently with Frontend Development
 - [akai54/2077.nvim](https://github.com/akai54/2077.nvim) - An attempt to make a Cyberpunk Color scheme for Neovim.
 - [epwalsh/obsidian.nvim](https://github.com/epwalsh/obsidian.nvim) - Obsidian 🤝 Neovim
@@ -1795,7 +1797,7 @@
 - [willothy/nvim-cokeline](https://github.com/willothy/nvim-cokeline) - :nose: A Neovim bufferline for people with addictive personalities
 - [tomiis4/BufferTabs.nvim](https://github.com/tomiis4/BufferTabs.nvim) - A simple, fancy tabline for Neovim.
 - [nvimdev/lspsaga.nvim](https://github.com/nvimdev/lspsaga.nvim) - improve neovim lsp experience
-- [nvimdev/guard.nvim](https://github.com/nvimdev/guard.nvim) - async fast minimalist plugin make format easy in neovim
+- [nvimdev/guard.nvim](https://github.com/nvimdev/guard.nvim) - Lightweight, fast and async formatting and linting plugin for Neovim
 - [elentok/format-on-save.nvim](https://github.com/elentok/format-on-save.nvim) - Automatically formats files when saving using either LSP or shell utilities like prettierd or shfmt
 - [zbirenbaum/copilot-cmp](https://github.com/zbirenbaum/copilot-cmp) - Lua plugin to turn github copilot into a cmp source
 - [numToStr/FTerm.nvim](https://github.com/numToStr/FTerm.nvim) - :fire: No-nonsense floating terminal plugin for neovim :fire:
@@ -1837,7 +1839,7 @@
 - [rebelot/kanagawa.nvim](https://github.com/rebelot/kanagawa.nvim) - NeoVim dark colorscheme inspired by the colors of the famous painting by Katsushika Hokusai.
 - [JellyApple102/easyread.nvim](https://github.com/JellyApple102/easyread.nvim) - bionic-like reading inside Neovim
 - [ThePrimeagen/vim-be-good](https://github.com/ThePrimeagen/vim-be-good) - vim-be-good is a nvim plugin designed to make you better at Vim Movements.
-- [nvim-orgmode/orgmode](https://github.com/nvim-orgmode/orgmode) - Orgmode clone written in Lua for Neovim 0.9+.
+- [nvim-orgmode/orgmode](https://github.com/nvim-orgmode/orgmode) - Orgmode clone written in Lua for Neovim 0.10.0+.
 - [rebelot/heirline.nvim](https://github.com/rebelot/heirline.nvim) - Heirline.nvim is a no-nonsense Neovim Statusline plugin designed around recursive inheritance to be exceptionally fast and versatile.
 - [romgrk/kirby.nvim](https://github.com/romgrk/kirby.nvim) - Fuzzy picker for neovim - using kitty graphics protocol
 - [folke/edgy.nvim](https://github.com/folke/edgy.nvim) - Easily create and manage predefined window layouts, bringing a new edge to your workflow
@@ -1874,7 +1876,7 @@
 - [jesseleite/nvim-noirbuddy](https://github.com/jesseleite/nvim-noirbuddy) - 🖤 A highly customizable minimalist theme building framework
 - [tamton-aquib/flirt.nvim](https://github.com/tamton-aquib/flirt.nvim) - A neovim plugin to work with floating windows.
 - [AstroNvim/AstroNvim](https://github.com/AstroNvim/AstroNvim) - AstroNvim is an aesthetic and feature-rich neovim config that is extensible and easy to use with a great set of plugins
-- [NvChad/NvChad](https://github.com/NvChad/NvChad) - Blazing fast Neovim config providing solid defaults and a beautiful UI, enhancing your neovim experience.
+- [NvChad/NvChad](https://github.com/NvChad/NvChad) - Blazing fast Neovim framework providing solid defaults and a beautiful UI, enhancing your neovim experience.
 - [kevinhwang91/nvim-hlslens](https://github.com/kevinhwang91/nvim-hlslens) - Hlsearch Lens for Neovim
 - [f-person/git-blame.nvim](https://github.com/f-person/git-blame.nvim) - Git Blame plugin for Neovim written in Lua
 - [nvim-telescope/telescope.nvim](https://github.com/nvim-telescope/telescope.nvim) - Find, Filter, Preview, Pick. All lua, all the time.
@@ -1884,6 +1886,7 @@
 
 ## MDX 
 
+- [nikitavoloboev/docs](https://github.com/nikitavoloboev/docs) - 
 - [phuocng/1loc](https://github.com/phuocng/1loc) - What's your favorite JavaScript single LOC (line of code)?
 - [shuding/cobe](https://github.com/shuding/cobe) - 5kB WebGL globe lib.
 - [leerob/site](https://github.com/leerob/site) - My site built with Next.js, Tailwind, and Vercel.
@@ -2251,7 +2254,6 @@
 - [scheb/beer-analytics](https://github.com/scheb/beer-analytics) - Analyzing the composition of beer recipes and visualize results in a human-friendly way 🕵️🍺
 - [soxoj/maigret](https://github.com/soxoj/maigret) - 🕵️‍♂️ Collect a dossier on a person by username from thousands of sites
 - [shobrook/rebound](https://github.com/shobrook/rebound) - Get Stack Overflow results in your terminal whenever an error is thrown
-- [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - Chatbot for documentation, that allows you to chat with your data. Privately deployable, provides AI knowledge sharing and integrates knowledge into your AI workflow
 - [vwxyzjn/cleanrl](https://github.com/vwxyzjn/cleanrl) - High-quality single file implementation of Deep Reinforcement Learning algorithms with research-friendly features (PPO, DQN, C51, DDPG, TD3, SAC, PPG)
 - [PyO3/setuptools-rust](https://github.com/PyO3/setuptools-rust) - Setuptools plugin for Rust support
 - [faustomorales/keras-ocr](https://github.com/faustomorales/keras-ocr) - A packaged and flexible version of the CRAFT text detector and Keras CRNN recognition model.
@@ -2276,7 +2278,7 @@
 - [raghur/vim-ghost](https://github.com/raghur/vim-ghost) - Vim/Nvim client for GhostText - Edit browser text areas in Vim/Neovim
 - [mbroton/chatgpt-api](https://github.com/mbroton/chatgpt-api) - ChatGPT HTTP API Client and CLI
 - [terror/chatgpt.nvim](https://github.com/terror/chatgpt.nvim) - Query ChatGPT in Neovim
-- [opensouls/terminal-copilot](https://github.com/opensouls/terminal-copilot) - A smart terminal assistant that helps you find the right command.
+- [kafischer/terminal-copilot](https://github.com/kafischer/terminal-copilot) - A smart terminal assistant that helps you find the right command.
 - [pberkes/big_O](https://github.com/pberkes/big_O) - Python module to estimate big-O time complexity from execution time
 - [NicolasLM/spinach](https://github.com/NicolasLM/spinach) - Modern Redis task queue for Python 3
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
@@ -2454,6 +2456,11 @@
 
 ## Rust 
 
+- [taiki-e/pin-project](https://github.com/taiki-e/pin-project) - A crate for safe and ergonomic pin-projection.
+- [informalsystems/hermes](https://github.com/informalsystems/hermes) - IBC Relayer in Rust
+- [informalsystems/malachite](https://github.com/informalsystems/malachite) - Flexible BFT consensus engine in Rust
+- [cargo-bins/cargo-binstall](https://github.com/cargo-bins/cargo-binstall) - Binary installation for rust projects
+- [tox-rs/tox](https://github.com/tox-rs/tox) - toxcore implementation in Rust
 - [samsze0/websocket.nvim](https://github.com/samsze0/websocket.nvim) - Websocket implementation for Neovim
 - [abhi-xyz/age.nvim](https://github.com/abhi-xyz/age.nvim) - Neovim plugin for encrypting and decrypting text files inside neovim using age with ease.
 - [LemmyNet/lemmy-client-rs](https://github.com/LemmyNet/lemmy-client-rs) - Rust client for Lemmy
@@ -2493,7 +2500,7 @@
 - [Myriad-Dreamin/tinymist](https://github.com/Myriad-Dreamin/tinymist) - Tinymist [ˈtaɪni mɪst] is an integrated language service for Typst [taɪpst].
 - [makepad/makepad](https://github.com/makepad/makepad) - Makepad is a creative software development platform for Rust that compiles to wasm/webGL, osx/metal, windows/dx11 linux/opengl
 - [superlistapp/super_native_extensions](https://github.com/superlistapp/super_native_extensions) - Native drag & drop, clipboard access and context menu.
-- [AleoNet/snarkOS](https://github.com/AleoNet/snarkOS) - A Decentralized Operating System for ZK Applications
+- [ProvableHQ/snarkOS](https://github.com/ProvableHQ/snarkOS) - A Decentralized Operating System for ZK Applications
 - [GraphiteEditor/Graphite](https://github.com/GraphiteEditor/Graphite) - 2D vector & raster editor that melds traditional layers & tools with a modern node-based, non-destructive, procedural workflow.
 - [badboy/mdbook-mermaid](https://github.com/badboy/mdbook-mermaid) - A preprocessor for mdbook to add mermaid support
 - [Michael-F-Bryan/mdbook-epub](https://github.com/Michael-F-Bryan/mdbook-epub) - An experimental mdbook backend for creating EPUB documents.
@@ -2626,7 +2633,7 @@
 - [hasura/ndc-postgres](https://github.com/hasura/ndc-postgres) - Hasura v3 Data Connector for PostgreSQL
 - [mainmatter/cargo-autoinherit](https://github.com/mainmatter/cargo-autoinherit) - (Auto)DRY for your Rust dependencies
 - [getgrit/gritql](https://github.com/getgrit/gritql) - GritQL is a query language for searching, linting, and modifying code.
-- [gc-victor/query](https://github.com/gc-victor/query) - Query is a Rust server for your remote SQLite databases and a CLI to manage them.
+- [gc-victor/query](https://github.com/gc-victor/query) - Query is an all-in-one web development solution eliminating the need for external servers, runtimes, frameworks, caching, storage, and admin tools.
 - [chaosprint/asak](https://github.com/chaosprint/asak) - A cross-platform audio recording/playback CLI tool with TUI, written in Rust.
 - [rust-db/refinery](https://github.com/rust-db/refinery) - Powerful SQL migration toolkit for Rust.
 - [georust/geo](https://github.com/georust/geo) - Rust geospatial primitives & algorithms
@@ -2634,7 +2641,7 @@
 - [tower-rs/tower](https://github.com/tower-rs/tower) - async fn(Request) -&gt; Result&lt;Response, Error&gt;
 - [hasura/ndc-spec](https://github.com/hasura/ndc-spec) - NDC Specification and Reference Implementation
 - [Totodore/socketioxide](https://github.com/Totodore/socketioxide) - A socket.io server implementation in Rust that integrates with the Tower ecosystem and the Tokio stack.
-- [skyzh/mini-lsm](https://github.com/skyzh/mini-lsm) - A tutorial of building an LSM-Tree storage engine in a week.
+- [skyzh/mini-lsm](https://github.com/skyzh/mini-lsm) - A tutorial of building an LSM-Tree storage engine (database) in a week.
 - [blockfrost/blockfrost-rust](https://github.com/blockfrost/blockfrost-rust) - Rust SDK for Blockfrost.io
 - [afitzek/hasura-metric-adapter](https://github.com/afitzek/hasura-metric-adapter) - Prometheus adapter for metrics from hasura
 - [rust-headless-chrome/rust-headless-chrome](https://github.com/rust-headless-chrome/rust-headless-chrome) - A high-level API to control headless Chrome or Chromium over the DevTools Protocol. It is the Rust equivalent of Puppeteer, a Node library maintained by the Chrome DevTools team.
@@ -3251,7 +3258,6 @@
 - [lichess-org/lila](https://github.com/lichess-org/lila) - ♞ lichess.org: the forever free, adless and open source chess server ♞
 - [playframework/playframework](https://github.com/playframework/playframework) - The Community Maintained High Velocity Web Framework For Java and Scala.
 - [softwaremill/ox](https://github.com/softwaremill/ox) - Safe direct-style concurrency and resiliency for Scala on the JVM
-- [twitter/the-algorithm](https://github.com/twitter/the-algorithm) - Source code for Twitter's Recommendation Algorithm
 - [prisma/prisma1](https://github.com/prisma/prisma1) - 💾 Database Tools incl. ORM, Migrations and Admin UI (Postgres, MySQL & MongoDB) [deprecated]
 - [stanch/reftree](https://github.com/stanch/reftree) - Automatically generated diagrams and animations for Scala data structures
 
@@ -3308,7 +3314,7 @@
 - [falcucci/release-me](https://github.com/falcucci/release-me) - A bunch of scripts that helps developers manage their software releases. It provides a ready-to-use process to track tasks, organize releases, and automate deployment processes.
 - [jvns/zine-translations](https://github.com/jvns/zine-translations) - SVGs of zines that are easier to translate than a PDF
 - [Toxblh/MTMR-presets](https://github.com/Toxblh/MTMR-presets) - 💈 [My TouchBar My rules] Share your preset!
-- [mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Over 370 terminal color schemes/themes for iTerm/iTerm2. Includes ports to Terminal, Konsole, PuTTY, Xresources, XRDB, Remmina, Termite, XFCE, Tilda, FreeBSD VT, Terminator, Kitty, MobaXterm, LXTermin
+- [mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Over 385 terminal color schemes/themes for iTerm/iTerm2. Includes ports to Terminal, Konsole, PuTTY, Xresources, XRDB, Remmina, Termite, XFCE, Tilda, FreeBSD VT, Terminator, Kitty, MobaXterm, LXTermin
 - [sdepold/rsvm](https://github.com/sdepold/rsvm) - Rust Version Manager
 - [mkropat/jumpapp](https://github.com/mkropat/jumpapp) - A run-or-raise application switcher for any X11 desktop
 - [fregante/web-ext-submit](https://github.com/fregante/web-ext-submit) - Wrapper around Mozilla’s web-ext to submit extensions to AMO.
@@ -3481,7 +3487,7 @@
 - [vscode-neovim/vscode-neovim](https://github.com/vscode-neovim/vscode-neovim) - Vim mode for VSCode, powered by Neovim
 - [daltonmenezes/aura-theme](https://github.com/daltonmenezes/aura-theme) - ✨ A beautiful dark theme for your favorite apps.
 - [tldraw/tldraw](https://github.com/tldraw/tldraw) - whiteboard / infinite canvas SDK
-- [kubero-dev/kubero](https://github.com/kubero-dev/kubero) - A free and self-hosted PaaS alternative to Netlify / Coolify / Vercel / Dokku / Portainer running on Kubernetes
+- [kubero-dev/kubero](https://github.com/kubero-dev/kubero) - A free and self-hosted PaaS alternative to Heroku / Netlify / Coolify / Vercel / Dokku / Portainer running on Kubernetes
 - [smolck/uivonim](https://github.com/smolck/uivonim) - Fork of the Veonim Neovim GUI
 - [actions/dependency-review-action](https://github.com/actions/dependency-review-action) - A GitHub Action for detecting vulnerable dependencies and invalid licenses in your PRs
 - [githubnext/monaspace](https://github.com/githubnext/monaspace) - An innovative superfamily of fonts for code
@@ -3610,6 +3616,7 @@
 - [timc1/kbar](https://github.com/timc1/kbar) - fast, portable, and extensible cmd+k interface for your site
 - [pacocoursey/next-themes](https://github.com/pacocoursey/next-themes) - Perfect Next.js dark mode in 2 lines of code. Support System preference and any other theme with no flashing
 - [fregante/webext-sandbox](https://github.com/fregante/webext-sandbox) - WIP
+- [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - Chatbot for documentation, that allows you to chat with your data. Privately deployable, provides AI knowledge sharing and integrates knowledge into your AI workflow
 - [Nutlope/news-summarizer](https://github.com/Nutlope/news-summarizer) - News summarizer with AI
 - [theodorusclarence/og](https://github.com/theodorusclarence/og) - 🍇 Open Graph Generator made using @vercel/og for personal use
 - [theodorusclarence/ts-nextjs-tailwind-starter](https://github.com/theodorusclarence/ts-nextjs-tailwind-starter) - 🔋 Next.js + Tailwind CSS + TypeScript starter and boilerplate packed with useful development features
@@ -3636,7 +3643,6 @@
 - [vercel/examples](https://github.com/vercel/examples) - Enjoy our curated collection of examples and solutions. Use these patterns to build your own robust and scalable applications.
 - [chronark/envshare](https://github.com/chronark/envshare) - Share Environnment Variables Securely
 - [vercel/commerce](https://github.com/vercel/commerce) - Next.js Commerce
-- [thedevs-network/kutt](https://github.com/thedevs-network/kutt) - Free Modern URL Shortener.
 - [refinedev/refine](https://github.com/refinedev/refine) - A React Framework for building  internal tools, admin panels, dashboards & B2B apps with unmatched flexibility.
 - [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
 - [rhysd/monolith-of-web](https://github.com/rhysd/monolith-of-web) - A chrome extension to make a single static HTML file of the web page using a WebAssembly port of monolith CLI
@@ -3674,7 +3680,7 @@
 - [felippepuhle/coc-graphql](https://github.com/felippepuhle/coc-graphql) - GraphQL Language Service extension for coc.nvim
 - [graffle-js/graffle](https://github.com/graffle-js/graffle) - Simple GraphQL Client for JavaScript. Minimal. Extensible. Type Safe. Runs everywhere.
 - [pwa-builder/pwa-starter](https://github.com/pwa-builder/pwa-starter) - Welcome to the PWABuilder pwa-starter! Looking to build a new Progressive Web App and not sure where to get started? This is what you are looking for!
-- [hasura/graphql-engine](https://github.com/hasura/graphql-engine) - Blazing fast, instant realtime GraphQL APIs on your DB with fine grained access control, also trigger webhooks on database events.
+- [hasura/graphql-engine](https://github.com/hasura/graphql-engine) - Blazing fast, instant realtime GraphQL APIs on all your data with fine grained access control, also trigger webhooks on database events.
 - [ghoshnirmalya/nextjs-hasura-boilerplate](https://github.com/ghoshnirmalya/nextjs-hasura-boilerplate) - :art: Boilerplate for building applications using Hasura and Next.js
 - [hasura/ra-data-hasura](https://github.com/hasura/ra-data-hasura) - react-admin data provider for Hasura GraphQL Engine
 - [ronatskiy/country-flags-svg](https://github.com/ronatskiy/country-flags-svg) - A list of countries with url links to a svg image which you can simply use in your web application
@@ -3749,7 +3755,7 @@
 - [fannheyward/coc-marketplace](https://github.com/fannheyward/coc-marketplace) - coc.nvim extensions marketplace
 - [neoclide/coc-tsserver](https://github.com/neoclide/coc-tsserver) - Tsserver extension for coc.nvim that provide rich features like VSCode for javascript & typescript
 - [prettier/prettier-vscode](https://github.com/prettier/prettier-vscode) - Visual Studio Code extension for Prettier
-- [mjswensen/themer](https://github.com/mjswensen/themer) - 🎨 themer takes a set of colors and generates themes for your apps (editors, terminals, wallpapers, and more).
+- [mjswensen/themer](https://github.com/mjswensen/themer) - 🎨 themer takes a set of colors and outputs themes for your apps (editors, terminals, wallpapers, and more).
 - [jitsi/jitsi-meet](https://github.com/jitsi/jitsi-meet) - Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application.
 - [transitive-bullshit/twitter-search](https://github.com/transitive-bullshit/twitter-search) - Instantly search across your entire Twitter history with a beautiful UI powered by Algolia.
 - [mermaid-js/mermaid-live-editor](https://github.com/mermaid-js/mermaid-live-editor) - Edit, preview and share mermaid charts/diagrams. New implementation of the live editor.
@@ -3934,7 +3940,7 @@
 - [gcmt/wildfire.vim](https://github.com/gcmt/wildfire.vim) - Smart selection of the closest text object
 - [chaoren/vim-wordmotion](https://github.com/chaoren/vim-wordmotion) - More useful word motions for Vim
 - [itchyny/vim-cursorword](https://github.com/itchyny/vim-cursorword) - Underlines the word under the cursor
-- [mutewinter/dot_vim](https://github.com/mutewinter/dot_vim) - My 12 Year-Old (Neo)Vim Configuration
+- [mutewinter/dot_vim](https://github.com/mutewinter/dot_vim) - My 13 Year-Old (Neo)Vim Configuration
 - [lunacookies/vim-substrata](https://github.com/lunacookies/vim-substrata) - A cold, dark colourscheme for Vim
 - [lunacookies/vim-corvine](https://github.com/lunacookies/vim-corvine) - The Raven Dark colourscheme for Vim, rebuilt and modified with Colortemplate
 - [lunacookies/vim-swift](https://github.com/lunacookies/vim-swift) - A Swift syntax plugin for Vim that aims to match Xcode’s level of detail (WIP)
@@ -4181,7 +4187,7 @@
 - [orhun/linuxwave](https://github.com/orhun/linuxwave) - Generate music from the entropy of Linux 🐧🎵
 - [kristoff-it/bork](https://github.com/kristoff-it/bork) - A TUI chat client tailored for livecoding on Twitch.
 - [foxnne/pixi](https://github.com/foxnne/pixi) - Pixel art editor made with Zig.
-- [Vexu/arocc](https://github.com/Vexu/arocc) - A C compiler written in Zig.
+- [Vexu/arocc](https://github.com/Vexu/arocc) - A modern fully featured C compiler.
 - [capy-ui/capy](https://github.com/capy-ui/capy) - 💻Build one codebase and get native UI on Windows, Linux and Web
 - [zigtools/zls](https://github.com/zigtools/zls) - A Zig language server supporting Zig developers with features like autocomplete and goto definition
 - [mkeeter/futureproof](https://github.com/mkeeter/futureproof) - A live editor for fragment shaders, powered by Neovim, WebGPU, and Zig!
