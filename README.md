@@ -133,7 +133,7 @@
 - [libgit2/libgit2](https://github.com/libgit2/libgit2) - A cross-platform, linkable library implementation of Git that you can use in your application.
 - [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree
 - [systemd/systemd](https://github.com/systemd/systemd) - The systemd System and Service Manager
-- [timescale/timescaledb](https://github.com/timescale/timescaledb) - An open-source time-series SQL database optimized for fast ingest and complex queries.  Packaged as a PostgreSQL extension.
+- [timescale/timescaledb](https://github.com/timescale/timescaledb) - A time-series database for high-performance real-time analytics packaged as a Postgres extension
 - [wg/wrk](https://github.com/wg/wrk) - Modern HTTP benchmarking tool
 - [TelegramMessenger/Telegram-iOS](https://github.com/TelegramMessenger/Telegram-iOS) - Telegram-iOS
 - [cardano-foundation/ledger-app-cardano](https://github.com/cardano-foundation/ledger-app-cardano) - Cardano Ledger App for Ledger Nano S
@@ -474,7 +474,6 @@
 - [argoproj/argo-workflows](https://github.com/argoproj/argo-workflows) - Workflow Engine for Kubernetes
 - [maaslalani/slides](https://github.com/maaslalani/slides) - Terminal based presentation tool
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) - Declarative Continuous Deployment for Kubernetes
-- [berty/berty](https://github.com/berty/berty) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
 - [prest/prest](https://github.com/prest/prest) - PostgreSQL ➕ REST, low-code, simplify and accelerate development, ⚡ instant, realtime, high-performance on any Postgres application, existing or new
 - [grpc-ecosystem/grpc-gateway](https://github.com/grpc-ecosystem/grpc-gateway) - gRPC to JSON proxy generator following the gRPC HTTP spec
 - [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – Git for Data
@@ -715,6 +714,7 @@
 
 ## HTML 
 
+- [owickstrom/the-monospace-web](https://github.com/owickstrom/the-monospace-web) - A minimalist design exploration
 - [lowtechmag/solar_v2](https://github.com/lowtechmag/solar_v2) - Redesign of solar.lowtechmagazine.com in Hugo engine
 - [CodeFreezr/awesome-graphviz](https://github.com/CodeFreezr/awesome-graphviz) - A curated list of GraphViz related resources
 - [munificent/craftinginterpreters](https://github.com/munificent/craftinginterpreters) - Repository for the book "Crafting Interpreters"
@@ -1040,7 +1040,7 @@
 - [nodejs/node](https://github.com/nodejs/node) - Node.js JavaScript runtime ✨🐢🚀✨
 - [maikelvl/dot-json](https://github.com/maikelvl/dot-json) - Easily edit a json file from the CLI or NodeJS
 - [abhijeetps/weekly-digest](https://github.com/abhijeetps/weekly-digest) - Weekly summary of activity on your GitHub repository :calendar:
-- [brodycj/prettierx](https://github.com/brodycj/prettierx) - a less opinionated fork of Prettier code formatter
+- [brody4hire/prettierx](https://github.com/brody4hire/prettierx) - a less opinionated fork of Prettier code formatter
 - [spagnuolocarmine/touchbar-systemmonitor](https://github.com/spagnuolocarmine/touchbar-systemmonitor) - A better simple reactive system monitor on macOS for your MacBook pro. Built with Electron.
 - [rwaldron/johnny-five](https://github.com/rwaldron/johnny-five) - JavaScript Robotics and IoT programming framework, developed at Bocoup.
 - [sindresorhus/kill-tabs](https://github.com/sindresorhus/kill-tabs) - Kill all Chrome tabs to improve performance, decrease battery usage, and save memory
@@ -1086,7 +1086,6 @@
 - [sindresorhus/import-fresh](https://github.com/sindresorhus/import-fresh) - Import a module while bypassing the cache
 - [boblauer/mock-require](https://github.com/boblauer/mock-require) - Simple, intuitive mocking of Node.js modules.
 - [prettier/prettier-eslint](https://github.com/prettier/prettier-eslint) - Code :arrow_right: prettier :arrow_right: eslint --fix :arrow_right: Formatted Code :sparkles:
-- [mifi/editly](https://github.com/mifi/editly) - Slick, declarative command line video editing & API
 - [docsifyjs/docsify-cli](https://github.com/docsifyjs/docsify-cli) - 🖌 docsify cli tool - A magical documentation generator.
 - [dferber90/githubbox](https://github.com/dferber90/githubbox) - 🏖 Open any GitHub repo in CodeSandbox by changing the hostname
 - [ryanmcdermott/clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript) - Clean Code concepts adapted for JavaScript
@@ -1675,6 +1674,8 @@
 
 ## Lua 
 
+- [zaldih/themery.nvim](https://github.com/zaldih/themery.nvim) - A colorscheme picker with live preview and persistence for neovim ✨
+- [kevinhwang91/nvim-ufo](https://github.com/kevinhwang91/nvim-ufo) - Not UFO in the sky, but an ultra fold in Neovim.
 - [Wansmer/sibling-swap.nvim](https://github.com/Wansmer/sibling-swap.nvim) - Neovim plugin for swaps closest siblings with Tree-Sitter
 - [nvzone/menu](https://github.com/nvzone/menu) - Menu plugin for neovim ( supports nested menus ) made using volt
 - [amitds1997/remote-nvim.nvim](https://github.com/amitds1997/remote-nvim.nvim) - Remote development in Neovim 🔥
@@ -1835,7 +1836,7 @@
 - [Sanix-Darker/snips.nvim](https://github.com/Sanix-Darker/snips.nvim) - Create snippet codes from your nvim editor, code wrapper around snips.sh
 - [akinsho/toggleterm.nvim](https://github.com/akinsho/toggleterm.nvim) - A neovim lua plugin to help easily manage multiple terminal windows
 - [jinh0/eyeliner.nvim](https://github.com/jinh0/eyeliner.nvim) - 👀 Move faster with unique f/F indicators.
-- [nullchilly/fsread.nvim](https://github.com/nullchilly/fsread.nvim) - Flow state reading in neovim
+- [rewhile/fsread.nvim](https://github.com/rewhile/fsread.nvim) - Flow state reading in neovim
 - [FluxxField/bionic-reading.nvim](https://github.com/FluxxField/bionic-reading.nvim) - Toggle Bionic Reading for Neovim buffers using syllable based highlighting
 - [rebelot/kanagawa.nvim](https://github.com/rebelot/kanagawa.nvim) - NeoVim dark colorscheme inspired by the colors of the famous painting by Katsushika Hokusai.
 - [JellyApple102/easyread.nvim](https://github.com/JellyApple102/easyread.nvim) - bionic-like reading inside Neovim
@@ -1887,6 +1888,7 @@
 
 ## MDX 
 
+- [nik-rev/helix-golf](https://github.com/nik-rev/helix-golf) - Powerful text refactoring with the Helix Editor
 - [nikitavoloboev/docs](https://github.com/nikitavoloboev/docs) - 
 - [phuocng/1loc](https://github.com/phuocng/1loc) - What's your favorite JavaScript single LOC (line of code)?
 - [shuding/cobe](https://github.com/shuding/cobe) - 5kB WebGL globe lib.
@@ -1913,7 +1915,7 @@
 
 ## Mojo 
 
-- [modularml/mojo](https://github.com/modularml/mojo) - The Mojo Programming Language
+- [modular/mojo](https://github.com/modular/mojo) - The Mojo Programming Language
 
 ## Nim 
 
@@ -2247,7 +2249,7 @@
 - [matkapi/postpy2](https://github.com/matkapi/postpy2) - Postman collection runner library for python
 - [mmz-001/knowledge_gpt](https://github.com/mmz-001/knowledge_gpt) - Accurate answers and instant citations for your documents.
 - [chenfei-wu/TaskMatrix](https://github.com/chenfei-wu/TaskMatrix) - 
-- [keephq/keep](https://github.com/keephq/keep) - The open-source alert management and AIOps platform
+- [keephq/keep](https://github.com/keephq/keep) - The open-source AIOps and alert management platform
 - [lucidrains/musiclm-pytorch](https://github.com/lucidrains/musiclm-pytorch) - Implementation of MusicLM, Google's new SOTA model for music generation using attention networks, in Pytorch
 - [lllyasviel/ControlNet](https://github.com/lllyasviel/ControlNet) - Let us control diffusion models!
 - [microsoft/unilm](https://github.com/microsoft/unilm) - Large-scale Self-supervised Pre-training Across Tasks, Languages, and Modalities
@@ -2272,7 +2274,7 @@
 - [astral-sh/ruff-lsp](https://github.com/astral-sh/ruff-lsp) - A Language Server Protocol implementation for Ruff.
 - [wagtail/wagtail](https://github.com/wagtail/wagtail) - A Django content management system focused on flexibility and user experience
 - [pollinations/pollinations](https://github.com/pollinations/pollinations) - Free Open-Source Image and Text Generation
-- [paulotruta/alexa-skill-llm-intent](https://github.com/paulotruta/alexa-skill-llm-intent) - An Alexa Skill template to easily create a skill that proxies requests to an LLM and reads back the response.
+- [paulotruta/alexa-skill-llm-intent](https://github.com/paulotruta/alexa-skill-llm-intent) - Alexa Skill that provides turn based conversations with an AI LLM. Bringing AI to your Alexa, because Amazon doesn't.
 - [encode/django-rest-framework](https://github.com/encode/django-rest-framework) - Web APIs for Django. 🎸
 - [scionoftech/FastAPI-Full-Stack-Samples](https://github.com/scionoftech/FastAPI-Full-Stack-Samples) - The API Application Development using Python FastAPI, including interactive API documentation
 - [fastapi/fastapi](https://github.com/fastapi/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
@@ -2457,6 +2459,10 @@
 
 ## Rust 
 
+- [mitsuhiko/insta](https://github.com/mitsuhiko/insta) - A snapshot testing library for rust
+- [anoma/namada](https://github.com/anoma/namada) - Rust implementation of Namada, a Proof-of-Stake L1 for interchain asset-agnostic privacy
+- [nik-rev/patchy](https://github.com/nik-rev/patchy) - A tool which makes it easy to declaratively manage personal forks by automatically merging pull requests
+- [sigp/lighthouse](https://github.com/sigp/lighthouse) - Ethereum consensus client in Rust
 - [mimblewimble/grin](https://github.com/mimblewimble/grin) - Minimal implementation of the Mimblewimble protocol.
 - [taiki-e/pin-project](https://github.com/taiki-e/pin-project) - A crate for safe and ergonomic pin-projection.
 - [informalsystems/hermes](https://github.com/informalsystems/hermes) - IBC Relayer in Rust
@@ -2464,7 +2470,7 @@
 - [cargo-bins/cargo-binstall](https://github.com/cargo-bins/cargo-binstall) - Binary installation for rust projects
 - [tox-rs/tox](https://github.com/tox-rs/tox) - toxcore implementation in Rust
 - [samsze0/websocket.nvim](https://github.com/samsze0/websocket.nvim) - Websocket implementation for Neovim
-- [abhi-xyz/age.nvim](https://github.com/abhi-xyz/age.nvim) - Neovim plugin for encrypting and decrypting text files inside neovim using age with ease.
+- [abhinandh-s/age.nvim](https://github.com/abhinandh-s/age.nvim) - Neovim plugin for encrypting and decrypting text files inside neovim using age with ease.
 - [LemmyNet/lemmy-client-rs](https://github.com/LemmyNet/lemmy-client-rs) - Rust client for Lemmy
 - [TobiasMarschner/ferrishare](https://github.com/TobiasMarschner/ferrishare) - Simple, self-hostable filesharing application with builtin end-to-end encryption
 - [falcucci/harvest-moon](https://github.com/falcucci/harvest-moon) - A Substrate community-based and platform agnostic for fact-checking governance system.
@@ -3123,7 +3129,7 @@
 - [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust
 - [swc-project/swc](https://github.com/swc-project/swc) - Rust-based platform for the Web
 - [PacktPublishing/The-Complete-Rust-Programming-Reference-Guide](https://github.com/PacktPublishing/The-Complete-Rust-Programming-Reference-Guide) - Design, develop, and deploy effective software systems using the advanced constructs of Rust
-- [twistedfall/opencv-rust](https://github.com/twistedfall/opencv-rust) - Rust bindings for OpenCV 3 & 4
+- [twistedfall/opencv-rust](https://github.com/twistedfall/opencv-rust) - Rust bindings for OpenCV
 - [ozankasikci/rust-music-theory](https://github.com/ozankasikci/rust-music-theory) - A music theory guide written in Rust.
 - [zellij-org/zellij](https://github.com/zellij-org/zellij) - A terminal workspace with batteries included
 - [apollographql/router](https://github.com/apollographql/router) - A configurable, high-performance routing runtime for Apollo Federation 🚀
@@ -3488,7 +3494,7 @@
 - [butaneprotocol/translucent-compat](https://github.com/butaneprotocol/translucent-compat) - Deprecated in favour of blaze https://github.com/butaneprotocol/blaze-cardano
 - [vscode-neovim/vscode-neovim](https://github.com/vscode-neovim/vscode-neovim) - Vim mode for VSCode, powered by Neovim
 - [daltonmenezes/aura-theme](https://github.com/daltonmenezes/aura-theme) - ✨ A beautiful dark theme for your favorite apps.
-- [tldraw/tldraw](https://github.com/tldraw/tldraw) - whiteboard / infinite canvas SDK
+- [tldraw/tldraw](https://github.com/tldraw/tldraw) - whiteboard SDK / infinite canvas SDK
 - [kubero-dev/kubero](https://github.com/kubero-dev/kubero) - A free and self-hosted PaaS alternative to Heroku / Netlify / Coolify / Vercel / Dokku / Portainer running on Kubernetes
 - [smolck/uivonim](https://github.com/smolck/uivonim) - Fork of the Veonim Neovim GUI
 - [actions/dependency-review-action](https://github.com/actions/dependency-review-action) - A GitHub Action for detecting vulnerable dependencies and invalid licenses in your PRs
@@ -3536,7 +3542,7 @@
 - [AmruthPillai/next-auth-hasura-adapter](https://github.com/AmruthPillai/next-auth-hasura-adapter) - This is the Hasura Adapter for next-auth. This package can only be used in conjunction with the primary next-auth package. It is not a standalone package.
 - [bash-lsp/bash-language-server](https://github.com/bash-lsp/bash-language-server) - A language server for Bash
 - [pavlovtech/NextBlog](https://github.com/pavlovtech/NextBlog) - Blog built with NextJs 13, Contentlayer, Giscus and NextAuth. It uses Github API for admin section that allows managing markdown files rendered with Codemirror.
-- [nextui-org/tailwind-variants](https://github.com/nextui-org/tailwind-variants) - 🦄 Tailwindcss first-class variant API
+- [frontio-ai/tailwind-variants](https://github.com/frontio-ai/tailwind-variants) - 🦄 Tailwindcss first-class variant API
 - [Vinzent03/obsidian-git](https://github.com/Vinzent03/obsidian-git) - Integrate Git version control with automatic commit-and-sync and other advanced features in Obsidian.md
 - [pagopa/io-app](https://github.com/pagopa/io-app) - IO, l'app dei servizi pubblici
 - [CitizenLabDotCo/citizenlab](https://github.com/CitizenLabDotCo/citizenlab) - Go Vocal is a digital democracy platform that facilitates community participation and co-creation. Participants can post ideas, contribute to discussions, or choose to vote and prioritize community pr
@@ -3564,7 +3570,7 @@
 - [badaix/snapweb](https://github.com/badaix/snapweb) - Web interface for Snapcast
 - [urql-graphql/urql-devtools](https://github.com/urql-graphql/urql-devtools) - A tool for monitoring and debugging urql during development
 - [shuding/nextra](https://github.com/shuding/nextra) - Simple, powerful and flexible site generation framework with everything you love from Next.js.
-- [graphql-hive/console](https://github.com/graphql-hive/console) - Hive Console is a GraphQL platform: schema registry, analytics and gateway for GraphQL federation and other GraphQL APIs
+- [graphql-hive/console](https://github.com/graphql-hive/console) - Hive is a GraphQL platform: schema registry, analytics and gateway for GraphQL federation and other GraphQL APIs
 - [felixfbecker/dom-to-svg](https://github.com/felixfbecker/dom-to-svg) - Library to convert a given HTML DOM node into an accessible SVG "screenshot".
 - [Gabb-c/spotify-embed](https://github.com/Gabb-c/spotify-embed) - A plug-n-play Spotify embed component
 - [vercel/swr](https://github.com/vercel/swr) - React Hooks for Data Fetching
@@ -3631,7 +3637,7 @@
 - [paljs/prisma-tools](https://github.com/paljs/prisma-tools) - Prisma tools to help you generate CRUD system for GraphQL servers
 - [paljs/prisma-admin](https://github.com/paljs/prisma-admin) - Full-stack Prisma, GraphQL, Nexus, Apollo, and NextJS with Admin UI to control your Prisma DB
 - [BuilderIO/nextjs-shopify](https://github.com/BuilderIO/nextjs-shopify) - The ultimate starter for headless Shopify stores
-- [nextui-org/nextui](https://github.com/nextui-org/nextui) - 🚀   Beautiful, fast and modern React UI library.
+- [frontio-ai/heroui](https://github.com/frontio-ai/heroui) - 🚀 Beautiful, fast and modern React UI library. (Previously NextUI)
 - [andrecampll/next-ifood](https://github.com/andrecampll/next-ifood) - Ifood clone made with NextJS ⚛️
 - [ChangoMan/nextjs-mdx-blog](https://github.com/ChangoMan/nextjs-mdx-blog) - UPDATED to Next.js App Router! Starter template built with Contentlayer, MDX, shadcn-ui, and Tailwind CSS.
 - [paljs/ui](https://github.com/paljs/ui) - React Styled Components with bootstrap grid system
@@ -3717,6 +3723,7 @@
 - [Ajaxy/telegram-tt](https://github.com/Ajaxy/telegram-tt) - Telegram Web A, GPL v3
 - [morethanwords/tweb](https://github.com/morethanwords/tweb) - Telegram Web K, GPL v3
 - [carvalhoviniciusluiz/cpf-cnpj-validator](https://github.com/carvalhoviniciusluiz/cpf-cnpj-validator) - Valida e formata strings de CPF ou CNPJ.
+- [berty/berty](https://github.com/berty/berty) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
 - [Unleash/unleash-client-node](https://github.com/Unleash/unleash-client-node) - Unleash client SDK for Node.js
 - [Unleash/unleash](https://github.com/Unleash/unleash) - Open-source feature management platform
 - [vuejs/vue](https://github.com/vuejs/vue) - This is the repo for Vue 2. For Vue 3, go to https://github.com/vuejs/core
@@ -3757,6 +3764,7 @@
 - [fannheyward/coc-marketplace](https://github.com/fannheyward/coc-marketplace) - coc.nvim extensions marketplace
 - [neoclide/coc-tsserver](https://github.com/neoclide/coc-tsserver) - Tsserver extension for coc.nvim that provide rich features like VSCode for javascript & typescript
 - [prettier/prettier-vscode](https://github.com/prettier/prettier-vscode) - Visual Studio Code extension for Prettier
+- [mifi/editly](https://github.com/mifi/editly) - Slick, declarative command line video editing & API
 - [mjswensen/themer](https://github.com/mjswensen/themer) - 🎨 themer takes a set of colors and outputs themes for your apps (editors, terminals, wallpapers, and more).
 - [jitsi/jitsi-meet](https://github.com/jitsi/jitsi-meet) - Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application.
 - [transitive-bullshit/twitter-search](https://github.com/transitive-bullshit/twitter-search) - Instantly search across your entire Twitter history with a beautiful UI powered by Algolia.
