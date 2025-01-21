@@ -920,7 +920,7 @@
 - [okmttdhr/rich-text-to-markdown](https://github.com/okmttdhr/rich-text-to-markdown) - Rich Text to Markdown
 - [w3b3d3v/web3-bootcamp-platform](https://github.com/w3b3d3v/web3-bootcamp-platform) - 
 - [dooovid/smoothcaret](https://github.com/dooovid/smoothcaret) - A smooth caret library for javascript
-- [ewen-lbh/smooth-cursorify](https://github.com/ewen-lbh/smooth-cursorify) - Applies a Microsoft Word-like smooth caret animation to multiple online editors
+- [gwennlbh/smooth-cursorify](https://github.com/gwennlbh/smooth-cursorify) - Applies a Microsoft Word-like smooth caret animation to multiple online editors
 - [jrgarciadev/react-iconly](https://github.com/jrgarciadev/react-iconly) - 🌈    React component for Iconly icons
 - [chenyukang/obweb](https://github.com/chenyukang/obweb) - ObWeb = Obsidian on Mobile + Flomo + Rss Reader
 - [ai-shifu/ChatALL](https://github.com/ai-shifu/ChatALL) - Concurrently chat with ChatGPT, Bing Chat, Bard, Alpaca, Vicuna, Claude, ChatGLM, MOSS, 讯飞星火, 文心一言 and more, discover the best answers
@@ -2459,6 +2459,7 @@
 
 ## Rust 
 
+- [Actyx/Actyx](https://github.com/Actyx/Actyx) - Local-First Cooperation based on Event Sourcing
 - [mitsuhiko/insta](https://github.com/mitsuhiko/insta) - A snapshot testing library for rust
 - [anoma/namada](https://github.com/anoma/namada) - Rust implementation of Namada, a Proof-of-Stake L1 for interchain asset-agnostic privacy
 - [nik-rev/patchy](https://github.com/nik-rev/patchy) - A tool which makes it easy to declaratively manage personal forks by automatically merging pull requests
@@ -2649,7 +2650,7 @@
 - [tower-rs/tower](https://github.com/tower-rs/tower) - async fn(Request) -&gt; Result&lt;Response, Error&gt;
 - [hasura/ndc-spec](https://github.com/hasura/ndc-spec) - NDC Specification and Reference Implementation
 - [Totodore/socketioxide](https://github.com/Totodore/socketioxide) - A socket.io server implementation in Rust that integrates with the Tower ecosystem and the Tokio stack.
-- [skyzh/mini-lsm](https://github.com/skyzh/mini-lsm) - A tutorial of building an LSM-Tree storage engine (database) in a week.
+- [skyzh/mini-lsm](https://github.com/skyzh/mini-lsm) - A course of building an LSM-Tree storage engine (database) in a week.
 - [blockfrost/blockfrost-rust](https://github.com/blockfrost/blockfrost-rust) - Rust SDK for Blockfrost.io
 - [afitzek/hasura-metric-adapter](https://github.com/afitzek/hasura-metric-adapter) - Prometheus adapter for metrics from hasura
 - [rust-headless-chrome/rust-headless-chrome](https://github.com/rust-headless-chrome/rust-headless-chrome) - A high-level API to control headless Chrome or Chromium over the DevTools Protocol. It is the Rust equivalent of Puppeteer, a Node library maintained by the Chrome DevTools team.
@@ -3390,6 +3391,10 @@
 
 ## Swift 
 
+- [nnabeyang/swift-atproto](https://github.com/nnabeyang/swift-atproto) - AT Protocol implementation in Swift
+- [nnabeyang/swift-cbor](https://github.com/nnabeyang/swift-cbor) - swift-cbor is a library of CBOR encoder & decoder for Swift based on Codable.
+- [Dimillian/IcySky](https://github.com/Dimillian/IcySky) - A BlueSky Client. TBD.
+- [Dimillian/IceCubesApp](https://github.com/Dimillian/IceCubesApp) - A SwiftUI Mastodon client
 - [blinksh/BlinkBuild](https://github.com/blinksh/BlinkBuild) - 
 - [Stengo/DeskPad](https://github.com/Stengo/DeskPad) - A virtual monitor for screen sharing
 - [nikitabobko/AeroSpace](https://github.com/nikitabobko/AeroSpace) - AeroSpace is an i3-like tiling window manager for macOS
@@ -3542,7 +3547,7 @@
 - [AmruthPillai/next-auth-hasura-adapter](https://github.com/AmruthPillai/next-auth-hasura-adapter) - This is the Hasura Adapter for next-auth. This package can only be used in conjunction with the primary next-auth package. It is not a standalone package.
 - [bash-lsp/bash-language-server](https://github.com/bash-lsp/bash-language-server) - A language server for Bash
 - [pavlovtech/NextBlog](https://github.com/pavlovtech/NextBlog) - Blog built with NextJs 13, Contentlayer, Giscus and NextAuth. It uses Github API for admin section that allows managing markdown files rendered with Codemirror.
-- [frontio-ai/tailwind-variants](https://github.com/frontio-ai/tailwind-variants) - 🦄 Tailwindcss first-class variant API
+- [heroui-inc/tailwind-variants](https://github.com/heroui-inc/tailwind-variants) - 🦄 Tailwindcss first-class variant API
 - [Vinzent03/obsidian-git](https://github.com/Vinzent03/obsidian-git) - Integrate Git version control with automatic commit-and-sync and other advanced features in Obsidian.md
 - [pagopa/io-app](https://github.com/pagopa/io-app) - IO, l'app dei servizi pubblici
 - [CitizenLabDotCo/citizenlab](https://github.com/CitizenLabDotCo/citizenlab) - Go Vocal is a digital democracy platform that facilitates community participation and co-creation. Participants can post ideas, contribute to discussions, or choose to vote and prioritize community pr
@@ -3637,7 +3642,7 @@
 - [paljs/prisma-tools](https://github.com/paljs/prisma-tools) - Prisma tools to help you generate CRUD system for GraphQL servers
 - [paljs/prisma-admin](https://github.com/paljs/prisma-admin) - Full-stack Prisma, GraphQL, Nexus, Apollo, and NextJS with Admin UI to control your Prisma DB
 - [BuilderIO/nextjs-shopify](https://github.com/BuilderIO/nextjs-shopify) - The ultimate starter for headless Shopify stores
-- [frontio-ai/heroui](https://github.com/frontio-ai/heroui) - 🚀 Beautiful, fast and modern React UI library. (Previously NextUI)
+- [heroui-inc/heroui](https://github.com/heroui-inc/heroui) - 🚀 Beautiful, fast and modern React UI library. (Previously NextUI)
 - [andrecampll/next-ifood](https://github.com/andrecampll/next-ifood) - Ifood clone made with NextJS ⚛️
 - [ChangoMan/nextjs-mdx-blog](https://github.com/ChangoMan/nextjs-mdx-blog) - UPDATED to Next.js App Router! Starter template built with Contentlayer, MDX, shadcn-ui, and Tailwind CSS.
 - [paljs/ui](https://github.com/paljs/ui) - React Styled Components with bootstrap grid system
