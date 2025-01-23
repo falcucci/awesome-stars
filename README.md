@@ -231,7 +231,7 @@
 - [android/ndk-samples](https://github.com/android/ndk-samples) - Android NDK samples with Android Studio
 - [apiaryio/protagonist](https://github.com/apiaryio/protagonist) - Protagonist is Node.js wrapper for the API Blueprint parser
 - [apiaryio/drafter](https://github.com/apiaryio/drafter) - API Blueprint Parser (C++)
-- [minetest/minetest](https://github.com/minetest/minetest) - Luanti (formerly Minetest) is an open source voxel game-creation platform with easy modding and game creation
+- [luanti-org/luanti](https://github.com/luanti-org/luanti) - Luanti (formerly Minetest) is an open source voxel game-creation platform with easy modding and game creation
 - [nodejs/abi-stable-node-addon-examples](https://github.com/nodejs/abi-stable-node-addon-examples) - Node Add-on Examples with PoC ABI stable API for native modules
 - [google/flatbuffers](https://github.com/google/flatbuffers) - FlatBuffers: Memory Efficient Serialization Library
 - [nlohmann/json](https://github.com/nlohmann/json) - JSON for Modern C++
@@ -722,7 +722,6 @@
 - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 - [ayushnix/kangae](https://github.com/ayushnix/kangae) - a lightweight microblog theme for zola
 - [infinum/ios-viper-xcode-templates](https://github.com/infinum/ios-viper-xcode-templates) - Used for generating template files for the VIPER architecture, which solves the common Massive View Controller issues in iOS apps.
-- [Pometry/Raphtory](https://github.com/Pometry/Raphtory) - Scalable graph analytics database powered by a multithreaded, vectorized temporal engine, written in Rust
 - [italia/designers.italia.it](https://github.com/italia/designers.italia.it) - Designers Italia mette a disposizione la conoscenza e gli strumenti per progettare e realizzare servizi pubblici centrati sulle necessità delle persone
 - [calcom/cal.fm](https://github.com/calcom/cal.fm) - The official Cal.com Work Playlist, only on Cal.fm
 - [filipedeschamps/tabnews.com.br](https://github.com/filipedeschamps/tabnews.com.br) - Conteúdos para quem trabalha com Programação e Tecnologia.
@@ -1674,6 +1673,7 @@
 
 ## Lua 
 
+- [chomosuke/term-edit.nvim](https://github.com/chomosuke/term-edit.nvim) - Vim Keybindings in Neovim's Built-in Terminal
 - [zaldih/themery.nvim](https://github.com/zaldih/themery.nvim) - A colorscheme picker with live preview and persistence for neovim ✨
 - [kevinhwang91/nvim-ufo](https://github.com/kevinhwang91/nvim-ufo) - Not UFO in the sky, but an ultra fold in Neovim.
 - [Wansmer/sibling-swap.nvim](https://github.com/Wansmer/sibling-swap.nvim) - Neovim plugin for swaps closest siblings with Tree-Sitter
@@ -2257,6 +2257,7 @@
 - [scheb/beer-analytics](https://github.com/scheb/beer-analytics) - Analyzing the composition of beer recipes and visualize results in a human-friendly way 🕵️🍺
 - [soxoj/maigret](https://github.com/soxoj/maigret) - 🕵️‍♂️ Collect a dossier on a person by username from thousands of sites
 - [shobrook/rebound](https://github.com/shobrook/rebound) - Get Stack Overflow results in your terminal whenever an error is thrown
+- [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - Chatbot for documentation, that allows you to chat with your data. Privately deployable, provides AI knowledge sharing and integrates knowledge into your AI workflow
 - [vwxyzjn/cleanrl](https://github.com/vwxyzjn/cleanrl) - High-quality single file implementation of Deep Reinforcement Learning algorithms with research-friendly features (PPO, DQN, C51, DDPG, TD3, SAC, PPG)
 - [PyO3/setuptools-rust](https://github.com/PyO3/setuptools-rust) - Setuptools plugin for Rust support
 - [faustomorales/keras-ocr](https://github.com/faustomorales/keras-ocr) - A packaged and flexible version of the CRAFT text detector and Keras CRNN recognition model.
@@ -2817,6 +2818,7 @@
 - [Qiskit/rustworkx](https://github.com/Qiskit/rustworkx) - A high performance Python graph library implemented in Rust.
 - [icedland/iced](https://github.com/icedland/iced) - Blazing fast and correct x86/x64 disassembler, assembler, decoder, encoder for Rust, .NET, Java, Python, Lua
 - [reinterpretcat/vrp](https://github.com/reinterpretcat/vrp) - A Vehicle Routing Problem solver
+- [Pometry/Raphtory](https://github.com/Pometry/Raphtory) - Scalable graph analytics database powered by a multithreaded, vectorized temporal engine, written in Rust
 - [hubblo-org/scaphandre](https://github.com/hubblo-org/scaphandre) - ⚡ Energy consumption metrology agent. Let "scaph" dive and bring back the metrics that will help you make your systems and applications more sustainable !
 - [raphamorim/rio](https://github.com/raphamorim/rio) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
 - [gabotechs/signway](https://github.com/gabotechs/signway) - Bring the power of pre-signed URLs to your apps. Signway is a gateway for redirecting ephimeral signed URLs to the requested API
@@ -3156,7 +3158,7 @@
 - [iced-rs/iced](https://github.com/iced-rs/iced) - A cross-platform GUI library for Rust, inspired by Elm
 - [saschagrunert/git-journal](https://github.com/saschagrunert/git-journal) - The Git Commit Message and Changelog Generation Framework :book:
 - [saschagrunert/webapp.rs](https://github.com/saschagrunert/webapp.rs) - A web application completely written in Rust. 🌍
-- [ps1dr3x/easy_reader](https://github.com/ps1dr3x/easy_reader) - ⏮ ⏯ ⏭ A Rust library for easily navigating forward, backward or randomly through the lines of huge files.
+- [ps1dr3x/easy_reader](https://github.com/ps1dr3x/easy_reader) - A Rust library (crate) for reading and easily navigating forward, backward or randomly through the lines of huge files. Tested with files of over 300 GB.
 - [rust-cli/human-panic](https://github.com/rust-cli/human-panic) - Panic messages for humans.
 - [XAMPPRocky/octocrab](https://github.com/XAMPPRocky/octocrab) - A modern, extensible GitHub API Client for Rust.
 - [SiegeLord/RustGnuplot](https://github.com/SiegeLord/RustGnuplot) - A Rust library for drawing plots, powered by Gnuplot.
@@ -3196,7 +3198,7 @@
 - [leptos-rs/leptos](https://github.com/leptos-rs/leptos) - Build fast web applications with Rust.
 - [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool
 - [tokio-rs/tokio](https://github.com/tokio-rs/tokio) - A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...
-- [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search API that fits effortlessly into your apps, websites, and workflow
+- [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.
 - [rust-lang/rustlings](https://github.com/rust-lang/rustlings) - :crab: Small exercises to get you used to reading and writing Rust code!
 - [wzulfikar/facegrep](https://github.com/wzulfikar/facegrep) - Find faces in photo using Rustface.
 - [mason-org/mason-registry-api](https://github.com/mason-org/mason-registry-api) - API service for mason.nvim.
@@ -3629,7 +3631,6 @@
 - [timc1/kbar](https://github.com/timc1/kbar) - fast, portable, and extensible cmd+k interface for your site
 - [pacocoursey/next-themes](https://github.com/pacocoursey/next-themes) - Perfect Next.js dark mode in 2 lines of code. Support System preference and any other theme with no flashing
 - [fregante/webext-sandbox](https://github.com/fregante/webext-sandbox) - WIP
-- [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - Chatbot for documentation, that allows you to chat with your data. Privately deployable, provides AI knowledge sharing and integrates knowledge into your AI workflow
 - [Nutlope/news-summarizer](https://github.com/Nutlope/news-summarizer) - News summarizer with AI
 - [theodorusclarence/og](https://github.com/theodorusclarence/og) - 🍇 Open Graph Generator made using @vercel/og for personal use
 - [theodorusclarence/ts-nextjs-tailwind-starter](https://github.com/theodorusclarence/ts-nextjs-tailwind-starter) - 🔋 Next.js + Tailwind CSS + TypeScript starter and boilerplate packed with useful development features
