@@ -105,6 +105,7 @@
 
 ## C 
 
+- [EpicGamesExt/raddebugger](https://github.com/EpicGamesExt/raddebugger) - A native, user-mode, multi-process, graphical debugger.
 - [FRRouting/frr](https://github.com/FRRouting/frr) - The FRRouting Protocol Suite
 - [LostArtefacts/TRX](https://github.com/LostArtefacts/TRX) - Open source re-implementation of Tomb Raider I and Tomb Raider II, along with additional enhancements and bugfixes
 - [libretro/RetroArch](https://github.com/libretro/RetroArch) - Cross-platform, sophisticated frontend for the libretro API. Licensed GPLv3.
@@ -831,7 +832,7 @@
 - [keycloak/keycloak](https://github.com/keycloak/keycloak) - Open Source Identity and Access Management For Modern Applications and Services
 - [Netflix/Hystrix](https://github.com/Netflix/Hystrix) - Hystrix is a latency and fault tolerance library designed to isolate points of access to remote systems, services and 3rd party libraries, stop cascading failure and enable resilience in complex distr
 - [redis/jedis](https://github.com/redis/jedis) - Redis Java client
-- [hashgraph/hedera-sdk-java](https://github.com/hashgraph/hedera-sdk-java) - Hedera™ Hashgraph SDK for Java
+- [hiero-ledger/hiero-sdk-java](https://github.com/hiero-ledger/hiero-sdk-java) - Hedera™ Hashgraph SDK for Java
 - [pyricau/fragnums](https://github.com/pyricau/fragnums) - An enum based library to replace fragments.
 - [pyricau/frenchtoast](https://github.com/pyricau/frenchtoast) - Stale Android Toasts made tasty.
 - [pforhan/sandroid](https://github.com/pforhan/sandroid) - 
@@ -2460,6 +2461,13 @@
 
 ## Rust 
 
+- [glzr-io/glazewm](https://github.com/glzr-io/glazewm) - GlazeWM is a tiling window manager for Windows inspired by i3wm.
+- [tauri-apps/tray-icon](https://github.com/tauri-apps/tray-icon) - Tray icons for Desktop Applications in Rust.
+- [kvark/blade](https://github.com/kvark/blade) - Sharp and simple graphics library
+- [tauri-apps/global-hotkey](https://github.com/tauri-apps/global-hotkey) - Global hotkeys for Desktop Applications.
+- [tauri-apps/muda](https://github.com/tauri-apps/muda) - Menu Utilities for Desktop Applications in Rust.
+- [tauri-apps/window-vibrancy](https://github.com/tauri-apps/window-vibrancy) - Make your windows vibrant.
+- [deviceplug/btleplug](https://github.com/deviceplug/btleplug) - Rust Cross-Platform Host-Side Bluetooth LE Access Library
 - [Actyx/Actyx](https://github.com/Actyx/Actyx) - Local-First Cooperation based on Event Sourcing
 - [mitsuhiko/insta](https://github.com/mitsuhiko/insta) - A snapshot testing library for rust
 - [anoma/namada](https://github.com/anoma/namada) - Rust implementation of Namada, a Proof-of-Stake L1 for interchain asset-agnostic privacy
@@ -3393,6 +3401,7 @@
 
 ## Swift 
 
+- [MasterJ93/ATProtoKit](https://github.com/MasterJ93/ATProtoKit) - A straightforward solution for using AT Protocol and Bluesky, written in Swift.
 - [nnabeyang/swift-atproto](https://github.com/nnabeyang/swift-atproto) - AT Protocol implementation in Swift
 - [nnabeyang/swift-cbor](https://github.com/nnabeyang/swift-cbor) - swift-cbor is a library of CBOR encoder & decoder for Swift based on Codable.
 - [Dimillian/IcySky](https://github.com/Dimillian/IcySky) - A BlueSky Client. TBD.
@@ -4132,7 +4141,7 @@
 - [syngan/vim-gitlab](https://github.com/syngan/vim-gitlab) - vim-gitlab is a vim client for GitLab
 - [prettier/vim-prettier](https://github.com/prettier/vim-prettier) - A Vim plugin for Prettier
 - [tpope/vim-scriptease](https://github.com/tpope/vim-scriptease) - scriptease.vim: A Vim plugin for Vim plugins
-- [SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim) - A modular configuration of Vim and Neovim
+- [wsdjeg/SpaceVim](https://github.com/wsdjeg/SpaceVim) - A modular configuration of Vim and Neovim
 - [justinmk/vim-sneak](https://github.com/justinmk/vim-sneak) - The missing motion for Vim :athletic_shoe:
 - [joshdick/onedark.vim](https://github.com/joshdick/onedark.vim) - A dark Vim/Neovim color scheme inspired by Atom's One Dark syntax theme.
 - [metakirby5/codi.vim](https://github.com/metakirby5/codi.vim) - :notebook_with_decorative_cover: The interactive scratchpad for hackers.
