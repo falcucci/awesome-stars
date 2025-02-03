@@ -184,6 +184,9 @@
 
 ## C++ 
 
+- [swiftlang/swift](https://github.com/swiftlang/swift) - The Swift Programming Language
+- [swiftlang/swift-llbuild](https://github.com/swiftlang/swift-llbuild) - A low-level build system, used by Xcode and the Swift Package Manager
+- [peercoin/peercoin](https://github.com/peercoin/peercoin) - Reference implementation of the Peercoin protocol.
 - [zcash/zcash](https://github.com/zcash/zcash) - Zcash - Internet Money
 - [microsoft/terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
 - [id-Software/DOOM](https://github.com/id-Software/DOOM) - DOOM Open Source Release
@@ -201,6 +204,7 @@
 - [facebook/rocksdb](https://github.com/facebook/rocksdb) - A library that provides an embeddable, persistent key-value store for fast storage.
 - [equalsraf/neovim-qt](https://github.com/equalsraf/neovim-qt) - Neovim client library and GUI, in Qt5.
 - [audo-ai/magic-mic](https://github.com/audo-ai/magic-mic) - Open Source Noise Cancellation App for Virtual Meetings
+- [mozilla/gecko-dev](https://github.com/mozilla/gecko-dev) - Read-only Git mirror of the Mercurial gecko repositories at https://hg.mozilla.org. How to contribute: https://firefox-source-docs.mozilla.org/contributing/contribution_quickref.html
 - [MaskRay/ccls](https://github.com/MaskRay/ccls) - C/C++/ObjC language server supporting cross references, hierarchies, completion and semantic highlighting
 - [ggerganov/kbd-audio](https://github.com/ggerganov/kbd-audio) - 🎤⌨️ Acoustic keyboard eavesdropping
 - [mrousavy/react-native-mmkv](https://github.com/mrousavy/react-native-mmkv) - ⚡️ The fastest key/value storage for React Native. ~30x faster than AsyncStorage!
@@ -766,6 +770,7 @@
 
 ## Haskell 
 
+- [input-output-hk/partner-chains-smart-contracts](https://github.com/input-output-hk/partner-chains-smart-contracts) - Command Line Tool and Cardano Plutus Contracts for interacting with Partner Chains.
 - [CardanoSolutions/kupo](https://github.com/CardanoSolutions/kupo) - 🐹 Fast, lightweight & configurable chain-index for Cardano.
 - [fallen-icarus/cardano-loans](https://github.com/fallen-icarus/cardano-loans) - A p2p lending/borrowing protocol for the Cardano Settlement Layer, with trustlessly negotiable and enforceable loan terms, built-in credit histories, and full delegation control.
 - [hasura/kriti-lang](https://github.com/hasura/kriti-lang) - A minimal JSON templating language
@@ -832,7 +837,7 @@
 - [keycloak/keycloak](https://github.com/keycloak/keycloak) - Open Source Identity and Access Management For Modern Applications and Services
 - [Netflix/Hystrix](https://github.com/Netflix/Hystrix) - Hystrix is a latency and fault tolerance library designed to isolate points of access to remote systems, services and 3rd party libraries, stop cascading failure and enable resilience in complex distr
 - [redis/jedis](https://github.com/redis/jedis) - Redis Java client
-- [hiero-ledger/hiero-sdk-java](https://github.com/hiero-ledger/hiero-sdk-java) - Hedera™ Hashgraph SDK for Java
+- [hiero-ledger/hiero-sdk-java](https://github.com/hiero-ledger/hiero-sdk-java) - Java SDK for Hiero
 - [pyricau/fragnums](https://github.com/pyricau/fragnums) - An enum based library to replace fragments.
 - [pyricau/frenchtoast](https://github.com/pyricau/frenchtoast) - Stale Android Toasts made tasty.
 - [pforhan/sandroid](https://github.com/pforhan/sandroid) - 
@@ -916,7 +921,6 @@
 - [zed-industries/zed-fonts](https://github.com/zed-industries/zed-fonts) - The Zed Mono and Sans typefaces, custom built from Iosevka
 - [antonioru/beautiful-react-hooks](https://github.com/antonioru/beautiful-react-hooks) - 🔥 A collection of beautiful and (hopefully) useful React hooks to speed-up your components and hooks development 🔥
 - [lowdefy/lowdefy](https://github.com/lowdefy/lowdefy) - The config web stack for business apps - build internal tools, client portals, web apps, admin panels, dashboards, web sites, and CRUD apps with YAML or JSON.
-- [mozilla/gecko-dev](https://github.com/mozilla/gecko-dev) - Read-only Git mirror of the Mercurial gecko repositories at https://hg.mozilla.org. How to contribute: https://firefox-source-docs.mozilla.org/contributing/contribution_quickref.html
 - [okmttdhr/rich-text-to-markdown](https://github.com/okmttdhr/rich-text-to-markdown) - Rich Text to Markdown
 - [w3b3d3v/web3-bootcamp-platform](https://github.com/w3b3d3v/web3-bootcamp-platform) - 
 - [dooovid/smoothcaret](https://github.com/dooovid/smoothcaret) - A smooth caret library for javascript
@@ -2180,7 +2184,6 @@
 
 ## PureScript 
 
-- [input-output-hk/partner-chains-smart-contracts](https://github.com/input-output-hk/partner-chains-smart-contracts) - Command Line Tool and Cardano Plutus Contracts for interacting with Partner Chains.
 - [KSF-Media/gitlab-dashboard](https://github.com/KSF-Media/gitlab-dashboard) - 📺 TV dashboard for a global view on Gitlab Pipelines
 
 ## Python 
@@ -2205,7 +2208,7 @@
 - [edc/bass](https://github.com/edc/bass) - Make Bash utilities usable in Fish shell
 - [python-pillow/Pillow](https://github.com/python-pillow/Pillow) - Python Imaging Library (Fork)
 - [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
-- [subframe7536/maple-font](https://github.com/subframe7536/maple-font) - [Try V7!] Maple Mono: Open source monospace font with round corner, ligatures and Nerd-Font for IDE and command line. 带连字和控制台图标的圆角等宽字体，中英文宽度完美2:1
+- [subframe7536/maple-font](https://github.com/subframe7536/maple-font) - Maple Mono: Open source monospace font with round corner, ligatures and Nerd-Font for IDE and command line, fine-grained customization options. 带连字和控制台图标的圆角等宽字体，中英文宽度完美2:1，细粒度的自定义选项
 - [IntersectMBO/cardano-node-tests](https://github.com/IntersectMBO/cardano-node-tests) - System and end-to-end (E2E) tests for cardano-node.
 - [OpenInterpreter/open-interpreter](https://github.com/OpenInterpreter/open-interpreter) - A natural language interface for computers
 - [belluzj/fantasque-sans](https://github.com/belluzj/fantasque-sans) - A font family with a great monospaced variant for programmers.
@@ -2619,7 +2622,7 @@
 - [JoshOrndorff/blockchain-from-scratch](https://github.com/JoshOrndorff/blockchain-from-scratch) - A tutorial to build your own blockchain in Rust from the ground up
 - [loro-dev/loro](https://github.com/loro-dev/loro) - Make your JSON data collaborative and version-controlled with CRDTs
 - [bottlerocket-os/bottlerocket](https://github.com/bottlerocket-os/bottlerocket) - An operating system designed for hosting containers
-- [mstange/samply](https://github.com/mstange/samply) - Command-line sampling profiler for macOS and Linux
+- [mstange/samply](https://github.com/mstange/samply) - Command-line sampling profiler for macOS, Linux, and Windows
 - [fresh2dev/zellij-autolock](https://github.com/fresh2dev/zellij-autolock) - autolock Zellij when certain processes open.
 - [neovide/vide](https://github.com/neovide/vide) - A straightforward wgpu renderer for 2d interfaces
 - [ast-grep/ast-grep](https://github.com/ast-grep/ast-grep) - ⚡A CLI tool for code structural search, lint and rewriting. Written in Rust
@@ -3401,6 +3404,8 @@
 
 ## Swift 
 
+- [swiftlang/swift-package-manager](https://github.com/swiftlang/swift-package-manager) - The Package Manager for the Swift Programming Language
+- [swiftlang/swift-build](https://github.com/swiftlang/swift-build) - A high-level build system based on llbuild, used by Xcode, Swift Playground, and the Swift Package Manager
 - [MasterJ93/ATProtoKit](https://github.com/MasterJ93/ATProtoKit) - A straightforward solution for using AT Protocol and Bluesky, written in Swift.
 - [nnabeyang/swift-atproto](https://github.com/nnabeyang/swift-atproto) - AT Protocol implementation in Swift
 - [nnabeyang/swift-cbor](https://github.com/nnabeyang/swift-cbor) - swift-cbor is a library of CBOR encoder & decoder for Swift based on Codable.
@@ -3465,6 +3470,7 @@
 
 ## TypeScript 
 
+- [rhysd/action-setup-vim](https://github.com/rhysd/action-setup-vim) - GitHub Action to setup Vim or Neovim on Linux, macOS and Windows for testing Vim plugins
 - [samwho/visualisations](https://github.com/samwho/visualisations) - Code behind my visualisation blog posts
 - [flo-bit/tiny-planets](https://github.com/flo-bit/tiny-planets) - procedurally generated tiny planets in the browsers
 - [electric-sql/pglite](https://github.com/electric-sql/pglite) - Lightweight WASM Postgres with real-time, reactive bindings.
@@ -3531,7 +3537,7 @@
 - [neoclide/coc-highlight](https://github.com/neoclide/coc-highlight) - Document highlight and document colors LSP support for coc.nvim
 - [codicocodes/speedtyper.dev](https://github.com/codicocodes/speedtyper.dev) - Type racing for programmers
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API.
-- [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear, Monday, and Asana Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible.
+- [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear, Monday, and Asana Alternative. Plane helps you track your issues, epics, and cycles the easiest way on the planet.
 - [dragidavid/shade](https://github.com/dragidavid/shade) - Yet another code sharing app...
 - [vercel/ai-chatbot](https://github.com/vercel/ai-chatbot) - A full-featured, hackable Next.js AI chatbot built by Vercel
 - [vercel/ai](https://github.com/vercel/ai) - Build AI-powered applications with React, Svelte, Vue, and Solid
@@ -4039,7 +4045,7 @@
 - [skywind3000/asyncrun.vim](https://github.com/skywind3000/asyncrun.vim) - :rocket: Run Async Shell Commands in Vim 8.0 / NeoVim and Output to the Quickfix Window !!
 - [monkoose/vim9-stargate](https://github.com/monkoose/vim9-stargate) - modern alternative to easymotion written in vim9
 - [skywind3000/vim-quickui](https://github.com/skywind3000/vim-quickui) - The missing UI extensions for Vim 9 (and NeoVim) !! :sunglasses:
-- [justinmk/vim-dirvish](https://github.com/justinmk/vim-dirvish) - Directory viewer for Vim :zap:
+- [justinmk/vim-dirvish](https://github.com/justinmk/vim-dirvish) - Directory viewer for Vim :zap: netrW =&gt; netrL
 - [lambdalisue/vim-fern](https://github.com/lambdalisue/vim-fern) - 🌿 General purpose asynchronous tree viewer written in Pure Vim script
 - [crusoexia/vim-dracula](https://github.com/crusoexia/vim-dracula) - Refined Dracula color scheme for Vim, color palettes are from https://github.com/zenorocha/dracula-theme.
 - [tpope/vim-speeddating](https://github.com/tpope/vim-speeddating) - speeddating.vim: use CTRL-A/CTRL-X to increment dates, times, and more
