@@ -70,7 +70,9 @@
 - [Smarty](#smarty)
 - [Svelte](#svelte)
 - [Swift](#swift)
+- [TeX](#tex)
 - [TypeScript](#typescript)
+- [Typst](#typst)
 - [V](#v)
 - [Vala](#vala)
 - [Vim Script](#vim-script)
@@ -105,6 +107,9 @@
 
 ## C 
 
+- [rust-bitcoin/rust-secp256k1](https://github.com/rust-bitcoin/rust-secp256k1) - Rust language bindings for Bitcoin secp256k1 library.
+- [uben0/tree-sitter-typst](https://github.com/uben0/tree-sitter-typst) - Tree Sitter grammar for Typst
+- [pwmt/zathura](https://github.com/pwmt/zathura) - Document viewer
 - [EpicGamesExt/raddebugger](https://github.com/EpicGamesExt/raddebugger) - A native, user-mode, multi-process, graphical debugger.
 - [FRRouting/frr](https://github.com/FRRouting/frr) - The FRRouting Protocol Suite
 - [LostArtefacts/TRX](https://github.com/LostArtefacts/TRX) - Open source re-implementation of Tomb Raider I and Tomb Raider II, along with additional enhancements and bugfixes
@@ -127,7 +132,7 @@
 - [deweller/switchaudio-osx](https://github.com/deweller/switchaudio-osx) - Change the audio source for Mac OS X from the command line.
 - [vifm/vifm](https://github.com/vifm/vifm) - Vifm is a file manager with curses interface, which provides Vim-like environment for managing objects within file systems, extended with some useful ideas from mutt.
 - [jay/wget](https://github.com/jay/wget) - wget. This is not the canonical repo, see the website
-- [netdata/netdata](https://github.com/netdata/netdata) - Architected for speed. Automated for easy. Monitoring and troubleshooting, transformed!
+- [netdata/netdata](https://github.com/netdata/netdata) - X-Ray Vision for your infrastructure!
 - [neomutt/neomutt](https://github.com/neomutt/neomutt) - ✉️ Teaching an Old Dog New Tricks -- IRC: #neomutt on irc.libera.chat
 - [koekeishiya/yabai](https://github.com/koekeishiya/yabai) - A tiling window manager for macOS based on binary space partitioning
 - [hpjansson/chafa](https://github.com/hpjansson/chafa) - 📺🗿 Terminal graphics for the 21st century.
@@ -140,7 +145,6 @@
 - [cardano-foundation/ledger-app-cardano](https://github.com/cardano-foundation/ledger-app-cardano) - Cardano Ledger App for Ledger Nano S
 - [edenhill/kcat](https://github.com/edenhill/kcat) - Generic command line non-JVM Apache Kafka producer and consumer
 - [vysheng/tg](https://github.com/vysheng/tg) - telegram-cli
-- [audacity/audacity](https://github.com/audacity/audacity) - Audio Editor
 - [jarun/nnn](https://github.com/jarun/nnn) - n³ The unorthodox terminal file manager
 - [ggreer/the_silver_searcher](https://github.com/ggreer/the_silver_searcher) - A code-searching tool similar to ack, but faster.
 - [RediSearch/RediSearch](https://github.com/RediSearch/RediSearch) - A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggregations.
@@ -184,6 +188,7 @@
 
 ## C++ 
 
+- [bitcoin/bitcoin](https://github.com/bitcoin/bitcoin) - Bitcoin Core integration/staging tree
 - [swiftlang/swift](https://github.com/swiftlang/swift) - The Swift Programming Language
 - [swiftlang/swift-llbuild](https://github.com/swiftlang/swift-llbuild) - A low-level build system, used by Xcode and the Swift Package Manager
 - [peercoin/peercoin](https://github.com/peercoin/peercoin) - Reference implementation of the Peercoin protocol.
@@ -210,7 +215,7 @@
 - [badaix/snapcast](https://github.com/badaix/snapcast) - Synchronous multiroom audio player
 - [awslabs/dynamodb-shell](https://github.com/awslabs/dynamodb-shell) - A command line client (shell) for AWS DynamoDB that offers DDL and DML support similar to CLIs for other databases.
 - [tenderlove/initial-v](https://github.com/tenderlove/initial-v) - It's a BMW shifter converted to a Bluetooth Keyboard that you use with Vim
-- [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) - LLM inference in C/C++
+- [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) - LLM inference in C/C++
 - [serde-rs/json-benchmark](https://github.com/serde-rs/json-benchmark) - nativejson-benchmark in Rust
 - [opencv/opencv](https://github.com/opencv/opencv) - Open Source Computer Vision Library
 - [mawww/kakoune](https://github.com/mawww/kakoune) - mawww's experiment for a better code editor
@@ -226,6 +231,7 @@
 - [grpc/grpc](https://github.com/grpc/grpc) - The C based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)
 - [pqrs-org/Karabiner-archived](https://github.com/pqrs-org/Karabiner-archived) - Karabiner (KeyRemap4MacBook) is a powerful utility for keyboard customization.
 - [Snapchat/KeyDB](https://github.com/Snapchat/KeyDB) - A Multithreaded Fork of Redis
+- [audacity/audacity](https://github.com/audacity/audacity) - Audio Editor
 - [jwise/HoRNDIS](https://github.com/jwise/HoRNDIS) - Android USB tethering driver for Mac OS X
 - [google/googletest](https://github.com/google/googletest) - GoogleTest - Google Testing and Mocking Framework
 - [facebook/folly](https://github.com/facebook/folly) - An open-source C++ library developed and used at Facebook.
@@ -421,7 +427,7 @@
 - [vmware-tanzu/kubeapps](https://github.com/vmware-tanzu/kubeapps) - A web-based UI for deploying and managing applications in Kubernetes clusters
 - [owenthereal/candy](https://github.com/owenthereal/candy) - Candy is a zero-config reverse proxy server
 - [docker/compose](https://github.com/docker/compose) - Define and run multi-container applications with Docker
-- [dagger/dagger](https://github.com/dagger/dagger) - An engine to run your pipelines in containers
+- [dagger/dagger](https://github.com/dagger/dagger) - An open-source runtime for composable workflows. Great for AI agents and CI/CD.
 - [gokcehan/lf](https://github.com/gokcehan/lf) - Terminal file manager
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀
 - [charmbracelet/kancli](https://github.com/charmbracelet/kancli) - A tutorial for building a command line kanban board in Go
@@ -656,7 +662,7 @@
 - [zachlatta/sshtron](https://github.com/zachlatta/sshtron) - $ ssh sshtron.zachlatta.com
 - [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Infrastructure as Code in any programming language 🚀
 - [ksimka/go-is-not-good](https://github.com/ksimka/go-is-not-good) - A curated list of articles complaining that go (golang) isn't good enough
-- [goadesign/goa](https://github.com/goadesign/goa) - 🌟 Goa: Elevate Go API development! 🚀 Streamlined design, automatic code generation, and seamless HTTP/gRPC support. ✨
+- [goadesign/goa](https://github.com/goadesign/goa) - Design-first Go framework that generates API code, documentation, and clients. Define once in an elegant DSL, deploy as HTTP and gRPC services with zero drift between code and docs.
 - [TykTechnologies/tyk](https://github.com/TykTechnologies/tyk) - Tyk Open Source API Gateway written in Go, supporting REST, GraphQL, TCP and gRPC protocols
 - [google/go-github](https://github.com/google/go-github) - Go library for accessing the GitHub v3 API
 - [emirpasic/gods](https://github.com/emirpasic/gods) - GoDS (Go Data Structures) - Sets, Lists, Stacks, Maps, Trees, Queues, and much more
@@ -780,7 +786,7 @@
 - [IntersectMBO/cardano-api](https://github.com/IntersectMBO/cardano-api) - Cardano API
 - [cardano-scaling/hydra](https://github.com/cardano-scaling/hydra) - Implementation of the Hydra Head protocol
 - [IntersectMBO/ouroboros-consensus](https://github.com/IntersectMBO/ouroboros-consensus) - Implementation of a Consensus Layer for the Ouroboros family of protocols
-- [input-output-hk/marlowe-cardano](https://github.com/input-output-hk/marlowe-cardano) - Marlowe smart contract language Cardano implementation
+- [marlowe-lang/marlowe-cardano](https://github.com/marlowe-lang/marlowe-cardano) - Marlowe smart contract language Cardano implementation
 - [IntersectMBO/ouroboros-network](https://github.com/IntersectMBO/ouroboros-network) - Specifications of network protocols and implementations of components running these protocols which support a family of Ouroboros Consesus protocols; the diffusion layer of the Cardano Node.
 - [IntersectMBO/cardano-db-sync](https://github.com/IntersectMBO/cardano-db-sync) - A component that follows the Cardano chain and stores blocks and transactions in PostgreSQL
 - [IntersectMBO/cardano-cli](https://github.com/IntersectMBO/cardano-cli) - This repository contains sources for the command-line interface (CLI) tool for interacting with the Cardano blockchain.
@@ -819,7 +825,7 @@
 
 ## Isabelle 
 
-- [input-output-hk/marlowe](https://github.com/input-output-hk/marlowe) - Prototype implementation of domain-specific language for the design of smart-contracts over cryptocurrencies
+- [marlowe-lang/marlowe](https://github.com/marlowe-lang/marlowe) - Prototype implementation of domain-specific language for the design of smart-contracts over cryptocurrencies
 
 ## Janet 
 
@@ -968,6 +974,7 @@
 - [segmentio/evergreen](https://github.com/segmentio/evergreen) - 🌲 Evergreen React UI Framework by Segment
 - [netlify-templates/nextjs-blog-theme](https://github.com/netlify-templates/nextjs-blog-theme) - A customizable Next.js and Tailwind blog starter with visual editing and Git Content Source. Designed by the Bejamas agency.
 - [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
+- [pollinations/pollinations](https://github.com/pollinations/pollinations) - Free Open-Source Image and Text Generation
 - [filipedeschamps/parse-google-docs-json](https://github.com/filipedeschamps/parse-google-docs-json) - Authenticates with Google API and parse Google Docs to JSON or Markdown
 - [ehmicky/nve](https://github.com/ehmicky/nve) - Run any command on specific Node.js versions
 - [gragland/chatgpt-chrome-extension](https://github.com/gragland/chatgpt-chrome-extension) - A ChatGPT Chrome extension. Integrates ChatGPT into every text box on the internet.
@@ -1678,6 +1685,7 @@
 
 ## Lua 
 
+- [chomosuke/typst-preview.nvim](https://github.com/chomosuke/typst-preview.nvim) - Low latency typst preview for Neovim
 - [saecki/crates.nvim](https://github.com/saecki/crates.nvim) - A neovim plugin that helps managing crates.io dependencies
 - [chomosuke/term-edit.nvim](https://github.com/chomosuke/term-edit.nvim) - Vim Keybindings in Neovim's Built-in Terminal
 - [zaldih/themery.nvim](https://github.com/zaldih/themery.nvim) - A colorscheme picker with live preview and persistence for neovim ✨
@@ -1694,6 +1702,7 @@
 - [leath-dub/snipe.nvim](https://github.com/leath-dub/snipe.nvim) - Efficient targetted menu built for fast buffer navigation
 - [tamton-aquib/keys.nvim](https://github.com/tamton-aquib/keys.nvim) - A screen keys plugin for neovim.
 - [0xstepit/flow.nvim](https://github.com/0xstepit/flow.nvim) - A flow-immersive Nvim colorscheme with fluorescent details.
+- [vmarcosp/dotfiles](https://github.com/vmarcosp/dotfiles) - :bulb: ~/.dotfiles
 - [kwakzalver/duckytype.nvim](https://github.com/kwakzalver/duckytype.nvim) - NeoVim plugin simulating monkeytype.com
 - [Canop/nvim-bacon](https://github.com/Canop/nvim-bacon) - bacon's companion for neovim
 - [linrongbin16/gitlinker.nvim](https://github.com/linrongbin16/gitlinker.nvim) - Maintained fork of ruifm's gitlinker, refactored with bug fixes, ssh aliases, blame support and other improvements.
@@ -1728,7 +1737,7 @@
 - [sontungexpt/url-open](https://github.com/sontungexpt/url-open) - Minimal plugin allow you to open url under cursor in neovim without netrw with default browser of your system and highlight url
 - [chrisgrieser/nvim-tinygit](https://github.com/chrisgrieser/nvim-tinygit) - A lightweight bundle of commands focussed on swift and streamlined git operations.
 - [nanozuki/tabby.nvim](https://github.com/nanozuki/tabby.nvim) - A declarative, highly configurable, and neovim style tabline plugin. Use your nvim tabs as a workspace multiplexer!
-- [scottmckendry/cyberdream.nvim](https://github.com/scottmckendry/cyberdream.nvim) - 🤖💤 High-contrast, Futuristic & Vibrant Coloursheme for Neovim
+- [scottmckendry/cyberdream.nvim](https://github.com/scottmckendry/cyberdream.nvim) - 🤖💤 High-contrast, Futuristic & Vibrant Neovim Colorscheme
 - [soulis-1256/eagle.nvim](https://github.com/soulis-1256/eagle.nvim) - Show diagnostics and lsp info inside a custom window
 - [LudoPinelli/dotfiles](https://github.com/LudoPinelli/dotfiles) - Just another dotfiles repo. I like to look at them, maybe you'll want to look at mine
 - [AckslD/nvim-neoclip.lua](https://github.com/AckslD/nvim-neoclip.lua) - Clipboard manager neovim plugin with telescope integration
@@ -1895,13 +1904,12 @@
 ## MDX 
 
 - [nik-rev/helix-golf](https://github.com/nik-rev/helix-golf) - Powerful text refactoring with the Helix Editor
-- [nikitavoloboev/docs](https://github.com/nikitavoloboev/docs) - 
+- [nikitavoloboev/nikiv.dev](https://github.com/nikitavoloboev/nikiv.dev) - Personal website, docs
 - [phuocng/1loc](https://github.com/phuocng/1loc) - What's your favorite JavaScript single LOC (line of code)?
 - [shuding/cobe](https://github.com/shuding/cobe) - 5kB WebGL globe lib.
 - [leerob/site](https://github.com/leerob/site) - My site built with Next.js, Tailwind, and Vercel.
 - [rauchg/blog](https://github.com/rauchg/blog) - 
 - [tauri-apps/tauri-docs](https://github.com/tauri-apps/tauri-docs) - The source for all Tauri project documentation.
-- [yewstack/yew](https://github.com/yewstack/yew) - Rust / Wasm framework for creating reliable and efficient web applications
 - [wix/react-native-navigation](https://github.com/wix/react-native-navigation) - A complete native navigation solution for React Native
 - [react-native-elements/react-native-elements](https://github.com/react-native-elements/react-native-elements) - Cross-Platform React Native UI Toolkit
 
@@ -1921,7 +1929,7 @@
 
 ## Mojo 
 
-- [modular/mojo](https://github.com/modular/mojo) - The Mojo Programming Language
+- [modular/max](https://github.com/modular/max) - The MAX Platform (includes Mojo)
 
 ## Nim 
 
@@ -1965,6 +1973,8 @@
 
 ## Others 
 
+- [ttumiel/Awesome-Ethereum](https://github.com/ttumiel/Awesome-Ethereum) - A Curated List of Awesome Ethereum Resources
+- [mcchrish/vim-no-color-collections](https://github.com/mcchrish/vim-no-color-collections) - Collection of Vim themes with barely any colors
 - [papers-we-love/milano](https://github.com/papers-we-love/milano) - Papers We ❤️ Milano
 - [sts10/rust-command-line-utilities](https://github.com/sts10/rust-command-line-utilities) - A curated list of command-line utilities written in Rust
 - [opencollective/opencollective](https://github.com/opencollective/opencollective) - We're tracking all our Issues, RFCs and a few other documents in this repository.
@@ -2189,6 +2199,9 @@
 
 ## Python 
 
+- [ethereum/tests](https://github.com/ethereum/tests) - Common tests for all Ethereum implementations
+- [nagyabi/forking_randao_manipulation](https://github.com/nagyabi/forking_randao_manipulation) - Researching RANDAO manipulation in Ethereum mainnet.
+- [commaai/openpilot](https://github.com/commaai/openpilot) - openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 275+ supported cars.
 - [soimort/you-get](https://github.com/soimort/you-get) - :arrow_double_down: Dumb downloader that scrapes the web
 - [MarshalX/atproto](https://github.com/MarshalX/atproto) - The AT Protocol (🦋 Bluesky) SDK for Python 🐍
 - [chrieke/awesome-geospatial-companies](https://github.com/chrieke/awesome-geospatial-companies) - :globe_with_meridians: List & Map of 700+ companies for geospatial jobs (GIS, Earth Observation, UAV, Satellite, Digital Farming, ..)
@@ -2209,7 +2222,7 @@
 - [edc/bass](https://github.com/edc/bass) - Make Bash utilities usable in Fish shell
 - [python-pillow/Pillow](https://github.com/python-pillow/Pillow) - Python Imaging Library (Fork)
 - [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
-- [subframe7536/maple-font](https://github.com/subframe7536/maple-font) - Maple Mono: Open source monospace font with round corner, ligatures and Nerd-Font for IDE and command line, fine-grained customization options. 带连字和控制台图标的圆角等宽字体，中英文宽度完美2:1，细粒度的自定义选项
+- [subframe7536/maple-font](https://github.com/subframe7536/maple-font) - Maple Mono: Open source monospace font with round corner, ligatures and Nerd-Font for IDE and terminal, fine-grained customization options. 带连字和控制台图标的圆角等宽字体，中英文宽度完美2:1，细粒度的自定义选项
 - [IntersectMBO/cardano-node-tests](https://github.com/IntersectMBO/cardano-node-tests) - System and end-to-end (E2E) tests for cardano-node.
 - [OpenInterpreter/open-interpreter](https://github.com/OpenInterpreter/open-interpreter) - A natural language interface for computers
 - [belluzj/fantasque-sans](https://github.com/belluzj/fantasque-sans) - A font family with a great monospaced variant for programmers.
@@ -2442,7 +2455,7 @@
 - [github-changelog-generator/gitlab-changelog-generator](https://github.com/github-changelog-generator/gitlab-changelog-generator) - GitLab Fork
 - [matteocrippa/awesome-swift](https://github.com/matteocrippa/awesome-swift) - A collaborative list of awesome Swift libraries and resources. Feel free to contribute!
 - [junegunn/redis-stat](https://github.com/junegunn/redis-stat) - (UNMAINTAINED) A real-time Redis monitoring tool
-- [cesarferreira/dryrun](https://github.com/cesarferreira/dryrun) - :cloud: Try the demo project of any Android Library
+- [cesarferreira/dryrun](https://github.com/cesarferreira/dryrun) - ☁️ Try the demo project of any Android Library
 - [danger/danger](https://github.com/danger/danger) - 🚫 Stop saying "you forgot to …" in code review (in Ruby)
 - [keepcosmos/terjira](https://github.com/keepcosmos/terjira) - Terjira is a very interactive and easy to use CLI tool for Jira.
 - [jmatsu/remocon](https://github.com/jmatsu/remocon) - a CLI for managing Firebase Remote Config based on YAML files.
@@ -2463,6 +2476,23 @@
 
 ## Rust 
 
+- [Nugine/rlimit](https://github.com/Nugine/rlimit) - Resource limits
+- [sigp/tree_hash](https://github.com/sigp/tree_hash) - SSZ-compatible tree hash implementation optimised for speed and security
+- [rust-random/rand](https://github.com/rust-random/rand) - A Rust library for random number generation.
+- [matter-labs/anvil-zksync](https://github.com/matter-labs/anvil-zksync) - In-memory node that can be used for integration testing and debugging.
+- [piotrostr/listen](https://github.com/piotrostr/listen) - Solana Swiss Army Knife
+- [foundry-rs/foundry](https://github.com/foundry-rs/foundry) - Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.
+- [tokio-rs/tracing](https://github.com/tokio-rs/tracing) - Application level tracing for Rust.
+- [alloy-rs/chains](https://github.com/alloy-rs/chains) - Canonical type definitions for EIP-155 chains
+- [alloy-rs/rlp](https://github.com/alloy-rs/rlp) - Fast implementation of Ethereum RLP serialization
+- [alloy-rs/core](https://github.com/alloy-rs/core) - High-performance, well-tested & documented core libraries for Ethereum, in Rust
+- [alloy-rs/alloy](https://github.com/alloy-rs/alloy) - Transports, Middleware, and Networks for the Alloy project
+- [walletd/walletd](https://github.com/walletd/walletd) - The core walletd library that encapsulates all Rust-based functionality the WalletD framework will offer
+- [n0-computer/iroh](https://github.com/n0-computer/iroh) - peer-2-peer that just works
+- [EmbarkStudios/cargo-deny](https://github.com/EmbarkStudios/cargo-deny) - ❌ Cargo plugin for linting your dependencies 🦀
+- [asonnino/hotstuff](https://github.com/asonnino/hotstuff) - Implementation of the HotStuff consensus protocol.
+- [rust-bitcoin/rust-bitcoincore-rpc](https://github.com/rust-bitcoin/rust-bitcoincore-rpc) - Rust RPC client library for the Bitcoin Core JSON-RPC API.
+- [kmdreko/venator](https://github.com/kmdreko/venator) - Venator: a desktop app for viewing logs and traces from OpenTelemetry and the Rust tracing ecosystem
 - [dfrg/swash](https://github.com/dfrg/swash) - Font introspection, complex text shaping and glyph rendering.
 - [mattwparas/steel](https://github.com/mattwparas/steel) - An embedded scheme interpreter in Rust
 - [glzr-io/glazewm](https://github.com/glzr-io/glazewm) - GlazeWM is a tiling window manager for Windows inspired by i3wm.
@@ -2496,7 +2526,7 @@
 - [moturus/rush](https://github.com/moturus/rush) - A posixy shell implemented in Rust with minimal external dependencies.
 - [moturus/motor-os](https://github.com/moturus/motor-os) - A simple, fast, and secure operating system for the cloud.
 - [SylvanFranklin/launchctl](https://github.com/SylvanFranklin/launchctl) - Wrapper for macOS system manager
-- [blacksky-algorithms/rsky](https://github.com/blacksky-algorithms/rsky) - An AT Protocol Implementation built in Rust.
+- [blacksky-algorithms/rsky](https://github.com/blacksky-algorithms/rsky) - An AT Protocol implementation prioritizing community safety and self-governance, written in Rust.
 - [feldera/feldera](https://github.com/feldera/feldera) - The Feldera Incremental Computation Engine
 - [jamesmunns/bbqueue](https://github.com/jamesmunns/bbqueue) - A SPSC, lockless, no_std, thread safe, queue, based on BipBuffers
 - [tokio-rs/mini-redis](https://github.com/tokio-rs/mini-redis) - Incomplete Redis client and server implementation using Tokio - for learning purposes only
@@ -2544,7 +2574,7 @@
 - [Rust-GPU/rust-gpu](https://github.com/Rust-GPU/rust-gpu) - 🐉 Making Rust a first-class language and ecosystem for GPU shaders 🚧
 - [aurora-is-near/aurora-engine](https://github.com/aurora-is-near/aurora-engine) - ⚙️ Aurora Engine implements an Ethereum Virtual Machine (EVM) on the NEAR Protocol.
 - [gevulotnetwork/gevulot](https://github.com/gevulotnetwork/gevulot) - Gevulot is an internet scale compute network for zero-knowledge proof generation and verification.
-- [casper-network/casper-node](https://github.com/casper-network/casper-node) - Reference client for CASPER protocol
+- [casper-network/casper-node](https://github.com/casper-network/casper-node) - Reference node for CASPER protocol
 - [casper-network/juliet](https://github.com/casper-network/juliet) - A TCP-based, multiplexing, backpressuring low-overhead transport protocol.
 - [zcash/halo2](https://github.com/zcash/halo2) - The Halo2 zero-knowledge proving system
 - [Amanieu/parking_lot](https://github.com/Amanieu/parking_lot) - Compact and efficient synchronization primitives for Rust. Also provides an API for creating custom synchronization primitives.
@@ -2588,7 +2618,7 @@
 - [SeniorMars/typst.nvim](https://github.com/SeniorMars/typst.nvim) - WIP. Goals: Treesitter highlighting, snippets, and a smooth intergration with neovim.
 - [BurntSushi/jiff](https://github.com/BurntSushi/jiff) - A datetime library for Rust that encourages you to jump into the pit of success.
 - [ron-rs/ron](https://github.com/ron-rs/ron) - Rusty Object Notation
-- [madsmtm/objc2](https://github.com/madsmtm/objc2) - Bindings to Apple's frameworks in Rust
+- [madsmtm/objc2](https://github.com/madsmtm/objc2) - Bindings to Apple frameworks in Rust
 - [madsmtm/objc2-generated](https://github.com/madsmtm/objc2-generated) - Automatically generated code; see the `objc2` project for details.
 - [quickwit-oss/tantivy](https://github.com/quickwit-oss/tantivy) - Tantivy is a full-text search engine library inspired by Apache Lucene and written in Rust
 - [SergioBenitez/yansi](https://github.com/SergioBenitez/yansi) - A dead simple ANSI terminal color painting library for Rust.
@@ -3036,7 +3066,7 @@
 - [atanunq/viu](https://github.com/atanunq/viu) - Terminal image viewer with native support for iTerm and Kitty
 - [bincode-org/bincode](https://github.com/bincode-org/bincode) - A binary encoder / decoder implementation in Rust.
 - [notify-rs/notify](https://github.com/notify-rs/notify) - 🔭 Cross-platform filesystem notification library for Rust.
-- [warp-tech/warpgate](https://github.com/warp-tech/warpgate) - Smart SSH, HTTPS and MySQL bastion that requires no additional client-side software
+- [warp-tech/warpgate](https://github.com/warp-tech/warpgate) - Smart SSH, HTTPS, MySQL and Postgres bastion that requires no additional client-side software
 - [sozu-proxy/sozu](https://github.com/sozu-proxy/sozu) - Sōzu HTTP reverse proxy, configurable at runtime, fast and safe, built in Rust. It is awesome!
 - [rust-itertools/itertools](https://github.com/rust-itertools/itertools) - Extra iterator adaptors, iterator methods, free functions, and macros.
 - [petgraph/petgraph](https://github.com/petgraph/petgraph) - Graph data structure library for Rust.
@@ -3096,7 +3126,7 @@
 - [pacak/cargo-show-asm](https://github.com/pacak/cargo-show-asm) - cargo subcommand showing the assembly, LLVM-IR and MIR generated for Rust code
 - [clap-rs/clap-verbosity-flag](https://github.com/clap-rs/clap-verbosity-flag) - Easily add a --verbose flag to CLIs using Clap
 - [falcucci/changelog-it](https://github.com/falcucci/changelog-it) - Rust crate and cli that generates clear github releases based on milestones, including merged pull requests, contributors and organized by topics.
-- [fschutt/printpdf](https://github.com/fschutt/printpdf) - A fully-featured PDF library for Rust, WASM-ready
+- [fschutt/printpdf](https://github.com/fschutt/printpdf) - Rust / WASM library for reading, writing, templating and rendering PDF
 - [rust-scraper/scraper](https://github.com/rust-scraper/scraper) - HTML parsing and querying with CSS selectors
 - [rustsec/rustsec](https://github.com/rustsec/rustsec) - RustSec API & Tooling
 - [lettre/lettre](https://github.com/lettre/lettre) - a mailer library for Rust
@@ -3238,13 +3268,14 @@
 - [mersinvald/aquamarine](https://github.com/mersinvald/aquamarine) - Inline diagrams for rustdoc with mermaid.js
 - [redis-rs/redis-rs](https://github.com/redis-rs/redis-rs) - Redis library for rust
 - [orf/gping](https://github.com/orf/gping) - Ping, but with a graph
-- [extrawurst/gitui](https://github.com/extrawurst/gitui) - Blazing 💥 fast terminal-ui for git written in rust 🦀
+- [gitui-org/gitui](https://github.com/gitui-org/gitui) - Blazing 💥 fast terminal-ui for git written in rust 🦀
 - [fdehau/tui-rs](https://github.com/fdehau/tui-rs) - Build terminal user interfaces and dashboards using Rust
 - [rust-lang/book](https://github.com/rust-lang/book) - The Rust Programming Language
 - [rust-lang/cargo](https://github.com/rust-lang/cargo) - The Rust package manager
 - [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
 - [stepancheg/grpc-rust](https://github.com/stepancheg/grpc-rust) - Rust implementation of gRPC
 - [nushell/nushell](https://github.com/nushell/nushell) - A new type of shell
+- [yewstack/yew](https://github.com/yewstack/yew) - Rust / Wasm framework for creating reliable and efficient web applications
 - [liuchengxu/vim-clap](https://github.com/liuchengxu/vim-clap) - :clap: Modern performant fuzzy picker, tree-sitter highlighting, and more, for both Vim and NeoVim
 - [cgag/loc](https://github.com/cgag/loc) - Count lines of code quickly.
 - [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, grep, and blame output
@@ -3291,9 +3322,10 @@
 
 ## Shell 
 
+- [alloy-rs/book](https://github.com/alloy-rs/book) - Book on all things Alloy
+- [alloy-rs/examples](https://github.com/alloy-rs/examples) - Example code for using alloy and alloy-core
 - [dockur/windows-arm](https://github.com/dockur/windows-arm) - Windows for ARM in a Docker container.
 - [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container.
-- [vmarcosp/dotfiles](https://github.com/vmarcosp/dotfiles) - :bulb: ~/.dotfiles
 - [unfor19/install-aws-cli-action](https://github.com/unfor19/install-aws-cli-action) - Install AWS CLI on a GitHub Actions Linux host
 - [akinomyoga/ble.sh](https://github.com/akinomyoga/ble.sh) - Bash Line Editor―a line editor written in pure Bash with syntax highlighting, auto suggestions, vim modes, etc. for Bash interactive sessions.
 - [create-dmg/create-dmg](https://github.com/create-dmg/create-dmg) - A shell script to build fancy DMGs
@@ -3302,7 +3334,7 @@
 - [woofpool/cardano-private-testnet-setup](https://github.com/woofpool/cardano-private-testnet-setup) - Setup guide to create private Cardano testnet and run sample transactions including a Plutus contract example.  This environment can be used for local development and learning.
 - [RoryNesbitt/dotfyle-cli](https://github.com/RoryNesbitt/dotfyle-cli) - Command line tool for Neovim multi-config management
 - [blinklabs-io/docker-cardano-node](https://github.com/blinklabs-io/docker-cardano-node) - Builds Intersect's Haskell cardano-node from source using cabal on debian
-- [nix-community/nixos-anywhere](https://github.com/nix-community/nixos-anywhere) - install nixos everywhere via ssh [maintainer=@numtide]
+- [nix-community/nixos-anywhere](https://github.com/nix-community/nixos-anywhere) - Install NixOS everywhere via SSH [maintainers=Mic92, Lassulus, phaer, Enzime]
 - [dylanaraps/fff](https://github.com/dylanaraps/fff) - 📁 A simple file manager written in bash.
 - [chrisgrieser/finder-vim-mode](https://github.com/chrisgrieser/finder-vim-mode) - Feature-rich mouseless control of macOS Finder, inspired by vim/ranger.
 - [codespaces-examples/rust](https://github.com/codespaces-examples/rust) - 
@@ -3468,12 +3500,17 @@
 - [sindresorhus/dark-mode](https://github.com/sindresorhus/dark-mode) - Control the macOS dark mode from the command-line
 - [sindresorhus/DockProgress](https://github.com/sindresorhus/DockProgress) - Show progress in your app's Dock icon
 
+## TeX 
+
+- [deso-protocol/dips](https://github.com/deso-protocol/dips) - DeSo Improvement Proposals for improving the DeSo network
+
 ## TypeScript 
 
+- [kkiyama117/coc-toml](https://github.com/kkiyama117/coc-toml) - Toml extension for coc-nvim, using taplo for lsp engine
 - [rhysd/action-setup-vim](https://github.com/rhysd/action-setup-vim) - GitHub Action to setup Vim or Neovim on Linux, macOS and Windows for testing Vim plugins
 - [samwho/visualisations](https://github.com/samwho/visualisations) - Code behind my visualisation blog posts
 - [flo-bit/tiny-planets](https://github.com/flo-bit/tiny-planets) - procedurally generated tiny planets in the browsers
-- [electric-sql/pglite](https://github.com/electric-sql/pglite) - Lightweight WASM Postgres with real-time, reactive bindings.
+- [electric-sql/pglite](https://github.com/electric-sql/pglite) - Embeddable Postgres with real-time, reactive bindings.
 - [theosanderson/firehose](https://github.com/theosanderson/firehose) - The Bluesky firehose as a windows 95 screensaver
 - [bluesky-social/atproto](https://github.com/bluesky-social/atproto) - Social networking technology created by Bluesky
 - [aidenybai/react-scan](https://github.com/aidenybai/react-scan) - Scan for React performance issues and eliminate slow renders in your app
@@ -3540,12 +3577,12 @@
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear, Monday, and Asana Alternative. Plane helps you track your issues, epics, and cycles the easiest way on the planet.
 - [dragidavid/shade](https://github.com/dragidavid/shade) - Yet another code sharing app...
 - [vercel/ai-chatbot](https://github.com/vercel/ai-chatbot) - A full-featured, hackable Next.js AI chatbot built by Vercel
-- [vercel/ai](https://github.com/vercel/ai) - Build AI-powered applications with React, Svelte, Vue, and Solid
+- [vercel/ai](https://github.com/vercel/ai) - The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library that gives you the tools you need to build AI-powered products.
 - [glacambre/firenvim](https://github.com/glacambre/firenvim) - Embed Neovim in Chrome, Firefox & others.
 - [steven-tey/novel](https://github.com/steven-tey/novel) - Notion-style WYSIWYG editor with AI-powered autocompletion.
 - [DAB0mB/react-autorun](https://github.com/DAB0mB/react-autorun) - A macro that compiles into a dependencies array for hooks.
 - [denoland/deno_blog](https://github.com/denoland/deno_blog) - Minimal boilerplate blogging.
-- [vimcolorschemes/vimcolorschemes](https://github.com/vimcolorschemes/vimcolorschemes) - Find the best vim color schemes around
+- [vimcolorschemes/vimcolorschemes](https://github.com/vimcolorschemes/vimcolorschemes) - Find the best vim colorschemes around
 - [agmmnn/tauri-ui](https://github.com/agmmnn/tauri-ui) - 🦀 Create modern Tauri desktop apps in just a few simple steps with shadcn/ui. React, Next.js, Sveltekit.
 - [pomber/stargazer](https://github.com/pomber/stargazer) - Your repo reached a stars milestone? Celebrate with a video of your stargazers!
 - [graphile/crystal](https://github.com/graphile/crystal) - 🔮 Graphile's Crystal Monorepo; home to Grafast, PostGraphile, pg-introspection, pg-sql2 and much more!
@@ -3676,7 +3713,7 @@
 - [refinedev/refine](https://github.com/refinedev/refine) - A React Framework for building  internal tools, admin panels, dashboards & B2B apps with unmatched flexibility.
 - [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
 - [rhysd/monolith-of-web](https://github.com/rhysd/monolith-of-web) - A chrome extension to make a single static HTML file of the web page using a WebAssembly port of monolith CLI
-- [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev) - Trigger.dev is the open source background jobs platform.
+- [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev) - Trigger.dev – open source background jobs and AI infrastructure
 - [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development.
 - [shadcn-ui/taxonomy](https://github.com/shadcn-ui/taxonomy) - An open source application built using the new router, server components and everything new in Next.js 13.
 - [napi-rs/package-template](https://github.com/napi-rs/package-template) - Template project for using napi-rs to build native package
@@ -3684,11 +3721,10 @@
 - [pacocoursey/cmdk](https://github.com/pacocoursey/cmdk) - Fast, unstyled command menu React component.
 - [yaegassy/coc-ruff](https://github.com/yaegassy/coc-ruff) - Ruff Language Server extension for coc.nvim
 - [radix-ui/colors](https://github.com/radix-ui/colors) - A gorgeous, accessible color system.
-- [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - A set of beautifully-designed, accessible, and customizable components to help you build your component library. Open Source.
+- [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.
 - [primer/react](https://github.com/primer/react) - An implementation of GitHub's Primer Design System using React
 - [platyplus/platyplus](https://github.com/platyplus/platyplus) - Low-code, offline-first apps with Hasura
 - [prisma/prisma](https://github.com/prisma/prisma) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB
-- [pollinations/pollinations](https://github.com/pollinations/pollinations) - Free Open-Source Image and Text Generation
 - [jellydn/next-swagger-doc](https://github.com/jellydn/next-swagger-doc) - This package reads your JSDoc-annotated source code on NextJS API route and generates an OpenAPI (Swagger) specification.
 - [onur-ozkan/feednext](https://github.com/onur-ozkan/feednext) - social media app demo
 - [codelitdev/courselit](https://github.com/codelitdev/courselit) - Create/Sell courses and digital downloads and publish blogs on your own branded website. An open source alternative to Teachable, Thinkific, Podia and the likes.
@@ -3939,6 +3975,10 @@
 - [redis/node-redis](https://github.com/redis/node-redis) - Redis Node.js client
 - [typestyle/typestyle](https://github.com/typestyle/typestyle) - Making CSS Typesafe 🌹
 
+## Typst 
+
+- [8LWXpg/typst-treet](https://github.com/8LWXpg/typst-treet) - Create tree list easily in Typst
+
 ## V 
 
 - [vlang/v](https://github.com/vlang/v) - Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in &lt;1s with zero library dependencies. Supports automatic C =&gt; V translation. https://vlang.io
@@ -3951,6 +3991,7 @@
 
 ## Vim Script 
 
+- [kaarmu/typst.vim](https://github.com/kaarmu/typst.vim) - Vim plugin for Typst
 - [archseer/colibri.vim](https://github.com/archseer/colibri.vim) - A subtle, elegant color scheme for vim.
 - [sainnhe/gruvbox-material](https://github.com/sainnhe/gruvbox-material) - Gruvbox with Material Palette
 - [rrgeorge/vim-blink](https://github.com/rrgeorge/vim-blink) - Vim plugin manager for blinkshell
@@ -4211,7 +4252,7 @@
 
 - [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.
 - [zackradisic/tyvm](https://github.com/zackradisic/tyvm) - An experimental bytecode interpreter / type-checker for type-level Typescript
-- [seatedro/asciigen](https://github.com/seatedro/asciigen) - convert images, video to ascii!
+- [seatedro/glyph](https://github.com/seatedro/glyph) - convert images, video to ascii!
 - [hexops/mach](https://github.com/hexops/mach) - zig game engine & graphics toolkit
 - [nektro/zigmod](https://github.com/nektro/zigmod) - 📦 A package manager for the Zig programming language.
 - [tigerbeetle/tigerbeetle](https://github.com/tigerbeetle/tigerbeetle) - The financial transactions database designed for mission critical safety and performance.
