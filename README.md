@@ -906,7 +906,6 @@
 ## JavaScript 
 
 - [ethereum/tests](https://github.com/ethereum/tests) - Common tests for all Ethereum implementations
-- [w3f/polkadot-wiki](https://github.com/w3f/polkadot-wiki) - The source of truth for Polkadot.
 - [sindresorhus/sketch-icon-preview](https://github.com/sindresorhus/sketch-icon-preview) - Sketch plugin to preview macOS app icons in the Dock using the Icon Preview app
 - [polkadot-developers/substrate-developer-hub.github.io](https://github.com/polkadot-developers/substrate-developer-hub.github.io) - Substrate Documentation
 - [LaurentTrk/ki.dot](https://github.com/LaurentTrk/ki.dot) - Bring Chainlink Price Feeds to Polkadot Substrate Chain
@@ -2211,6 +2210,7 @@
 - [chrieke/awesome-geospatial-companies](https://github.com/chrieke/awesome-geospatial-companies) - :globe_with_meridians: List & Map of 700+ companies for geospatial jobs (GIS, Earth Observation, UAV, Satellite, Digital Farming, ..)
 - [IdreesInc/Monocraft](https://github.com/IdreesInc/Monocraft) - A monospaced programming font inspired by the Minecraft typeface
 - [blinksh/fonts](https://github.com/blinksh/fonts) - 
+- [w3f/polkadot-wiki](https://github.com/w3f/polkadot-wiki) - The source of truth for Polkadot.
 - [darrenburns/posting](https://github.com/darrenburns/posting) - The modern API client that lives in your terminal.
 - [kennethnym/infinifi](https://github.com/kennethnym/infinifi) - infinifi plays gentle lofi music in the background indefinitely
 - [roboflow/sports](https://github.com/roboflow/sports) - computer vision and sports
@@ -2480,6 +2480,8 @@
 
 ## Rust 
 
+- [flashbots/rbuilder](https://github.com/flashbots/rbuilder) - rbuilder is a blazingly fast, state of the art Ethereum MEV-Boost block builder written in Rust
+- [tock/tock](https://github.com/tock/tock) - A secure embedded operating system for microcontrollers
 - [spruceid/siwe-rs](https://github.com/spruceid/siwe-rs) - A Rust implementation of EIP-4361 Sign In With Ethereum verification
 - [foundry-rs/compilers](https://github.com/foundry-rs/compilers) - Utilities for working with native solc and compiling projects.
 - [paradigmxyz/artemis](https://github.com/paradigmxyz/artemis) - A simple, modular, and fast framework for writing MEV bots in Rust.
@@ -3358,7 +3360,7 @@
 - [mbrubeck/android-completion](https://github.com/mbrubeck/android-completion) - Bash completion for "adb" from the Google Android SDK
 - [falcucci/dotfiles](https://github.com/falcucci/dotfiles) - 💻 macOS / Ubuntu dotfiles
 - [Stremio/stremio-beamup](https://github.com/Stremio/stremio-beamup) - 🛠️ A platform as a service (PaaS) hosting for Stremio addons: as easy a Heroku, without the restrictions
-- [nikitavoloboev/config](https://github.com/nikitavoloboev/config) - Apps/CLIs/configs I use on macOS/iOS. Fish, Karabiner, Cursor..
+- [nikitavoloboev/config](https://github.com/nikitavoloboev/config) - Apps/CLIs/configs I use on macOS/iOS
 - [simeg/functional-shell](https://github.com/simeg/functional-shell) - map and filter in your shell
 - [xwmx/nb](https://github.com/xwmx/nb) - CLI and local web plain text note‑taking, bookmarking, and archiving with linking, tagging, filtering, search, Git versioning & syncing, Pandoc conversion, + more, in a single portable script.
 - [cknadler/vim-anywhere](https://github.com/cknadler/vim-anywhere) - Use Vim everywhere you've always wanted to
@@ -3449,6 +3451,7 @@
 
 ## Swift 
 
+- [kamillobinski/thock](https://github.com/kamillobinski/thock) - THOCK your mac keyboard with over 25 modes.
 - [swiftlang/swift-package-manager](https://github.com/swiftlang/swift-package-manager) - The Package Manager for the Swift Programming Language
 - [swiftlang/swift-build](https://github.com/swiftlang/swift-build) - A high-level build system based on llbuild, used by Xcode, Swift Playground, and the Swift Package Manager
 - [MasterJ93/ATProtoKit](https://github.com/MasterJ93/ATProtoKit) - A straightforward solution for using AT Protocol and Bluesky, written in Swift.
@@ -3523,6 +3526,7 @@
 
 ## TypeScript 
 
+- [ygwyg/diverce](https://github.com/ygwyg/diverce) - vercel nextjs -&gt; cloudflare workers
 - [duneanalytics/evm.codes](https://github.com/duneanalytics/evm.codes) - Source for evm.codes an Ethereum Virtual Machine Opcodes Interactive Reference
 - [kkiyama117/coc-toml](https://github.com/kkiyama117/coc-toml) - Toml extension for coc-nvim, using taplo for lsp engine
 - [rhysd/action-setup-vim](https://github.com/rhysd/action-setup-vim) - GitHub Action to setup Vim or Neovim on Linux, macOS and Windows for testing Vim plugins
