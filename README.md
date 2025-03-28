@@ -381,6 +381,7 @@
 
 ## Go 
 
+- [Snowfork/snowbridge](https://github.com/Snowfork/snowbridge) - A trustless bridge between Polkadot and Ethereum
 - [bluesky-social/jetstream](https://github.com/bluesky-social/jetstream) - A simplified JSON event stream for AT Proto
 - [crossplane/crossplane-runtime](https://github.com/crossplane/crossplane-runtime) - A set of libraries for writing Crossplane controllers.
 - [boyter/scc](https://github.com/boyter/scc) - Sloc, Cloc and Code: scc is a very fast accurate code counter with complexity calculations and COCOMO estimates written in pure Go
@@ -1974,6 +1975,7 @@
 
 ## Others 
 
+- [bkrem/awesome-solidity](https://github.com/bkrem/awesome-solidity) - ⟠ A curated list of awesome Solidity resources, libraries, tools and more
 - [ethereum/consensus-spec-tests](https://github.com/ethereum/consensus-spec-tests) - Common tests for the Ethereum proof-of-stake consensus layer
 - [ttumiel/Awesome-Ethereum](https://github.com/ttumiel/Awesome-Ethereum) - A Curated List of Awesome Ethereum Resources
 - [mcchrish/vim-no-color-collections](https://github.com/mcchrish/vim-no-color-collections) - Collection of Vim themes with barely any colors
@@ -2202,6 +2204,7 @@
 
 ## Python 
 
+- [ethstorage/storage-contracts-v1](https://github.com/ethstorage/storage-contracts-v1) - 
 - [ethereum/staking-deposit-cli](https://github.com/ethereum/staking-deposit-cli) - Secure key generation for deposits
 - [nagyabi/forking_randao_manipulation](https://github.com/nagyabi/forking_randao_manipulation) - Researching RANDAO manipulation in Ethereum mainnet.
 - [commaai/openpilot](https://github.com/commaai/openpilot) - openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.
@@ -2480,6 +2483,7 @@
 
 ## Rust 
 
+- [paradigmxyz/ress](https://github.com/paradigmxyz/ress) - The implementation of Stateless Ethereum client based on Reth
 - [flashbots/rbuilder](https://github.com/flashbots/rbuilder) - rbuilder is a blazingly fast, state of the art Ethereum MEV-Boost block builder written in Rust
 - [tock/tock](https://github.com/tock/tock) - A secure embedded operating system for microcontrollers
 - [spruceid/siwe-rs](https://github.com/spruceid/siwe-rs) - A Rust implementation of EIP-4361 Sign In With Ethereum verification
@@ -3379,7 +3383,7 @@
 - [falcucci/release-me](https://github.com/falcucci/release-me) - A bunch of scripts that helps developers manage their software releases. It provides a ready-to-use process to track tasks, organize releases, and automate deployment processes.
 - [jvns/zine-translations](https://github.com/jvns/zine-translations) - SVGs of zines that are easier to translate than a PDF
 - [Toxblh/MTMR-presets](https://github.com/Toxblh/MTMR-presets) - 💈 [My TouchBar My rules] Share your preset!
-- [mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Over 385 terminal color schemes/themes for iTerm/iTerm2. Includes ports to Terminal, Konsole, PuTTY, Xresources, XRDB, Remmina, Termite, XFCE, Tilda, FreeBSD VT, Terminator, Kitty, MobaXterm, LXTermin
+- [mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Over 400 terminal color schemes/themes for iTerm/iTerm2. Includes ports to Terminal, Konsole, PuTTY, Xresources, XRDB, Remmina, Termite, XFCE, Tilda, FreeBSD VT, Terminator, Kitty, MobaXterm, LXTermin
 - [sdepold/rsvm](https://github.com/sdepold/rsvm) - Rust Version Manager
 - [mkropat/jumpapp](https://github.com/mkropat/jumpapp) - A run-or-raise application switcher for any X11 desktop
 - [fregante/web-ext-submit](https://github.com/fregante/web-ext-submit) - Wrapper around Mozilla’s web-ext to submit extensions to AMO.
@@ -3439,6 +3443,7 @@
 
 ## Solidity 
 
+- [OpenZeppelin/openzeppelin-contracts](https://github.com/OpenZeppelin/openzeppelin-contracts) - OpenZeppelin Contracts is a library for secure smart contract development.
 - [pcaversaccio/solidity-games](https://github.com/pcaversaccio/solidity-games) - A repository for Solidity-based smart contract games.
 
 ## Svelte 
@@ -3526,6 +3531,9 @@
 
 ## TypeScript 
 
+- [qiuxiang/solidity-ls](https://github.com/qiuxiang/solidity-ls) - Solidity language server.
+- [qiuxiang/coc-solidity](https://github.com/qiuxiang/coc-solidity) - Solidity language server for coc.nvim
+- [dicether/contracts](https://github.com/dicether/contracts) - Smart contracts for Dicether
 - [ygwyg/diverce](https://github.com/ygwyg/diverce) - vercel nextjs -&gt; cloudflare workers
 - [duneanalytics/evm.codes](https://github.com/duneanalytics/evm.codes) - Source for evm.codes an Ethereum Virtual Machine Opcodes Interactive Reference
 - [kkiyama117/coc-toml](https://github.com/kkiyama117/coc-toml) - Toml extension for coc-nvim, using taplo for lsp engine
