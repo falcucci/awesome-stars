@@ -67,6 +67,7 @@
 - [Scala](#scala)
 - [Scheme](#scheme)
 - [Shell](#shell)
+- [Slang](#slang)
 - [Smarty](#smarty)
 - [Solidity](#solidity)
 - [Svelte](#svelte)
@@ -116,7 +117,6 @@
 - [FRRouting/frr](https://github.com/FRRouting/frr) - The FRRouting Protocol Suite
 - [LostArtefacts/TRX](https://github.com/LostArtefacts/TRX) - Open source re-implementation of Tomb Raider I and Tomb Raider II, along with additional enhancements and bugfixes
 - [libretro/RetroArch](https://github.com/libretro/RetroArch) - Cross-platform, sophisticated frontend for the libretro API. Licensed GPLv3.
-- [libretro/slang-shaders](https://github.com/libretro/slang-shaders) - 
 - [cryptocode/terminal-doom](https://github.com/cryptocode/terminal-doom) - Play DOOM in modern terminals
 - [git/git](https://github.com/git/git) - Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentat
 - [raspberrypi/debugprobe](https://github.com/raspberrypi/debugprobe) - Firmware source and binaries for the RP2040-based Debug Probe accessory
@@ -190,6 +190,7 @@
 
 ## C++ 
 
+- [trustwallet/wallet-core](https://github.com/trustwallet/wallet-core) - Cross-platform, cross-blockchain wallet library.
 - [bitcoin/bitcoin](https://github.com/bitcoin/bitcoin) - Bitcoin Core integration/staging tree
 - [swiftlang/swift](https://github.com/swiftlang/swift) - The Swift Programming Language
 - [swiftlang/swift-llbuild](https://github.com/swiftlang/swift-llbuild) - A low-level build system, used by Xcode and the Swift Package Manager
@@ -380,6 +381,7 @@
 
 ## Go 
 
+- [streamingfast/substreams-sink-sql](https://github.com/streamingfast/substreams-sink-sql) - 
 - [Snowfork/snowbridge](https://github.com/Snowfork/snowbridge) - A trustless bridge between Polkadot and Ethereum
 - [bluesky-social/jetstream](https://github.com/bluesky-social/jetstream) - A simplified JSON event stream for AT Proto
 - [crossplane/crossplane-runtime](https://github.com/crossplane/crossplane-runtime) - A set of libraries for writing Crossplane controllers.
@@ -737,7 +739,6 @@
 - [infinum/ios-viper-xcode-templates](https://github.com/infinum/ios-viper-xcode-templates) - Used for generating template files for the VIPER architecture, which solves the common Massive View Controller issues in iOS apps.
 - [italia/designers.italia.it](https://github.com/italia/designers.italia.it) - Designers Italia mette a disposizione la conoscenza e gli strumenti per progettare e realizzare servizi pubblici centrati sulle necessità delle persone
 - [calcom/cal.fm](https://github.com/calcom/cal.fm) - The official Cal.com Work Playlist, only on Cal.fm
-- [fschutt/azul](https://github.com/fschutt/azul) - Desktop GUI Framework
 - [filipedeschamps/tabnews.com.br](https://github.com/filipedeschamps/tabnews.com.br) - Conteúdos para quem trabalha com Programação e Tecnologia.
 - [wzulfikar/vercel-runtimes](https://github.com/wzulfikar/vercel-runtimes) - Code examples for different Vercel runtimes.
 - [snotra-org/hasura-parser](https://github.com/snotra-org/hasura-parser) - :zap: Parse Hasura actions and events with ease in JS/TS projects.
@@ -1686,6 +1687,8 @@
 
 ## Lua 
 
+- [lukas-reineke/indent-blankline.nvim](https://github.com/lukas-reineke/indent-blankline.nvim) - Indent guides  for Neovim
+- [rootiest/neoterm](https://github.com/rootiest/neoterm) - Use NeoVide as a traditional terminal emulator!
 - [bluz71/vim-moonfly-colors](https://github.com/bluz71/vim-moonfly-colors) - A dark charcoal theme for modern Neovim & classic Vim
 - [cdmill/focus.nvim](https://github.com/cdmill/focus.nvim) - A fork of Folke's zen mode with features from True Zen. Customized to my workflow
 - [tjdevries/colorbuddy.nvim](https://github.com/tjdevries/colorbuddy.nvim) - Your color buddy for making cool neovim color schemes
@@ -1948,6 +1951,7 @@
 
 ## OCaml 
 
+- [MinaProtocol/mina](https://github.com/MinaProtocol/mina) - Mina is a cryptocurrency protocol with a constant size blockchain, improving scaling while maintaining decentralization and security.
 - [anmonteiro/piaf](https://github.com/anmonteiro/piaf) - Web library for OCaml with support for HTTP/1.X / HTTP/2
 - [anmonteiro/ocaml-h2](https://github.com/anmonteiro/ocaml-h2) - An HTTP/2 implementation written in pure OCaml
 - [anmonteiro/aws-lambda-ocaml-runtime](https://github.com/anmonteiro/aws-lambda-ocaml-runtime) - An OCaml custom runtime for AWS Lambda and Vercel
@@ -2210,6 +2214,7 @@
 
 ## Python 
 
+- [nautechsystems/nautilus_trader](https://github.com/nautechsystems/nautilus_trader) - A high-performance algorithmic trading platform and event-driven backtester
 - [ethstorage/storage-contracts-v1](https://github.com/ethstorage/storage-contracts-v1) - 
 - [ethereum/staking-deposit-cli](https://github.com/ethereum/staking-deposit-cli) - Secure key generation for deposits
 - [nagyabi/forking_randao_manipulation](https://github.com/nagyabi/forking_randao_manipulation) - Researching RANDAO manipulation in Ethereum mainnet.
@@ -2489,6 +2494,15 @@
 
 ## Rust 
 
+- [chronicleworks/chronicle](https://github.com/chronicleworks/chronicle) - Chronicle - the open-source, blockchain-backed, domain-agnostic provenance platform
+- [MystenLabs/sui](https://github.com/MystenLabs/sui) - Sui, a next-generation smart contract platform with high throughput, low latency, and an asset-oriented programming model powered by the Move programming language
+- [cross-rs/cross](https://github.com/cross-rs/cross) - “Zero setup” cross compilation and “cross testing” of Rust crates
+- [dragonflyoss/nydus](https://github.com/dragonflyoss/nydus) - Nydus - the Dragonfly image service, providing fast, secure and easy access to container images.
+- [ScuffleCloud/scuffle](https://github.com/ScuffleCloud/scuffle) - Opensource Cloud Provider (focusing on video streaming)
+- [ethereum/trin](https://github.com/ethereum/trin) - An Ethereum portal client: a json-rpc server with nearly instant sync, and low CPU & storage usage
+- [streamingfast/substreams-explorers](https://github.com/streamingfast/substreams-explorers) - 
+- [streamingfast/substreams-uniswap-v3](https://github.com/streamingfast/substreams-uniswap-v3) - 
+- [taiki-e/cargo-llvm-cov](https://github.com/taiki-e/cargo-llvm-cov) - Cargo subcommand to easily use LLVM source-based code coverage (-C instrument-coverage).
 - [paradigmxyz/ress](https://github.com/paradigmxyz/ress) - The implementation of Stateless Ethereum client based on Reth
 - [flashbots/rbuilder](https://github.com/flashbots/rbuilder) - rbuilder is a blazingly fast, state of the art Ethereum MEV-Boost block builder written in Rust
 - [tock/tock](https://github.com/tock/tock) - A secure embedded operating system for microcontrollers
@@ -2505,6 +2519,7 @@
 - [piotrostr/listen](https://github.com/piotrostr/listen) - Solana Swiss Army Knife
 - [foundry-rs/foundry](https://github.com/foundry-rs/foundry) - Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.
 - [tokio-rs/tracing](https://github.com/tokio-rs/tracing) - Application level tracing for Rust.
+- [alloy-rs/book](https://github.com/alloy-rs/book) - Book on all things Alloy
 - [alloy-rs/chains](https://github.com/alloy-rs/chains) - Canonical type definitions for EIP-155 chains
 - [alloy-rs/rlp](https://github.com/alloy-rs/rlp) - Fast implementation of Ethereum RLP serialization
 - [alloy-rs/core](https://github.com/alloy-rs/core) - High-performance, well-tested & documented core libraries for Ethereum, in Rust
@@ -3060,6 +3075,7 @@
 - [Anexen/pyxirr](https://github.com/Anexen/pyxirr) - Rust-powered collection of financial functions.
 - [cswinter/LocustDB](https://github.com/cswinter/LocustDB) - Blazingly fast analytics database that will rapidly devour all of your data.
 - [PRQL/prql](https://github.com/PRQL/prql) - PRQL is a modern language for transforming data — a simple, powerful, pipelined SQL replacement
+- [fschutt/azul](https://github.com/fschutt/azul) - Desktop GUI Framework
 - [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
 - [awslabs/aws-lambda-rust-runtime](https://github.com/awslabs/aws-lambda-rust-runtime) - A Rust runtime for AWS Lambda
 - [jameslittle230/stork](https://github.com/jameslittle230/stork) - 🔎 Impossibly fast web search, made for static sites.
@@ -3242,7 +3258,7 @@
 - [timvisee/prs](https://github.com/timvisee/prs) - 🔐 A secure, fast & convenient password manager CLI using GPG and git to sync.
 - [timvisee/ffsend](https://github.com/timvisee/ffsend) - :mailbox_with_mail: Easily and securely share files from the command line. A fully featured Firefox Send client.
 - [PyO3/pyo3](https://github.com/PyO3/pyo3) - Rust bindings for the Python interpreter
-- [security-union/videocall-rs](https://github.com/security-union/videocall-rs) - teleconference system written in rust
+- [security-union/videocall-rs](https://github.com/security-union/videocall-rs) - teleconferencing system written in rust
 - [tealdeer-rs/tealdeer](https://github.com/tealdeer-rs/tealdeer) - A very fast implementation of tldr in Rust.
 - [metrics-rs/metrics](https://github.com/metrics-rs/metrics) - A metrics ecosystem for Rust.
 - [rome/tools](https://github.com/rome/tools) - Unified developer tools for JavaScript, TypeScript, and the web
@@ -3342,7 +3358,6 @@
 
 ## Shell 
 
-- [alloy-rs/book](https://github.com/alloy-rs/book) - Book on all things Alloy
 - [alloy-rs/examples](https://github.com/alloy-rs/examples) - Example code for using alloy and alloy-core
 - [dockur/windows-arm](https://github.com/dockur/windows-arm) - Windows for ARM in a Docker container.
 - [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container.
@@ -3354,7 +3369,7 @@
 - [woofpool/cardano-private-testnet-setup](https://github.com/woofpool/cardano-private-testnet-setup) - Setup guide to create private Cardano testnet and run sample transactions including a Plutus contract example.  This environment can be used for local development and learning.
 - [RoryNesbitt/dotfyle-cli](https://github.com/RoryNesbitt/dotfyle-cli) - Command line tool for Neovim multi-config management
 - [blinklabs-io/docker-cardano-node](https://github.com/blinklabs-io/docker-cardano-node) - Builds Intersect's Haskell cardano-node from source using cabal on debian
-- [nix-community/nixos-anywhere](https://github.com/nix-community/nixos-anywhere) - Install NixOS everywhere via SSH [maintainers=Mic92, Lassulus, phaer, Enzime]
+- [nix-community/nixos-anywhere](https://github.com/nix-community/nixos-anywhere) - Install NixOS everywhere via SSH [maintainers=@Mic92, @Lassulus, @phaer, @Enzime]
 - [dylanaraps/fff](https://github.com/dylanaraps/fff) - 📁 A simple file manager written in bash.
 - [chrisgrieser/finder-vim-mode](https://github.com/chrisgrieser/finder-vim-mode) - Feature-rich mouseless control of macOS Finder, inspired by vim/ranger.
 - [codespaces-examples/rust](https://github.com/codespaces-examples/rust) - 
@@ -3440,6 +3455,10 @@
 - [getsentry/self-hosted](https://github.com/getsentry/self-hosted) - Sentry, feature-complete and packaged up for low-volume deployments and proofs-of-concept
 - [paulirish/git-open](https://github.com/paulirish/git-open) - Type `git open` to open the GitHub page or website for a repository in your browser.
 - [PapirusDevelopmentTeam/papirus-icon-theme](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) - Pixel perfect icon theme for Linux
+
+## Slang 
+
+- [libretro/slang-shaders](https://github.com/libretro/slang-shaders) - 
 
 ## Smarty 
 
