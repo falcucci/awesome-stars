@@ -177,6 +177,7 @@
 
 ## C# # 
 
+- [microsoft/garnet](https://github.com/microsoft/garnet) - Garnet is a remote cache-store from Microsoft Research that offers strong performance (throughput and latency), scalability, storage, recovery, cluster sharding, key migration, and replication feature
 - [marlowe-contrib/marlowe-csharp-sdk](https://github.com/marlowe-contrib/marlowe-csharp-sdk) - 
 - [volvo-cars/congestion-tax-calculator](https://github.com/volvo-cars/congestion-tax-calculator) - A developer test assignment used as basis for candidate interview and evaluation.
 - [evgeny-nadymov/telegram-wp](https://github.com/evgeny-nadymov/telegram-wp) - Telegram Messenger for Windows Phone
@@ -382,6 +383,9 @@
 
 ## Go 
 
+- [contribsys/faktory](https://github.com/contribsys/faktory) - Language-agnostic persistent background job server
+- [temporalio/temporal](https://github.com/temporalio/temporal) - Temporal service
+- [openziti/zrok](https://github.com/openziti/zrok) - Geo-scale, next-generation peer-to-peer sharing platform built on top of OpenZiti.
 - [streamingfast/substreams-sink-sql](https://github.com/streamingfast/substreams-sink-sql) - 
 - [Snowfork/snowbridge](https://github.com/Snowfork/snowbridge) - A trustless bridge between Polkadot and Ethereum
 - [bluesky-social/jetstream](https://github.com/bluesky-social/jetstream) - A simplified JSON event stream for AT Proto
@@ -1050,6 +1054,7 @@
 - [sleeyax/stremio-discord](https://github.com/sleeyax/stremio-discord) - Local addon that shows the movie or series you're watching in Discord
 - [Stremio/stremio-web](https://github.com/Stremio/stremio-web) - Stremio - Freedom to Stream
 - [Stremio/stremio-addon-sdk](https://github.com/Stremio/stremio-addon-sdk) - 🧙 A Node.js SDK for creating and publishing Stremio add-ons
+- [markedjs/marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed.
 - [JessicaSachs/carbon](https://github.com/JessicaSachs/carbon) - 🎨 Create and share beautiful images of your source code
 - [chjj/ttystudio](https://github.com/chjj/ttystudio) - A terminal-to-gif recorder minus the headaches.
 - [wix/Detox](https://github.com/wix/Detox) - Gray box end-to-end testing and automation framework for mobile apps
@@ -1169,7 +1174,6 @@
 - [sunilkumarc/product-hunt-cli](https://github.com/sunilkumarc/product-hunt-cli) - Access Product Hunt from command line - http://sunilkumarc.in/product-hunt-cli-website/
 - [alexeyraspopov/jest-webdriver](https://github.com/alexeyraspopov/jest-webdriver) - Connect Jest tests to Selenium WebDriver
 - [atlassian/jest-in-case](https://github.com/atlassian/jest-in-case) - Jest utility for creating variations of the same test
-- [jest-community/jest-extended](https://github.com/jest-community/jest-extended) - Additional Jest matchers 🃏💪
 - [kentcdodds/testing-workshop](https://github.com/kentcdodds/testing-workshop) - A workshop for learning how to test JavaScript applications
 - [leebyron/testcheck-js](https://github.com/leebyron/testcheck-js) - Generative testing for JavaScript
 - [ladjs/supertest](https://github.com/ladjs/supertest) - 🕷 Super-agent driven library for testing node.js HTTP servers using a fluent API.   Maintained for @forwardemail, @ladjs, @spamscanner, @breejs, @cabinjs, and @lassjs.
@@ -1914,7 +1918,7 @@
 ## MDX 
 
 - [nik-rev/helix-golf](https://github.com/nik-rev/helix-golf) - Powerful text refactoring with the Helix Editor
-- [nikitavoloboev/nikiv.dev](https://github.com/nikitavoloboev/nikiv.dev) - Personal website, docs
+- [nikitavoloboev/nikiv](https://github.com/nikitavoloboev/nikiv) - Personal website, docs
 - [phuocng/1loc](https://github.com/phuocng/1loc) - What's your favorite JavaScript single LOC (line of code)?
 - [shuding/cobe](https://github.com/shuding/cobe) - 5kB WebGL globe lib.
 - [leerob/site](https://github.com/leerob/site) - My site built with Next.js, Tailwind, and Vercel.
@@ -2215,6 +2219,7 @@
 
 ## Python 
 
+- [apache/airflow](https://github.com/apache/airflow) - Apache Airflow - A platform to programmatically author, schedule, and monitor workflows
 - [nautechsystems/nautilus_trader](https://github.com/nautechsystems/nautilus_trader) - A high-performance algorithmic trading platform and event-driven backtester
 - [ethstorage/storage-contracts-v1](https://github.com/ethstorage/storage-contracts-v1) - 
 - [ethereum/staking-deposit-cli](https://github.com/ethereum/staking-deposit-cli) - Secure key generation for deposits
@@ -2495,6 +2500,15 @@
 
 ## Rust 
 
+- [yoshidan/google-cloud-rust](https://github.com/yoshidan/google-cloud-rust) - Google Cloud Client Libraries for Rust.
+- [srijs/rust-tokio-retry](https://github.com/srijs/rust-tokio-retry) - Extensible, asynchronous retry behaviours for futures/tokio
+- [naomijub/tokio-retry](https://github.com/naomijub/tokio-retry) - Extensible, asynchronous retry behaviours for futures/tokio
+- [trailbaseio/trailbase](https://github.com/trailbaseio/trailbase) - A blazingly fast, open-source application server with type-safe APIs, built-in JS/ES6/TS runtime, realtime, auth, and admin UI built on Rust, SQLite & V8.
+- [nats-io/nats.rs](https://github.com/nats-io/nats.rs) - Rust client for NATS, the cloud native messaging system.
+- [rusty-celery/rusty-celery](https://github.com/rusty-celery/rusty-celery) - 🦀 Rust implementation of Celery for producing and consuming background tasks
+- [densumesh/broccoli](https://github.com/densumesh/broccoli) - A robust message queue system for Rust applications, designed as a Rust alternative to Celery.
+- [geofmureithi/apalis](https://github.com/geofmureithi/apalis) - Simple, extensible multithreaded background job and message processing library for Rust
+- [lzanini/mdbook-katex](https://github.com/lzanini/mdbook-katex) - A preprocessor for mdBook, rendering LaTex equations to HTML at build time.
 - [brylee10/corust](https://github.com/brylee10/corust) - Collaborative code editor and execution environment for Rust
 - [hasura/ndc-sdk-rs](https://github.com/hasura/ndc-sdk-rs) - Hasura NDC SDK for Rust
 - [launchbadge/sqlx](https://github.com/launchbadge/sqlx) - 🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite.
@@ -2670,7 +2684,7 @@
 - [Sunscreen-tech/Sunscreen](https://github.com/Sunscreen-tech/Sunscreen) - A compiler for fully homomorphic encryption and zero knowledge proofs
 - [zkonduit/ezkl](https://github.com/zkonduit/ezkl) - ezkl is an engine for doing inference for deep learning models and other computational graphs in a zk-snark (ZKML). Use it from Python, Javascript, or the command line.
 - [ah-/anne-key](https://github.com/ah-/anne-key) - Firmware for Anne Pro Keyboard written in Rust
-- [gfx-rs/metal-rs](https://github.com/gfx-rs/metal-rs) - Rust bindings for Metal
+- [gfx-rs/metal-rs](https://github.com/gfx-rs/metal-rs) - Deprecated Rust bindings for Metal
 - [quickwit-oss/quickwit](https://github.com/quickwit-oss/quickwit) - Cloud-native search engine for observability. An open-source alternative to Datadog, Elasticsearch, Loki, and Tempo.
 - [databendlabs/databend](https://github.com/databendlabs/databend) - 𝗗𝗮𝘁𝗮, 𝗔𝗻𝗮𝗹𝘆𝘁𝗶𝗰𝘀 & 𝗔𝗜. Modern alternative to Snowflake. Cost-effective and simple for massive-scale analytics. https://databend.com
 - [tommilligan/mdbook-admonish](https://github.com/tommilligan/mdbook-admonish) - A preprocessor for mdbook to add Material Design admonishments.
@@ -3560,6 +3574,7 @@
 
 ## TypeScript 
 
+- [IgnisDa/ryot](https://github.com/IgnisDa/ryot) - Roll your own tracker!
 - [qiuxiang/solidity-ls](https://github.com/qiuxiang/solidity-ls) - Solidity language server.
 - [qiuxiang/coc-solidity](https://github.com/qiuxiang/coc-solidity) - Solidity language server for coc.nvim
 - [dicether/contracts](https://github.com/dicether/contracts) - Smart contracts for Dicether
@@ -3858,7 +3873,6 @@
 - [JonnyBurger/anysticker-tutorials](https://github.com/JonnyBurger/anysticker-tutorials) - In-App tutorial videos for AnySticker
 - [remotion-dev/trailer](https://github.com/remotion-dev/trailer) - The promo video for Remotion
 - [kunalnagarco/imdb-scraper](https://github.com/kunalnagarco/imdb-scraper) - 🎬 An attempt at the most complete IMDb API
-- [markedjs/marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed.
 - [pavlobu/deskreen](https://github.com/pavlobu/deskreen) - Deskreen turns any device with a web browser into a secondary screen for your computer. ⭐️ Star to support our work!
 - [vacuumlabs/cardano-hw-cli](https://github.com/vacuumlabs/cardano-hw-cli) - Cardano CLI tool for hardware wallets
 - [mattermost/mattermost](https://github.com/mattermost/mattermost) - Mattermost is an open source platform for secure collaboration across the entire software development lifecycle..
@@ -3914,6 +3928,7 @@
 - [transloadit/uppy](https://github.com/transloadit/uppy) - The next open source file uploader for web browsers :dog:
 - [chimurai/http-proxy-middleware](https://github.com/chimurai/http-proxy-middleware) - :zap: The one-liner node.js http-proxy middleware for connect, express, next.js and more
 - [Raathigesh/majestic](https://github.com/Raathigesh/majestic) - ⚡ Zero config GUI for Jest
+- [jest-community/jest-extended](https://github.com/jest-community/jest-extended) - Additional Jest matchers 🃏💪
 - [dempfi/ava-playback](https://github.com/dempfi/ava-playback) - 📼 🚀 Record and playback http requests from your ava tests
 - [sindresorhus/type-fest](https://github.com/sindresorhus/type-fest) - A collection of essential TypeScript types
 - [ds300/patch-package](https://github.com/ds300/patch-package) - Fix broken node modules instantly  🏃🏽‍♀️💨
