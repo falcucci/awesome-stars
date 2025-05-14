@@ -81,6 +81,7 @@
 - [Vim Script](#vim-script)
 - [Vim Snippet](#vim-snippet)
 - [Vue](#vue)
+- [WebAssembly](#webassembly)
 - [Zig](#zig)
 
 ## AppleScript 
@@ -123,7 +124,7 @@
 - [raspberrypi/debugprobe](https://github.com/raspberrypi/debugprobe) - Firmware source and binaries for the RP2040-based Debug Probe accessory
 - [ish-app/ish](https://github.com/ish-app/ish) - Linux shell for iOS
 - [qemu/qemu](https://github.com/qemu/qemu) - Official QEMU mirror. Please see https://www.qemu.org/contribute/ for how to submit changes to QEMU. Pull Requests are ignored. Please only use release tarballs from the QEMU website.
-- [valkey-io/valkey](https://github.com/valkey-io/valkey) - A flexible distributed key-value datastore that is optimized for caching and other realtime workloads.
+- [valkey-io/valkey](https://github.com/valkey-io/valkey) - A flexible distributed key-value database that is optimized for caching and other realtime workloads.
 - [hasura/skor](https://github.com/hasura/skor) - Now part of Hasura GraphQL Engine. Listen to postgres events and forward them as JSON payloads to a webhook
 - [zigzap/zap](https://github.com/zigzap/zap) - blazingly fast backends in zig
 - [jakehilborn/displayplacer](https://github.com/jakehilborn/displayplacer) - macOS command line utility to configure multi-display resolutions and arrangements. Essentially XRandR for macOS.
@@ -344,7 +345,7 @@
 
 - [elixir-lang/elixir](https://github.com/elixir-lang/elixir) - Elixir is a dynamic, functional language for building scalable and maintainable applications
 - [phoenixframework/phoenix](https://github.com/phoenixframework/phoenix) - Peace of mind from prototype to production
-- [plausible/analytics](https://github.com/plausible/analytics) - Simple, open source, lightweight (&lt; 1 KB) and privacy-friendly web analytics alternative to Google Analytics.
+- [plausible/analytics](https://github.com/plausible/analytics) - Simple, open source, lightweight and privacy-friendly web analytics alternative to Google Analytics.
 - [mhanberg/lazyasdf](https://github.com/mhanberg/lazyasdf) - Experimental TUI for asdf: a project to learn the art of the TUI.
 - [Phineas/lanyard](https://github.com/Phineas/lanyard) - 🏷️   Expose your Discord presence and activities to a RESTful API and WebSocket in less than 10 seconds
 - [h4cc/awesome-elixir](https://github.com/h4cc/awesome-elixir) - A curated list of amazingly awesome Elixir and Erlang libraries, resources and shiny things. Updates:
@@ -740,7 +741,7 @@
 - [munificent/craftinginterpreters](https://github.com/munificent/craftinginterpreters) - Repository for the book "Crafting Interpreters"
 - [anushkaparadkar/Thanos-snap-effect](https://github.com/anushkaparadkar/Thanos-snap-effect) - Thanos snap effect using Javascript and chance.js.
 - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
-- [ayushnix/kangae](https://github.com/ayushnix/kangae) - a lightweight microblog theme for zola
+- [ayushnix/kangae](https://github.com/ayushnix/kangae) - [migrated to codeberg and git.sr.ht] a lightweight microblog theme for zola
 - [infinum/ios-viper-xcode-templates](https://github.com/infinum/ios-viper-xcode-templates) - Used for generating template files for the VIPER architecture, which solves the common Massive View Controller issues in iOS apps.
 - [italia/designers.italia.it](https://github.com/italia/designers.italia.it) - Designers Italia mette a disposizione la conoscenza e gli strumenti per progettare e realizzare servizi pubblici centrati sulle necessità delle persone
 - [calcom/cal.fm](https://github.com/calcom/cal.fm) - The official Cal.com Work Playlist, only on Cal.fm
@@ -777,6 +778,7 @@
 
 ## Handlebars 
 
+- [JorelAli/mdBook-pagetoc](https://github.com/JorelAli/mdBook-pagetoc) - A page table of contents for mdBook
 - [catppuccin/mdBook](https://github.com/catppuccin/mdBook) - 🎊 Soothing pastel theme for mdBook
 - [ibeatai/beat-ai](https://github.com/ibeatai/beat-ai) - &lt;Beat AI&gt; 又名 &lt;零生万物&gt; , 是一本专属于软件开发工程师的 AI 入门圣经，手把手带你上手写 AI。从神经网络到大模型，从高层设计到微观原理，从工程实现到算法，学完后，你会发现 AI 也并不是想象中那么高不可攀、无法战胜，Just beat it !
 - [rust-unofficial/patterns](https://github.com/rust-unofficial/patterns) - A catalogue of Rust design patterns, anti-patterns and idioms
@@ -912,6 +914,7 @@
 
 ## JavaScript 
 
+- [ajaxorg/ace](https://github.com/ajaxorg/ace) - Ace (Ajax.org Cloud9 Editor)
 - [ethereum/tests](https://github.com/ethereum/tests) - Common tests for all Ethereum implementations
 - [sindresorhus/sketch-icon-preview](https://github.com/sindresorhus/sketch-icon-preview) - Sketch plugin to preview macOS app icons in the Dock using the Icon Preview app
 - [polkadot-developers/substrate-developer-hub.github.io](https://github.com/polkadot-developers/substrate-developer-hub.github.io) - Substrate Documentation
@@ -934,7 +937,7 @@
 - [zed-industries/zed-fonts](https://github.com/zed-industries/zed-fonts) - The Zed Mono and Sans typefaces, custom built from Iosevka
 - [antonioru/beautiful-react-hooks](https://github.com/antonioru/beautiful-react-hooks) - 🔥 A collection of beautiful and (hopefully) useful React hooks to speed-up your components and hooks development 🔥
 - [lowdefy/lowdefy](https://github.com/lowdefy/lowdefy) - The config web stack for business apps - build internal tools, client portals, web apps, admin panels, dashboards, web sites, and CRUD apps with YAML or JSON.
-- [mozilla/gecko-dev](https://github.com/mozilla/gecko-dev) - Read-only Git mirror of the Mercurial gecko repositories at https://hg.mozilla.org. How to contribute: https://firefox-source-docs.mozilla.org/contributing/contribution_quickref.html
+- [mozilla/gecko-dev](https://github.com/mozilla/gecko-dev) - DEPRECATED by https://github.com/mozilla-firefox/firefox.  Read-only Git mirror of the Mercurial gecko repositories at https://hg.mozilla.org
 - [okmttdhr/rich-text-to-markdown](https://github.com/okmttdhr/rich-text-to-markdown) - Rich Text to Markdown
 - [w3b3d3v/web3-bootcamp-platform](https://github.com/w3b3d3v/web3-bootcamp-platform) - 
 - [dooovid/smoothcaret](https://github.com/dooovid/smoothcaret) - A smooth caret library for javascript
@@ -968,7 +971,6 @@
 - [apexcharts/react-apexcharts](https://github.com/apexcharts/react-apexcharts) - 📊 React Component for ApexCharts
 - [shobrook/ChatOverflow](https://github.com/shobrook/ChatOverflow) - AI-generated answers to every coding question
 - [AnishDe12020/slapcommands](https://github.com/AnishDe12020/slapcommands) - 
-- [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - 🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library
 - [codedthemes/mantis-free-react-admin-template](https://github.com/codedthemes/mantis-free-react-admin-template) - Mantis is React Dashboard Template having combine tone of 2 popular react component library - MUI and Ant Design principles.
 - [kulkarniankita/discover-coffee-stores](https://github.com/kulkarniankita/discover-coffee-stores) - This app allows you to discover coffee stores, check out the course http://bit.ly/nextjs-udemy-ankita on how to build this
 - [tientran0019/boilerplate-nextjs-antd-less](https://github.com/tientran0019/boilerplate-nextjs-antd-less) - A boilerplate for Reactjs app using nextjs, redux, antd, less
@@ -1009,7 +1011,7 @@
 - [hapijs/joi-date](https://github.com/hapijs/joi-date) - Joi extensions for dates
 - [hasura/hasura-k8s-stack](https://github.com/hasura/hasura-k8s-stack) - A feature-complete Hasura stack on Kubernetes
 - [hasura/hasura-actions-examples](https://github.com/hasura/hasura-actions-examples) - Examples of handling custom business logic with Hasura Actions
-- [iuccio/csvToJson](https://github.com/iuccio/csvToJson) - Convert CSV file to JSON
+- [iuccio/csvToJson](https://github.com/iuccio/csvToJson) - Convert CSV file to JSON https://www.npmjs.com/package/convert-csv-to-json
 - [falcucci/transactions-sample](https://github.com/falcucci/transactions-sample) - Sample transaction service.
 - [mafintosh/why-is-node-running](https://github.com/mafintosh/why-is-node-running) - Node is running but you don't know why? why-is-node-running is here to help you.
 - [mafintosh/torrent-stream](https://github.com/mafintosh/torrent-stream) - The low level streaming torrent engine that peerflix uses
@@ -1779,7 +1781,7 @@
 - [stevearc/oil.nvim](https://github.com/stevearc/oil.nvim) - Neovim file explorer: edit your filesystem like a buffer
 - [epwalsh/pomo.nvim](https://github.com/epwalsh/pomo.nvim) - :new: :stopwatch: A simple, customizable pomodoro timer for Neovim, written in Lua, with nvim-notify, lualine, and telescope integrations
 - [Hubro/nvim-splitrun](https://github.com/Hubro/nvim-splitrun) - Super simple plugin for running a command in a new split
-- [m4xshen/hardtime.nvim](https://github.com/m4xshen/hardtime.nvim) - Establish good command workflow and quit bad habit
+- [m4xshen/hardtime.nvim](https://github.com/m4xshen/hardtime.nvim) - Break your bad habits
 - [jbyuki/nabla.nvim](https://github.com/jbyuki/nabla.nvim) - take your scientific notes :pencil2: in Neovim
 - [MunifTanjim/nougat.nvim](https://github.com/MunifTanjim/nougat.nvim) - 🍫 Hyperextensible Statusline / Tabline / Winbar for Neovim 🚀
 - [stevearc/conform.nvim](https://github.com/stevearc/conform.nvim) - Lightweight yet powerful formatter plugin for Neovim
@@ -1816,7 +1818,7 @@
 - [simrat39/rust-tools.nvim](https://github.com/simrat39/rust-tools.nvim) - Tools for better development in rust using neovim's builtin lsp
 - [Alloyed/lua-lsp](https://github.com/Alloyed/lua-lsp) - A Lua language server
 - [LuaLS/lua-language-server](https://github.com/LuaLS/lua-language-server) - A language server that offers Lua language support - programmed in Lua
-- [williamboman/mason-lspconfig.nvim](https://github.com/williamboman/mason-lspconfig.nvim) - Extension to mason.nvim that makes it easier to use lspconfig with mason.nvim.
+- [mason-org/mason-lspconfig.nvim](https://github.com/mason-org/mason-lspconfig.nvim) - Extension to mason.nvim that makes it easier to use lspconfig with mason.nvim.
 - [rose-pine/neovim](https://github.com/rose-pine/neovim) - Soho vibes for Neovim
 - [nvim-tree/nvim-web-devicons](https://github.com/nvim-tree/nvim-web-devicons) - Provides Nerd Font icons (glyphs) for use by neovim plugins
 - [Abstract-IDE/Abstract-cs](https://github.com/Abstract-IDE/Abstract-cs) - Colorscheme for (neo)vim written in lua, specially made for roshnivim with Tree-sitter support.
@@ -1846,7 +1848,7 @@
 - [nvim-lualine/lualine.nvim](https://github.com/nvim-lualine/lualine.nvim) - A blazing fast and easy to configure neovim statusline plugin written in pure lua.
 - [jghauser/kitty-runner.nvim](https://github.com/jghauser/kitty-runner.nvim) - A neovim plugin allowing you to easily send lines from the current buffer to another kitty terminal
 - [ThePrimeagen/harpoon](https://github.com/ThePrimeagen/harpoon) - 
-- [williamboman/mason.nvim](https://github.com/williamboman/mason.nvim) - Portable package manager for Neovim that runs everywhere Neovim runs. Easily install and manage LSP servers, DAP servers, linters, and formatters.
+- [mason-org/mason.nvim](https://github.com/mason-org/mason.nvim) - Portable package manager for Neovim that runs everywhere Neovim runs. Easily install and manage LSP servers, DAP servers, linters, and formatters.
 - [hadronized/hop.nvim](https://github.com/hadronized/hop.nvim) - Neovim motions on speed!
 - [neovim/nvim-lspconfig](https://github.com/neovim/nvim-lspconfig) - Quickstart configs for Nvim LSP
 - [Bekaboo/dropbar.nvim](https://github.com/Bekaboo/dropbar.nvim) - IDE-like breadcrumbs, out of the box
@@ -1918,7 +1920,7 @@
 ## MDX 
 
 - [nik-rev/helix-golf](https://github.com/nik-rev/helix-golf) - Powerful text refactoring with the Helix Editor
-- [nikitavoloboev/nikiv](https://github.com/nikitavoloboev/nikiv) - Personal website, docs
+- [nikitavoloboev/nikiv](https://github.com/nikitavoloboev/nikiv) - Personal website, docs, tools
 - [phuocng/1loc](https://github.com/phuocng/1loc) - What's your favorite JavaScript single LOC (line of code)?
 - [shuding/cobe](https://github.com/shuding/cobe) - 5kB WebGL globe lib.
 - [leerob/site](https://github.com/leerob/site) - My site built with Next.js, Tailwind, and Vercel.
@@ -1943,7 +1945,7 @@
 
 ## Mojo 
 
-- [modular/max](https://github.com/modular/max) - The MAX Platform (includes Mojo)
+- [modular/modular](https://github.com/modular/modular) - The Modular Platform (includes MAX & Mojo)
 
 ## Nim 
 
@@ -1952,6 +1954,7 @@
 ## Nix 
 
 - [input-output-hk/iogx](https://github.com/input-output-hk/iogx) - Flake Template for Haskell Projects
+- [chmln/nvim-ctrl](https://github.com/chmln/nvim-ctrl) - Control neovim instances using the command line.
 
 ## OCaml 
 
@@ -2097,6 +2100,7 @@
 - [you-dont-need-x/you-dont-need-lodash](https://github.com/you-dont-need-x/you-dont-need-lodash) - The next evolutive state of, "You Might Not Need Lodash", because you definitely don't need Lodash.
 - [LuanP/development-guidelines](https://github.com/LuanP/development-guidelines) - Development guidelines
 - [tchapi/markdown-cheatsheet](https://github.com/tchapi/markdown-cheatsheet) - Markdown Cheatsheet for Github Readme.md
+- [paperwork/paperwork](https://github.com/paperwork/paperwork) - 
 - [JoseAlcerreca/android-lifecycles](https://github.com/JoseAlcerreca/android-lifecycles) - 
 - [hackstoic/golang-open-source-projects](https://github.com/hackstoic/golang-open-source-projects) - 为互联网IT人打造的中文版awesome-go
 - [ribot/android-guidelines](https://github.com/ribot/android-guidelines) - Architecture and code guidelines we use at ribot when developing for Android
@@ -2298,7 +2302,7 @@
 - [vimsence/vimsence](https://github.com/vimsence/vimsence) - Discord Rich Presence plugin for Vim
 - [scheb/beer-analytics](https://github.com/scheb/beer-analytics) - Analyzing the composition of beer recipes and visualize results in a human-friendly way 🕵️🍺
 - [soxoj/maigret](https://github.com/soxoj/maigret) - 🕵️‍♂️ Collect a dossier on a person by username from thousands of sites
-- [shobrook/rebound](https://github.com/shobrook/rebound) - Get instant Stack Overflow results whenever an exception is thrown
+- [shobrook/rebound](https://github.com/shobrook/rebound) - Instant Stack Overflow results whenever an exception is thrown
 - [vwxyzjn/cleanrl](https://github.com/vwxyzjn/cleanrl) - High-quality single file implementation of Deep Reinforcement Learning algorithms with research-friendly features (PPO, DQN, C51, DDPG, TD3, SAC, PPG)
 - [PyO3/setuptools-rust](https://github.com/PyO3/setuptools-rust) - Setuptools plugin for Rust support
 - [faustomorales/keras-ocr](https://github.com/faustomorales/keras-ocr) - A packaged and flexible version of the CRAFT text detector and Keras CRNN recognition model.
@@ -2500,6 +2504,17 @@
 
 ## Rust 
 
+- [tuono-labs/tuono](https://github.com/tuono-labs/tuono) - ⚡ Modern fullstack web framework based on Rust and React
+- [zslayton/cron](https://github.com/zslayton/cron) - A cron expression parser in Rust
+- [Keats/jsonwebtoken](https://github.com/Keats/jsonwebtoken) - JWT lib in rust
+- [BersisSe/feather](https://github.com/BersisSe/feather) - Feather🪶: A Rust web framework that does not use async
+- [dexloom/loom](https://github.com/dexloom/loom) - MEV Bot based on Alloy
+- [alchemyplatform/rundler](https://github.com/alchemyplatform/rundler) - An ERC-4337 Bundler in Rust
+- [RealAtix/mdbook-private](https://github.com/RealAtix/mdbook-private) - A preprocessor that supports private sections
+- [JoelCourtney/mdbook-kroki-preprocessor](https://github.com/JoelCourtney/mdbook-kroki-preprocessor) - Render Kroki diagrams from files or code blocks in mdbook
+- [dylanowen/mdbook-graphviz](https://github.com/dylanowen/mdbook-graphviz) - 
+- [importantimport/hatsu](https://github.com/importantimport/hatsu) - 🩵 Self-hosted & Fully-automated ActivityPub Bridge for Static Sites.
+- [getzola/zola](https://github.com/getzola/zola) - A fast static site generator in a single binary with everything built-in. https://www.getzola.org
 - [yoshidan/google-cloud-rust](https://github.com/yoshidan/google-cloud-rust) - Google Cloud Client Libraries for Rust.
 - [srijs/rust-tokio-retry](https://github.com/srijs/rust-tokio-retry) - Extensible, asynchronous retry behaviours for futures/tokio
 - [naomijub/tokio-retry](https://github.com/naomijub/tokio-retry) - Extensible, asynchronous retry behaviours for futures/tokio
@@ -2534,10 +2549,9 @@
 - [sigp/tree_hash](https://github.com/sigp/tree_hash) - SSZ-compatible tree hash implementation optimised for speed and security
 - [rust-random/rand](https://github.com/rust-random/rand) - A Rust library for random number generation.
 - [matter-labs/anvil-zksync](https://github.com/matter-labs/anvil-zksync) - In-memory node that can be used for integration testing and debugging.
-- [piotrostr/listen](https://github.com/piotrostr/listen) - Solana Swiss Army Knife
 - [foundry-rs/foundry](https://github.com/foundry-rs/foundry) - Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.
 - [tokio-rs/tracing](https://github.com/tokio-rs/tracing) - Application level tracing for Rust.
-- [alloy-rs/book](https://github.com/alloy-rs/book) - Book on all things Alloy
+- [alloy-rs/docs](https://github.com/alloy-rs/docs) - Book on all things Alloy
 - [alloy-rs/examples](https://github.com/alloy-rs/examples) - Example code for using alloy and alloy-core
 - [alloy-rs/chains](https://github.com/alloy-rs/chains) - Canonical type definitions for EIP-155 chains
 - [alloy-rs/rlp](https://github.com/alloy-rs/rlp) - Fast implementation of Ethereum RLP serialization
@@ -2606,7 +2620,6 @@
 - [Sovereign-Labs/sovereign-sdk](https://github.com/Sovereign-Labs/sovereign-sdk) - A framework for building seamlessly scalable and interoperable rollups that can run on any blockchain
 - [cometbft/tendermint-rs](https://github.com/cometbft/tendermint-rs) - Client libraries for Tendermint/CometBFT in Rust!
 - [Myriad-Dreamin/tinymist](https://github.com/Myriad-Dreamin/tinymist) - Tinymist [ˈtaɪni mɪst] is an integrated language service for Typst [taɪpst].
-- [makepad/makepad](https://github.com/makepad/makepad) - Makepad is a creative software development platform for Rust that compiles to wasm/webGL, osx/metal, windows/dx11 linux/opengl
 - [superlistapp/super_native_extensions](https://github.com/superlistapp/super_native_extensions) - Native drag & drop, clipboard access and context menu.
 - [ProvableHQ/snarkOS](https://github.com/ProvableHQ/snarkOS) - A Decentralized Operating System for ZK Applications
 - [GraphiteEditor/Graphite](https://github.com/GraphiteEditor/Graphite) - 2D vector & raster editor that melds traditional layers & tools with a modern node-based, non-destructive, procedural workflow.
@@ -2643,7 +2656,7 @@
 - [noir-lang/noir](https://github.com/noir-lang/noir) - Noir is a domain specific language for zero knowledge proofs
 - [near/nearcore](https://github.com/near/nearcore) - Reference client for NEAR Protocol
 - [tweag/nickel](https://github.com/tweag/nickel) - Better configuration for less
-- [Automattic/harper](https://github.com/Automattic/harper) - The Grammar Checker for Developers
+- [Automattic/harper](https://github.com/Automattic/harper) - Offline, privacy-first grammar checker. Fast, open-source, Rust-powered
 - [paritytech/psvm](https://github.com/paritytech/psvm) - Polkadot SDK Version Manager
 - [paseo-network/runtimes](https://github.com/paseo-network/runtimes) - Runtimes for Polkadot community testnet
 - [flox/flox](https://github.com/flox/flox) - Developer environments you can take with you
@@ -2892,7 +2905,6 @@
 - [oppiliappan/statix](https://github.com/oppiliappan/statix) - lints and suggestions for the nix programming language
 - [oppiliappan/dijo](https://github.com/oppiliappan/dijo) - scriptable, curses-based, digital habit tracker
 - [m1guelpf/tinyvector](https://github.com/m1guelpf/tinyvector) - A tiny embedding database in pure Rust.
-- [chmln/nvim-ctrl](https://github.com/chmln/nvim-ctrl) - Control neovim instances using the command line.
 - [headcrab-rs/headcrab](https://github.com/headcrab-rs/headcrab) - A modern Rust debugging library 🦀
 - [Gekkio/mooneye-gb](https://github.com/Gekkio/mooneye-gb) - A Game Boy research project and emulator written in Rust
 - [maplibre/maplibre-rs](https://github.com/maplibre/maplibre-rs) - Experimental Maps for Web, Mobile and Desktop
@@ -2971,7 +2983,7 @@
 - [rust-skia/rust-skia](https://github.com/rust-skia/rust-skia) - Rust Bindings for the Skia Graphics Library
 - [BloopAI/bloop](https://github.com/BloopAI/bloop) - bloop is a fast code search engine written in Rust.
 - [Brendonovich/prisma-client-rust](https://github.com/Brendonovich/prisma-client-rust) - Type-safe database access for Rust
-- [lsk569937453/silverwind](https://github.com/lsk569937453/silverwind) - The High Performance Proxy/Load Balancer
+- [lsk569937453/Spire](https://github.com/lsk569937453/Spire) - The High Performance Proxy/Load Balancer
 - [bytesnake/vim-graphical-preview](https://github.com/bytesnake/vim-graphical-preview) - Small plugin for Vim to display graphics with SIXEL characters
 - [wezterm/wezterm](https://github.com/wezterm/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
 - [withoutboats/notty](https://github.com/withoutboats/notty) - A new kind of terminal
@@ -3240,7 +3252,6 @@
 - [martinber/noaa-apt](https://github.com/martinber/noaa-apt) - NOAA APT weather satellite image decoder, for Linux, Windows, RPi 2+, OSX and Android+Termux
 - [ratel-rust/ratel-core](https://github.com/ratel-rust/ratel-core) - High performance JavaScript to JavaScript compiler with a Rust core
 - [rillrate-fossil/rillrate-py](https://github.com/rillrate-fossil/rillrate-py) - Real-time UI for bots and tools / Python bindings
-- [rillrate-fossil/rillrate](https://github.com/rillrate-fossil/rillrate) - Real-time UI for bots and tools
 - [nagisa/msi-rgb](https://github.com/nagisa/msi-rgb) - Linux utility for controlling RGB header on select MSI motherboards
 - [NicolasLM/nucleon](https://github.com/NicolasLM/nucleon) - Dynamic load balancer written in Rust
 - [alexliesenfeld/httpmock](https://github.com/alexliesenfeld/httpmock) - HTTP mocking library for Rust
@@ -3389,7 +3400,7 @@
 - [blinklabs-io/docker-cardano-node](https://github.com/blinklabs-io/docker-cardano-node) - Builds Intersect's Haskell cardano-node from source using cabal on debian
 - [nix-community/nixos-anywhere](https://github.com/nix-community/nixos-anywhere) - Install NixOS everywhere via SSH [maintainers=@Mic92, @Lassulus, @phaer, @Enzime]
 - [dylanaraps/fff](https://github.com/dylanaraps/fff) - 📁 A simple file manager written in bash.
-- [chrisgrieser/finder-vim-mode](https://github.com/chrisgrieser/finder-vim-mode) - Feature-rich mouseless control of macOS Finder, inspired by vim/ranger.
+- [chrisgrieser/finder-vim-mode](https://github.com/chrisgrieser/finder-vim-mode) - Feature-rich control of macOS Finder without the mouse, inspired by vim and ranger.
 - [codespaces-examples/rust](https://github.com/codespaces-examples/rust) - 
 - [bigH/git-fuzzy](https://github.com/bigH/git-fuzzy) - interactive `git` with the help of `fzf`
 - [hrantzsch/vimclip](https://github.com/hrantzsch/vimclip) - Never type outside vim again
@@ -3427,7 +3438,6 @@
 - [fregante/web-ext-submit](https://github.com/fregante/web-ext-submit) - Wrapper around Mozilla’s web-ext to submit extensions to AMO.
 - [Appdynamics/api-commandline-tool](https://github.com/Appdynamics/api-commandline-tool) - AppDynamics Command Line Tool
 - [AliyunContainerService/redis-cluster](https://github.com/AliyunContainerService/redis-cluster) - HA Redis Cluster with Sentinel by Docker Compose
-- [paperwork/paperwork](https://github.com/paperwork/paperwork) - Paperwork - OpenSource note-taking & archiving alternative to Evernote, Microsoft OneNote & Google Keep
 - [heroku/heroku-buildpack-nodejs](https://github.com/heroku/heroku-buildpack-nodejs) - Heroku's classic buildpack for Node.js applications.
 - [heroku/heroku-buildpack-go](https://github.com/heroku/heroku-buildpack-go) - Heroku's classic buildpack for Go applications.
 - [jayphelps/git-blame-someone-else](https://github.com/jayphelps/git-blame-someone-else) - Blame someone else for your bad code.
@@ -3494,6 +3504,7 @@
 - [m-rgba/hasura-django-starter](https://github.com/m-rgba/hasura-django-starter) - The best of Hasura's instant, realtime GraphQL API meshed with Django's built-in auth model and the ability to extend logic across the two services.
 - [codicocodes/dotfyle](https://github.com/codicocodes/dotfyle) - Find the best Neovim plugins
 - [raguay/ModalFileManager](https://github.com/raguay/ModalFileManager) - A file manager built using Svelte and Wails. It has hotkeys that are modal just like Vim and NeoVim.
+- [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - 🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library
 - [npmhub/npmhub](https://github.com/npmhub/npmhub) - 🔎 A browser extension to explore npm dependencies on GitHub repos
 
 ## Swift 
@@ -3574,12 +3585,17 @@
 
 ## TypeScript 
 
+- [vercel/vercel](https://github.com/vercel/vercel) - Develop. Preview. Ship.
+- [ahmedkhaleel2004/gitdiagram](https://github.com/ahmedkhaleel2004/gitdiagram) - Free, simple, fast interactive diagrams for any GitHub repository
+- [newsiberian/apollo-link-token-refresh](https://github.com/newsiberian/apollo-link-token-refresh) - Apollo Link that performs access tokens (JWT) renew
+- [peaceiris/actions-mdbook](https://github.com/peaceiris/actions-mdbook) - GitHub Actions for mdBook (rust-lang/mdBook) ⚡️ Setup mdBook quickly and build your site fast. Linux (Ubuntu), macOS, and Windows are supported.
 - [IgnisDa/ryot](https://github.com/IgnisDa/ryot) - Roll your own tracker!
 - [qiuxiang/solidity-ls](https://github.com/qiuxiang/solidity-ls) - Solidity language server.
 - [qiuxiang/coc-solidity](https://github.com/qiuxiang/coc-solidity) - Solidity language server for coc.nvim
 - [dicether/contracts](https://github.com/dicether/contracts) - Smart contracts for Dicether
 - [ygwyg/diverce](https://github.com/ygwyg/diverce) - vercel nextjs -&gt; cloudflare workers
 - [duneanalytics/evm.codes](https://github.com/duneanalytics/evm.codes) - Source for evm.codes an Ethereum Virtual Machine Opcodes Interactive Reference
+- [piotrostr/listen](https://github.com/piotrostr/listen) - Solana Swiss Army Knife
 - [kkiyama117/coc-toml](https://github.com/kkiyama117/coc-toml) - Toml extension for coc-nvim, using taplo for lsp engine
 - [rhysd/action-setup-vim](https://github.com/rhysd/action-setup-vim) - GitHub Action to setup Vim or Neovim on Linux, macOS and Windows for testing Vim plugins
 - [samwho/visualisations](https://github.com/samwho/visualisations) - Code behind my visualisation blog posts
@@ -3627,7 +3643,7 @@
 - [butaneprotocol/translucent-compat](https://github.com/butaneprotocol/translucent-compat) - Deprecated in favour of blaze https://github.com/butaneprotocol/blaze-cardano
 - [vscode-neovim/vscode-neovim](https://github.com/vscode-neovim/vscode-neovim) - Vim mode for VSCode, powered by Neovim
 - [daltonmenezes/aura-theme](https://github.com/daltonmenezes/aura-theme) - ✨ A beautiful dark theme for your favorite apps.
-- [tldraw/tldraw](https://github.com/tldraw/tldraw) - whiteboard SDK / infinite canvas SDK
+- [tldraw/tldraw](https://github.com/tldraw/tldraw) - very good whiteboard SDK / infinite canvas SDK
 - [kubero-dev/kubero](https://github.com/kubero-dev/kubero) - A free and self-hosted PaaS alternative to Heroku / Netlify / Coolify / Vercel / Dokku / Portainer running on Kubernetes
 - [smolck/uivonim](https://github.com/smolck/uivonim) - Fork of the Veonim Neovim GUI
 - [actions/dependency-review-action](https://github.com/actions/dependency-review-action) - A GitHub Action for detecting vulnerable dependencies and invalid licenses in your PRs
@@ -3671,7 +3687,6 @@
 - [elrumordelaluz/reactour](https://github.com/elrumordelaluz/reactour) - Tourist Guide into your React Components
 - [arshad-yaseen/markdx](https://github.com/arshad-yaseen/markdx) - Simple, fast and flexible AI-powered Markdown editor
 - [abdelhameedhamdy/nextjs-wg-livemap](https://github.com/abdelhameedhamdy/nextjs-wg-livemap) - 
-- [wundergraph/wundergraph](https://github.com/wundergraph/wundergraph) - WunderGraph is a Backend for Frontend Framework to optimize frontend, fullstack and backend developer workflows through API Composition.
 - [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth) - Authentication for the Web.
 - [AmruthPillai/next-auth-hasura-adapter](https://github.com/AmruthPillai/next-auth-hasura-adapter) - This is the Hasura Adapter for next-auth. This package can only be used in conjunction with the primary next-auth package. It is not a standalone package.
 - [bash-lsp/bash-language-server](https://github.com/bash-lsp/bash-language-server) - A language server for Bash
@@ -4326,6 +4341,10 @@
 - [sdras/page-transitions-simple](https://github.com/sdras/page-transitions-simple) - Vue/Nuxt Page Transitions- Simple Demonstration
 - [sdras/page-transitions-travelapp](https://github.com/sdras/page-transitions-travelapp) - Travel App, Native-like Page Transitions
 - [tipsy/profile-summary-for-github](https://github.com/tipsy/profile-summary-for-github) - Tool for visualizing GitHub profiles
+
+## WebAssembly 
+
+- [makepad/makepad](https://github.com/makepad/makepad) - Makepad is a creative software development platform for Rust that compiles to wasm/webGL, osx/metal, windows/dx11 linux/opengl
 
 ## Zig 
 
