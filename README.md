@@ -408,7 +408,7 @@
 - [99designs/gqlgen](https://github.com/99designs/gqlgen) - go generate based graphql server library
 - [matelang/jwt-go-aws-kms](https://github.com/matelang/jwt-go-aws-kms) - AWS KMS adapter for https://github.com/golang-jwt/jwt GoLang Json Web Token(JWT) Library
 - [aws/aws-sdk-go-v2](https://github.com/aws/aws-sdk-go-v2) - AWS SDK for the Go programming language.
-- [subzero112233/aws-golang-lambda](https://github.com/subzero112233/aws-golang-lambda) - 
+- [reshefsharvit/aws-golang-lambda](https://github.com/reshefsharvit/aws-golang-lambda) - 
 - [aws/aws-lambda-go](https://github.com/aws/aws-lambda-go) - Libraries, samples and tools to help Go developers develop AWS Lambda functions.
 - [kubevela/terraform-controller](https://github.com/kubevela/terraform-controller) - A Kubernetes Terraform Controller, managing Cloud resources through Kubernetes
 - [ariga/atlas](https://github.com/ariga/atlas) - Manage your database schema as code
@@ -781,7 +781,7 @@
 
 - [JorelAli/mdBook-pagetoc](https://github.com/JorelAli/mdBook-pagetoc) - A page table of contents for mdBook
 - [catppuccin/mdBook](https://github.com/catppuccin/mdBook) - 🎊 Soothing pastel theme for mdBook
-- [ibeatai/beat-ai](https://github.com/ibeatai/beat-ai) - &lt;Beat AI&gt; 又名 &lt;零生万物&gt; , 是一本专属于软件开发工程师的 AI 入门圣经，手把手带你上手写 AI。从神经网络到大模型，从高层设计到微观原理，从工程实现到算法，学完后，你会发现 AI 也并不是想象中那么高不可攀、无法战胜，Just beat it !
+- [ibeatai/BeatAI](https://github.com/ibeatai/BeatAI) - 持续分享/翻译 AI 领域的优秀内容，帮你征服 AI，Just beat it! 欢迎 star 订阅.
 - [rust-unofficial/patterns](https://github.com/rust-unofficial/patterns) - A catalogue of Rust design patterns, anti-patterns and idioms
 - [DannyDainton/basic-newman-slack-bot](https://github.com/DannyDainton/basic-newman-slack-bot) - A basic express app that allows you to run Postman collections against different environments with Newman, straight from Slack.
 
@@ -1603,7 +1603,6 @@
 - [oracle/node-oracledb](https://github.com/oracle/node-oracledb) - Oracle Database driver for Node.js maintained by Oracle Corp.
 - [knex/knex](https://github.com/knex/knex) - A query builder for PostgreSQL, MySQL, CockroachDB, SQL Server, SQLite3 and Oracle, designed to be flexible, portable, and fun to use.
 - [evilsoft/crocks](https://github.com/evilsoft/crocks) - A collection of well known Algebraic Data Types for your utter enjoyment.
-- [Kong/insomnia](https://github.com/Kong/insomnia) - The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE and gRPC. With Cloud, Local and Git storage.
 - [koush/electron-chrome](https://github.com/koush/electron-chrome) - 
 - [firebase/functions-samples](https://github.com/firebase/functions-samples) - Collection of sample apps showcasing popular use cases using Cloud Functions for Firebase
 - [expressjs/morgan](https://github.com/expressjs/morgan) - HTTP request logger middleware for node.js
@@ -3053,8 +3052,8 @@
 - [autumnai/leaf](https://github.com/autumnai/leaf) - Open Machine Intelligence Framework for Hackers. (GPU/CPU)
 - [ogham/dog](https://github.com/ogham/dog) - A command-line DNS client.
 - [Wilfred/difftastic](https://github.com/Wilfred/difftastic) - a structural diff that understands syntax 🟥🟩
-- [rapiz1/catp](https://github.com/rapiz1/catp) - Print the output of a running process
-- [rapiz1/rathole](https://github.com/rapiz1/rathole) - A lightweight and high-performance reverse proxy for NAT traversal, written in Rust. An alternative to frp and ngrok.
+- [yujqiao/catp](https://github.com/yujqiao/catp) - Print the output of a running process
+- [yujqiao/rathole](https://github.com/yujqiao/rathole) - A lightweight and high-performance reverse proxy for NAT traversal, written in Rust. An alternative to frp and ngrok.
 - [libreddit/libreddit](https://github.com/libreddit/libreddit) - Private front-end for Reddit
 - [Y2Z/monolith](https://github.com/Y2Z/monolith) - ⬛️ CLI tool and library for saving complete web pages as a single HTML file
 - [elkowar/eww](https://github.com/elkowar/eww) - ElKowars wacky widgets
@@ -3399,7 +3398,7 @@
 - [woofpool/cardano-private-testnet-setup](https://github.com/woofpool/cardano-private-testnet-setup) - Setup guide to create private Cardano testnet and run sample transactions including a Plutus contract example.  This environment can be used for local development and learning.
 - [RoryNesbitt/dotfyle-cli](https://github.com/RoryNesbitt/dotfyle-cli) - Command line tool for Neovim multi-config management
 - [blinklabs-io/docker-cardano-node](https://github.com/blinklabs-io/docker-cardano-node) - Builds Intersect's Haskell cardano-node from source using cabal on debian
-- [nix-community/nixos-anywhere](https://github.com/nix-community/nixos-anywhere) - Install NixOS everywhere via SSH [maintainers=@Mic92, @Lassulus, @phaer, @Enzime]
+- [nix-community/nixos-anywhere](https://github.com/nix-community/nixos-anywhere) - Install NixOS everywhere via SSH [maintainers=@Mic92 @Lassulus @phaer @Enzime]
 - [dylanaraps/fff](https://github.com/dylanaraps/fff) - 📁 A simple file manager written in bash.
 - [chrisgrieser/finder-vim-mode](https://github.com/chrisgrieser/finder-vim-mode) - Feature-rich control of macOS Finder without the mouse, inspired by vim and ranger.
 - [codespaces-examples/rust](https://github.com/codespaces-examples/rust) - 
@@ -4062,6 +4061,7 @@
 - [electron-react-boilerplate/electron-react-boilerplate](https://github.com/electron-react-boilerplate/electron-react-boilerplate) - A Foundation for Scalable Cross-Platform Apps
 - [GitbookIO/gitbook](https://github.com/GitbookIO/gitbook) - The open source frontend for GitBook doc sites
 - [mockoon/mockoon](https://github.com/mockoon/mockoon) - Mockoon is the easiest and quickest way to run mock APIs locally. No remote deployment, no account required, open source.
+- [Kong/insomnia](https://github.com/Kong/insomnia) - The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE and gRPC. With Cloud, Local and Git storage.
 - [firebase/firebase-tools](https://github.com/firebase/firebase-tools) - The Firebase Command Line Tools
 - [getsentry/sentry-javascript](https://github.com/getsentry/sentry-javascript) - Official Sentry SDKs for JavaScript
 - [angular/webdriver-manager](https://github.com/angular/webdriver-manager) - A binary manager for E2E testing
