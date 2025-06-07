@@ -381,7 +381,6 @@
 ## Gleam 
 
 - [rvcas/ids](https://github.com/rvcas/ids) - ✨ Unique IDs for Gleam
-- [aiken-lang/stdlib](https://github.com/aiken-lang/stdlib) - The Aiken Standard Library
 
 ## Go 
 
@@ -441,7 +440,7 @@
 - [dagger/dagger](https://github.com/dagger/dagger) - An open-source runtime for composable workflows. Great for AI agents and CI/CD.
 - [gokcehan/lf](https://github.com/gokcehan/lf) - Terminal file manager
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀
-- [charmbracelet/kancli](https://github.com/charmbracelet/kancli) - A tutorial for building a command line kanban board in Go
+- [charm-and-friends/kancli](https://github.com/charm-and-friends/kancli) - A tutorial for building a command line kanban board in Go
 - [robherley/snips.sh](https://github.com/robherley/snips.sh) - ✂️ passwordless, anonymous SSH-powered pastebin with a human-friendly TUI and web UI
 - [moebiusmania/atmmi-info-api](https://github.com/moebiusmania/atmmi-info-api) - Node.js webservice that turns the ATM Milano news website in a REST API JSON data.
 - [grafana/google-sheets-datasource](https://github.com/grafana/google-sheets-datasource) - The Google Sheets data source plugin allows you to visualize Google Spread Sheets data in a Grafana dashboards.
@@ -997,6 +996,7 @@
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
 - [fregante/GhostText](https://github.com/fregante/GhostText) - 👻 Use your text editor to write in your browser. Everything you type in the editor will be instantly updated in the browser (and vice versa).
 - [jlebon/textern](https://github.com/jlebon/textern) - A Firefox add-on for editing text in your favourite external editor!
+- [security-union/videocall-rs](https://github.com/security-union/videocall-rs) - teleconferencing system written in rust
 - [skygragon/leetcode-cli](https://github.com/skygragon/leetcode-cli) - A cli tool to enjoy leetcode!
 - [neetcode-gh/leetcode](https://github.com/neetcode-gh/leetcode) - Leetcode solutions
 - [falcucci/pokedex](https://github.com/falcucci/pokedex) - 
@@ -1921,7 +1921,6 @@
 - [nikitavoloboev/nikiv](https://github.com/nikitavoloboev/nikiv) - Personal website, docs, tools
 - [phuocng/1loc](https://github.com/phuocng/1loc) - What's your favorite JavaScript single LOC (line of code)?
 - [shuding/cobe](https://github.com/shuding/cobe) - 5kB WebGL globe lib.
-- [leerob/site](https://github.com/leerob/site) - My site built with Next.js, Tailwind, and Vercel.
 - [rauchg/blog](https://github.com/rauchg/blog) - 
 - [tauri-apps/tauri-docs](https://github.com/tauri-apps/tauri-docs) - The source for all Tauri project documentation.
 - [wix/react-native-navigation](https://github.com/wix/react-native-navigation) - A complete native navigation solution for React Native
@@ -2012,6 +2011,7 @@
 - [oam-dev/spec](https://github.com/oam-dev/spec) - Open Application Model (OAM).
 - [blinklabs-io/cardano-compose-stacks](https://github.com/blinklabs-io/cardano-compose-stacks) - Docker compose files for Cardano blockchain services
 - [getcursor/cursor](https://github.com/getcursor/cursor) - The AI Code Editor
+- [aiken-lang/stdlib](https://github.com/aiken-lang/stdlib) - The Aiken Standard Library
 - [madmalik/mononoki](https://github.com/madmalik/mononoki) - a programming typeface
 - [crystalidea/macs-fan-control](https://github.com/crystalidea/macs-fan-control) - Control fans on Apple computers
 - [imhq/rust-interview-handbook](https://github.com/imhq/rust-interview-handbook) - A curated list of Rust interview preparation materials for busy software engineers. Submit a PR if you know of any other Rust interview questions.
@@ -2502,6 +2502,9 @@
 
 ## Rust 
 
+- [tomusdrw/rust-web3](https://github.com/tomusdrw/rust-web3) - Ethereum JSON-RPC multi-transport client. Rust implementation of web3 library.  ENS address: rust-web3.eth
+- [baoyachi/duration-str](https://github.com/baoyachi/duration-str) - Duration string parser write by Rust.Playground（REPL）
+- [google/crosvm](https://github.com/google/crosvm) - The Chrome OS Virtual Machine Monitor - Mirror of https://chromium.googlesource.com/crosvm/crosvm/
 - [rennis250/processing-rs](https://github.com/rennis250/processing-rs) - An implementation of Processing for the Rust programming language, with insipriation from openFrameworks and libCinder.
 - [dylanhart/ulid-rs](https://github.com/dylanhart/ulid-rs) - This is a Rust implementation of the ulid project
 - [A2-ai/rv](https://github.com/A2-ai/rv) - 
@@ -3289,7 +3292,6 @@
 - [timvisee/prs](https://github.com/timvisee/prs) - 🔐 A secure, fast & convenient password manager CLI using GPG and git to sync.
 - [timvisee/ffsend](https://github.com/timvisee/ffsend) - :mailbox_with_mail: Easily and securely share files from the command line. A fully featured Firefox Send client.
 - [PyO3/pyo3](https://github.com/PyO3/pyo3) - Rust bindings for the Python interpreter
-- [security-union/videocall-rs](https://github.com/security-union/videocall-rs) - teleconferencing system written in rust
 - [tealdeer-rs/tealdeer](https://github.com/tealdeer-rs/tealdeer) - A very fast implementation of tldr in Rust.
 - [metrics-rs/metrics](https://github.com/metrics-rs/metrics) - A metrics ecosystem for Rust.
 - [rome/tools](https://github.com/rome/tools) - Unified developer tools for JavaScript, TypeScript, and the web
@@ -3732,7 +3734,7 @@
 - [enisdenjo/graphql-ws](https://github.com/enisdenjo/graphql-ws) - Coherent, zero-dependency, lazy, simple, GraphQL over WebSocket Protocol compliant server and client.
 - [0no-co/wonka](https://github.com/0no-co/wonka) - 🎩 A tiny but capable push & pull stream library for TypeScript and Flow
 - [apollographql/apollo-server](https://github.com/apollographql/apollo-server) - 🌍  Spec-compliant and production ready JavaScript GraphQL server that lets you develop in a schema-first way. Built for Express, Connect, Hapi, Koa, and more.
-- [apollographql/apollo-client](https://github.com/apollographql/apollo-client) - :rocket:  A fully-featured, production ready caching GraphQL client for every UI framework and GraphQL server.
+- [apollographql/apollo-client](https://github.com/apollographql/apollo-client) - The industry-leading GraphQL client for TypeScript, JavaScript, React, Vue, Angular, and more. Apollo Client delivers powerful caching, intuitive APIs, and comprehensive developer tools to accelerate 
 - [jotaijs/jotai-apollo](https://github.com/jotaijs/jotai-apollo) - Apollo graphql client integration for jotai :rocket: :ghost:
 - [jotaijs/jotai-redux](https://github.com/jotaijs/jotai-redux) - Jotai integration library for Redux
 - [jotaijs/jotai-urql](https://github.com/jotaijs/jotai-urql) - Jotai integration library for URQL
@@ -3810,6 +3812,7 @@
 - [napi-rs/package-template](https://github.com/napi-rs/package-template) - Template project for using napi-rs to build native package
 - [axeldelafosse/recordpool-universal-ui-poc](https://github.com/axeldelafosse/recordpool-universal-ui-poc) - PoC using Radix UI primitives on iOS, Android and Web with Expo and Next.js 🎉
 - [pacocoursey/cmdk](https://github.com/pacocoursey/cmdk) - Fast, unstyled command menu React component.
+- [leerob/next-mdx-blog](https://github.com/leerob/next-mdx-blog) - Next.js + MDX blog template with Tailwind CSS and TypeScript.
 - [yaegassy/coc-ruff](https://github.com/yaegassy/coc-ruff) - Ruff Language Server extension for coc.nvim
 - [radix-ui/colors](https://github.com/radix-ui/colors) - A gorgeous, accessible color system.
 - [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.
