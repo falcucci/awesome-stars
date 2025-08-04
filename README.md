@@ -5,6 +5,7 @@
 
 ## Contents
 
+- [Aiken](#aiken)
 - [AppleScript](#applescript)
 - [Assembly](#assembly)
 - [Astro](#astro)
@@ -85,6 +86,10 @@
 - [WebAssembly](#webassembly)
 - [Zig](#zig)
 
+## Aiken 
+
+- [aiken-lang/stdlib](https://github.com/aiken-lang/stdlib) - The Aiken Standard Library
+
 ## AppleScript 
 
 - [vas3k/btt-touchbar-presets](https://github.com/vas3k/btt-touchbar-presets) - BetterTouchTool Touch Bar Presets
@@ -146,7 +151,6 @@
 - [systemd/systemd](https://github.com/systemd/systemd) - The systemd System and Service Manager
 - [timescale/timescaledb](https://github.com/timescale/timescaledb) - A time-series database for high-performance real-time analytics packaged as a Postgres extension
 - [wg/wrk](https://github.com/wg/wrk) - Modern HTTP benchmarking tool
-- [TelegramMessenger/Telegram-iOS](https://github.com/TelegramMessenger/Telegram-iOS) - Telegram-iOS
 - [cardano-foundation/ledger-app-cardano](https://github.com/cardano-foundation/ledger-app-cardano) - Cardano Ledger App for Ledger Nano S
 - [edenhill/kcat](https://github.com/edenhill/kcat) - Generic command line non-JVM Apache Kafka producer and consumer
 - [vysheng/tg](https://github.com/vysheng/tg) - telegram-cli
@@ -397,7 +401,7 @@
 - [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
 - [moby/buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit
 - [docker/buildx](https://github.com/docker/buildx) - Docker CLI plugin for extended build capabilities with BuildKit
-- [flipt-io/flipt](https://github.com/flipt-io/flipt) - Enterprise-ready, GitOps enabled, CloudNative feature management solution
+- [flipt-io/flipt](https://github.com/flipt-io/flipt) - Enterprise-ready, Git native feature management solution
 - [opentofu/opentofu](https://github.com/opentofu/opentofu) - OpenTofu lets you declaratively manage your cloud infrastructure.
 - [eksctl-io/eksctl](https://github.com/eksctl-io/eksctl) - The official CLI for Amazon EKS
 - [kedacore/keda](https://github.com/kedacore/keda) - KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes
@@ -618,7 +622,7 @@
 - [google/logger](https://github.com/google/logger) - Cross platform Go logging library.
 - [sosedoff/pgweb](https://github.com/sosedoff/pgweb) - Cross-platform client for PostgreSQL databases
 - [toomore/simpleaws](https://github.com/toomore/simpleaws) - Make aws/aws-sdk-go to be more easy to use.
-- [aws/aws-sdk-go](https://github.com/aws/aws-sdk-go) - AWS SDK for the Go programming language (In Maintenance Mode, End-of-Life on 07/31/2025). The AWS SDK for Go v2 is available here: https://github.com/aws/aws-sdk-go-v2
+- [aws/aws-sdk-go](https://github.com/aws/aws-sdk-go) - This SDK has reached end-of-support. The AWS SDK for Go v2 is available here: https://github.com/aws/aws-sdk-go-v2
 - [maxmcd/webtty](https://github.com/maxmcd/webtty) - Share a terminal session over WebRTC
 - [mitchellh/gox](https://github.com/mitchellh/gox) - A dead simple, no frills Go cross compile tool
 - [rodrigo-brito/gocity](https://github.com/rodrigo-brito/gocity) - :bar_chart: Code City metaphor for visualizing Go source code in 3D
@@ -745,6 +749,7 @@
 - [infinum/ios-viper-xcode-templates](https://github.com/infinum/ios-viper-xcode-templates) - Used for generating template files for the VIPER architecture, which solves the common Massive View Controller issues in iOS apps.
 - [italia/designers.italia.it](https://github.com/italia/designers.italia.it) - Designers Italia mette a disposizione la conoscenza e gli strumenti per progettare e realizzare servizi pubblici centrati sulle necessità delle persone
 - [calcom/cal.fm](https://github.com/calcom/cal.fm) - The official Cal.com Work Playlist, only on Cal.fm
+- [stencila/stencila](https://github.com/stencila/stencila) - Documents with Scientific Intelligence
 - [filipedeschamps/tabnews.com.br](https://github.com/filipedeschamps/tabnews.com.br) - Conteúdos para quem trabalha com Programação e Tecnologia.
 - [wzulfikar/vercel-runtimes](https://github.com/wzulfikar/vercel-runtimes) - Code examples for different Vercel runtimes.
 - [snotra-org/hasura-parser](https://github.com/snotra-org/hasura-parser) - :zap: Parse Hasura actions and events with ease in JS/TS projects.
@@ -779,7 +784,7 @@
 
 - [JorelAli/mdBook-pagetoc](https://github.com/JorelAli/mdBook-pagetoc) - A page table of contents for mdBook
 - [catppuccin/mdBook](https://github.com/catppuccin/mdBook) - 🎊 Soothing pastel theme for mdBook
-- [sunface/beat-ai](https://github.com/sunface/beat-ai) - 🚀 Beat AI 学习社区: 持续分享 AI 领域的高质量进阶知识，帮你征服 AI，Just beat it!  欢迎 star 订阅.
+- [sunface/beat-ai](https://github.com/sunface/beat-ai) - 🚀 Beat AI 简报: 持续分享 AI 领域的关键进展，帮你征服 AI，Just beat it!  欢迎 star 订阅.
 - [rust-unofficial/patterns](https://github.com/rust-unofficial/patterns) - A catalogue of Rust design patterns, anti-patterns and idioms
 - [DannyDainton/basic-newman-slack-bot](https://github.com/DannyDainton/basic-newman-slack-bot) - A basic express app that allows you to run Postman collections against different environments with Newman, straight from Slack.
 
@@ -809,6 +814,7 @@
 - [SimulaVR/Simula](https://github.com/SimulaVR/Simula) - Linux VR Desktop
 - [caiorss/Functional-Programming](https://github.com/caiorss/Functional-Programming) - Functional Programming concepts, examples and patterns illustrated in Haskell, Ocaml and Python
 - [kmonad/kmonad](https://github.com/kmonad/kmonad) - An advanced keyboard manager
+- [simplex-chat/simplex-chat](https://github.com/simplex-chat/simplex-chat) - SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!
 - [hadolint/hadolint](https://github.com/hadolint/hadolint) - Dockerfile linter, validate inline bash, written in Haskell
 - [github/semantic](https://github.com/github/semantic) - Parsing, analyzing, and comparing source code across many languages
 - [koalaman/shellcheck](https://github.com/koalaman/shellcheck) - ShellCheck, a static analysis tool for shell scripts
@@ -1596,7 +1602,7 @@
 - [tburch/jsonblob](https://github.com/tburch/jsonblob) - JSON Blob was created to help parallelize client/server development. Mock JSON responses can be defined using the online editor and then clients can use the JSON Blob API to retrieve and update the mo
 - [vladikoff/chromeos-apk](https://github.com/vladikoff/chromeos-apk) - ☢️  Run Android Apps in Chrome OS OR Chrome in OS X, Linux and Windows.
 - [waterlink/Challenge-Build-Your-Own-Array-In-Js](https://github.com/waterlink/Challenge-Build-Your-Own-Array-In-Js) - This is a challenge that will allow you to practice your logical, analytical and problem-solving skills. Additionally, by the end of it you’ll have much better command of arrays in javascript.
-- [oracle/node-oracledb](https://github.com/oracle/node-oracledb) - Oracle Database driver for Node.js maintained by Oracle Corp.
+- [oracle/node-oracledb](https://github.com/oracle/node-oracledb) - Oracle Database driver for Node.js maintained by Oracle Corp. Connect your JavaScript and TypeScript applications instantly to Oracle Database.
 - [knex/knex](https://github.com/knex/knex) - A query builder for PostgreSQL, MySQL, CockroachDB, SQL Server, SQLite3 and Oracle, designed to be flexible, portable, and fun to use.
 - [evilsoft/crocks](https://github.com/evilsoft/crocks) - A collection of well known Algebraic Data Types for your utter enjoyment.
 - [koush/electron-chrome](https://github.com/koush/electron-chrome) - 
@@ -1658,7 +1664,6 @@
 
 ## Kotlin 
 
-- [simplex-chat/simplex-chat](https://github.com/simplex-chat/simplex-chat) - SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!
 - [PatilShreyas/Foodium-KMM](https://github.com/PatilShreyas/Foodium-KMM) - 📱Sample application built to demonstrate the use of Kotlin Multiplatform Mobile for developing Android and iOS applications using Jetpack Compose 🚀.
 - [intellij-rust/intellij-rust](https://github.com/intellij-rust/intellij-rust) - Rust plugin for the IntelliJ Platform
 - [matheusmendes-dev/soccer-games](https://github.com/matheusmendes-dev/soccer-games) - 
@@ -1688,6 +1693,7 @@
 
 ## Lua 
 
+- [wnkz/monoglow.nvim](https://github.com/wnkz/monoglow.nvim) - A dark, mostly monochrome colorscheme with a touch of glowing.
 - [akinsho/bufferline.nvim](https://github.com/akinsho/bufferline.nvim) - A snazzy bufferline for Neovim
 - [lukas-reineke/indent-blankline.nvim](https://github.com/lukas-reineke/indent-blankline.nvim) - Indent guides  for Neovim
 - [rootiest/neoterm](https://github.com/rootiest/neoterm) - Use NeoVide as a traditional terminal emulator!
@@ -2008,7 +2014,6 @@
 - [oam-dev/spec](https://github.com/oam-dev/spec) - Open Application Model (OAM).
 - [blinklabs-io/cardano-compose-stacks](https://github.com/blinklabs-io/cardano-compose-stacks) - Docker compose files for Cardano blockchain services
 - [cursor/cursor](https://github.com/cursor/cursor) - The AI Code Editor
-- [aiken-lang/stdlib](https://github.com/aiken-lang/stdlib) - The Aiken Standard Library
 - [madmalik/mononoki](https://github.com/madmalik/mononoki) - a programming typeface
 - [crystalidea/macs-fan-control](https://github.com/crystalidea/macs-fan-control) - Control fans on Apple computers
 - [imhq/rust-interview-handbook](https://github.com/imhq/rust-interview-handbook) - A curated list of Rust interview preparation materials for busy software engineers. Submit a PR if you know of any other Rust interview questions.
@@ -2039,7 +2044,6 @@
 - [donbright/rust-lang-cheat-sheet](https://github.com/donbright/rust-lang-cheat-sheet) - cheat sheet for rust language
 - [a8m/golang-cheat-sheet](https://github.com/a8m/golang-cheat-sheet) - An overview of Go syntax and features.
 - [ahmadnassri/docs-engineering-matrix](https://github.com/ahmadnassri/docs-engineering-matrix) - Engineering Team Competency & Skill Matrix
-- [toptal/gitignore](https://github.com/toptal/gitignore) - The largest collection of useful .gitignore templates
 - [matchai/awesome-pinned-gists](https://github.com/matchai/awesome-pinned-gists) - 📌✨ A collection of awesome dynamic pinned gists for GitHub
 - [station-work/sw_migrations](https://github.com/station-work/sw_migrations) - station work migrations platform using hasura
 - [aaronhayes/awesome-hasura](https://github.com/aaronhayes/awesome-hasura) - A curated list of awesome things relating to the hasura ecosystem.
@@ -2217,6 +2221,7 @@
 
 ## Python 
 
+- [Aider-AI/aider](https://github.com/Aider-AI/aider) - aider is AI pair programming in your terminal
 - [cyb3r17/darkwire](https://github.com/cyb3r17/darkwire) - darkwire - The internet is optional. Freedom isn’t.
 - [apache/airflow](https://github.com/apache/airflow) - Apache Airflow - A platform to programmatically author, schedule, and monitor workflows
 - [ethstorage/storage-contracts-v1](https://github.com/ethstorage/storage-contracts-v1) - 
@@ -2244,7 +2249,7 @@
 - [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
 - [subframe7536/maple-font](https://github.com/subframe7536/maple-font) - Maple Mono: Open source monospace font with round corner, ligatures and Nerd-Font icons for IDE and terminal, fine-grained customization options. 带连字和控制台图标的圆角等宽字体，中英文宽度完美2:1，细粒度的自定义选项
 - [IntersectMBO/cardano-node-tests](https://github.com/IntersectMBO/cardano-node-tests) - System and end-to-end (E2E) tests for cardano-node.
-- [OpenInterpreter/open-interpreter](https://github.com/OpenInterpreter/open-interpreter) - A natural language interface for computers
+- [openinterpreter/open-interpreter](https://github.com/openinterpreter/open-interpreter) - A natural language interface for computers
 - [belluzj/fantasque-sans](https://github.com/belluzj/fantasque-sans) - A font family with a great monospaced variant for programmers.
 - [kserve/kserve](https://github.com/kserve/kserve) - Standardized Serverless ML Inference Platform on Kubernetes
 - [python-lsp/python-lsp-ruff](https://github.com/python-lsp/python-lsp-ruff) - Linter plugin for pylsp based on ruff.
@@ -2497,6 +2502,11 @@
 
 ## Rust 
 
+- [lambdaclass/ethrex](https://github.com/lambdaclass/ethrex) - Minimalist, fast and modular implementation of the Ethereum protocol in Rust. L1 and L2 execution client.
+- [Peternator7/strum](https://github.com/Peternator7/strum) - A small rust library for adding custom derives to enums
+- [risechain/pevm](https://github.com/risechain/pevm) - Blazingly fast Parallel EVM
+- [mozilla/sccache](https://github.com/mozilla/sccache) - Sccache is a ccache-like tool. It is used as a compiler wrapper and avoids compilation when possible. Sccache has the capability to utilize caching in remote storage environments, including various cl
+- [open-telemetry/opentelemetry-rust](https://github.com/open-telemetry/opentelemetry-rust) - The Rust OpenTelemetry implementation
 - [paritytech/polkadot-stps](https://github.com/paritytech/polkadot-stps) - Polkadot Standard Transactions Per Second (sTPS) performance benchmarking
 - [superfly/corrosion](https://github.com/superfly/corrosion) - Gossip-based service discovery (and more) for large distributed systems.
 - [RazrFalcon/cargo-bloat](https://github.com/RazrFalcon/cargo-bloat) - Find out what takes most of the space in your executable.
@@ -2624,7 +2634,7 @@
 - [zesterer/pollster](https://github.com/zesterer/pollster) - A minimal async executor that lets you block on a future
 - [GuillaumeGomez/sysinfo](https://github.com/GuillaumeGomez/sysinfo) - Cross-platform library to fetch system information
 - [roc-lang/roc](https://github.com/roc-lang/roc) - A fast, friendly, functional language.
-- [Sovereign-Labs/sovereign-sdk](https://github.com/Sovereign-Labs/sovereign-sdk) - Build real-time rollups with the industry's most flexible toolkit.
+- [Sovereign-Labs/sovereign-sdk](https://github.com/Sovereign-Labs/sovereign-sdk) - A flexible toolkit for building real-time rollups
 - [cometbft/tendermint-rs](https://github.com/cometbft/tendermint-rs) - Client libraries for Tendermint/CometBFT in Rust!
 - [Myriad-Dreamin/tinymist](https://github.com/Myriad-Dreamin/tinymist) - Tinymist [ˈtaɪni mɪst] is an integrated language service for Typst [taɪpst].
 - [superlistapp/super_native_extensions](https://github.com/superlistapp/super_native_extensions) - Native drag & drop, clipboard access and context menu.
@@ -2706,7 +2716,7 @@
 - [ah-/anne-key](https://github.com/ah-/anne-key) - Firmware for Anne Pro Keyboard written in Rust
 - [gfx-rs/metal-rs](https://github.com/gfx-rs/metal-rs) - Deprecated Rust bindings for Metal
 - [quickwit-oss/quickwit](https://github.com/quickwit-oss/quickwit) - Cloud-native search engine for observability. An open-source alternative to Datadog, Elasticsearch, Loki, and Tempo.
-- [databendlabs/databend](https://github.com/databendlabs/databend) - 𝗗𝗮𝘁𝗮, 𝗔𝗻𝗮𝗹𝘆𝘁𝗶𝗰𝘀 & 𝗔𝗜. Modern alternative to Snowflake. Cost-effective and simple for massive-scale analytics. https://databend.com
+- [databendlabs/databend](https://github.com/databendlabs/databend) - 𝗔𝗜-𝗡𝗮𝘁𝗶𝘃𝗲 𝗗𝗮𝘁𝗮 𝗪𝗮𝗿𝗲𝗵𝗼𝘂𝘀𝗲. Open-source Snowflake alternative. Proven at petabyte scale with enterprise performance. Built for multimodal analytics. https://databend.com
 - [tommilligan/mdbook-admonish](https://github.com/tommilligan/mdbook-admonish) - A preprocessor for mdbook to add Material Design admonishments.
 - [paritytech/zombienet-sdk](https://github.com/paritytech/zombienet-sdk) - ZombieNet SDK
 - [JoshOrndorff/substrate-recipes](https://github.com/JoshOrndorff/substrate-recipes) - A Hands-On Cookbook for Aspiring Blockchain Chefs
@@ -2970,11 +2980,10 @@
 - [cncf/gitvote](https://github.com/cncf/gitvote) - GitVote is a GitHub application that allows holding a vote on issues and pull requests
 - [redbadger/crux](https://github.com/redbadger/crux) - Cross-platform app development in Rust
 - [wasmerio/wasmer](https://github.com/wasmerio/wasmer) - 🚀 Fast, secure, lightweight containers based on WebAssembly
-- [rustwasm/wasm-bindgen](https://github.com/rustwasm/wasm-bindgen) - Facilitating high-level interactions between Wasm modules and JavaScript
+- [wasm-bindgen/wasm-bindgen](https://github.com/wasm-bindgen/wasm-bindgen) - Facilitating high-level interactions between Wasm modules and JavaScript
 - [trifectatechfoundation/teach-rs](https://github.com/trifectatechfoundation/teach-rs) - A modular, reusable university course for Rust
 - [EmbarkStudios/relnotes](https://github.com/EmbarkStudios/relnotes) - Automatic GitHub Release Notes
 - [Lioness100/guess-that-lang](https://github.com/Lioness100/guess-that-lang) - CLI game to see how fast you can guess the language of a code block!
-- [DvorakDwarf/Infinite-Storage-Glitch](https://github.com/DvorakDwarf/Infinite-Storage-Glitch) - ISG lets you use YouTube as cloud storage for ANY files, not just video
 - [linebender/druid](https://github.com/linebender/druid) - A data-first Rust-native UI design toolkit.
 - [jpochyla/psst](https://github.com/jpochyla/psst) - Fast and multi-platform Spotify client with native GUI
 - [astral-sh/rye](https://github.com/astral-sh/rye) - a Hassle-Free Python Experience
@@ -3106,7 +3115,6 @@
 - [nickel-org/nickel.rs](https://github.com/nickel-org/nickel.rs) - An expressjs inspired web framework for Rust
 - [djc/instant-distance](https://github.com/djc/instant-distance) - Fast approximate nearest neighbor searching in Rust, based on HNSW index
 - [0b01/xprite-editor](https://github.com/0b01/xprite-editor) - Pixel art editor
-- [stencila/stencila](https://github.com/stencila/stencila) - Documents with Scientific Intelligence
 - [denoland/deno_lint](https://github.com/denoland/deno_lint) - Blazing fast linter for JavaScript and TypeScript written in Rust
 - [gperinazzo/dict-derive](https://github.com/gperinazzo/dict-derive) - Derive PyO3's FromPyObject to automatically transform Python dicts into Rust structs
 - [Anexen/pyxirr](https://github.com/Anexen/pyxirr) - Rust-powered collection of financial functions.
@@ -3376,7 +3384,7 @@
 - [nostalgic-css/NES.css](https://github.com/nostalgic-css/NES.css) - NES-style CSS Framework | ファミコン風CSSフレームワーク
 - [emilbaehr/automatic-app-landing-page](https://github.com/emilbaehr/automatic-app-landing-page) - A Jekyll theme for automatically generating and deploying landing page sites for mobile apps.
 - [rstacruz/cheatsheets](https://github.com/rstacruz/cheatsheets) - Cheatsheets for web development - devhints.io
-- [liorgrossman/darkness](https://github.com/liorgrossman/darkness) - Dark Themes for Popular Websites
+- [liorgrossman/darkness](https://github.com/liorgrossman/darkness) - ⚠️ DEPRECATED: Dark Themes Extension - no longer functional due to Chrome Manifest V2 deprecation
 - [slatedocs/slate](https://github.com/slatedocs/slate) - Beautiful static documentation for your API
 
 ## Scala 
@@ -3502,6 +3510,9 @@
 
 ## Solidity 
 
+- [morpho-org/vault-v2](https://github.com/morpho-org/vault-v2) - 
+- [Vectorized/solady](https://github.com/Vectorized/solady) - Optimized Solidity snippets.
+- [morpho-org/metamorpho](https://github.com/morpho-org/metamorpho) - MetaMorpho
 - [Se7en-Seas/boring-vault](https://github.com/Se7en-Seas/boring-vault) - 
 - [OpenZeppelin/openzeppelin-contracts](https://github.com/OpenZeppelin/openzeppelin-contracts) - OpenZeppelin Contracts is a library for secure smart contract development.
 - [pcaversaccio/solidity-games](https://github.com/pcaversaccio/solidity-games) - A repository for Solidity-based smart contract games.
@@ -3516,7 +3527,8 @@
 
 ## Swift 
 
-- [kamillobinski/thock](https://github.com/kamillobinski/thock) - THOCK your mac keyboard with over 25 built-in modes or your own soudpack.
+- [KrishKrosh/TrackWeight](https://github.com/KrishKrosh/TrackWeight) - Use your Mac trackpad as a weighing scale
+- [kamillobinski/thock](https://github.com/kamillobinski/thock) - THOCK your mac keyboard with over 25 built-in modes or your own soudpacks.
 - [swiftlang/swift-package-manager](https://github.com/swiftlang/swift-package-manager) - The Package Manager for the Swift Programming Language
 - [swiftlang/swift-build](https://github.com/swiftlang/swift-build) - A high-level build system based on llbuild, used by Xcode, Swift Playground, and the Swift Package Manager
 - [MasterJ93/ATProtoKit](https://github.com/MasterJ93/ATProtoKit) - A straightforward solution for using the AT Protocol and Bluesky, written in Swift.
@@ -3557,6 +3569,7 @@
 - [x0054/MKS](https://github.com/x0054/MKS) - 
 - [mickael-menu/ShadowVim](https://github.com/mickael-menu/ShadowVim) - Neovim 𝘪𝘯𝘴𝘪𝘥𝘦 Xcode, for real.
 - [sindresorhus/KeyboardShortcuts](https://github.com/sindresorhus/KeyboardShortcuts) - ⌨️ Add user-customizable global keyboard shortcuts (hotkeys) to your macOS app in minutes
+- [TelegramMessenger/Telegram-iOS](https://github.com/TelegramMessenger/Telegram-iOS) - Telegram-iOS
 - [neilsardesai/Mouse-Finder](https://github.com/neilsardesai/Mouse-Finder) - 🖱👀 An NSDockTile experiment
 - [T-Pham/CoinPriceBar](https://github.com/T-Pham/CoinPriceBar) - 💰 Cryptocurrency prices on MacBook Touch Bar
 - [SwiftDocOrg/DocTest](https://github.com/SwiftDocOrg/DocTest) - An experimental tool for testing Swift example code in documentation.
@@ -3592,6 +3605,7 @@
 
 ## TypeScript 
 
+- [NomicFoundation/hardhat](https://github.com/NomicFoundation/hardhat) - Hardhat is a development environment to compile, deploy, test, and debug your Ethereum software.
 - [samber/chartjs-plugin-datasource-prometheus](https://github.com/samber/chartjs-plugin-datasource-prometheus) - 📊 Chart.js plugin for Prometheus
 - [yaegassy/coc-marksman](https://github.com/yaegassy/coc-marksman) - Marksman (Markdown LSP server) extension for coc.nvim
 - [vercel/vercel](https://github.com/vercel/vercel) - Develop. Preview. Ship.
@@ -3633,8 +3647,8 @@
 - [pulumi/examples](https://github.com/pulumi/examples) - Infrastructure, containers, and serverless apps to AWS, Azure, GCP, and Kubernetes... all deployed with Pulumi
 - [open-sauced/hot](https://github.com/open-sauced/hot) - 🍕The site that recommends the hottest projects on GitHub.
 - [fannheyward/coc-biome](https://github.com/fannheyward/coc-biome) - Biome extension for coc.nvim
-- [Unleash/unleash-proxy-client-js](https://github.com/Unleash/unleash-proxy-client-js) - A browser client that can be used together with the unleash-proxy.
-- [Unleash/unleash-client-nextjs](https://github.com/Unleash/unleash-client-nextjs) - Unleash SDK for Next.js
+- [Unleash/unleash-js-sdk](https://github.com/Unleash/unleash-js-sdk) - A browser client that can be used together with the unleash-proxy.
+- [Unleash/unleash-nextjs-sdk](https://github.com/Unleash/unleash-nextjs-sdk) - Unleash SDK for Next.js
 - [apollographql/apollo-client-integrations](https://github.com/apollographql/apollo-client-integrations) - Apollo Client support for the Next.js App Router
 - [Uniswap/interface](https://github.com/Uniswap/interface) - 🦄 Open source interfaces for the Uniswap protocol
 - [prisma-labs/get-graphql-schema](https://github.com/prisma-labs/get-graphql-schema) - Fetch and print the GraphQL schema from a GraphQL HTTP endpoint. (Can be used for Relay Modern.)
@@ -3830,7 +3844,7 @@
 - [react-keycloak/react-keycloak](https://github.com/react-keycloak/react-keycloak) - React/React Native/NextJS/Razzle components for Keycloak
 - [Kludex/awesome-fastapi-projects](https://github.com/Kludex/awesome-fastapi-projects) - List of FastAPI projects! :sunglasses: :rocket:
 - [diciaup/assistant-cli](https://github.com/diciaup/assistant-cli) - A comfortable CLI tool to use ChatGPT service🔥
-- [transitive-bullshit/agentic](https://github.com/transitive-bullshit/agentic) - Agentic is RapidAPI for LLM Tools. Your API ⇒ Paid MCP. Instantly.
+- [transitive-bullshit/agentic](https://github.com/transitive-bullshit/agentic) - Your API ⇒ Paid MCP. Instantly.
 - [mattpocock/ts-error-translator](https://github.com/mattpocock/ts-error-translator) - VSCode extension to turn TypeScript errors into plain English
 - [neoclide/coc-tabnine](https://github.com/neoclide/coc-tabnine) - Tabnine integration of coc.nvim
 - [Tonejs/Tone.js](https://github.com/Tonejs/Tone.js) - A Web Audio framework for making interactive music in the browser.
@@ -3883,7 +3897,7 @@
 - [carvalhoviniciusluiz/cpf-cnpj-validator](https://github.com/carvalhoviniciusluiz/cpf-cnpj-validator) - Valida e formata strings de CPF ou CNPJ.
 - [luizalabs/noahjs](https://github.com/luizalabs/noahjs) - 🚀 Your Next project starter
 - [berty/berty](https://github.com/berty/berty) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
-- [Unleash/unleash-client-node](https://github.com/Unleash/unleash-client-node) - Unleash client SDK for Node.js
+- [Unleash/unleash-node-sdk](https://github.com/Unleash/unleash-node-sdk) - Unleash client SDK for Node.js
 - [Unleash/unleash](https://github.com/Unleash/unleash) - Open-source feature management platform
 - [vuejs/vue](https://github.com/vuejs/vue) - This is the repo for Vue 2. For Vue 3, go to https://github.com/vuejs/core
 - [neoclide/coc-eslint](https://github.com/neoclide/coc-eslint) - Eslint extension for coc.nvim
