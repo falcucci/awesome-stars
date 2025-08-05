@@ -73,6 +73,7 @@
 - [Solidity](#solidity)
 - [Svelte](#svelte)
 - [Swift](#swift)
+- [TSQL](#tsql)
 - [TeX](#tex)
 - [Tree-sitter Query](#tree-sitter-query)
 - [TypeScript](#typescript)
@@ -390,6 +391,7 @@
 
 ## Go 
 
+- [ethereum-optimism/optimism](https://github.com/ethereum-optimism/optimism) - Optimism is Ethereum, scaled.
 - [contribsys/faktory](https://github.com/contribsys/faktory) - Language-agnostic persistent background job server
 - [temporalio/temporal](https://github.com/temporalio/temporal) - Temporal service
 - [openziti/zrok](https://github.com/openziti/zrok) - Geo-scale, next-generation peer-to-peer sharing platform built on top of OpenZiti.
@@ -418,7 +420,6 @@
 - [kubevela/terraform-controller](https://github.com/kubevela/terraform-controller) - A Kubernetes Terraform Controller, managing Cloud resources through Kubernetes
 - [ariga/atlas](https://github.com/ariga/atlas) - Manage your database schema as code
 - [golang-migrate/migrate](https://github.com/golang-migrate/migrate) - Database migrations. CLI and Golang library.
-- [hasura/ndc-hub](https://github.com/hasura/ndc-hub) - 
 - [zolamk/hasura-exporter](https://github.com/zolamk/hasura-exporter) - Hasura Prometheus Exporter
 - [sony/appsync-client-go](https://github.com/sony/appsync-client-go) - AWS AppSync golang client library
 - [prometheus/prometheus](https://github.com/prometheus/prometheus) - The Prometheus monitoring system and time series database.
@@ -2502,6 +2503,8 @@
 
 ## Rust 
 
+- [foundry-rs/starknet-foundry](https://github.com/foundry-rs/starknet-foundry) - Blazing fast toolkit for developing Starknet contracts.
+- [matter-labs/foundry-zksync](https://github.com/matter-labs/foundry-zksync) - Fork of Foundry tailored for zkSync environment
 - [lambdaclass/ethrex](https://github.com/lambdaclass/ethrex) - Minimalist, fast and modular implementation of the Ethereum protocol in Rust. L1 and L2 execution client.
 - [Peternator7/strum](https://github.com/Peternator7/strum) - A small rust library for adding custom derives to enums
 - [risechain/pevm](https://github.com/risechain/pevm) - Blazingly fast Parallel EVM
@@ -3510,6 +3513,9 @@
 
 ## Solidity 
 
+- [Uniswap/permit2](https://github.com/Uniswap/permit2) - 🔑🔑🔑 next generation token approvals mechanism
+- [ProjectOpenSea/seaport](https://github.com/ProjectOpenSea/seaport) - Seaport is a marketplace protocol for safely and efficiently buying and selling NFTs.
+- [coinbase/smart-wallet](https://github.com/coinbase/smart-wallet) - 
 - [morpho-org/vault-v2](https://github.com/morpho-org/vault-v2) - 
 - [Vectorized/solady](https://github.com/Vectorized/solady) - Optimized Solidity snippets.
 - [morpho-org/metamorpho](https://github.com/morpho-org/metamorpho) - MetaMorpho
@@ -3594,6 +3600,10 @@
 - [sindresorhus/dark-mode](https://github.com/sindresorhus/dark-mode) - Control the macOS dark mode from the command-line
 - [sindresorhus/DockProgress](https://github.com/sindresorhus/DockProgress) - Show progress in your app's Dock icon
 
+## TSQL 
+
+- [hasura/ndc-hub](https://github.com/hasura/ndc-hub) - 
+
 ## TeX 
 
 - [deso-protocol/dips](https://github.com/deso-protocol/dips) - DeSo Improvement Proposals for improving the DeSo network
@@ -3605,6 +3615,7 @@
 
 ## TypeScript 
 
+- [OpenZeppelin/contracts-wizard](https://github.com/OpenZeppelin/contracts-wizard) - Interactive smart contract generator based on OpenZeppelin Contracts.
 - [NomicFoundation/hardhat](https://github.com/NomicFoundation/hardhat) - Hardhat is a development environment to compile, deploy, test, and debug your Ethereum software.
 - [samber/chartjs-plugin-datasource-prometheus](https://github.com/samber/chartjs-plugin-datasource-prometheus) - 📊 Chart.js plugin for Prometheus
 - [yaegassy/coc-marksman](https://github.com/yaegassy/coc-marksman) - Marksman (Markdown LSP server) extension for coc.nvim
