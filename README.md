@@ -2034,6 +2034,7 @@
 - [marc2o/Neovide-macOS-Icon](https://github.com/marc2o/Neovide-macOS-Icon) - Alternative app icon for the Neovide neovim front-end.
 - [oven-sh/awesome-bun](https://github.com/oven-sh/awesome-bun) - ⚡️ A curated list of awesome things related to Bun
 - [vamolessa/pepper](https://github.com/vamolessa/pepper) - simple and opinionated modal code editor for your terminal
+- [bincode-org/bincode](https://github.com/bincode-org/bincode) - A binary encoder / decoder implementation in Rust.
 - [alrra/browser-logos](https://github.com/alrra/browser-logos) - 🗂 High resolution web browser logos
 - [unicodeveloper/awesome-nextjs](https://github.com/unicodeveloper/awesome-nextjs) - :notebook_with_decorative_cover: :books: A curated list of awesome resources : books, videos, articles about using Next.js (A minimalistic framework for universal server-rendered React applications)
 - [falcucci/good-practices-workflow](https://github.com/falcucci/good-practices-workflow) - Agreements guideline for a basic daily development workflow.
@@ -2252,7 +2253,7 @@
 - [IntersectMBO/cardano-node-tests](https://github.com/IntersectMBO/cardano-node-tests) - System and end-to-end (E2E) tests for cardano-node.
 - [openinterpreter/open-interpreter](https://github.com/openinterpreter/open-interpreter) - A natural language interface for computers
 - [belluzj/fantasque-sans](https://github.com/belluzj/fantasque-sans) - A font family with a great monospaced variant for programmers.
-- [kserve/kserve](https://github.com/kserve/kserve) - Standardized Serverless ML Inference Platform on Kubernetes
+- [kserve/kserve](https://github.com/kserve/kserve) - Standardized Distributed Generative and Predictive AI Inference Platform for Scalable, Multi-Framework Deployment on Kubernetes
 - [python-lsp/python-lsp-ruff](https://github.com/python-lsp/python-lsp-ruff) - Linter plugin for pylsp based on ruff.
 - [OpenBMB/ChatDev](https://github.com/OpenBMB/ChatDev) - Create Customized Software using Natural Language Idea (through LLM-powered Multi-Agent Collaboration)
 - [dortania/OpenCore-Legacy-Patcher](https://github.com/dortania/OpenCore-Legacy-Patcher) - Experience macOS just like before
@@ -2639,7 +2640,7 @@
 - [zesterer/pollster](https://github.com/zesterer/pollster) - A minimal async executor that lets you block on a future
 - [GuillaumeGomez/sysinfo](https://github.com/GuillaumeGomez/sysinfo) - Cross-platform library to fetch system information
 - [roc-lang/roc](https://github.com/roc-lang/roc) - A fast, friendly, functional language.
-- [Sovereign-Labs/sovereign-sdk](https://github.com/Sovereign-Labs/sovereign-sdk) - A flexible toolkit for building real-time rollups
+- [Sovereign-Labs/sovereign-sdk](https://github.com/Sovereign-Labs/sovereign-sdk) - A flexible toolkit for building real-time blockchains
 - [cometbft/tendermint-rs](https://github.com/cometbft/tendermint-rs) - Client libraries for Tendermint/CometBFT in Rust!
 - [Myriad-Dreamin/tinymist](https://github.com/Myriad-Dreamin/tinymist) - Tinymist [ˈtaɪni mɪst] is an integrated language service for Typst [taɪpst].
 - [superlistapp/super_native_extensions](https://github.com/superlistapp/super_native_extensions) - Native drag & drop, clipboard access and context menu.
@@ -3152,7 +3153,6 @@
 - [nix-rust/nix](https://github.com/nix-rust/nix) - Rust friendly bindings to *nix APIs
 - [jj-vcs/jj](https://github.com/jj-vcs/jj) - A Git-compatible VCS that is both simple and powerful
 - [atanunq/viu](https://github.com/atanunq/viu) - Terminal image viewer with native support for iTerm and Kitty
-- [bincode-org/bincode](https://github.com/bincode-org/bincode) - A binary encoder / decoder implementation in Rust.
 - [notify-rs/notify](https://github.com/notify-rs/notify) - 🔭 Cross-platform filesystem notification library for Rust.
 - [warp-tech/warpgate](https://github.com/warp-tech/warpgate) - Smart SSH, HTTPS, MySQL and Postgres bastion/PAM that doesn't need additional client-side software
 - [sozu-proxy/sozu](https://github.com/sozu-proxy/sozu) - Sōzu HTTP reverse proxy, configurable at runtime, fast and safe, built in Rust. It is awesome!
