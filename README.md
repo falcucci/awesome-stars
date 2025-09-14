@@ -520,7 +520,6 @@
 - [grpc-up-and-running/samples](https://github.com/grpc-up-and-running/samples) - Samples of the book gRPC Up and Running. Each sample is based on a real-world use case and details of the use case can be found in the respective chapter of the book.
 - [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻
 - [maddevsio/fcm](https://github.com/maddevsio/fcm) - Firebase Cloud Messaging for application servers implemented using the Go programming language.
-- [lionsoul2014/ip2region](https://github.com/lionsoul2014/ip2region) - Ip2region is an offline IP address manager framework and locator with both IPv4 and IPv6 supported, supporting billions of data segments, ten microsecond searching performance, xdb search implementati
 - [kataras/iris](https://github.com/kataras/iris) - The fastest HTTP/2 Go Web Framework. New, modern and easy to learn. Fast development with Code you control. Unbeatable cost-performance ratio :rocket:
 - [kubernetes/minikube](https://github.com/kubernetes/minikube) - Run Kubernetes locally
 - [grpc/grpc-go](https://github.com/grpc/grpc-go) - The Go language implementation of gRPC. HTTP/2 based RPC
@@ -853,6 +852,7 @@
 - [HamburgChimps/apple-notes-liberator](https://github.com/HamburgChimps/apple-notes-liberator) - Free your Apple Notes data from Notes.app
 - [matheusmendes-dev/store-print-ml](https://github.com/matheusmendes-dev/store-print-ml) - Teste na busca de impressoras
 - [elastic/elasticsearch](https://github.com/elastic/elasticsearch) - Free and Open Source, Distributed, RESTful Search Engine
+- [lionsoul2014/ip2region](https://github.com/lionsoul2014/ip2region) - Ip2region is an offline IP address manager framework and locator with both IPv4 and IPv6 supported, supporting billions of data segments, ten microsecond searching performance, xdb search implementati
 - [apache/kafka](https://github.com/apache/kafka) - Mirror of Apache Kafka
 - [google/volley](https://github.com/google/volley) - 
 - [ervandew/eclim](https://github.com/ervandew/eclim) - Expose eclipse features inside of vim.
@@ -2506,6 +2506,7 @@
 
 ## Rust 
 
+- [project-gauntlet/gauntlet](https://github.com/project-gauntlet/gauntlet) - Raycast-inspired open-source cross-platform application launcher with React-based plugins
 - [openai/codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal
 - [EasyTier/EasyTier](https://github.com/EasyTier/EasyTier) - A simple, decentralized mesh VPN with WireGuard support.
 - [rayon-rs/rayon](https://github.com/rayon-rs/rayon) - Rayon: A data parallelism library for Rust
@@ -2789,7 +2790,7 @@
 - [chaosprint/asak](https://github.com/chaosprint/asak) - A cross-platform audio recording/playback CLI tool with TUI, written in Rust.
 - [rust-db/refinery](https://github.com/rust-db/refinery) - Powerful SQL migration toolkit for Rust.
 - [georust/geo](https://github.com/georust/geo) - Rust geospatial primitives & algorithms
-- [asciinema/asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder 📹
+- [asciinema/asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder, streamer and player 📹
 - [tower-rs/tower](https://github.com/tower-rs/tower) - async fn(Request) -&gt; Result&lt;Response, Error&gt;
 - [hasura/ndc-spec](https://github.com/hasura/ndc-spec) - NDC Specification and Reference Implementation
 - [Totodore/socketioxide](https://github.com/Totodore/socketioxide) - A socket.io server implementation in Rust that integrates with the Tower ecosystem and the Tokio stack.
@@ -3577,7 +3578,7 @@
 - [agentcooper/Telik](https://github.com/agentcooper/Telik) - macOS app to track YouTube channels and playlists
 - [aheze/VariableBlurView](https://github.com/aheze/VariableBlurView) - A one-file, App Store upload-safe version of Janum Trivedi's variable blur effect.
 - [nchudleigh/vimac](https://github.com/nchudleigh/vimac) - Productive macOS keyboard-driven navigation
-- [maxgoedjen/secretive](https://github.com/maxgoedjen/secretive) - Store SSH keys in the Secure Enclave
+- [maxgoedjen/secretive](https://github.com/maxgoedjen/secretive) - Protect your SSH keys with your Mac's Secure Enclave
 - [coteditor/CotEditor](https://github.com/coteditor/CotEditor) - Lightweight Plain-Text Editor for macOS
 - [sindresorhus/Settings](https://github.com/sindresorhus/Settings) - ⚙ Add a settings window to your macOS app in minutes
 - [aheze/Squirrel](https://github.com/aheze/Squirrel) - Enable scrolling in the Xcode Simulator!
