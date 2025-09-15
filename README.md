@@ -332,7 +332,7 @@
 
 - [MarcinusX/snappable](https://github.com/MarcinusX/snappable) - Thanos snap effect in Flutter
 - [fzyzcjy/flutter_rust_bridge](https://github.com/fzyzcjy/flutter_rust_bridge) - Flutter/Dart &lt;-&gt; Rust binding generator, feature-rich, but seamless and simple.
-- [matthiasn/lotti](https://github.com/matthiasn/lotti) - Achieve your goals and keep your data private with Lotti. This life tracking app is designed to help you stay motivated and on track, all while keeping your personal information safe and secure. Now w
+- [matthiasn/lotti](https://github.com/matthiasn/lotti) - AI-powered context manager that keeps your data private. Chat with your tasks, get intelligent summaries, and track what matters—all stored locally on your devices. Choose your AI provider per categor
 
 ## Dockerfile 
 
@@ -1061,6 +1061,7 @@
 - [sleeyax/stremio-discord](https://github.com/sleeyax/stremio-discord) - Local addon that shows the movie or series you're watching in Discord
 - [Stremio/stremio-web](https://github.com/Stremio/stremio-web) - Stremio - Freedom to Stream
 - [Stremio/stremio-addon-sdk](https://github.com/Stremio/stremio-addon-sdk) - 🧙 A Node.js SDK for creating and publishing Stremio add-ons
+- [markedjs/marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed.
 - [JessicaSachs/carbon](https://github.com/JessicaSachs/carbon) - 🎨 Create and share beautiful images of your source code
 - [chjj/ttystudio](https://github.com/chjj/ttystudio) - A terminal-to-gif recorder minus the headaches.
 - [wix/Detox](https://github.com/wix/Detox) - Gray box end-to-end testing and automation framework for mobile apps
@@ -3329,7 +3330,7 @@
 - [awesome-rust-com/awesome-rust](https://github.com/awesome-rust-com/awesome-rust) - Awesome Rust
 - [jwilm/rust-postgres-cursor](https://github.com/jwilm/rust-postgres-cursor) - A Cursor type for use with rust-postgres
 - [estk/log4rs](https://github.com/estk/log4rs) - A highly configurable logging framework for Rust
-- [sfackler/rust-postgres](https://github.com/sfackler/rust-postgres) - Native PostgreSQL driver for the Rust programming language
+- [rust-postgres/rust-postgres](https://github.com/rust-postgres/rust-postgres) - Native PostgreSQL driver for the Rust programming language
 - [sycamore-rs/sycamore](https://github.com/sycamore-rs/sycamore) - A library for creating reactive web apps in Rust and WebAssembly
 - [leptos-rs/leptos](https://github.com/leptos-rs/leptos) - Build fast web applications with Rust.
 - [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool
@@ -3942,7 +3943,6 @@
 - [JonnyBurger/anysticker-tutorials](https://github.com/JonnyBurger/anysticker-tutorials) - In-App tutorial videos for AnySticker
 - [remotion-dev/trailer](https://github.com/remotion-dev/trailer) - The promo video for Remotion
 - [kunalnagarco/imdb-scraper](https://github.com/kunalnagarco/imdb-scraper) - 🎬 An attempt at the most complete IMDb API
-- [markedjs/marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed.
 - [pavlobu/deskreen](https://github.com/pavlobu/deskreen) - Deskreen turns any device with a web browser into a secondary screen for your computer. ⭐️ Star to support our work!
 - [vacuumlabs/cardano-hw-cli](https://github.com/vacuumlabs/cardano-hw-cli) - Cardano CLI tool for hardware wallets
 - [mattermost/mattermost](https://github.com/mattermost/mattermost) - Mattermost is an open source platform for secure collaboration across the entire software development lifecycle..
