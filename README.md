@@ -577,7 +577,6 @@
 - [minio/highwayhash](https://github.com/minio/highwayhash) - Native Go version of HighwayHash with optimized assembly implementations on Intel and ARM. Able to process over 10 GB/sec on a single core on Intel CPUs - https://en.wikipedia.org/wiki/HighwayHash
 - [chromedp/chromedp](https://github.com/chromedp/chromedp) - A faster, simpler way to drive browsers supporting the Chrome DevTools Protocol.
 - [gcla/gowid](https://github.com/gcla/gowid) - Compositional widgets for terminal user interfaces, written in Go, inspired by urwid.
-- [open-pomodoro/openpomodoro-cli](https://github.com/open-pomodoro/openpomodoro-cli) - A command-line Pomodoro tracker which uses the Open Pomodoro Format
 - [gizak/termui](https://github.com/gizak/termui) - Golang terminal dashboard
 - [etcd-io/etcd](https://github.com/etcd-io/etcd) - Distributed reliable key-value store for the most critical data of a distributed system
 - [graph-gophers/graphql-go](https://github.com/graph-gophers/graphql-go) - GraphQL server with a focus on ease of use
@@ -1438,7 +1437,7 @@
 - [Kenshin/simpread](https://github.com/Kenshin/simpread) - 简悦 ( SimpRead ) - 让你瞬间进入沉浸式阅读的扩展
 - [docsifyjs/docsify](https://github.com/docsifyjs/docsify) - 🃏 A magical documentation site generator.
 - [ohbarye/review-waiting-list-bot](https://github.com/ohbarye/review-waiting-list-bot) - Make your team's review great again! ✨ It's a Slack bot to list up review waiting list.
-- [klaudiosinani/signale](https://github.com/klaudiosinani/signale) - Highly configurable logging utility
+- [klaudiosinani/signale](https://github.com/klaudiosinani/signale) - Highly configurable logging library
 - [danceyoung/react-native-frozenlist](https://github.com/danceyoung/react-native-frozenlist) - A List that just be composited by more ScrollView supports freezing columns, horizontal or vertical scrolling together.
 - [rayshih/botpress-slack](https://github.com/rayshih/botpress-slack) - 
 - [karakanb/vue-info-card](https://github.com/karakanb/vue-info-card) - Simple and beautiful card component with an elegant spark line, for VueJS.
@@ -2113,6 +2112,7 @@
 - [nicola/emoji-commits](https://github.com/nicola/emoji-commits) - :rocket: The new generation of git commit messages
 - [yissachar/awesome-dart](https://github.com/yissachar/awesome-dart) - A curated list of awesome Dart frameworks, libraries, and software
 - [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
+- [gaearon/overreacted.io](https://github.com/gaearon/overreacted.io) - Personal blog by Dan Abramov.
 - [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL
 - [jkup/awesome-personal-blogs](https://github.com/jkup/awesome-personal-blogs) - A delightful list of personal tech blogs
 - [kaHaleMaKai/ideavim-settings](https://github.com/kaHaleMaKai/ideavim-settings) - settingsfile and .ideavimrc for intellij 15
@@ -2989,7 +2989,7 @@
 - [google/comprehensive-rust](https://github.com/google/comprehensive-rust) - This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust.
 - [cormacrelf/dark-notify](https://github.com/cormacrelf/dark-notify) - Watcher for macOS 10.14+ light/dark mode changes
 - [hopinc/cli](https://github.com/hopinc/cli) - 💻 Interact with Hop in your terminal
-- [Vrtgs/thirtyfour](https://github.com/Vrtgs/thirtyfour) - Selenium WebDriver client for Rust, for automated testing of websites
+- [vrtgs/thirtyfour](https://github.com/vrtgs/thirtyfour) - Selenium WebDriver client for Rust, for automated testing of websites
 - [cncf/gitvote](https://github.com/cncf/gitvote) - GitVote is a GitHub application that allows holding a vote on issues and pull requests
 - [redbadger/crux](https://github.com/redbadger/crux) - Cross-platform app development in Rust
 - [wasmerio/wasmer](https://github.com/wasmerio/wasmer) - 🚀 Fast, secure, lightweight containers based on WebAssembly
@@ -3438,7 +3438,6 @@
 - [mbrubeck/android-completion](https://github.com/mbrubeck/android-completion) - Bash completion for "adb" from the Google Android SDK
 - [falcucci/dotfiles](https://github.com/falcucci/dotfiles) - 💻 macOS / Ubuntu dotfiles
 - [Stremio/stremio-beamup](https://github.com/Stremio/stremio-beamup) - 🛠️ A platform as a service (PaaS) hosting for Stremio addons: as easy a Heroku, without the restrictions
-- [nikitavoloboev/myworkflow](https://github.com/nikitavoloboev/myworkflow) - Place to share what you use. Apps/CLIs/Libraries/Configs/..
 - [simeg/functional-shell](https://github.com/simeg/functional-shell) - 🖥️ map and filter in your shell
 - [xwmx/nb](https://github.com/xwmx/nb) - CLI and local web plain text note‑taking, bookmarking, and archiving with linking, tagging, filtering, search, Git versioning & syncing, Pandoc conversion, + more, in a single portable script.
 - [cknadler/vim-anywhere](https://github.com/cknadler/vim-anywhere) - Use Vim everywhere you've always wanted to
@@ -3466,6 +3465,7 @@
 - [heroku/heroku-buildpack-nodejs](https://github.com/heroku/heroku-buildpack-nodejs) - Heroku's classic buildpack for Node.js applications.
 - [heroku/heroku-buildpack-go](https://github.com/heroku/heroku-buildpack-go) - Heroku's classic buildpack for Go applications.
 - [jayphelps/git-blame-someone-else](https://github.com/jayphelps/git-blame-someone-else) - Blame someone else for your bad code.
+- [open-pomodoro/openpomodoro-cli](https://github.com/open-pomodoro/openpomodoro-cli) - A command-line Pomodoro tracker which uses the Open Pomodoro Format
 - [termux/termux-packages](https://github.com/termux/termux-packages) - A package build system for Termux.
 - [debiki/talkyard-prod-one](https://github.com/debiki/talkyard-prod-one) - Talkyard production installation on one single server.
 - [junegunn/myvim](https://github.com/junegunn/myvim) - :bento: Script to create a portable bundle of Vim environment
@@ -3912,6 +3912,7 @@
 - [ethomson/issue-dashboard](https://github.com/ethomson/issue-dashboard) - A customizable dashboard for GitHub issues and pull requests, using GitHub Pages and GitHub Actions
 - [zzzgydi/clash-verge](https://github.com/zzzgydi/clash-verge) - A Clash GUI based on tauri. Supports Windows, macOS and Linux.
 - [kimlimjustin/xplorer](https://github.com/kimlimjustin/xplorer) - Xplorer, a customizable, modern file manager
+- [nikitavoloboev/myflow](https://github.com/nikitavoloboev/myflow) - Place to share & store what you use
 - [falcucci/wordle](https://github.com/falcucci/wordle) - A word guessing game.
 - [dai-shi/use-context-selector](https://github.com/dai-shi/use-context-selector) - React useContextSelector hook in userland
 - [dai-shi/excalidraw-claymate](https://github.com/dai-shi/excalidraw-claymate) - A tool based on Excalidraw to create stop motion animations and slides.
@@ -4002,7 +4003,6 @@
 - [ds300/patch-package](https://github.com/ds300/patch-package) - Fix broken node modules instantly  🏃🏽‍♀️💨
 - [webiny/webiny-js](https://github.com/webiny/webiny-js) - Open-source serverless enterprise CMS. Includes a headless CMS, page builder, form builder, and file manager. Easy to customize and expand. Deploys to AWS.
 - [jdalrymple/gitbeaker](https://github.com/jdalrymple/gitbeaker) - 🦊🧪 A comprehensive and typed Gitlab SDK for Node.js, Browsers, Deno and CLI
-- [gaearon/overreacted.io](https://github.com/gaearon/overreacted.io) - Personal blog by Dan Abramov.
 - [jonluca/RideShare-Trip-Stats](https://github.com/jonluca/RideShare-Trip-Stats) - Chrome Extension to visualize your uber trip statistics
 - [graphql/graphiql](https://github.com/graphql/graphiql) - GraphiQL & the GraphQL LSP Reference Ecosystem for building browser & IDE tools.
 - [graphql-community/koa-graphql](https://github.com/graphql-community/koa-graphql) - Create a GraphQL HTTP server with Koa.
