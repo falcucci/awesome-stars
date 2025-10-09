@@ -1920,7 +1920,7 @@
 
 ## MDX 
 
-- [nikitavoloboev/nikiv](https://github.com/nikitavoloboev/nikiv) - Personal website, docs, tools
+- [nikitavoloboev/nikiv](https://github.com/nikitavoloboev/nikiv) - Personal website, docs
 - [phuocng/1loc](https://github.com/phuocng/1loc) - What's your favorite JavaScript single LOC (line of code)?
 - [shuding/cobe](https://github.com/shuding/cobe) - 5kB WebGL globe lib.
 - [rauchg/blog](https://github.com/rauchg/blog) - 
@@ -2228,7 +2228,7 @@
 - [cyb3r17/darkwire](https://github.com/cyb3r17/darkwire) - darkwire - The internet is optional. Freedom isn’t.
 - [apache/airflow](https://github.com/apache/airflow) - Apache Airflow - A platform to programmatically author, schedule, and monitor workflows
 - [ethstorage/storage-contracts-v1](https://github.com/ethstorage/storage-contracts-v1) - 
-- [ethereum/staking-deposit-cli](https://github.com/ethereum/staking-deposit-cli) - Secure key generation for deposits
+- [ethereum/staking-deposit-cli](https://github.com/ethereum/staking-deposit-cli) - ⚠️ [Deprecated] ⚠️ Secure key generation for deposits
 - [nagyabi/forking_randao_manipulation](https://github.com/nagyabi/forking_randao_manipulation) - Researching RANDAO manipulation in Ethereum mainnet.
 - [commaai/openpilot](https://github.com/commaai/openpilot) - openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.
 - [soimort/you-get](https://github.com/soimort/you-get) - :arrow_double_down: Dumb downloader that scrapes the web
@@ -2289,7 +2289,7 @@
 - [madox2/vim-ai](https://github.com/madox2/vim-ai) - AI-powered code assistant for Vim. OpenAI and ChatGPT plugin for Vim and Neovim.
 - [GerevAI/gerev](https://github.com/GerevAI/gerev) - 🧠 AI-powered enterprise search engine 🔎
 - [jrnl-org/jrnl](https://github.com/jrnl-org/jrnl) - Collect your thoughts and notes without leaving the command line.
-- [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - Cross-platform, fast, feature-rich, GPU based terminal
+- [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - If you live in the terminal, kitty is made for you! Cross-platform, fast, feature-rich, GPU based.
 - [dexpota/kitty-themes](https://github.com/dexpota/kitty-themes) - A collection of themes for kitty terminal 😻
 - [matkapi/postpy2](https://github.com/matkapi/postpy2) - Postman collection runner library for python
 - [mmz-001/knowledge_gpt](https://github.com/mmz-001/knowledge_gpt) - Accurate answers and instant citations for your documents.
@@ -2547,7 +2547,7 @@
 - [yoshidan/google-cloud-rust](https://github.com/yoshidan/google-cloud-rust) - Google Cloud Client Libraries for Rust.
 - [srijs/rust-tokio-retry](https://github.com/srijs/rust-tokio-retry) - Extensible, asynchronous retry behaviours for futures/tokio
 - [naomijub/tokio-retry](https://github.com/naomijub/tokio-retry) - Extensible, asynchronous retry behaviours for futures/tokio
-- [trailbaseio/trailbase](https://github.com/trailbaseio/trailbase) - A blazingly fast, open-source application server with type-safe APIs, built-in JS/ES6/TS runtime, realtime, auth, and admin UI built on Rust, SQLite & WASM.
+- [trailbaseio/trailbase](https://github.com/trailbaseio/trailbase) - A blazingly fast, open-source application server with type-safe APIs, built-in WebAssembly runtime, realtime, auth, and admin UI built on Rust, SQLite & Wasmtime.
 - [nats-io/nats.rs](https://github.com/nats-io/nats.rs) - Rust client for NATS, the cloud native messaging system.
 - [rusty-celery/rusty-celery](https://github.com/rusty-celery/rusty-celery) - 🦀 Rust implementation of Celery for producing and consuming background tasks
 - [densumesh/broccoli](https://github.com/densumesh/broccoli) - A robust message queue system for Rust applications, designed as a Rust alternative to Celery.
@@ -4294,7 +4294,7 @@
 - [kristijanhusak/vim-js-file-import](https://github.com/kristijanhusak/vim-js-file-import) - Import/require files in javascript and typescript with single button!
 - [Yilin-Yang/vim-markbar](https://github.com/Yilin-Yang/vim-markbar) - Display all accessible marks and their surrounding lines in a collapsible sidebar.
 - [voldikss/vim-floaterm](https://github.com/voldikss/vim-floaterm) - :computer: Terminal manager for (neo)vim
-- [ledger/vim-ledger](https://github.com/ledger/vim-ledger) - Vim plugin for Ledger
+- [ledger/vim-ledger](https://github.com/ledger/vim-ledger) - Vim plugin for Ledger / Hledger
 - [kburdett/vim-nuuid](https://github.com/kburdett/vim-nuuid) - Vim plugin for generating and inserting UUIDs
 - [tpope/vim-obsession](https://github.com/tpope/vim-obsession) - obsession.vim: continuously updated session files
 - [kshenoy/vim-signature](https://github.com/kshenoy/vim-signature) - Plugin to toggle, display and navigate marks
