@@ -1122,7 +1122,7 @@
 - [falcucci/nock](https://github.com/falcucci/nock) - HTTP server mocking and expectations library for Node.js
 - [unexpectedjs/unexpected](https://github.com/unexpectedjs/unexpected) - Unexpected - the extensible BDD assertion toolkit
 - [Automattic/expect.js](https://github.com/Automattic/expect.js) - Minimalistic BDD-style assertions for Node.JS and the browser.
-- [aws/aws-sdk-js](https://github.com/aws/aws-sdk-js) - AWS SDK for JavaScript in the browser and Node.js (In Maintenance Mode, End-of-Life on 09/08/2025). The AWS SDK for JavaScript v3 in the browser and Node.js is available here: https://github.com/aws/a
+- [aws/aws-sdk-js](https://github.com/aws/aws-sdk-js) - AWS SDK for JavaScript in the browser and Node.js (End-of-Life as of 09/08/2025). The AWS SDK for JavaScript v3 in the browser and Node.js is available here: https://github.com/aws/aws-sdk-js-v3
 - [tapjs/tapjs](https://github.com/tapjs/tapjs) - Test Anything Protocol tools for node
 - [oldboyxx/jira_clone](https://github.com/oldboyxx/jira_clone) - A simplified Jira clone built with React/Babel (Client), and Node/TypeScript (API). Auto formatted with Prettier, tested with Cypress.
 - [juliomrqz/statusfy](https://github.com/juliomrqz/statusfy) - A Marvelous Open Source Status Page System
@@ -1922,6 +1922,7 @@
 
 - [nikitavoloboev/nikiv](https://github.com/nikitavoloboev/nikiv) - Personal website, docs
 - [phuocng/1loc](https://github.com/phuocng/1loc) - What's your favorite JavaScript single LOC (line of code)?
+- [wasp-lang/wasp](https://github.com/wasp-lang/wasp) - The fastest way to develop full-stack web apps with React & Node.js.
 - [shuding/cobe](https://github.com/shuding/cobe) - 5kB WebGL globe lib.
 - [rauchg/blog](https://github.com/rauchg/blog) - 
 - [tauri-apps/tauri-docs](https://github.com/tauri-apps/tauri-docs) - The source for all Tauri project documentation.
@@ -2505,6 +2506,7 @@
 
 ## Rust 
 
+- [ilyagr/diffedit3](https://github.com/ilyagr/diffedit3) - Edit diffs in a 3-pane view
 - [project-gauntlet/gauntlet](https://github.com/project-gauntlet/gauntlet) - Raycast-inspired open-source cross-platform application launcher with React-based plugins
 - [openai/codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal
 - [EasyTier/EasyTier](https://github.com/EasyTier/EasyTier) - A simple, decentralized mesh VPN with WireGuard support.
@@ -3753,7 +3755,6 @@
 - [grafana/google-sheets-datasource](https://github.com/grafana/google-sheets-datasource) - The Google Sheets data source plugin allows you to visualize Google Spread Sheets data in a Grafana dashboards.
 - [egoist/dropcode](https://github.com/egoist/dropcode) - A simple and lightweight code snippet manager.
 - [clerk/javascript](https://github.com/clerk/javascript) - Official JavaScript repository for Clerk authentication
-- [wasp-lang/wasp](https://github.com/wasp-lang/wasp) - The fastest way to develop full-stack web apps with React & Node.js.
 - [nicoburniske/muse-frontend](https://github.com/nicoburniske/muse-frontend) - A place for music lovers to create interactive and collaborative reviews for music on Spotify
 - [GoogleChromeLabs/squoosh](https://github.com/GoogleChromeLabs/squoosh) - Make images smaller using best-in-class codecs, right in the browser.
 - [vadimdemedes/ink-ui](https://github.com/vadimdemedes/ink-ui) - 💄 Ink-redible command-line interfaces made easy
