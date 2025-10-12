@@ -2506,6 +2506,7 @@
 
 ## Rust 
 
+- [gulbanana/gg](https://github.com/gulbanana/gg) - GG - Gui for JJ
 - [ilyagr/diffedit3](https://github.com/ilyagr/diffedit3) - Edit diffs in a 3-pane view
 - [project-gauntlet/gauntlet](https://github.com/project-gauntlet/gauntlet) - Raycast-inspired open-source cross-platform application launcher with React-based plugins
 - [openai/codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal
@@ -2732,7 +2733,7 @@
 - [ah-/anne-key](https://github.com/ah-/anne-key) - Firmware for Anne Pro Keyboard written in Rust
 - [gfx-rs/metal-rs](https://github.com/gfx-rs/metal-rs) - Deprecated Rust bindings for Metal
 - [quickwit-oss/quickwit](https://github.com/quickwit-oss/quickwit) - Cloud-native search engine for observability. An open-source alternative to Datadog, Elasticsearch, Loki, and Tempo.
-- [databendlabs/databend](https://github.com/databendlabs/databend) - 𝗔𝗜-𝗡𝗮𝘁𝗶𝘃𝗲 𝗗𝗮𝘁𝗮 𝗪𝗮𝗿𝗲𝗵𝗼𝘂𝘀𝗲. Open-source Snowflake alternative. Proven at petabyte scale with enterprise performance. Built for multimodal analytics. https://databend.com
+- [databendlabs/databend](https://github.com/databendlabs/databend) - 𝗔𝗜-𝗡𝗮𝘁𝗶𝘃𝗲 𝗗𝗮𝘁𝗮 𝗪𝗮𝗿𝗲𝗵𝗼𝘂𝘀𝗲. Blazing analytics, fast search, geo insights, vector AI. Built for multimodal analytics, Open-source Snowflake alternative. https://databend.com
 - [tommilligan/mdbook-admonish](https://github.com/tommilligan/mdbook-admonish) - A preprocessor for mdbook to add Material Design admonishments.
 - [paritytech/zombienet-sdk](https://github.com/paritytech/zombienet-sdk) - ZombieNet SDK
 - [JoshOrndorff/substrate-recipes](https://github.com/JoshOrndorff/substrate-recipes) - A Hands-On Cookbook for Aspiring Blockchain Chefs
