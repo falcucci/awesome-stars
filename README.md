@@ -1528,7 +1528,6 @@
 - [hapipal/underdog](https://github.com/hapipal/underdog) - HTTP/2 server-push for hapi
 - [zont/gulp-usemin](https://github.com/zont/gulp-usemin) - 
 - [ivantsov/redux-webext](https://github.com/ivantsov/redux-webext) - Redux for WebExtensions
-- [yorkxin/copy-as-markdown](https://github.com/yorkxin/copy-as-markdown) - A browser extension to copy tabs and links as Markdown
 - [mozilla/web-ext](https://github.com/mozilla/web-ext) - A command line tool to help build, run, and test web extensions
 - [michaeldewal/Github-projects-trello-like-cards](https://github.com/michaeldewal/Github-projects-trello-like-cards) - 
 - [Noitidart/Chrome-Store-Foxified](https://github.com/Noitidart/Chrome-Store-Foxified) - Point and click to install extensions into your browser from the AMO, Chrome Web Store, Microsoft Store, or Opera Addons websites.
@@ -2038,7 +2037,7 @@
 - [unicodeveloper/awesome-nextjs](https://github.com/unicodeveloper/awesome-nextjs) - :notebook_with_decorative_cover: :books: A curated list of awesome resources : books, videos, articles about using Next.js (A minimalistic framework for universal server-rendered React applications)
 - [falcucci/good-practices-workflow](https://github.com/falcucci/good-practices-workflow) - Agreements guideline for a basic daily development workflow.
 - [CollabCodeTech/backend-challenges](https://github.com/CollabCodeTech/backend-challenges) - A public list of open-source challenges from jobs around the world
-- [mozilla/geckodriver](https://github.com/mozilla/geckodriver) - WebDriver for Firefox
+- [mozilla/geckodriver](https://github.com/mozilla/geckodriver) - WebDriver Classic proxy for automating Firefox through Marionette
 - [falcucci/awesome-stars](https://github.com/falcucci/awesome-stars) - A curated list of my GitHub stars!
 - [nnethercote/perf-book](https://github.com/nnethercote/perf-book) - The Rust Performance Book
 - [wfxr/awesome-stars](https://github.com/wfxr/awesome-stars) - A curated list of my GitHub stars!
@@ -2442,6 +2441,7 @@
 - [adelarsq/vim-hackernews](https://github.com/adelarsq/vim-hackernews) - Hacker News plugin for Vim 📰💙💛🤍💚
 - [zulip/zulip](https://github.com/zulip/zulip) - Zulip server and web application. Open-source team chat that helps teams stay productive and focused.
 - [python/cpython](https://github.com/python/cpython) - The Python programming language
+- [yorkxin/copy-as-markdown](https://github.com/yorkxin/copy-as-markdown) - A browser extension to copy tabs and links as Markdown
 - [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first.
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 - [pixelb/ps_mem](https://github.com/pixelb/ps_mem) - A utility to accurately report the in core memory usage for a program
@@ -2921,7 +2921,7 @@
 - [utkarshkukreti/markup.rs](https://github.com/utkarshkukreti/markup.rs) - A blazing fast, type-safe template engine for Rust.
 - [sharksforarms/deku](https://github.com/sharksforarms/deku) - Declarative binary reading and writing: bit-level, symmetric, serialization/deserialization
 - [sharkdp/hexyl](https://github.com/sharkdp/hexyl) - A command-line hex viewer
-- [pr2502/ra-multiplex](https://github.com/pr2502/ra-multiplex) - share one rust-analyzer server instance between multiple LSP clients to save resources
+- [pr2502/ra-multiplex](https://github.com/pr2502/ra-multiplex) - moved to https://codeberg.org/p2502/lspmux
 - [Canop/bacon](https://github.com/Canop/bacon) - background code checker
 - [ClementTsang/bottom](https://github.com/ClementTsang/bottom) - Yet another cross-platform graphical process/system monitor.
 - [bootandy/dust](https://github.com/bootandy/dust) - A more intuitive version of du in rust
@@ -3413,6 +3413,7 @@
 
 ## Shell 
 
+- [tim-janik/jj-fzf](https://github.com/tim-janik/jj-fzf) - Text UI for Jujutsu based on fzf, centering around the jj log with key bindings for common operations
 - [dockur/windows-arm](https://github.com/dockur/windows-arm) - Windows for ARM in a Docker container.
 - [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container.
 - [blinksh/fonts](https://github.com/blinksh/fonts) - 
@@ -3634,6 +3635,7 @@
 
 ## TypeScript 
 
+- [keanemind/jj-stack](https://github.com/keanemind/jj-stack) - Stacked PRs on GitHub for Jujutsu
 - [paradigmxyz/flux](https://github.com/paradigmxyz/flux) - Graph-based LLM power tool for exploring many completions in parallel.
 - [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
 - [actions/cache](https://github.com/actions/cache) - Cache dependencies and build outputs in GitHub Actions
