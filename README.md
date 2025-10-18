@@ -913,6 +913,7 @@
 - [zo0r/react-native-push-notification](https://github.com/zo0r/react-native-push-notification) - React Native Local and Remote Notifications
 - [cesardeazevedo/react-native-collapsing-toolbar](https://github.com/cesardeazevedo/react-native-collapsing-toolbar) - react-native wrapper for android CollapsingToolbarLayout
 - [lugg/react-native-config](https://github.com/lugg/react-native-config) - Bring some 12 factor love to your mobile apps!
+- [akullpp/awesome-java](https://github.com/akullpp/awesome-java) - A curated list of awesome frameworks, libraries and software for the Java programming language.
 - [nayuki/Project-Euler-solutions](https://github.com/nayuki/Project-Euler-solutions) - Runnable code for solving Project Euler problems in Java, Python, Mathematica, Haskell.
 
 ## JavaScript 
@@ -1695,7 +1696,7 @@
 - [lukas-reineke/indent-blankline.nvim](https://github.com/lukas-reineke/indent-blankline.nvim) - Indent guides  for Neovim
 - [rootiest/neoterm](https://github.com/rootiest/neoterm) - Use NeoVide as a traditional terminal emulator!
 - [bluz71/vim-moonfly-colors](https://github.com/bluz71/vim-moonfly-colors) - A dark charcoal theme for modern Neovim & classic Vim
-- [cdmill/focus.nvim](https://github.com/cdmill/focus.nvim) - A fork of Folke's zen mode with features from True Zen. Customized to my workflow
+- [casedami/focus.nvim](https://github.com/casedami/focus.nvim) - A fork of Folke's zen mode with features from True Zen. Customized to my workflow
 - [tjdevries/colorbuddy.nvim](https://github.com/tjdevries/colorbuddy.nvim) - Your color buddy for making cool neovim color schemes
 - [svermeulen/text-to-colorscheme](https://github.com/svermeulen/text-to-colorscheme) - Neovim colorschemes generated on the fly with a text prompt using ChatGPT
 - [pauchiner/pastelnight.nvim](https://github.com/pauchiner/pastelnight.nvim) - Neovim theme inspired in Palenight, support a lot of plugins out-of-the-box. Includes themes for iTerm2, Alacritty, Kitty, Fish and others.
@@ -2168,7 +2169,6 @@
 - [Mayeu/awesome-open-source-organizations](https://github.com/Mayeu/awesome-open-source-organizations) - ⚡️ A list of organizations that have open sourced everything they do
 - [GeekyAnts/react-native-seed](https://github.com/GeekyAnts/react-native-seed) - Get your favorite boilerplate of React Native
 - [franzejr/redux-in-portuguese](https://github.com/franzejr/redux-in-portuguese) - Official Redux Documentation translated to portuguese
-- [akullpp/awesome-java](https://github.com/akullpp/awesome-java) - A curated list of awesome frameworks, libraries and software for the Java programming language.
 - [sindresorhus/iterm2-snazzy](https://github.com/sindresorhus/iterm2-snazzy) - Elegant iTerm2 theme with bright colors
 - [amio/awesome-micro](https://github.com/amio/awesome-micro) - A collection of awesome things regarding zeit's micro.
 - [uanders/react-redux-cheatsheet](https://github.com/uanders/react-redux-cheatsheet) - React Redux Cheat Sheet on Workflow & Concept
@@ -2440,7 +2440,6 @@
 - [adelarsq/vim-hackernews](https://github.com/adelarsq/vim-hackernews) - Hacker News plugin for Vim 📰💙💛🤍💚
 - [zulip/zulip](https://github.com/zulip/zulip) - Zulip server and web application. Open-source team chat that helps teams stay productive and focused.
 - [python/cpython](https://github.com/python/cpython) - The Python programming language
-- [yorkxin/copy-as-markdown](https://github.com/yorkxin/copy-as-markdown) - A browser extension to copy tabs and links as Markdown
 - [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first.
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 - [pixelb/ps_mem](https://github.com/pixelb/ps_mem) - A utility to accurately report the in core memory usage for a program
@@ -2480,7 +2479,7 @@
 - [floraison/fugit](https://github.com/floraison/fugit) - time tools (cron, parsing, durations, ...) for Ruby, rufus-scheduler, and flor
 - [drewblessing/gitlab-cli](https://github.com/drewblessing/gitlab-cli) - GitLab Command Line Tool - Interact with your GitLab server via the command line to manage snippets, projects and more.
 - [codegram/vim-codereview](https://github.com/codegram/vim-codereview) - GItHub Pull Request-based Code Reviews
-- [rubygems/rubygems](https://github.com/rubygems/rubygems) - Library packaging and distribution for Ruby.
+- [ruby/rubygems](https://github.com/ruby/rubygems) - Library packaging and distribution for Ruby.
 - [github-changelog-generator/gitlab-changelog-generator](https://github.com/github-changelog-generator/gitlab-changelog-generator) - GitLab Fork
 - [matteocrippa/awesome-swift](https://github.com/matteocrippa/awesome-swift) - A collaborative list of awesome Swift libraries and resources. Feel free to contribute!
 - [junegunn/redis-stat](https://github.com/junegunn/redis-stat) - (UNMAINTAINED) A real-time Redis monitoring tool
@@ -4110,6 +4109,7 @@
 - [vadimdemedes/dom-chef](https://github.com/vadimdemedes/dom-chef) - 🍔 Build DOM elements using JSX automatically
 - [vadimdemedes/ink-select-input](https://github.com/vadimdemedes/ink-select-input) - Select input component for Ink
 - [ueokande/vim-vixen](https://github.com/ueokande/vim-vixen) - Accelerates your web browsing with Vim power!!
+- [yorkxin/copy-as-markdown](https://github.com/yorkxin/copy-as-markdown) - A browser extension to copy tabs and links as Markdown
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
 - [motemen/chrome-GitHub-Issue-Badges](https://github.com/motemen/chrome-GitHub-Issue-Badges) - Chrome extension to embed GitHub Issue Badge's into GitHub issues
 - [elastic/kibana](https://github.com/elastic/kibana) - Your window into the Elastic Stack
