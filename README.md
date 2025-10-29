@@ -584,7 +584,7 @@
 - [requilence/integram](https://github.com/requilence/integram) - Integrate Telegram into your workflow – Trello, Gitlab, Bitbucket and other bots
 - [divan/txqr](https://github.com/divan/txqr) - Transfer data via animated QR codes
 - [sogko/golang-relay-starter-kit](https://github.com/sogko/golang-relay-starter-kit) - Barebones starting point for a Relay application with Golang GraphQL server
-- [hypermodeinc/dgraph](https://github.com/hypermodeinc/dgraph) - high-performance graph database for real-time use cases
+- [dgraph-io/dgraph](https://github.com/dgraph-io/dgraph) - high-performance graph database for real-time use cases
 - [skanehira/gjo](https://github.com/skanehira/gjo) - Small utility to create JSON objects
 - [pydio/cells](https://github.com/pydio/cells) - Future-proof content collaboration platform
 - [antham/chyle](https://github.com/antham/chyle) - Changelog generator : use a git repository and various data sources and publish the result on external services
@@ -988,7 +988,7 @@
 - [segmentio/evergreen](https://github.com/segmentio/evergreen) - 🌲 Evergreen React UI Framework by Segment
 - [netlify-templates/nextjs-blog-theme](https://github.com/netlify-templates/nextjs-blog-theme) - A customizable Next.js and Tailwind blog starter with visual editing and Git Content Source. Designed by the Bejamas agency.
 - [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
-- [pollinations/pollinations](https://github.com/pollinations/pollinations) - Free Open-Source Image and Text Generation
+- [pollinations/pollinations](https://github.com/pollinations/pollinations) - Your Friendly Open-Source Gen-AI Platform
 - [filipedeschamps/parse-google-docs-json](https://github.com/filipedeschamps/parse-google-docs-json) - Authenticates with Google API and parse Google Docs to JSON or Markdown
 - [ehmicky/nve](https://github.com/ehmicky/nve) - Run any command on specific Node.js versions
 - [gragland/chatgpt-chrome-extension](https://github.com/gragland/chatgpt-chrome-extension) - A ChatGPT Chrome extension. Integrates ChatGPT into every text box on the internet.
@@ -1188,7 +1188,7 @@
 - [klaudiosinani/taskbook](https://github.com/klaudiosinani/taskbook) - Tasks, boards & notes for the command-line habitat
 - [mde/ejs](https://github.com/mde/ejs) - Embedded JavaScript templates -- http://ejs.co
 - [bomanimc/gitrocket](https://github.com/bomanimc/gitrocket) - A rocket ship that launches in your Hyper terminal when you push code with Git.
-- [spicetify/cli](https://github.com/spicetify/cli) - Command-line tool to customize Spotify client. Supports Windows, MacOS, and Linux.
+- [spicetify/cli](https://github.com/spicetify/cli) - Command-line tool to customize Spotify client. Supports Windows, macOS, and Linux.
 - [kiwicom/refined-gitlab](https://github.com/kiwicom/refined-gitlab) - 🛠 WIP 🛠 Chrome extension that enhances GitLab
 - [stasgavrylov/lazy-reviewer](https://github.com/stasgavrylov/lazy-reviewer) - Google Chrome extension that adds the display of pull request diffs to global PR section on GitHub/GitLab.
 - [leonardokl/gitlab-chrome-extension](https://github.com/leonardokl/gitlab-chrome-extension) - Gitlab Chrome Extension using React and Redux
@@ -1988,6 +1988,7 @@
 
 ## Others 
 
+- [zksync/credo](https://github.com/zksync/credo) - 
 - [eth-clients/holesky](https://github.com/eth-clients/holesky) - the holesovice post-merge testnet configuration.
 - [pinax-network/awesome-substreams](https://github.com/pinax-network/awesome-substreams) - 😎 Awesome lists about Substreams
 - [bkrem/awesome-solidity](https://github.com/bkrem/awesome-solidity) - ⟠ A curated list of awesome Solidity resources, libraries, tools and more
@@ -2503,6 +2504,9 @@
 
 ## Rust 
 
+- [bilinearlabs/rs-merkle-tree](https://github.com/bilinearlabs/rs-merkle-tree) - Merkle tree implementation in Rust with configurable storage backends and hash functions. Fixed depth and incremental only. Optimized for fast proof generation.
+- [op-rs/kona](https://github.com/op-rs/kona) - Monorepo for OP Stack Types, Components, and Services built in Rust.
+- [matter-labs/zksync-era](https://github.com/matter-labs/zksync-era) - zkSync era
 - [LFDT-Nightstream/Starstream](https://github.com/LFDT-Nightstream/Starstream) - Implementation experiments as part of the design process of Starstream VM
 - [gulbanana/gg](https://github.com/gulbanana/gg) - GG - Gui for JJ
 - [ilyagr/diffedit3](https://github.com/ilyagr/diffedit3) - Edit diffs in a 3-pane view
@@ -2519,7 +2523,7 @@
 - [matter-labs/foundry-zksync](https://github.com/matter-labs/foundry-zksync) - Fork of Foundry tailored for zkSync environment
 - [lambdaclass/ethrex](https://github.com/lambdaclass/ethrex) - Minimalist, fast and modular implementation of the Ethereum protocol in Rust. L1 and L2 execution client.
 - [Peternator7/strum](https://github.com/Peternator7/strum) - A small rust library for adding custom derives to enums
-- [risechain/pevm](https://github.com/risechain/pevm) - Blazingly fast Parallel EVM
+- [risechain/pevm](https://github.com/risechain/pevm) - The Ultimate Parallel EVM Engine: Transaction Execution, State Root Calculation, Shred Broadcasting. All in One and at Once!
 - [mozilla/sccache](https://github.com/mozilla/sccache) - Sccache is a ccache-like tool. It is used as a compiler wrapper and avoids compilation when possible. Sccache has the capability to utilize caching in remote storage environments, including various cl
 - [open-telemetry/opentelemetry-rust](https://github.com/open-telemetry/opentelemetry-rust) - The Rust OpenTelemetry implementation
 - [paritytech/polkadot-stps](https://github.com/paritytech/polkadot-stps) - Polkadot Standard Transactions Per Second (sTPS) performance benchmarking
@@ -2846,7 +2850,7 @@
 - [imsnif/weather-pal](https://github.com/imsnif/weather-pal) - A Zellij plugin to get weather information inside the terminal
 - [anweiss/cddl](https://github.com/anweiss/cddl) - Concise data definition language (RFC 8610) implementation and JSON and CBOR validator in Rust
 - [wadackel/vim-dogrun](https://github.com/wadackel/vim-dogrun) - :dog: A dark Neovim / Vim colorscheme for the GUI and 256 / true-color terminals.
-- [typst/typst](https://github.com/typst/typst) - A new markup-based typesetting system that is powerful and easy to learn.
+- [typst/typst](https://github.com/typst/typst) - A markup-based typesetting system that is powerful and easy to learn.
 - [biomejs/biome](https://github.com/biomejs/biome) - A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.
 - [tokio-rs/mio](https://github.com/tokio-rs/mio) - Metal I/O library for Rust.
 - [rust-rocksdb/rust-rocksdb](https://github.com/rust-rocksdb/rust-rocksdb) - rust wrapper for rocksdb
@@ -3653,7 +3657,7 @@
 - [dicether/contracts](https://github.com/dicether/contracts) - Smart contracts for Dicether
 - [ygwyg/diverce](https://github.com/ygwyg/diverce) - vercel nextjs -&gt; cloudflare workers
 - [duneanalytics/evm.codes](https://github.com/duneanalytics/evm.codes) - Source for evm.codes an Ethereum Virtual Machine Opcodes Interactive Reference
-- [piotrostr/listen](https://github.com/piotrostr/listen) - Solana Swiss Army Knife
+- [piotrostr/listen](https://github.com/piotrostr/listen) - DeFAI Swiss Army Knife
 - [kkiyama117/coc-toml](https://github.com/kkiyama117/coc-toml) - Toml extension for coc-nvim, using taplo for lsp engine
 - [rhysd/action-setup-vim](https://github.com/rhysd/action-setup-vim) - GitHub Action to setup Vim or Neovim on Linux, macOS and Windows for testing Vim plugins
 - [samwho/visualisations](https://github.com/samwho/visualisations) - Code behind my visualisation blog posts
