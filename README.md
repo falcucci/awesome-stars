@@ -1691,6 +1691,7 @@
 
 ## Lua 
 
+- [bassamsdata/namu.nvim](https://github.com/bassamsdata/namu.nvim) - Flexible and sleek fuzzy picker, LSP symbol navigator, and more. inspired by Zed.
 - [rachartier/tiny-glimmer.nvim](https://github.com/rachartier/tiny-glimmer.nvim) - A Neovim plugin that adds smooth, customizable animations to text operations like yank, paste, search, undo/redo, and more.
 - [NeogitOrg/neogit](https://github.com/NeogitOrg/neogit) - An interactive and powerful Git interface for Neovim, inspired by Magit
 - [wnkz/monoglow.nvim](https://github.com/wnkz/monoglow.nvim) - A dark, mostly monochrome colorscheme with a touch of glowing.
@@ -2126,7 +2127,7 @@
 - [prayash/awesome-gatsby](https://github.com/prayash/awesome-gatsby) - ⚛️ 📄 🚀 Awesome list for the mighty Gatsby.js, a blazing fast React static site generator.
 - [alexlevy0/fantastic-tech-interview-questions-mock](https://github.com/alexlevy0/fantastic-tech-interview-questions-mock) - Top technical interview questions
 - [iamcryptoki/snowden-archive](https://github.com/iamcryptoki/snowden-archive) - 💥 A collection of all documents leaked by former NSA contractor and whistleblower Edward Snowden.
-- [learn-anything/movies](https://github.com/learn-anything/movies) - Awesome Movies
+- [linsa-io/movies](https://github.com/linsa-io/movies) - Awesome Movies
 - [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) - A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.
 - [therebelrobot/awesome-workshopper](https://github.com/therebelrobot/awesome-workshopper) - A list of CLI workshopper/adventure tutorials for various things. Inspired by awesome.
 - [victorlaerte/awesome-it-quotes](https://github.com/victorlaerte/awesome-it-quotes) - This is a list of awesome IT quotes. The aim is to collect all relevant quotes said over the history of IT.
@@ -3145,7 +3146,7 @@
 - [PRQL/prql](https://github.com/PRQL/prql) - PRQL is a modern language for transforming data — a simple, powerful, pipelined SQL replacement
 - [fschutt/azul](https://github.com/fschutt/azul) - Desktop GUI Framework
 - [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
-- [awslabs/aws-lambda-rust-runtime](https://github.com/awslabs/aws-lambda-rust-runtime) - A Rust runtime for AWS Lambda
+- [aws/aws-lambda-rust-runtime](https://github.com/aws/aws-lambda-rust-runtime) - A Rust runtime for AWS Lambda
 - [jameslittle230/stork](https://github.com/jameslittle230/stork) - 🔎 Impossibly fast web search, made for static sites.
 - [TeXitoi/structopt](https://github.com/TeXitoi/structopt) - Parse command line arguments by defining a struct.
 - [rust-ndarray/ndarray](https://github.com/rust-ndarray/ndarray) - ndarray: an N-dimensional array with array views, multidimensional slicing, and efficient operations
@@ -3642,6 +3643,7 @@
 
 ## TypeScript 
 
+- [internet-development/www-server-mono](https://github.com/internet-development/www-server-mono) - Server Mono is a font released by the Internet Development Studio Company. SIL Open Font License 1.1
 - [keanemind/jj-stack](https://github.com/keanemind/jj-stack) - Stacked PRs on GitHub for Jujutsu
 - [paradigmxyz/flux](https://github.com/paradigmxyz/flux) - Graph-based LLM power tool for exploring many completions in parallel.
 - [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
@@ -3925,7 +3927,7 @@
 - [ethomson/issue-dashboard](https://github.com/ethomson/issue-dashboard) - A customizable dashboard for GitHub issues and pull requests, using GitHub Pages and GitHub Actions
 - [zzzgydi/clash-verge](https://github.com/zzzgydi/clash-verge) - A Clash GUI based on tauri. Supports Windows, macOS and Linux.
 - [kimlimjustin/xplorer](https://github.com/kimlimjustin/xplorer) - Xplorer, a customizable, modern file manager
-- [nikivdev/myflow](https://github.com/nikivdev/myflow) - Place to share & store what you use
+- [nikivdev/flow](https://github.com/nikivdev/flow) - Place to share & store what you use. Full sync up tool.
 - [falcucci/wordle](https://github.com/falcucci/wordle) - A word guessing game.
 - [dai-shi/use-context-selector](https://github.com/dai-shi/use-context-selector) - React useContextSelector hook in userland
 - [dai-shi/excalidraw-claymate](https://github.com/dai-shi/excalidraw-claymate) - A tool based on Excalidraw to create stop motion animations and slides.
