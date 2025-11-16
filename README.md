@@ -444,7 +444,6 @@
 - [docker/compose](https://github.com/docker/compose) - Define and run multi-container applications with Docker
 - [dagger/dagger](https://github.com/dagger/dagger) - An open-source runtime for composable workflows. Great for AI agents and CI/CD.
 - [gokcehan/lf](https://github.com/gokcehan/lf) - Terminal file manager
-- [nikivdev/ghost](https://github.com/nikivdev/ghost) - Watch over things + stream your mac to remote server
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀
 - [charm-and-friends/kancli](https://github.com/charm-and-friends/kancli) - A tutorial for building a command line kanban board in Go
 - [robherley/snips.sh](https://github.com/robherley/snips.sh) - ✂️ passwordless, anonymous SSH-powered pastebin with a human-friendly TUI and web UI
@@ -1181,6 +1180,7 @@
 - [atlassian/jest-in-case](https://github.com/atlassian/jest-in-case) - Jest utility for creating variations of the same test
 - [kentcdodds/testing-workshop](https://github.com/kentcdodds/testing-workshop) - A workshop for learning how to test JavaScript applications
 - [leebyron/testcheck-js](https://github.com/leebyron/testcheck-js) - Generative testing for JavaScript
+- [bestony/logoly](https://github.com/bestony/logoly) - A Pornhub Flavour Logo Generator
 - [forwardemail/supertest](https://github.com/forwardemail/supertest) - 🕷 Super-agent driven library for testing node.js HTTP servers using a fluent API.   Maintained for @forwardemail, @ladjs, @spamscanner, @breejs, @cabinjs, and @lassjs.
 - [mrvautin/expressCart](https://github.com/mrvautin/expressCart) - A fully functioning Node.js shopping cart with Stripe, PayPal, Authorize.net, PayWay, Blockonomics, Adyen, Zip and Instore payments.
 - [r-spacex/SpaceX-API](https://github.com/r-spacex/SpaceX-API) - :rocket: Open Source REST API for SpaceX launch, rocket, core, capsule, starlink, launchpad, and landing pad data.
@@ -2225,6 +2225,7 @@
 
 ## Python 
 
+- [yousseb/meld](https://github.com/yousseb/meld) - Meld for macOS
 - [ezyang/ghstack](https://github.com/ezyang/ghstack) - Submit stacked diffs to GitHub on the command line
 - [paradigmxyz/flood](https://github.com/paradigmxyz/flood) - flood is a load testing tool for benchmarking EVM nodes over RPC
 - [Aider-AI/aider](https://github.com/Aider-AI/aider) - aider is AI pair programming in your terminal
@@ -3351,6 +3352,7 @@
 - [netlify/rust-functions-example](https://github.com/netlify/rust-functions-example) - Deploy Rust lambda functions on Netlify
 - [neondatabase/neon](https://github.com/neondatabase/neon) - Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, code-like database branching, and scale to zero.
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
+- [nikivdev/flow](https://github.com/nikivdev/flow) - Your second OS. SDK that has it all. Streaming, OS control with agents. Declarative. Synced.
 - [rust-lang/regex](https://github.com/rust-lang/regex) - An implementation of regular expressions for Rust. This implementation uses finite automata and guarantees linear time matching on all inputs.
 - [BurntSushi/xsv](https://github.com/BurntSushi/xsv) - A fast CSV command line toolkit written in Rust.
 - [sharkdp/pastel](https://github.com/sharkdp/pastel) - A command-line tool to generate, analyze, convert and manipulate colors
@@ -3722,6 +3724,7 @@
 - [open-cli-tools/concurrently](https://github.com/open-cli-tools/concurrently) - Run commands concurrently. Like `npm run watch-js & npm run watch-less` but better.
 - [neoclide/coc-r-lsp](https://github.com/neoclide/coc-r-lsp) - R LSP Client for coc.nvim
 - [scalameta/coc-metals](https://github.com/scalameta/coc-metals) - Deprecated in favor of scalameta/nvim-metals
+- [nikivdev/research](https://github.com/nikivdev/research) - Research (code, docs, ..)
 - [xiyaowong/coc-sumneko-lua](https://github.com/xiyaowong/coc-sumneko-lua) - Lua extension using sumneko lua-language-server for coc.nvim
 - [josa42/coc-lua](https://github.com/josa42/coc-lua) - Lua language server extension using lua-lsp for coc.nvim.
 - [codota/tabnine-vscode](https://github.com/codota/tabnine-vscode) - Visual Studio Code client for Tabnine. https://marketplace.visualstudio.com/items?itemName=TabNine.tabnine-vscode
@@ -3927,7 +3930,6 @@
 - [ethomson/issue-dashboard](https://github.com/ethomson/issue-dashboard) - A customizable dashboard for GitHub issues and pull requests, using GitHub Pages and GitHub Actions
 - [zzzgydi/clash-verge](https://github.com/zzzgydi/clash-verge) - A Clash GUI based on tauri. Supports Windows, macOS and Linux.
 - [kimlimjustin/xplorer](https://github.com/kimlimjustin/xplorer) - Xplorer, a customizable, modern file manager
-- [nikivdev/flow](https://github.com/nikivdev/flow) - Place to share & store what you use. Full sync up tool.
 - [falcucci/wordle](https://github.com/falcucci/wordle) - A word guessing game.
 - [dai-shi/use-context-selector](https://github.com/dai-shi/use-context-selector) - React useContextSelector hook in userland
 - [dai-shi/excalidraw-claymate](https://github.com/dai-shi/excalidraw-claymate) - A tool based on Excalidraw to create stop motion animations and slides.
@@ -4412,7 +4414,6 @@
 - [Akryum/guijs](https://github.com/Akryum/guijs) - 🐣️ The app that makes your #devlife easier.
 - [napthedev/mac-big-sur](https://github.com/napthedev/mac-big-sur) - 
 - [mokuappio/serverless-invoices](https://github.com/mokuappio/serverless-invoices) - Create and manage invoices in your browser. Serverless Invoices is a free invoicing tool for freelancers and small businesses. Made with Vue.js.
-- [bestony/logoly](https://github.com/bestony/logoly) - A Pornhub Flavour Logo Generator
 - [yangxikun/monitor-man](https://github.com/yangxikun/monitor-man) - HTTP API monitor based on postman and newman.
 - [Splode/pomotroid](https://github.com/Splode/pomotroid) - :tomato: Simple and visually-pleasing Pomodoro timer
 - [salomonelli/best-resume-ever](https://github.com/salomonelli/best-resume-ever) - :necktie: :briefcase: Build fast :rocket: and easy multiple beautiful resumes and create your best CV ever! Made with Vue and LESS.
