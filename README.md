@@ -3645,6 +3645,7 @@
 
 ## TypeScript 
 
+- [atuinsh/desktop](https://github.com/atuinsh/desktop) - 📖 Runbooks that run
 - [internet-development/www-server-mono](https://github.com/internet-development/www-server-mono) - Server Mono is a font released by the Internet Development Studio Company. SIL Open Font License 1.1
 - [keanemind/jj-stack](https://github.com/keanemind/jj-stack) - Stacked PRs on GitHub for Jujutsu
 - [paradigmxyz/flux](https://github.com/paradigmxyz/flux) - Graph-based LLM power tool for exploring many completions in parallel.
