@@ -609,7 +609,7 @@
 - [bcicen/grmon](https://github.com/bcicen/grmon) - Command line monitoring for goroutines
 - [dzhou121/gonvim](https://github.com/dzhou121/gonvim) - 
 - [hashicorp/vault](https://github.com/hashicorp/vault) - A tool for secrets management, encryption as a service, and privileged access management
-- [go-vgo/robotgo](https://github.com/go-vgo/robotgo) - RobotGo, Go Native cross-platform RPA and GUI automation  @vcaesar
+- [go-vgo/robotgo](https://github.com/go-vgo/robotgo) - RobotGo, Go Native cross-platform RPA, GUI automation, Auto test and Computer use  @vcaesar
 - [dutchcoders/transfer.sh](https://github.com/dutchcoders/transfer.sh) - Easy and fast file sharing from the command-line.
 - [dutchcoders/marija](https://github.com/dutchcoders/marija) - Data exploration and visualisation for Elasticsearch and Splunk.
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) - Release engineering, simplified
@@ -1459,7 +1459,6 @@
 - [axios/axios](https://github.com/axios/axios) - Promise based HTTP client for the browser and node.js
 - [reactstrap/reactstrap](https://github.com/reactstrap/reactstrap) - Simple React Bootstrap 5 components
 - [jsdoc/jsdoc](https://github.com/jsdoc/jsdoc) - An API documentation generator for JavaScript.
-- [asimolmez/react-native-folder-structure](https://github.com/asimolmez/react-native-folder-structure) - Ideal folder organization scheme for react-native with use redux applications
 - [spacebring/react-colorizer](https://github.com/spacebring/react-colorizer) - 🌈 A Color Picker Component for React and React Native.
 - [mjsolidarios/react-native-search-filter](https://github.com/mjsolidarios/react-native-search-filter) - Modified version of react-search-input (https://github.com/enkidevs/react-search-input) to work with react-native.
 - [joe-re/async-storage-repl](https://github.com/joe-re/async-storage-repl) - AsyncStorageRepl provides you to access remote ReactNative application's AsyncStorage from your node REPL.
@@ -2101,7 +2100,6 @@
 - [you-dont-need-x/you-dont-need-lodash](https://github.com/you-dont-need-x/you-dont-need-lodash) - The next evolutive state of, "You Might Not Need Lodash", because you definitely don't need Lodash.
 - [LuanP/development-guidelines](https://github.com/LuanP/development-guidelines) - Development guidelines
 - [tchapi/markdown-cheatsheet](https://github.com/tchapi/markdown-cheatsheet) - Markdown Cheatsheet for Github Readme.md
-- [paperwork/paperwork](https://github.com/paperwork/paperwork) - 
 - [JoseAlcerreca/android-lifecycles](https://github.com/JoseAlcerreca/android-lifecycles) - 
 - [hackstoic/golang-open-source-projects](https://github.com/hackstoic/golang-open-source-projects) - 为互联网IT人打造的中文版awesome-go
 - [ribot/android-guidelines](https://github.com/ribot/android-guidelines) - Architecture and code guidelines we use at ribot when developing for Android
@@ -2717,7 +2715,7 @@
 - [toml-rs/toml](https://github.com/toml-rs/toml) - Rust TOML Parser
 - [feschber/lan-mouse](https://github.com/feschber/lan-mouse) - mouse & keyboard sharing via LAN
 - [input-output-hk/partner-chains](https://github.com/input-output-hk/partner-chains) - Substrate node with capability of communicating with Cardano network
-- [use-ink/cargo-contract](https://github.com/use-ink/cargo-contract) - Setup and deployment tool for developing Wasm based smart contracts via ink!
+- [use-ink/cargo-contract](https://github.com/use-ink/cargo-contract) - Swiss-army knife for developing Rust smart contracts with ink!
 - [lusingander/cargo-selector](https://github.com/lusingander/cargo-selector) - Cargo subcommand to select and execute binary/example targets 📦
 - [lvkv/whenfs](https://github.com/lvkv/whenfs) - A FUSE filesystem for your Google calendar
 - [whitequark/rust-xdg](https://github.com/whitequark/rust-xdg) - A library that makes it easy to follow the X Desktop Group specifications
@@ -4446,7 +4444,7 @@
 - [capy-ui/capy](https://github.com/capy-ui/capy) - 💻Build one codebase and get native UI on Windows, Linux and Web
 - [zigtools/zls](https://github.com/zigtools/zls) - A language server for Zig supporting developers with features like autocomplete and goto definition
 - [mkeeter/futureproof](https://github.com/mkeeter/futureproof) - A live editor for fragment shaders, powered by Neovim, WebGPU, and Zig!
-- [ziglang/zig](https://github.com/ziglang/zig) - General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.
+- [ziglang/zig](https://github.com/ziglang/zig) - Moved to Codeberg
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 
 
