@@ -2133,7 +2133,6 @@
 - [lucky-bai/projecteuler-solutions](https://github.com/lucky-bai/projecteuler-solutions) - Numerical answers to all Project Euler problems
 - [bnb/awesome-hyper](https://github.com/bnb/awesome-hyper) - 🖥 Delightful Hyper plugins, themes, and resources
 - [rothgar/awesome-tmux](https://github.com/rothgar/awesome-tmux) - A list of awesome resources for tmux
-- [bahlo/go-styleguide](https://github.com/bahlo/go-styleguide) - 🏆 Opinionated Styleguide for the Go language
 - [dariubs/GoBooks](https://github.com/dariubs/GoBooks) - List of Golang books
 - [github/gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates
 - [chenshenhai/koa2-note](https://github.com/chenshenhai/koa2-note) - 《Koa2进阶学习笔记》已完结🎄🎄🎄
@@ -2505,6 +2504,7 @@
 
 ## Rust 
 
+- [unhappychoice/gitlogue](https://github.com/unhappychoice/gitlogue) - A cinematic Git commit replay tool for the terminal, turning your Git history into a living, animated story.
 - [rust-nostr/nostr](https://github.com/rust-nostr/nostr) - Rust implementation of the nostr protocol, high-level client library, Nostr Wallet Connect and more.
 - [cordx56/rustowl](https://github.com/cordx56/rustowl) - Visualize Ownership and Lifetimes in Rust
 - [tautropfli/mundy](https://github.com/tautropfli/mundy) - Reads various system-level accessibility and UI preferences 🐋
@@ -2629,7 +2629,7 @@
 - [abhinandh-s/age.nvim](https://github.com/abhinandh-s/age.nvim) - Neovim plugin for encrypting and decrypting text files inside neovim using age with ease.
 - [LemmyNet/lemmy-client-rs](https://github.com/LemmyNet/lemmy-client-rs) - Rust client for Lemmy
 - [TobiasMarschner/ferrishare](https://github.com/TobiasMarschner/ferrishare) - Simple, self-hostable filesharing application with builtin end-to-end encryption
-- [falcucci/harvest-moon](https://github.com/falcucci/harvest-moon) - A Substrate community-based and platform agnostic for fact-checking governance system.
+- [falcucci/harvest-moon](https://github.com/falcucci/harvest-moon) - A Substrate community-based platform for fact-checking systems.
 - [exonum/exonum](https://github.com/exonum/exonum) - An extensible open-source framework for creating private/permissioned blockchain applications
 - [tangle-network/tangle](https://github.com/tangle-network/tangle) - The Layer 1 blockchain for on-demand services.
 - [ralexstokes/ethereum-consensus](https://github.com/ralexstokes/ethereum-consensus) - 
@@ -2725,7 +2725,7 @@
 - [JunSuzukiJapan/macro-lisp](https://github.com/JunSuzukiJapan/macro-lisp) - Lisp-like DSL for Rust language
 - [SeniorMars/render.nvim](https://github.com/SeniorMars/render.nvim) - I'm going to try to be working on the anticonceal feature of nvim for image support for typst. This is going to a proof of concept so I can properly figure out what I need to do to get everything work
 - [melMass/echo.nvim](https://github.com/melMass/echo.nvim) - 🔊 Seamlessly integrate sound into your Neovim workflow
-- [falcucci/hyper-jump](https://github.com/falcucci/hyper-jump) - The aircraft ready to hyper-jump: agnostic all-in-one and cross-platform command-line version manager toolset for a more efficient development workflow.
+- [falcucci/hyper-jump](https://github.com/falcucci/hyper-jump) - The agnostic all-in-one and cross-platform version manager toolset.
 - [SeniorMars/typst.nvim](https://github.com/SeniorMars/typst.nvim) - WIP. Goals: Treesitter highlighting, snippets, and a smooth intergration with neovim.
 - [BurntSushi/jiff](https://github.com/BurntSushi/jiff) - A datetime library for Rust that encourages you to jump into the pit of success.
 - [ron-rs/ron](https://github.com/ron-rs/ron) - Rusty Object Notation
@@ -3232,7 +3232,7 @@
 - [cloudflare/workers-rs](https://github.com/cloudflare/workers-rs) - Write Cloudflare Workers in 100% Rust via WebAssembly
 - [pacak/cargo-show-asm](https://github.com/pacak/cargo-show-asm) - cargo subcommand showing the assembly, LLVM-IR and MIR generated for Rust code
 - [clap-rs/clap-verbosity-flag](https://github.com/clap-rs/clap-verbosity-flag) - Easily add a --verbose flag to CLIs using Clap
-- [falcucci/changelog-it](https://github.com/falcucci/changelog-it) - Rust crate and cli that generates clear github releases based on milestones, including merged pull requests, contributors and organized by topics.
+- [falcucci/changelog-it](https://github.com/falcucci/changelog-it) - Rust crate that generates clear releases based on milestones.
 - [fschutt/printpdf](https://github.com/fschutt/printpdf) - Rust / WASM library for reading, writing and rendering PDF
 - [rust-scraper/scraper](https://github.com/rust-scraper/scraper) - HTML parsing and querying with CSS selectors
 - [rustsec/rustsec](https://github.com/rustsec/rustsec) - RustSec API & Tooling
