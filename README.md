@@ -83,7 +83,6 @@
 - [Vim Script](#vim-script)
 - [Vim Snippet](#vim-snippet)
 - [Vue](#vue)
-- [WebAssembly](#webassembly)
 - [Zig](#zig)
 
 ## Aiken 
@@ -2662,6 +2661,7 @@
 - [Sovereign-Labs/sovereign-sdk](https://github.com/Sovereign-Labs/sovereign-sdk) - A flexible toolkit for building real-time blockchains
 - [cometbft/tendermint-rs](https://github.com/cometbft/tendermint-rs) - Client libraries for Tendermint/CometBFT in Rust!
 - [Myriad-Dreamin/tinymist](https://github.com/Myriad-Dreamin/tinymist) - Tinymist [ˈtaɪni mɪst] is an integrated language service for Typst [taɪpst].
+- [makepad/makepad](https://github.com/makepad/makepad) - Makepad is a creative software development platform for Rust that compiles to wasm/webGL, osx/metal, windows/dx11 linux/opengl
 - [superlistapp/super_native_extensions](https://github.com/superlistapp/super_native_extensions) - Native drag & drop, clipboard access and context menu.
 - [ProvableHQ/snarkOS](https://github.com/ProvableHQ/snarkOS) - A Decentralized Operating System for ZK Applications
 - [GraphiteEditor/Graphite](https://github.com/GraphiteEditor/Graphite) - An open source graphics editor for 2025: comprehensive 2D content creation tool suite for graphic design, digital art, and interactive real-time motion graphics — featuring node-based procedural editi
@@ -4422,10 +4422,6 @@
 - [sdras/page-transitions-simple](https://github.com/sdras/page-transitions-simple) - Vue/Nuxt Page Transitions- Simple Demonstration
 - [sdras/page-transitions-travelapp](https://github.com/sdras/page-transitions-travelapp) - Travel App, Native-like Page Transitions
 - [tipsy/profile-summary-for-github](https://github.com/tipsy/profile-summary-for-github) - Tool for visualizing GitHub profiles
-
-## WebAssembly 
-
-- [makepad/makepad](https://github.com/makepad/makepad) - Makepad is a creative software development platform for Rust that compiles to wasm/webGL, osx/metal, windows/dx11 linux/opengl
 
 ## Zig 
 
