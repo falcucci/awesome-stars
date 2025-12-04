@@ -222,7 +222,7 @@
 - [audo-ai/magic-mic](https://github.com/audo-ai/magic-mic) - Open Source Noise Cancellation App for Virtual Meetings
 - [MaskRay/ccls](https://github.com/MaskRay/ccls) - C/C++/ObjC language server supporting cross references, hierarchies, completion and semantic highlighting
 - [ggerganov/kbd-audio](https://github.com/ggerganov/kbd-audio) - 🎤⌨️ Acoustic keyboard eavesdropping
-- [badaix/snapcast](https://github.com/badaix/snapcast) - Synchronous multiroom audio player
+- [snapcast/snapcast](https://github.com/snapcast/snapcast) - Synchronous multiroom audio player
 - [awslabs/dynamodb-shell](https://github.com/awslabs/dynamodb-shell) - A command line client (shell) for AWS DynamoDB that offers DDL and DML support similar to CLIs for other databases.
 - [tenderlove/initial-v](https://github.com/tenderlove/initial-v) - It's a BMW shifter converted to a Bluetooth Keyboard that you use with Vim
 - [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) - LLM inference in C/C++
@@ -907,7 +907,6 @@
 - [rozele/react-native-activity-result](https://github.com/rozele/react-native-activity-result) - A simple React Native native module for invoking `Activity.startActivityForResults`, `Activity.setResults`, and `Activity.finish` to help with implementing app-to-app communication.
 - [jamesisaac/react-native-background-task](https://github.com/jamesisaac/react-native-background-task) - Periodic background tasks for React Native apps, cross-platform (iOS and Android), which run even when the app is closed.
 - [lucasferreira/react-native-send-intent](https://github.com/lucasferreira/react-native-send-intent) - React Native Android module to use Android's Intent actions for send text to shareable apps or make phone calls or opening third party apps
-- [react-native-linear-gradient/react-native-linear-gradient](https://github.com/react-native-linear-gradient/react-native-linear-gradient) - A &lt;LinearGradient /&gt; component for react-native
 - [Sunhat/react-native-extra-dimensions-android](https://github.com/Sunhat/react-native-extra-dimensions-android) - Access additional display metrics on Android devices: status bar height, soft menu bar height, real screen size.
 - [zo0r/react-native-push-notification](https://github.com/zo0r/react-native-push-notification) - React Native Local and Remote Notifications
 - [cesardeazevedo/react-native-collapsing-toolbar](https://github.com/cesardeazevedo/react-native-collapsing-toolbar) - react-native wrapper for android CollapsingToolbarLayout
@@ -1467,6 +1466,7 @@
 - [juliancorrea/react-native-redux-thunk-login](https://github.com/juliancorrea/react-native-redux-thunk-login) - A real example of transition screen using ReactNativeBase seed project with redux-thunk with API call
 - [magicismight/react-native-root-toast](https://github.com/magicismight/react-native-root-toast) - react native toast like component, pure javascript solution
 - [JesperLekland/react-native-svg-charts](https://github.com/JesperLekland/react-native-svg-charts) - 📈 One library to rule all charts for React Native 📊
+- [react-native-linear-gradient/react-native-linear-gradient](https://github.com/react-native-linear-gradient/react-native-linear-gradient) - A &lt;LinearGradient /&gt; component for react-native
 - [adamjmcgrath/react-native-simple-auth](https://github.com/adamjmcgrath/react-native-simple-auth) - OAuth login for React Native
 - [ferrannp/react-native-testing-example](https://github.com/ferrannp/react-native-testing-example) - Example of unit testing a React Native & Redux app using Jest (and Snapshots!)
 - [varmais/react-native-unit-tests](https://github.com/varmais/react-native-unit-tests) - Example how to test React Native components
@@ -1722,6 +1722,7 @@
 - [Canop/nvim-bacon](https://github.com/Canop/nvim-bacon) - bacon's companion for neovim
 - [linrongbin16/gitlinker.nvim](https://github.com/linrongbin16/gitlinker.nvim) - Maintained fork of ruifm's gitlinker, refactored with bug fixes, ssh aliases, blame support and other improvements.
 - [Almo7aya/openingh.nvim](https://github.com/Almo7aya/openingh.nvim) - Open file or project in GitHub for neovim written in lua
+- [mistricky/codesnap.nvim](https://github.com/mistricky/codesnap.nvim) - 📸 Snapshot plugin with rich features that can make pretty code snapshots for Neovim
 - [nvim-telescope/telescope-ui-select.nvim](https://github.com/nvim-telescope/telescope-ui-select.nvim) - 
 - [gabrielpoca/replacer.nvim](https://github.com/gabrielpoca/replacer.nvim) - A powerful refactoring tool for nvim.
 - [jellydn/hurl.nvim](https://github.com/jellydn/hurl.nvim) - Hurl.nvim is a Neovim plugin designed to run HTTP requests directly from `.hurl` files. Elevate your API development workflow by executing and viewing responses without leaving your editor.
@@ -2786,7 +2787,6 @@
 - [MordechaiHadad/bob](https://github.com/MordechaiHadad/bob) - A version manager for neovim
 - [gfx-rs/wgpu](https://github.com/gfx-rs/wgpu) - A cross-platform, safe, pure-Rust graphics API.
 - [turboladen/init.rs](https://github.com/turboladen/init.rs) - Neovim init but in Rust
-- [mistricky/codesnap.nvim](https://github.com/mistricky/codesnap.nvim) - 📸 Snapshot plugin with rich features that can make pretty code snapshots for Neovim
 - [tailcallhq/tailcall](https://github.com/tailcallhq/tailcall) - High Performance GraphQL Runtime
 - [ruffle-rs/ruffle](https://github.com/ruffle-rs/ruffle) - A Flash Player emulator written in Rust
 - [slint-ui/slint](https://github.com/slint-ui/slint) - Slint is an open-source declarative GUI toolkit to build native user interfaces for Rust, C++, JavaScript, or Python apps.
@@ -3725,7 +3725,7 @@
 - [open-cli-tools/concurrently](https://github.com/open-cli-tools/concurrently) - Run commands concurrently. Like `npm run watch-js & npm run watch-less` but better.
 - [neoclide/coc-r-lsp](https://github.com/neoclide/coc-r-lsp) - R LSP Client for coc.nvim
 - [scalameta/coc-metals](https://github.com/scalameta/coc-metals) - Deprecated in favor of scalameta/nvim-metals
-- [nikivdev/research](https://github.com/nikivdev/research) - Research (code, docs, ..)
+- [nikivdev/research](https://github.com/nikivdev/research) - 
 - [xiyaowong/coc-sumneko-lua](https://github.com/xiyaowong/coc-sumneko-lua) - Lua extension using sumneko lua-language-server for coc.nvim
 - [josa42/coc-lua](https://github.com/josa42/coc-lua) - Lua language server extension using lua-lsp for coc.nvim.
 - [codota/tabnine-vscode](https://github.com/codota/tabnine-vscode) - Visual Studio Code client for Tabnine. https://marketplace.visualstudio.com/items?itemName=TabNine.tabnine-vscode
@@ -3788,7 +3788,7 @@
 - [soywod/react-pin-field](https://github.com/soywod/react-pin-field) - 📟 React component for entering PIN codes.
 - [Jose-cd/React-google-drive-picker](https://github.com/Jose-cd/React-google-drive-picker) - 
 - [raycast/extensions](https://github.com/raycast/extensions) - Everything you need to extend Raycast.
-- [badaix/snapweb](https://github.com/badaix/snapweb) - Web interface for Snapcast
+- [snapcast/snapweb](https://github.com/snapcast/snapweb) - Web interface for Snapcast
 - [urql-graphql/urql-devtools](https://github.com/urql-graphql/urql-devtools) - A tool for monitoring and debugging urql during development
 - [shuding/nextra](https://github.com/shuding/nextra) - Simple, powerful and flexible site generation framework with everything you love from Next.js.
 - [graphql-hive/console](https://github.com/graphql-hive/console) - Hive is a GraphQL platform: schema registry, analytics and gateway for GraphQL federation and other GraphQL APIs
