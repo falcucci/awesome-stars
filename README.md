@@ -2664,7 +2664,7 @@
 - [makepad/makepad](https://github.com/makepad/makepad) - Makepad is a creative software development platform for Rust that compiles to wasm/webGL, osx/metal, windows/dx11 linux/opengl
 - [superlistapp/super_native_extensions](https://github.com/superlistapp/super_native_extensions) - Native drag & drop, clipboard access and context menu.
 - [ProvableHQ/snarkOS](https://github.com/ProvableHQ/snarkOS) - A Decentralized Operating System for ZK Applications
-- [GraphiteEditor/Graphite](https://github.com/GraphiteEditor/Graphite) - An open source graphics editor for 2025: comprehensive 2D content creation tool suite for graphic design, digital art, and interactive real-time motion graphics — featuring node-based procedural editi
+- [GraphiteEditor/Graphite](https://github.com/GraphiteEditor/Graphite) - Open source comprehensive 2D content creation tool suite for graphic design, digital art, and interactive real-time motion graphics — featuring node-based procedural editing
 - [badboy/mdbook-mermaid](https://github.com/badboy/mdbook-mermaid) - A preprocessor for mdbook to add mermaid support
 - [Michael-F-Bryan/mdbook-epub](https://github.com/Michael-F-Bryan/mdbook-epub) - An experimental mdbook backend for creating EPUB documents.
 - [pop-os/cosmic-text](https://github.com/pop-os/cosmic-text) - Pure Rust multi-line text handling
@@ -2909,7 +2909,7 @@
 - [jeastham1993/rust-on-serverless](https://github.com/jeastham1993/rust-on-serverless) - Learning Rust in public
 - [graphql-rust/graphql-client](https://github.com/graphql-rust/graphql-client) - Typed, correct GraphQL requests and responses in Rust
 - [graphql-rust/juniper](https://github.com/graphql-rust/juniper) - GraphQL server library for Rust
-- [oxc-project/oxc](https://github.com/oxc-project/oxc) - ⚓ A collection of JavaScript tools written in Rust.
+- [oxc-project/oxc](https://github.com/oxc-project/oxc) - ⚓ A collection of high-performance JavaScript tools.
 - [ad4mx/spinoff](https://github.com/ad4mx/spinoff) - 💫 Easy to use, robust Rust library for displaying spinners in the terminal
 - [chronotope/chrono](https://github.com/chronotope/chrono) - Date and time library for Rust
 - [smol-rs/smol](https://github.com/smol-rs/smol) - A small and fast async runtime for Rust
@@ -3352,7 +3352,7 @@
 - [netlify/rust-functions-example](https://github.com/netlify/rust-functions-example) - Deploy Rust lambda functions on Netlify
 - [neondatabase/neon](https://github.com/neondatabase/neon) - Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, code-like database branching, and scale to zero.
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
-- [nikivdev/flow](https://github.com/nikivdev/flow) - Your second OS. SDK that has it all. Streaming, OS control with agents. Declarative. Synced.
+- [nikivdev/flow](https://github.com/nikivdev/flow) - Project level config for insanely fast feedback loops
 - [rust-lang/regex](https://github.com/rust-lang/regex) - An implementation of regular expressions for Rust. This implementation uses finite automata and guarantees linear time matching on all inputs.
 - [BurntSushi/xsv](https://github.com/BurntSushi/xsv) - A fast CSV command line toolkit written in Rust.
 - [sharkdp/pastel](https://github.com/sharkdp/pastel) - A command-line tool to generate, analyze, convert and manipulate colors
@@ -3714,7 +3714,7 @@
 - [butaneprotocol/translucent-compat](https://github.com/butaneprotocol/translucent-compat) - Deprecated in favour of blaze https://github.com/butaneprotocol/blaze-cardano
 - [vscode-neovim/vscode-neovim](https://github.com/vscode-neovim/vscode-neovim) - Vim mode for VSCode, powered by Neovim
 - [daltonmenezes/aura-theme](https://github.com/daltonmenezes/aura-theme) - ✨ A beautiful dark theme for your favorite apps.
-- [tldraw/tldraw](https://github.com/tldraw/tldraw) - very good whiteboard SDK / infinite canvas SDK
+- [tldraw/tldraw](https://github.com/tldraw/tldraw) - very good whiteboard infinite canvas SDK
 - [kubero-dev/kubero](https://github.com/kubero-dev/kubero) - A free and self-hosted PaaS alternative to Heroku / Netlify / Coolify / Vercel / Dokku / Portainer running on Kubernetes
 - [smolck/uivonim](https://github.com/smolck/uivonim) - Fork of the Veonim Neovim GUI
 - [actions/dependency-review-action](https://github.com/actions/dependency-review-action) - A GitHub Action for detecting vulnerable dependencies and invalid licenses in your PRs
