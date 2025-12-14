@@ -4346,7 +4346,7 @@
 - [szw/vim-tags](https://github.com/szw/vim-tags) - Ctags generator for Vim
 - [racer-rust/vim-racer](https://github.com/racer-rust/vim-racer) - Racer support for Vim
 - [rhysd/devdocs.vim](https://github.com/rhysd/devdocs.vim) - Open devdocs.io from Vim
-- [rizzatti/dash.vim](https://github.com/rizzatti/dash.vim) - Search Dash.app from Vim
+- [joseotaviorf/dash.vim](https://github.com/joseotaviorf/dash.vim) - Search Dash.app from Vim
 - [KabbAmine/zeavim.vim](https://github.com/KabbAmine/zeavim.vim) - Zeal for Vim
 - [Galooshi/vim-import-js](https://github.com/Galooshi/vim-import-js) - Vim plugin for ImportJS
 - [diepm/vim-rest-console](https://github.com/diepm/vim-rest-console) - A REST console for Vim.
