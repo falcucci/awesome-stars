@@ -2499,6 +2499,8 @@
 
 ## Rust 
 
+- [bytedance/monoio](https://github.com/bytedance/monoio) - Rust async runtime based on io-uring.
+- [DataDog/glommio](https://github.com/DataDog/glommio) - Glommio is a thread-per-core crate that makes writing highly parallel asynchronous applications in a thread-per-core architecture easier for rustaceans.
 - [unhappychoice/gitlogue](https://github.com/unhappychoice/gitlogue) - A cinematic Git commit replay tool for the terminal, turning your Git history into a living, animated story.
 - [rust-nostr/nostr](https://github.com/rust-nostr/nostr) - Rust implementation of the nostr protocol, high-level client library, Nostr Wallet Connect and more.
 - [cordx56/rustowl](https://github.com/cordx56/rustowl) - Visualize Ownership and Lifetimes in Rust
@@ -4185,7 +4187,7 @@
 - [gcmt/wildfire.vim](https://github.com/gcmt/wildfire.vim) - Smart selection of the closest text object
 - [chaoren/vim-wordmotion](https://github.com/chaoren/vim-wordmotion) - More useful word motions for Vim
 - [itchyny/vim-cursorword](https://github.com/itchyny/vim-cursorword) - Underlines the word under the cursor
-- [mutewinter/dot_vim](https://github.com/mutewinter/dot_vim) - My 13 Year-Old (Neo)Vim Configuration
+- [mutewinter/dot_vim](https://github.com/mutewinter/dot_vim) - My 14 Year-Old (Neo)Vim Configuration
 - [lunacookies/vim-substrata](https://github.com/lunacookies/vim-substrata) - A cold, dark colourscheme for Vim
 - [lunacookies/vim-corvine](https://github.com/lunacookies/vim-corvine) - The Raven Dark colourscheme for Vim, rebuilt and modified with Colortemplate
 - [lunacookies/vim-swift](https://github.com/lunacookies/vim-swift) - A Swift syntax plugin for Vim that aims to match Xcode’s level of detail (WIP)
